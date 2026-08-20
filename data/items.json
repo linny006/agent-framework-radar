@@ -1,5 +1,113 @@
 [
   {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 4,
+    "updated_at": "2026-08-20T22:59:41Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:59:34Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
+    "id": "seismael/aeromesh",
+    "language": "Python",
+    "name": "seismael/aeromesh",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:59:06Z",
+    "url": "https://github.com/seismael/aeromesh"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-20T22:58:31Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-20T22:58:05Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "OpenAmer Agent \u2014 the self-improving, self-learning open-source AI agent. Any model, any platform.",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:59:31Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
+    "id": "api-evangelist/autogen-studio",
+    "language": "\u2014",
+    "name": "api-evangelist/autogen-studio",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:54:40Z",
+    "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-08-20T22:53:18Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 45,
+    "updated_at": "2026-08-20T22:53:12Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
+    "id": "no-human-ai/no_human",
+    "language": "Python",
+    "name": "no-human-ai/no_human",
+    "stars": 10,
+    "updated_at": "2026-08-20T22:52:51Z",
+    "url": "https://github.com/no-human-ai/no_human"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-20T22:52:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9099,
+    "updated_at": "2026-08-20T22:52:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
     "id": "go-steer/mast",
     "language": "Go",
@@ -27,15 +135,6 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9099,
-    "updated_at": "2026-08-20T22:52:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -61,33 +160,6 @@
     "stars": 4,
     "updated_at": "2026-08-20T22:46:16Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-20T22:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Autonomous AI agent ecosystem & declarative mesh workflow engine (DAM v3.0, DWM v1.0)",
-    "id": "seismael/aeromesh",
-    "language": "Python",
-    "name": "seismael/aeromesh",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:44:56Z",
-    "url": "https://github.com/seismael/aeromesh"
-  },
-  {
-    "description": "OpenAmer Agent \u2014 the self-improving, self-learning open-source AI agent. Any model, any platform.",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:41:17Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -122,7 +194,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-20T22:37:10Z",
+    "updated_at": "2026-08-20T22:58:12Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -135,15 +207,6 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-20T22:32:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -153,15 +216,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-20T22:30:21Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T22:25:54Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:25:24Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -387,15 +432,6 @@
     "url": "https://github.com/doeixd/effect-agent"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-08-20T21:38:34Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-20T21:34:04Z",
     "url": "https://github.com/moortekweb-art/agentic-harness"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:47:23Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
-    "id": "aayushman-singh/hydraclaim",
-    "language": "Python",
-    "name": "aayushman-singh/hydraclaim",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:28:21Z",
-    "url": "https://github.com/aayushman-singh/hydraclaim"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:27:35Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
-  },
-  {
-    "description": "\u53d1\u73b0\u3001\u5b89\u88c5 DeepSeek Harness \u751f\u6001\u4e2d\u7684\u793e\u533a\u63d2\u4ef6\u3001\u5de5\u5177\u4e0e\u6269\u5c55\uff0c\u63a2\u7d22 1493+ \u7cbe\u9009\u4e3b\u9898\u63d2\u4ef6\u5e76\u5b9e\u65f6\u66f4\u65b0\u76ee\u5f55\u3002",
-    "id": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "language": "\u2014",
-    "name": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:19:16Z",
-    "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
   }
 ]
