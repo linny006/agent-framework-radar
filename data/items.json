@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI Engineering Control Plane - portable, agent-agnostic control plane. v2.0.0: 44 ADRs, 42 skills, 15 workflows, 5 adapt",
+    "id": "holashawty/ai-engineering-control-plane",
+    "language": "JavaScript",
+    "name": "holashawty/ai-engineering-control-plane",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:12:32Z",
+    "url": "https://github.com/holashawty/ai-engineering-control-plane"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:12:11Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-20T17:15:21Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 28,
+    "updated_at": "2026-08-20T17:13:25Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9091,
+    "updated_at": "2026-08-20T17:07:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-20T17:06:33Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:04:38Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34936,
+    "updated_at": "2026-08-20T17:03:27Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 4,
+    "updated_at": "2026-08-20T17:00:36Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-20T16:59:12Z",
+    "updated_at": "2026-08-20T17:00:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 4,
+    "updated_at": "2026-08-20T16:59:17Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
   {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
@@ -16,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T16:57:33Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 28,
-    "updated_at": "2026-08-20T16:54:53Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-20T16:57:52Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
@@ -72,24 +144,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9091,
-    "updated_at": "2026-08-20T16:52:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34935,
-    "updated_at": "2026-08-20T16:51:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -122,7 +176,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 4,
-    "updated_at": "2026-08-20T16:44:29Z",
+    "updated_at": "2026-08-20T17:13:27Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47229,
-    "updated_at": "2026-08-20T16:32:21Z",
+    "updated_at": "2026-08-20T17:02:13Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "databricks-solutions/consort",
     "stars": 10,
-    "updated_at": "2026-08-20T16:06:41Z",
+    "updated_at": "2026-08-20T17:13:14Z",
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
@@ -378,20 +432,11 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:43:24Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1144,
+    "stars": 1145,
     "updated_at": "2026-08-20T15:42:36Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T15:42:16Z",
     "url": "https://github.com/utsapoddar/dopa-kernel"
-  },
-  {
-    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
-    "id": "Zchary1106/Myrmecia",
-    "language": "TypeScript",
-    "name": "Zchary1106/Myrmecia",
-    "stars": 2,
-    "updated_at": "2026-08-20T16:14:06Z",
-    "url": "https://github.com/Zchary1106/Myrmecia"
-  },
-  {
-    "description": "\ud83e\ude9f Agent Middleware for Windows Control \u2014 Let Arena AI agents see your screen, click, type, run commands, and manage file",
-    "id": "vertrixtechXD/windows-arena-ai",
-    "language": "Python",
-    "name": "vertrixtechXD/windows-arena-ai",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:41:13Z",
-    "url": "https://github.com/vertrixtechXD/windows-arena-ai"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 295,
-    "updated_at": "2026-08-20T15:36:53Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 14,
-    "updated_at": "2026-08-20T15:35:12Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
-    "id": "muvuula/DeepSeek-Harness-Core",
-    "language": "JavaScript",
-    "name": "muvuula/DeepSeek-Harness-Core",
-    "stars": 3,
-    "updated_at": "2026-08-20T15:28:59Z",
-    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
   }
 ]
