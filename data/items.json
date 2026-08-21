@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:19:31Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 11,
+    "updated_at": "2026-08-21T16:19:19Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
     "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
     "id": "bryansparks/armature",
     "language": "Python",
     "name": "bryansparks/armature",
     "stars": 8,
-    "updated_at": "2026-08-21T16:12:04Z",
+    "updated_at": "2026-08-21T16:19:12Z",
     "url": "https://github.com/bryansparks/armature"
+  },
+  {
+    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
+    "id": "ellmos-ai/swarm-ai",
+    "language": "Python",
+    "name": "ellmos-ai/swarm-ai",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:19:02Z",
+    "url": "https://github.com/ellmos-ai/swarm-ai"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:18:10Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:18:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:16:43Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T16:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Verified agents \u2014 nothing is \"done\" until a grader returns a verdict. Eyes (AgentVision) + verdict bus + compounding mem",
@@ -54,24 +117,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 11,
-    "updated_at": "2026-08-21T16:06:21Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:05:58Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
     "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
     "id": "microphage-create/microwave-method",
     "language": "Python",
@@ -108,13 +153,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 433,
+    "updated_at": "2026-08-21T15:59:59Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-21T15:51:46Z",
+    "updated_at": "2026-08-21T16:18:03Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6801,
-    "updated_at": "2026-08-21T15:49:01Z",
+    "updated_at": "2026-08-21T16:16:24Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -342,6 +387,15 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26268,
+    "updated_at": "2026-08-21T15:30:45Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:26:15Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
-    "id": "acnlabs/ACN",
-    "language": "Python",
-    "name": "acnlabs/ACN",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:23:53Z",
-    "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-21T15:22:18Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T15:21:37Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:21:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9133,
-    "updated_at": "2026-08-21T15:20:38Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-08-21T15:20:06Z",
-    "url": "https://github.com/ellmos-ai/skills"
   }
 ]
