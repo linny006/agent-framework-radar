@@ -1,21 +1,102 @@
 [
   {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 415,
-    "updated_at": "2026-08-21T05:44:11Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
     "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
     "id": "muvuula/DeepSeek-Harness-Core",
     "language": "JavaScript",
     "name": "muvuula/DeepSeek-Harness-Core",
     "stars": 3,
-    "updated_at": "2026-08-21T05:44:05Z",
+    "updated_at": "2026-08-21T05:54:56Z",
     "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:54:35Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5196,
+    "updated_at": "2026-08-21T05:53:29Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 25,
+    "updated_at": "2026-08-21T05:53:07Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-21T05:52:26Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-21T05:52:19Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-08-21T05:54:50Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 43,
+    "updated_at": "2026-08-21T05:50:02Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1310,
+    "updated_at": "2026-08-21T05:50:03Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T05:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Captain Agent OS: self-hosted, local-first autonomous AI agent runtime in Rust with persistent memory, tools, workflows,",
+    "id": "Vivien83/captain",
+    "language": "Rust",
+    "name": "Vivien83/captain",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:45:16Z",
+    "url": "https://github.com/Vivien83/captain"
   },
   {
     "description": "A visible, self-remembering, self-evolving multi-agent AI team that runs on your own computer. \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684 AI \u56e2\u961f\u3002",
@@ -99,21 +180,12 @@
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1310,
-    "updated_at": "2026-08-21T05:35:59Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
     "id": "proteus-evolve/Proteus",
     "language": "Python",
     "name": "proteus-evolve/Proteus",
     "stars": 32,
-    "updated_at": "2026-08-21T05:32:05Z",
+    "updated_at": "2026-08-21T05:47:57Z",
     "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T05:30:37Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T05:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -216,15 +279,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Captain Agent OS: self-hosted, local-first autonomous AI agent runtime in Rust with persistent memory, tools, workflows,",
-    "id": "Vivien83/captain",
-    "language": "Rust",
-    "name": "Vivien83/captain",
-    "stars": 0,
-    "updated_at": "2026-08-21T05:45:16Z",
-    "url": "https://github.com/Vivien83/captain"
-  },
-  {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
     "id": "clawboo/clawboo",
     "language": "TypeScript",
@@ -241,15 +295,6 @@
     "stars": 173,
     "updated_at": "2026-08-21T05:21:58Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 25,
-    "updated_at": "2026-08-21T05:44:19Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -279,15 +324,6 @@
     "url": "https://github.com/Ethanon/developer.ai"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-21T05:19:37Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
@@ -304,15 +340,6 @@
     "stars": 4488,
     "updated_at": "2026-08-21T05:17:03Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-21T05:16:47Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13015,
-    "updated_at": "2026-08-21T05:10:03Z",
+    "updated_at": "2026-08-21T05:54:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/mybay-ai/mybay-core"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 43,
-    "updated_at": "2026-08-21T04:56:02Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-21T04:54:06Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19423,
-    "updated_at": "2026-08-21T05:21:49Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
-    "id": "Atiqul-Islam/genesis",
-    "language": "Rust",
-    "name": "Atiqul-Islam/genesis",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:50:10Z",
-    "url": "https://github.com/Atiqul-Islam/genesis"
   }
 ]
