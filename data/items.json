@@ -1,21 +1,39 @@
 [
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:59:13Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
     "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
     "id": "mwb1219/mwb-ai-claw",
     "language": "Java",
     "name": "mwb1219/mwb-ai-claw",
     "stars": 1,
-    "updated_at": "2026-08-21T14:58:30Z",
+    "updated_at": "2026-08-21T15:01:11Z",
     "url": "https://github.com/mwb1219/mwb-ai-claw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your AI agent hands-on control of your computer and browser. Sistava.com is a free desktop app that lets the AI emp",
+    "id": "sista-ai/ai-employee-download",
+    "language": "\u2014",
+    "name": "sista-ai/ai-employee-download",
+    "stars": 1,
+    "updated_at": "2026-08-21T15:00:22Z",
+    "url": "https://github.com/sista-ai/ai-employee-download"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:02:14Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -40,7 +58,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34994,
+    "stars": 34995,
     "updated_at": "2026-08-21T14:57:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "zmzai-cloud/zmzai-agent",
     "stars": 0,
-    "updated_at": "2026-08-21T14:55:47Z",
+    "updated_at": "2026-08-21T15:01:17Z",
     "url": "https://github.com/zmzai-cloud/zmzai-agent"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T14:48:04Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 8,
-    "updated_at": "2026-08-21T14:48:46Z",
+    "updated_at": "2026-08-21T15:00:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -283,7 +292,7 @@
     "id": "joe960913/Jixu",
     "language": "TypeScript",
     "name": "joe960913/Jixu",
-    "stars": 13,
+    "stars": 15,
     "updated_at": "2026-08-21T14:22:40Z",
     "url": "https://github.com/joe960913/Jixu"
   },
@@ -382,7 +391,7 @@
     "id": "jiabaobei/skills-constitution",
     "language": "Python",
     "name": "jiabaobei/skills-constitution",
-    "stars": 119,
+    "stars": 120,
     "updated_at": "2026-08-21T14:11:13Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T14:04:58Z",
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 28,
-    "updated_at": "2026-08-21T14:04:49Z",
-    "url": "https://github.com/futuregene/future-os"
   }
 ]
