@@ -1,5 +1,32 @@
 [
   {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:46:14Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
+    "id": "Rawbeew/flippy",
+    "language": "Python",
+    "name": "Rawbeew/flippy",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:45:47Z",
+    "url": "https://github.com/Rawbeew/flippy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -63,15 +90,6 @@
     "url": "https://github.com/joe960913/Jixu"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T22:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -115,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T22:22:40Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:22:20Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 58,
-    "updated_at": "2026-08-21T22:06:50Z",
+    "updated_at": "2026-08-21T22:46:04Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T21:22:43Z",
     "url": "https://github.com/Atiqul-Islam/genesis"
-  },
-  {
-    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
-    "id": "Rawbeew/flippy",
-    "language": "Python",
-    "name": "Rawbeew/flippy",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:15:20Z",
-    "url": "https://github.com/Rawbeew/flippy"
   },
   {
     "description": "Autonomous AI Algorithm Discovery Laboratory: a bounded, reproducible research platform that proposes, implements, tests",
