@@ -1,5 +1,41 @@
 [
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:32:01Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver harness (agent, evals, load-testing). Zero non-stdlib",
+    "id": "Rawbeew/flippy",
+    "language": "Python",
+    "name": "Rawbeew/flippy",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:31:28Z",
+    "url": "https://github.com/Rawbeew/flippy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 8,
+    "updated_at": "2026-08-21T17:32:35Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -95,17 +131,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9135,
-    "updated_at": "2026-08-21T17:20:45Z",
+    "updated_at": "2026-08-21T17:31:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 8,
-    "updated_at": "2026-08-21T17:29:39Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -135,15 +162,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -160,15 +178,6 @@
     "stars": 295,
     "updated_at": "2026-08-21T17:18:04Z",
     "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver harness (agent, evals, load-testing). Zero non-stdlib",
-    "id": "Rawbeew/flippy",
-    "language": "Python",
-    "name": "Rawbeew/flippy",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:13:14Z",
-    "url": "https://github.com/Rawbeew/flippy"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-08-21T17:25:35Z",
+    "updated_at": "2026-08-21T17:31:28Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 7,
     "updated_at": "2026-08-21T16:38:43Z",
     "url": "https://github.com/StringNLPLAB/FlexSQL"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:38:22Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
