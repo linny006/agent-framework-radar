@@ -1,5 +1,86 @@
 [
   {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-21T21:44:16Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-08-21T21:44:34Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 16,
+    "updated_at": "2026-08-21T21:42:19Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:42:10Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 43,
+    "updated_at": "2026-08-21T21:40:52Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-21T21:32:20Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-21T21:31:58Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:30:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -16,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-08-21T21:24:05Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:26:55Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
@@ -49,7 +121,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9145,
+    "stars": 9148,
     "updated_at": "2026-08-21T21:21:48Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -90,15 +162,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:16:18Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
     "id": "Rawbeew/flippy",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T21:12:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-21T21:09:41Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   },
   {
     "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
@@ -189,24 +243,6 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:30:12Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-21T20:58:03Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -214,15 +250,6 @@
     "stars": 6,
     "updated_at": "2026-08-21T20:57:08Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 16,
-    "updated_at": "2026-08-21T20:53:50Z",
-    "url": "https://github.com/wrg32786/aigent-os"
   },
   {
     "description": "Universal Agent Harness",
@@ -241,15 +268,6 @@
     "stars": 9,
     "updated_at": "2026-08-21T20:53:55Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 43,
-    "updated_at": "2026-08-21T20:43:11Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
@@ -274,7 +292,7 @@
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
-    "stars": 439,
+    "stars": 440,
     "updated_at": "2026-08-21T20:25:56Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
@@ -297,15 +315,6 @@
     "url": "https://github.com/rhajamor/tiny_agent"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-21T21:24:08Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
@@ -320,7 +329,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-21T20:50:21Z",
+    "updated_at": "2026-08-21T21:41:57Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -364,7 +373,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19434,
+    "stars": 19435,
     "updated_at": "2026-08-21T20:05:44Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:37:38Z",
     "url": "https://github.com/studiomeyer-io/darwin-langgraph"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-21T19:36:47Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   }
 ]
