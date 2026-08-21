@@ -1,5 +1,104 @@
 [
   {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 2,
+    "updated_at": "2026-08-21T07:25:25Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-21T07:22:57Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 1,
+    "updated_at": "2026-08-21T07:21:18Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
+    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
+    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "stars": 0,
+    "updated_at": "2026-08-21T07:20:00Z",
+    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
+    "id": "sloppy-yeast840/tri-party-framework",
+    "language": "Shell",
+    "name": "sloppy-yeast840/tri-party-framework",
+    "stars": 0,
+    "updated_at": "2026-08-21T07:19:54Z",
+    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-08-21T07:19:50Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 3,
+    "updated_at": "2026-08-21T07:17:19Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34973,
+    "updated_at": "2026-08-21T07:22:23Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 25,
+    "updated_at": "2026-08-21T07:24:29Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-21T07:15:51Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T07:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
     "id": "breastless-andcircuit638/lean-loop",
     "language": "\u2014",
@@ -16,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-21T07:12:13Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 2,
-    "updated_at": "2026-08-21T07:13:35Z",
-    "url": "https://github.com/George-RD/openspine"
   },
   {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
@@ -77,7 +167,7 @@
     "language": "TypeScript",
     "name": "mybay-ai/mybay-core",
     "stars": 2,
-    "updated_at": "2026-08-21T07:10:20Z",
+    "updated_at": "2026-08-21T07:15:54Z",
     "url": "https://github.com/mybay-ai/mybay-core"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T07:06:16Z",
     "url": "https://github.com/Luiz184/gokin-sdk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34971,
-    "updated_at": "2026-08-21T07:09:04Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -171,15 +252,6 @@
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T07:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-21T07:13:54Z",
+    "updated_at": "2026-08-21T07:20:20Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -283,7 +355,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 52,
+    "stars": 53,
     "updated_at": "2026-08-21T06:43:17Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -304,15 +376,6 @@
     "stars": 119,
     "updated_at": "2026-08-21T06:41:45Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-21T07:14:35Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -385,68 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-21T06:42:22Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-21T06:28:56Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 12,
-    "updated_at": "2026-08-21T06:28:26Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 255,
-    "updated_at": "2026-08-21T06:27:22Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-21T06:25:31Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Dark, unfiltered DeepSeek terminal agent with its own file/terminal/web tool registry",
-    "id": "DiyaHussein/drex",
-    "language": "Python",
-    "name": "DiyaHussein/drex",
-    "stars": 0,
-    "updated_at": "2026-08-21T06:24:31Z",
-    "url": "https://github.com/DiyaHussein/drex"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T06:23:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T06:23:54Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   }
 ]
