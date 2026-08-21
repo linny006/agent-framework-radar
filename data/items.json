@@ -1,5 +1,68 @@
 [
   {
+    "description": "Provider-agnostic TypeScript agent SDK \u2014 pluggable providers, built-in tools, skills, memory, and MCP",
+    "id": "maestrojeong/maestro-agent-sdk",
+    "language": "TypeScript",
+    "name": "maestrojeong/maestro-agent-sdk",
+    "stars": 11,
+    "updated_at": "2026-08-21T02:45:03Z",
+    "url": "https://github.com/maestrojeong/maestro-agent-sdk"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:44:01Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-21T02:43:39Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/nitro",
+    "language": "C++",
+    "name": "chrisws/nitro",
+    "stars": 1,
+    "updated_at": "2026-08-21T02:42:20Z",
+    "url": "https://github.com/chrisws/nitro"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-08-21T02:40:48Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:31:51Z",
+    "url": "https://github.com/George-RD/openspine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T02:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
     "id": "sweatco/archie-hq",
     "language": "TypeScript",
@@ -9,12 +72,21 @@
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13012,
+    "updated_at": "2026-08-21T02:27:24Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
     "id": "go-steer/mast",
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-08-21T02:24:19Z",
+    "updated_at": "2026-08-21T02:44:18Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -43,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:21:45Z",
     "url": "https://github.com/vertrixtechXD/windows-arena-ai"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:30:18Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:20:15Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T02:19:50Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
@@ -108,20 +153,11 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-21T02:14:57Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9109,
+    "stars": 9110,
     "updated_at": "2026-08-21T02:14:43Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-08-21T02:11:45Z",
+    "updated_at": "2026-08-21T02:42:41Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13011,
-    "updated_at": "2026-08-21T02:27:24Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -256,7 +283,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34961,
+    "stars": 34963,
     "updated_at": "2026-08-21T01:48:56Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-21T02:09:37Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 101,
-    "updated_at": "2026-08-21T00:53:25Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 2,
-    "updated_at": "2026-08-21T00:48:18Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1310,
-    "updated_at": "2026-08-21T00:45:39Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   }
 ]
