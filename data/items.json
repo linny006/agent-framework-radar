@@ -1,5 +1,32 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 11,
+    "updated_at": "2026-08-21T06:32:33Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-08-21T06:31:41Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T06:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
     "id": "muvuula/DeepSeek-Harness-Core",
     "language": "JavaScript",
@@ -126,15 +153,6 @@
     "url": "https://github.com/qmilab/asterism"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T06:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 415,
-    "updated_at": "2026-08-21T06:10:42Z",
+    "updated_at": "2026-08-21T06:31:21Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 7,
-    "updated_at": "2026-08-21T06:07:48Z",
+    "updated_at": "2026-08-21T06:32:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13015,
-    "updated_at": "2026-08-21T06:28:52Z",
+    "updated_at": "2026-08-21T06:34:09Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 34971,
-    "updated_at": "2026-08-21T06:26:36Z",
+    "updated_at": "2026-08-21T06:33:25Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 58,
     "updated_at": "2026-08-21T05:36:23Z",
     "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
-    "id": "Ethanon/developer.ai",
-    "language": "Python",
-    "name": "Ethanon/developer.ai",
-    "stars": 9,
-    "updated_at": "2026-08-21T05:21:22Z",
-    "url": "https://github.com/Ethanon/developer.ai"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1378,
-    "updated_at": "2026-08-21T05:18:36Z",
-    "url": "https://github.com/inkeep/agents"
   }
 ]
