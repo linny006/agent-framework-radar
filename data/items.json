@@ -1,5 +1,59 @@
 [
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-21T13:48:52Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-21T13:48:01Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
+    "id": "muvuula/DeepSeek-Harness-Core",
+    "language": "JavaScript",
+    "name": "muvuula/DeepSeek-Harness-Core",
+    "stars": 3,
+    "updated_at": "2026-08-21T13:47:04Z",
+    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
+  },
+  {
+    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
+    "id": "microphage-create/microwave-method",
+    "language": "Python",
+    "name": "microphage-create/microwave-method",
+    "stars": 0,
+    "updated_at": "2026-08-21T13:45:51Z",
+    "url": "https://github.com/microphage-create/microwave-method"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T13:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-21T13:45:00Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -54,6 +108,15 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-21T13:39:38Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
     "description": "A curated collection of AI agents, agent platforms, frameworks, and infrastructure.",
     "id": "tioraicom/awesome-ai-agents",
     "language": "\u2014",
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T13:36:36Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
-    "id": "muvuula/DeepSeek-Harness-Core",
-    "language": "JavaScript",
-    "name": "muvuula/DeepSeek-Harness-Core",
-    "stars": 3,
-    "updated_at": "2026-08-21T13:36:20Z",
-    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -142,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T13:31:50Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
-    "id": "microphage-create/microwave-method",
-    "language": "Python",
-    "name": "microphage-create/microwave-method",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:31:41Z",
-    "url": "https://github.com/microphage-create/microwave-method"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T13:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
@@ -328,7 +364,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34993,
+    "stars": 34994,
     "updated_at": "2026-08-21T12:57:55Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T12:56:57Z",
     "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-21T12:54:32Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -421,32 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-21T13:15:49Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
-    "id": "MRreeeg/multi_agent_orchestrator",
-    "language": "Go",
-    "name": "MRreeeg/multi_agent_orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-21T12:40:24Z",
-    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
-  },
-  {
-    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
-    "id": "ranxi2001/zero2Agent",
-    "language": "HTML",
-    "name": "ranxi2001/zero2Agent",
-    "stars": 298,
-    "updated_at": "2026-08-21T12:38:57Z",
-    "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 2,
-    "updated_at": "2026-08-21T12:36:39Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   }
 ]
