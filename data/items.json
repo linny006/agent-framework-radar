@@ -1,5 +1,50 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 34966,
+    "updated_at": "2026-08-21T04:12:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-08-21T04:11:34Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
+    "id": "muvuula/DeepSeek-Harness-Core",
+    "language": "JavaScript",
+    "name": "muvuula/DeepSeek-Harness-Core",
+    "stars": 3,
+    "updated_at": "2026-08-21T04:09:21Z",
+    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T04:09:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 25,
+    "updated_at": "2026-08-21T04:08:39Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
     "id": "pereirawe/opencode-flow",
     "language": "Shell",
@@ -61,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T04:01:29Z",
     "url": "https://github.com/substructureai/substructure"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T04:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
@@ -176,17 +212,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1310,
-    "updated_at": "2026-08-21T03:59:53Z",
+    "updated_at": "2026-08-21T04:09:53Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "DeepSeek Harness Core (DHC) \u00b7 AI \u4eba\u683c\u6838\u5fc3\u8fdb\u5316\u63d2\u4ef6 / AI personality core evolution plugin for DeepSeek Harness",
-    "id": "muvuula/DeepSeek-Harness-Core",
-    "language": "JavaScript",
-    "name": "muvuula/DeepSeek-Harness-Core",
-    "stars": 3,
-    "updated_at": "2026-08-21T03:54:55Z",
-    "url": "https://github.com/muvuula/DeepSeek-Harness-Core"
   },
   {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:44:22Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 34966,
-    "updated_at": "2026-08-21T04:08:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -347,7 +365,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-21T03:11:17Z",
+    "updated_at": "2026-08-21T04:11:59Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "maestrojeong/maestro-agent-sdk",
     "stars": 11,
-    "updated_at": "2026-08-21T03:06:18Z",
+    "updated_at": "2026-08-21T04:11:16Z",
     "url": "https://github.com/maestrojeong/maestro-agent-sdk"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T03:06:12Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 25,
-    "updated_at": "2026-08-21T04:08:39Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -439,14 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-21T02:59:59Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
-    "id": "Dikhun/Arctus.ai",
-    "language": "Python",
-    "name": "Dikhun/Arctus.ai",
-    "stars": 1,
-    "updated_at": "2026-08-21T02:56:39Z",
-    "url": "https://github.com/Dikhun/Arctus.ai"
   }
 ]
