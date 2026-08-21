@@ -1,5 +1,77 @@
 [
   {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:59:50Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
+    "id": "Rawbeew/flippy",
+    "language": "Python",
+    "name": "Rawbeew/flippy",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:56:36Z",
+    "url": "https://github.com/Rawbeew/flippy"
+  },
+  {
+    "description": "ACSE \u2014 a sovereign cognitive agent built on SQCIG (Schematized Quadrupole Causal Ignition Graph): an A-D-O-G cognitive q",
+    "id": "selectess/ACSE",
+    "language": "Zig",
+    "name": "selectess/ACSE",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:55:02Z",
+    "url": "https://github.com/selectess/ACSE"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 10,
+    "updated_at": "2026-08-21T19:54:02Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Open Souls is an open-source framework and philosophy for building \"AI souls\" \u2014 agentic, embodied digital beings with pe",
+    "id": "api-evangelist/open-souls",
+    "language": "\u2014",
+    "name": "api-evangelist/open-souls",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:52:40Z",
+    "url": "https://github.com/api-evangelist/open-souls"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:50:03Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 439,
+    "updated_at": "2026-08-21T19:49:05Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T19:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-21T19:40:17Z",
+    "updated_at": "2026-08-21T19:55:07Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "ACSE \u2014 a sovereign cognitive agent built on SQCIG (Schematized Quadrupole Causal Ignition Graph): an A-D-O-G cognitive q",
-    "id": "selectess/ACSE",
-    "language": "Zig",
-    "name": "selectess/ACSE",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:41:03Z",
-    "url": "https://github.com/selectess/ACSE"
   },
   {
     "description": "A proof-of-concept demonstrating how Apache Kafka can serve as a native platform for AI agents \u2014 three real google-adk a",
@@ -63,13 +126,13 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
+    "description": "Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R",
+    "id": "rhajamor/tiny_agent",
+    "language": "C++",
+    "name": "rhajamor/tiny_agent",
     "stars": 0,
-    "updated_at": "2026-08-21T19:38:46Z",
-    "url": "https://github.com/openamer/openamer"
+    "updated_at": "2026-08-21T19:39:07Z",
+    "url": "https://github.com/rhajamor/tiny_agent"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -108,24 +171,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:30:40Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T19:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:27:50Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
-    "id": "Rawbeew/flippy",
-    "language": "Python",
-    "name": "Rawbeew/flippy",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:27:23Z",
-    "url": "https://github.com/Rawbeew/flippy"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -160,6 +196,15 @@
     "stars": 119,
     "updated_at": "2026-08-21T19:23:55Z",
     "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19433,
+    "updated_at": "2026-08-21T19:23:22Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-21T19:41:08Z",
+    "updated_at": "2026-08-21T19:57:43Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 3,
-    "updated_at": "2026-08-21T18:45:05Z",
+    "updated_at": "2026-08-21T19:57:35Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -364,7 +409,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47260,
+    "stars": 47261,
     "updated_at": "2026-08-21T18:40:02Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -403,50 +448,5 @@
     "stars": 25,
     "updated_at": "2026-08-21T18:13:58Z",
     "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13027,
-    "updated_at": "2026-08-21T18:08:36Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 439,
-    "updated_at": "2026-08-21T19:44:31Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-08-21T17:53:44Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
-    "id": "Zchary1106/Myrmecia",
-    "language": "TypeScript",
-    "name": "Zchary1106/Myrmecia",
-    "stars": 2,
-    "updated_at": "2026-08-21T17:53:04Z",
-    "url": "https://github.com/Zchary1106/Myrmecia"
-  },
-  {
-    "description": "A compact, SDK-only agent harness: maximum performance, minimum framework code",
-    "id": "ryanbbrown/thinharness",
-    "language": "Python",
-    "name": "ryanbbrown/thinharness",
-    "stars": 14,
-    "updated_at": "2026-08-21T17:52:31Z",
-    "url": "https://github.com/ryanbbrown/thinharness"
   }
 ]
