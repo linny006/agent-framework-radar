@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T18:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-21T18:00:18Z",
+    "updated_at": "2026-08-21T18:00:21Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -76,7 +85,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9136,
+    "stars": 9137,
     "updated_at": "2026-08-21T17:49:33Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -153,15 +162,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13027,
-    "updated_at": "2026-08-21T17:43:20Z",
+    "updated_at": "2026-08-21T18:01:15Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "microphage-create/microwave-method",
     "stars": 0,
-    "updated_at": "2026-08-21T17:42:08Z",
+    "updated_at": "2026-08-21T18:01:08Z",
     "url": "https://github.com/microphage-create/microwave-method"
   },
   {
