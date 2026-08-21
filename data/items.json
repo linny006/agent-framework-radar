@@ -1,12 +1,66 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 43,
+    "updated_at": "2026-08-21T23:40:12Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-21T23:40:04Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-08-21T23:29:37Z",
+    "updated_at": "2026-08-21T23:45:09Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-08-21T23:36:52Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4489,
+    "updated_at": "2026-08-21T23:35:07Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:31:08Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-21T23:24:12Z",
+    "updated_at": "2026-08-21T23:45:16Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:16:14Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -189,15 +234,6 @@
     "url": "https://github.com/clawboo/clawboo"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-21T23:00:39Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
@@ -221,17 +257,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9151,
-    "updated_at": "2026-08-21T23:00:54Z",
+    "updated_at": "2026-08-21T23:42:57Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-21T22:53:41Z",
-    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
@@ -268,15 +295,6 @@
     "stars": 122,
     "updated_at": "2026-08-21T22:43:44Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 43,
-    "updated_at": "2026-08-21T22:43:30Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
@@ -430,23 +448,5 @@
     "stars": 349,
     "updated_at": "2026-08-21T20:34:35Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "A statically typed language and compiler for AI agents. Write once, verify statically, compile to a portable Agent IR.",
-    "id": "mathissdupont/ingot",
-    "language": "Rust",
-    "name": "mathissdupont/ingot",
-    "stars": 2,
-    "updated_at": "2026-08-21T20:33:43Z",
-    "url": "https://github.com/mathissdupont/ingot"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 440,
-    "updated_at": "2026-08-21T20:25:56Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   }
 ]
