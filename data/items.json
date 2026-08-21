@@ -1,5 +1,23 @@
 [
   {
+    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
+    "id": "joe960913/Jixu",
+    "language": "TypeScript",
+    "name": "joe960913/Jixu",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:00:56Z",
+    "url": "https://github.com/joe960913/Jixu"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T10:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -97,15 +115,6 @@
     "stars": 349,
     "updated_at": "2026-08-21T09:45:37Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T09:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -248,7 +257,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-21T09:28:02Z",
+    "updated_at": "2026-08-21T10:01:17Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 3,
-    "updated_at": "2026-08-21T09:39:40Z",
+    "updated_at": "2026-08-21T10:01:01Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-21T08:48:57Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-21T08:48:54Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
