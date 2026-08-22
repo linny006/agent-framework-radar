@@ -1,5 +1,50 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 255,
+    "updated_at": "2026-08-22T10:43:58Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-22T10:43:48Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
+    "id": "Rawbeew/flippy",
+    "language": "Python",
+    "name": "Rawbeew/flippy",
+    "stars": 0,
+    "updated_at": "2026-08-22T10:43:38Z",
+    "url": "https://github.com/Rawbeew/flippy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T10:42:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-22T10:42:07Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -18,15 +63,6 @@
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-22T10:42:07Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-08-22T10:31:57Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T10:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T10:27:20Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non-",
-    "id": "Rawbeew/flippy",
-    "language": "Python",
-    "name": "Rawbeew/flippy",
-    "stars": 0,
-    "updated_at": "2026-08-22T10:24:42Z",
-    "url": "https://github.com/Rawbeew/flippy"
   },
   {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
@@ -151,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-08-22T10:27:26Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-22T10:18:35Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T09:55:49Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 255,
-    "updated_at": "2026-08-22T09:55:11Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
