@@ -1,11 +1,29 @@
 [
   {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-08-22T19:00:08Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T18:55:53Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 4,
-    "updated_at": "2026-08-22T18:53:07Z",
+    "updated_at": "2026-08-22T18:59:27Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "qarium/goga",
     "stars": 13,
-    "updated_at": "2026-08-22T18:51:32Z",
+    "updated_at": "2026-08-22T18:56:32Z",
     "url": "https://github.com/qarium/goga"
   },
   {
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1312,
-    "updated_at": "2026-08-22T18:55:17Z",
+    "updated_at": "2026-08-22T18:57:09Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 44,
     "updated_at": "2026-08-22T18:50:22Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T18:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Pi agent skills for specialized workflows and automation",
@@ -76,7 +85,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35032,
+    "stars": 35033,
     "updated_at": "2026-08-22T18:36:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -149,7 +158,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4491,
-    "updated_at": "2026-08-22T18:55:37Z",
+    "updated_at": "2026-08-22T18:59:55Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 0,
-    "updated_at": "2026-08-22T18:48:18Z",
+    "updated_at": "2026-08-22T18:59:48Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T17:44:46Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:43:48Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   }
 ]
