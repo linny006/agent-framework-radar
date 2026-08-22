@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 4,
+    "updated_at": "2026-08-22T18:53:07Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Goga is an AI engineering platform for building software with AI agents. Combine engineering knowledge, AI tools, and pi",
+    "id": "qarium/goga",
+    "language": "Python",
+    "name": "qarium/goga",
+    "stars": 13,
+    "updated_at": "2026-08-22T18:51:32Z",
+    "url": "https://github.com/qarium/goga"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1312,
+    "updated_at": "2026-08-22T18:55:17Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 44,
+    "updated_at": "2026-08-22T18:50:22Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T18:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Pi agent skills for specialized workflows and automation",
     "id": "shalomb/agent-skills",
     "language": "Python",
@@ -85,27 +130,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47284,
+    "stars": 47285,
     "updated_at": "2026-08-22T18:30:24Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T18:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1312,
-    "updated_at": "2026-08-22T18:39:35Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -122,7 +149,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4491,
-    "updated_at": "2026-08-22T18:42:02Z",
+    "updated_at": "2026-08-22T18:55:37Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 0,
-    "updated_at": "2026-08-22T18:14:23Z",
+    "updated_at": "2026-08-22T18:48:18Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T17:43:48Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-08-22T17:43:32Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-22T18:10:50Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R",
-    "id": "tinyagent-cc/tiny_agent",
-    "language": "C++",
-    "name": "tinyagent-cc/tiny_agent",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:43:25Z",
-    "url": "https://github.com/tinyagent-cc/tiny_agent"
   }
 ]
