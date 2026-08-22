@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T08:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Capri Hub \u6c47\u96c6\u4f60\u7684\u6240\u6709 AI Agent",
+    "id": "AgentsHarness/capri-hub",
+    "language": "Go",
+    "name": "AgentsHarness/capri-hub",
+    "stars": 2,
+    "updated_at": "2026-08-22T08:00:05Z",
+    "url": "https://github.com/AgentsHarness/capri-hub"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -70,15 +88,6 @@
     "stars": 43,
     "updated_at": "2026-08-22T07:47:16Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T07:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
@@ -439,14 +448,5 @@
     "stars": 180,
     "updated_at": "2026-08-22T06:35:15Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-22T06:03:11Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   }
 ]
