@@ -1,12 +1,75 @@
 [
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
+    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
+    "id": "joe960913/Jixu",
+    "language": "TypeScript",
+    "name": "joe960913/Jixu",
+    "stars": 107,
+    "updated_at": "2026-08-22T20:29:29Z",
+    "url": "https://github.com/joe960913/Jixu"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-22T20:17:47Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-22T20:26:32Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-22T20:25:03Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-22T20:24:07Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1312,
+    "updated_at": "2026-08-22T20:29:19Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9173,
+    "updated_at": "2026-08-22T20:22:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-22T20:20:42Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-22T20:19:20Z",
+    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T20:15:22Z",
+    "updated_at": "2026-08-22T20:18:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-22T20:17:47Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19444,
-    "updated_at": "2026-08-22T20:12:43Z",
+    "updated_at": "2026-08-22T20:22:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T20:09:20Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1312,
-    "updated_at": "2026-08-22T20:15:44Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -104,7 +167,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4491,
-    "updated_at": "2026-08-22T20:18:15Z",
+    "updated_at": "2026-08-22T20:26:15Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-22T20:08:34Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T19:49:14Z",
     "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9172,
-    "updated_at": "2026-08-22T20:06:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -234,15 +279,6 @@
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
-    "id": "joe960913/Jixu",
-    "language": "TypeScript",
-    "name": "joe960913/Jixu",
-    "stars": 107,
-    "updated_at": "2026-08-22T19:31:27Z",
-    "url": "https://github.com/joe960913/Jixu"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -252,15 +288,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-22T19:25:05Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -268,33 +295,6 @@
     "stars": 35037,
     "updated_at": "2026-08-22T19:23:16Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-22T19:21:30Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-22T19:20:59Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-22T19:20:20Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47286,
-    "updated_at": "2026-08-22T19:28:36Z",
+    "updated_at": "2026-08-22T20:24:57Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 0,
-    "updated_at": "2026-08-22T19:43:21Z",
+    "updated_at": "2026-08-22T20:28:52Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
