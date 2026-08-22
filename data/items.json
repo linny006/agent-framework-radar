@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source agent team framework: team-first, DDD-driven, thin harness adapters \u2014 not a harness.",
+    "id": "NinjaSln-labs/fuyao-nomad",
+    "language": "JavaScript",
+    "name": "NinjaSln-labs/fuyao-nomad",
+    "stars": 0,
+    "updated_at": "2026-08-22T11:44:55Z",
+    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "Multi-provider LLM failover router + agent harness. Stdlib-only core, semantic cache, quota-aware routing, evals. 116 te",
+    "id": "Rawbeew/flippy",
+    "language": "Python",
+    "name": "Rawbeew/flippy",
+    "stars": 0,
+    "updated_at": "2026-08-22T11:43:31Z",
+    "url": "https://github.com/Rawbeew/flippy"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-22T11:43:04Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T11:42:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
     "id": "geniusdapeng-collab/workloom-im",
     "language": "TypeScript",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-22T11:39:34Z",
+    "updated_at": "2026-08-22T11:44:06Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47277,
-    "updated_at": "2026-08-22T11:42:28Z",
+    "updated_at": "2026-08-22T11:44:06Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T11:31:42Z",
     "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T11:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -180,15 +207,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Free-first multi-provider LLM router + Loomweaver agent harness. Failover, quota-aware routing, semantic cache, evals, l",
-    "id": "Rawbeew/flippy",
-    "language": "Python",
-    "name": "Rawbeew/flippy",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:23:56Z",
-    "url": "https://github.com/Rawbeew/flippy"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -198,15 +216,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-22T11:21:43Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -214,15 +223,6 @@
     "stars": 255,
     "updated_at": "2026-08-22T11:21:04Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source agent team framework: team-first, DDD-driven, thin harness adapters \u2014 not a harness.",
-    "id": "NinjaSln-labs/fuyao-nomad",
-    "language": "JavaScript",
-    "name": "NinjaSln-labs/fuyao-nomad",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:20:53Z",
-    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
   },
   {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1312,
-    "updated_at": "2026-08-22T11:38:01Z",
+    "updated_at": "2026-08-22T11:44:21Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
