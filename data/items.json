@@ -1,12 +1,84 @@
 [
   {
+    "description": "Spec-first, embeddable agent harness runtime - a control plane for loop-engineered AI agents. Governed tool calls throug",
+    "id": "norton77930/loopplane",
+    "language": "Python",
+    "name": "norton77930/loopplane",
+    "stars": 2,
+    "updated_at": "2026-08-22T06:58:15Z",
+    "url": "https://github.com/norton77930/loopplane"
+  },
+  {
+    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
+    "id": "mwb1219/mwb-ai-claw",
+    "language": "Java",
+    "name": "mwb1219/mwb-ai-claw",
+    "stars": 1,
+    "updated_at": "2026-08-22T06:56:51Z",
+    "url": "https://github.com/mwb1219/mwb-ai-claw"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1819,
+    "updated_at": "2026-08-22T06:55:26Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-22T06:53:46Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 42,
+    "updated_at": "2026-08-22T06:51:29Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-22T06:42:32Z",
+    "updated_at": "2026-08-22T06:51:23Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Production-ready multi-agent orchestrator \u2014 confidence-gated routing with a pluggable classifier, MCP or in-process agen",
+    "id": "reaatech/agent-mesh",
+    "language": "TypeScript",
+    "name": "reaatech/agent-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-22T06:53:42Z",
+    "url": "https://github.com/reaatech/agent-mesh"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-22T06:45:44Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T06:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-22T06:40:04Z",
+    "updated_at": "2026-08-22T06:53:20Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 35019,
     "updated_at": "2026-08-22T06:38:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
-    "id": "mwb1219/mwb-ai-claw",
-    "language": "Java",
-    "name": "mwb1219/mwb-ai-claw",
-    "stars": 1,
-    "updated_at": "2026-08-22T06:41:01Z",
-    "url": "https://github.com/mwb1219/mwb-ai-claw"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -95,7 +158,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 415,
-    "updated_at": "2026-08-22T06:32:15Z",
+    "updated_at": "2026-08-22T06:58:06Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -108,21 +171,12 @@
     "url": "https://github.com/relayax/relayagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T06:30:18Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-08-22T06:42:08Z",
+    "updated_at": "2026-08-22T06:51:54Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -221,7 +275,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4489,
-    "updated_at": "2026-08-22T06:41:29Z",
+    "updated_at": "2026-08-22T06:56:35Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T06:03:11Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-22T05:59:01Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "\u9002\u914d DeepSeek Harness \u7684 OMO \u89c4\u7ea6\u667a\u80fd\u4f53\u4e0e\u8d85\u4efb\u52a1\u7f16\u6392\u5de5\u5177\uff0c\u7528\u4e8e\u4e0d\u95f4\u65ad\u4efb\u52a1\u89c4\u5212\u3001\u5206\u7c7b\u59d4\u6d3e\u4e0e\u81ea\u4e3b\u6821\u9a8c\u3002OMO\u2011style discipline\u2011agent + ultrawork orchestration toolkit",
@@ -302,7 +347,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-22T05:46:36Z",
+    "updated_at": "2026-08-22T06:49:34Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 8,
     "updated_at": "2026-08-22T05:34:50Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:30:44Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -378,20 +414,11 @@
     "url": "https://github.com/yyyy231209/ai-company-framework"
   },
   {
-    "description": "Spec-first, embeddable agent harness runtime - a control plane for loop-engineered AI agents. Governed tool calls throug",
-    "id": "norton77930/loopplane",
-    "language": "Python",
-    "name": "norton77930/loopplane",
-    "stars": 2,
-    "updated_at": "2026-08-22T05:17:27Z",
-    "url": "https://github.com/norton77930/loopplane"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47267,
+    "stars": 47269,
     "updated_at": "2026-08-22T05:14:32Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T05:11:05Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 11,
-    "updated_at": "2026-08-22T05:09:44Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:04:06Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-22T04:58:33Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
