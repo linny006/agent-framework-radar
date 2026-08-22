@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-22T07:58:35Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
     "id": "shibing624/agentica",
     "language": "Python",
     "name": "shibing624/agentica",
     "stars": 349,
-    "updated_at": "2026-08-22T07:44:45Z",
+    "updated_at": "2026-08-22T07:58:06Z",
     "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5213,
+    "updated_at": "2026-08-22T07:57:15Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "\ud83e\udd16 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 \u2014 the year agents went mainstream",
+    "id": "Zijian-Ni/awesome-ai-agents-2026",
+    "language": "Python",
+    "name": "Zijian-Ni/awesome-ai-agents-2026",
+    "stars": 238,
+    "updated_at": "2026-08-22T07:57:02Z",
+    "url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-22T07:56:52Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-22T07:58:55Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-22T07:50:25Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 43,
+    "updated_at": "2026-08-22T07:47:16Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T07:43:51Z",
+    "updated_at": "2026-08-22T07:45:27Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-22T07:37:59Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -43,24 +97,6 @@
     "stars": 5,
     "updated_at": "2026-08-22T07:37:56Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-08-22T07:43:46Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-08-22T07:41:35Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -88,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-08-22T07:34:26Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-22T07:30:21Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -176,7 +203,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4489,
-    "updated_at": "2026-08-22T07:44:20Z",
+    "updated_at": "2026-08-22T07:59:19Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-22T07:42:34Z",
+    "updated_at": "2026-08-22T08:00:00Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -220,7 +247,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47270,
+    "stars": 47271,
     "updated_at": "2026-08-22T07:10:45Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-22T07:33:16Z",
+    "updated_at": "2026-08-22T07:59:30Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -275,17 +302,8 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-22T07:01:10Z",
+    "updated_at": "2026-08-22T07:58:12Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 43,
-    "updated_at": "2026-08-22T07:01:06Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Spec-first, embeddable agent harness runtime - a control plane for loop-engineered AI agents. Governed tool calls throug",
@@ -355,7 +373,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35020,
+    "stars": 35022,
     "updated_at": "2026-08-22T06:38:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -401,7 +419,7 @@
     "language": "Rust",
     "name": "crabtalk/crabtalk",
     "stars": 730,
-    "updated_at": "2026-08-22T07:38:10Z",
+    "updated_at": "2026-08-22T07:51:06Z",
     "url": "https://github.com/crabtalk/crabtalk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-22T06:03:11Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "\u9002\u914d DeepSeek Harness \u7684 OMO \u89c4\u7ea6\u667a\u80fd\u4f53\u4e0e\u8d85\u4efb\u52a1\u7f16\u6392\u5de5\u5177\uff0c\u7528\u4e8e\u4e0d\u95f4\u65ad\u4efb\u52a1\u89c4\u5212\u3001\u5206\u7c7b\u59d4\u6d3e\u4e0e\u81ea\u4e3b\u6821\u9a8c\u3002OMO\u2011style discipline\u2011agent + ultrawork orchestration toolkit",
-    "id": "Jan-Jianhao-Liu/omo-deepseek-harness",
-    "language": "\u2014",
-    "name": "Jan-Jianhao-Liu/omo-deepseek-harness",
-    "stars": 1,
-    "updated_at": "2026-08-22T05:58:12Z",
-    "url": "https://github.com/Jan-Jianhao-Liu/omo-deepseek-harness"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 14,
-    "updated_at": "2026-08-22T05:54:59Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
