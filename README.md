@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 11:57 UTC
+> ⏰ Last updated: 2026-08-22 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tya5/reyn](https://github.com/tya5/reyn) | 9 | Python | 2026-08-22 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 2 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1822 | TypeScript | 2026-08-22 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 3 | [Rawbeew/flippy](https://github.com/Rawbeew/flippy) | 0 | Python | 2026-08-22 | Multi-provider LLM failover router + agent harness. Stdlib-only core, semantic cache, quota-aware routing, evals. 116 te |
-| 4 | [altneu-dev/agent-template](https://github.com/altneu-dev/agent-template) | 1 | Shell | 2026-08-22 | A deployable agent in one repository — fork it, point a platform at it, and what arrives is the whole package: harness,  |
-| 5 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 7 | [NinjaSln-labs/fuyao-nomad](https://github.com/NinjaSln-labs/fuyao-nomad) | 0 | JavaScript | 2026-08-22 | Open-source agent team framework: team-first, DDD-driven, thin harness adapters — not a harness. |
-| 8 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47278 | Python | 2026-08-22 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
-| 9 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-22 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 1 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-22 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [tya5/reyn](https://github.com/tya5/reyn) | 9 | Python | 2026-08-22 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 4 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1822 | TypeScript | 2026-08-22 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 5 | [Rawbeew/flippy](https://github.com/Rawbeew/flippy) | 0 | Python | 2026-08-22 | Multi-provider LLM failover router + agent harness. Stdlib-only core, semantic cache, quota-aware routing, evals. 116 te |
+| 6 | [altneu-dev/agent-template](https://github.com/altneu-dev/agent-template) | 1 | Shell | 2026-08-22 | A deployable agent in one repository — fork it, point a platform at it, and what arrives is the whole package: harness,  |
+| 7 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-22 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 8 | [NinjaSln-labs/fuyao-nomad](https://github.com/NinjaSln-labs/fuyao-nomad) | 0 | JavaScript | 2026-08-22 | Open-source agent team framework: team-first, DDD-driven, thin harness adapters — not a harness. |
+| 9 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47278 | Python | 2026-08-22 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
 | 10 | [geniusdapeng-collab/workloom-im](https://github.com/geniusdapeng-collab/workloom-im) | 0 | TypeScript | 2026-08-22 | WorkLoom 织元 · DeepSeek Harness 企业级 Agent IM — Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence,  |
 | 11 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 0 | TypeScript | 2026-08-22 | Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run |
 | 12 | [ccr-wer/fable5-lite](https://github.com/ccr-wer/fable5-lite) | 0 | Python | 2026-08-22 | An open-source Agent system built by a non-CS student to explore Agent architecture — Think → Act → Prove loop, sandbox  |
