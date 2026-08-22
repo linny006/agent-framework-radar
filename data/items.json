@@ -1,11 +1,65 @@
 [
   {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 349,
+    "updated_at": "2026-08-22T07:14:14Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-22T07:12:34Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-08-22T07:12:07Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "Build a coding agent from scratch, one harness primitive at a time. 15 chapters (ch-00..ch-14), each green on two gates.",
+    "id": "thecarbonlayer/carbon",
+    "language": "Python",
+    "name": "thecarbonlayer/carbon",
+    "stars": 70,
+    "updated_at": "2026-08-22T07:12:01Z",
+    "url": "https://github.com/thecarbonlayer/carbon"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-08-22T07:12:03Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T07:08:45Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-22T07:07:11Z",
+    "updated_at": "2026-08-22T07:12:32Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 415,
-    "updated_at": "2026-08-22T07:06:52Z",
+    "updated_at": "2026-08-22T07:09:31Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-08-22T07:02:01Z",
+    "updated_at": "2026-08-22T07:14:50Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T07:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Spec-first, embeddable agent harness runtime - a control plane for loop-engineered AI agents. Governed tool calls throug",
     "id": "norton77930/loopplane",
     "language": "Python",
@@ -121,7 +166,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1819,
+    "stars": 1820,
     "updated_at": "2026-08-22T06:55:26Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "reaatech/agent-mesh",
     "stars": 2,
-    "updated_at": "2026-08-22T07:08:35Z",
+    "updated_at": "2026-08-22T07:13:36Z",
     "url": "https://github.com/reaatech/agent-mesh"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-22T06:53:20Z",
+    "updated_at": "2026-08-22T07:12:42Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -193,7 +238,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35021,
+    "stars": 35020,
     "updated_at": "2026-08-22T06:38:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -329,7 +374,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4489,
-    "updated_at": "2026-08-22T07:07:56Z",
+    "updated_at": "2026-08-22T07:12:34Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-22T05:34:50Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1312,
-    "updated_at": "2026-08-22T06:38:13Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
-    "id": "abubakarsiddik31/golem",
-    "language": "Go",
-    "name": "abubakarsiddik31/golem",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:26:51Z",
-    "url": "https://github.com/abubakarsiddik31/golem"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 24,
-    "updated_at": "2026-08-22T05:18:43Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Company Is a Word. \u4e00\u53e5\u8bdd\u5f00\u4e00\u5bb6AI\u516c\u53f8 - open-source multi-agent orchestration framework for non-developers. \u5c0f\u767d5\u5206\u949f\u62e5\u6709\u81ea\u5df1\u7684AI\u516c\u53f8\uff0c\u53efDIY\u4efb",
-    "id": "yyyy231209/ai-company-framework",
-    "language": "JavaScript",
-    "name": "yyyy231209/ai-company-framework",
-    "stars": 2,
-    "updated_at": "2026-08-22T05:17:47Z",
-    "url": "https://github.com/yyyy231209/ai-company-framework"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47268,
-    "updated_at": "2026-08-22T05:14:32Z",
-    "url": "https://github.com/HKUDS/nanobot"
   }
 ]
