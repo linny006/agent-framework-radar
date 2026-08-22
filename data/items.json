@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-22T21:35:01Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-22T21:32:39Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-22T21:31:15Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T21:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
     "id": "Atiqul-Islam/genesis",
     "language": "Rust",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-22T21:24:45Z",
+    "updated_at": "2026-08-22T21:35:13Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T21:15:58Z",
     "url": "https://github.com/sturlese/imago"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T21:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-22T21:26:28Z",
+    "updated_at": "2026-08-22T21:34:26Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T21:02:05Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-22T21:01:24Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 2,
-    "updated_at": "2026-08-22T20:48:18Z",
+    "updated_at": "2026-08-22T21:35:48Z",
     "url": "https://github.com/doeixd/effect-agent"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 44,
     "updated_at": "2026-08-22T20:41:40Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-22T20:37:54Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Production-ready Claude Code workspace \u2014 25 hooks, 28 commands, structured memory. Ships in 5 min.",
@@ -302,7 +311,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4491,
-    "updated_at": "2026-08-22T21:27:36Z",
+    "updated_at": "2026-08-22T21:33:06Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35039,
-    "updated_at": "2026-08-22T19:23:16Z",
+    "updated_at": "2026-08-22T21:34:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-22T19:08:21Z",
     "url": "https://github.com/NumericalArt/Pritha"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 4,
-    "updated_at": "2026-08-22T19:09:48Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   }
 ]
