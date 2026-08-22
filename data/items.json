@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T10:15:08Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -115,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T10:02:11Z",
     "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T10:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -436,7 +436,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35027,
+    "stars": 35028,
     "updated_at": "2026-08-22T09:36:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },

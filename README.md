@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1312 | TypeScript | 2026-08-22 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
-| 2 | [Rawbeew/flippy](https://github.com/Rawbeew/flippy) | 0 | Python | 2026-08-22 | Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non- |
-| 3 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
-| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-22 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 5 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 3 | Rust | 2026-08-22 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
-| 6 | [daniel06s6995/deepseek-harness-software-OPC](https://github.com/daniel06s6995/deepseek-harness-software-OPC) | 0 | JavaScript | 2026-08-22 | Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re |
-| 7 | [Pericardiac-podzolsoil527/deepseek-plugin-store](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store) | 0 | — | 2026-08-22 | 发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。 |
-| 8 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 180 | TypeScript | 2026-08-22 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 9 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-08-22 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
-| 10 | [NinjaSln-labs/fuyao-nomad](https://github.com/NinjaSln-labs/fuyao-nomad) | 0 | JavaScript | 2026-08-22 | Open-source agent team framework: team-first, DDD-driven, thin harness adapters — not a harness. |
-| 11 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 7 | TypeScript | 2026-08-22 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
-| 12 | [AgentsHarness/capri-hub](https://github.com/AgentsHarness/capri-hub) | 2 | Go | 2026-08-22 | Capri Hub 汇集你的所有 AI Agent |
-| 13 | [AgentsHarness/capri-fe](https://github.com/AgentsHarness/capri-fe) | 1 | TypeScript | 2026-08-22 | Grok Build Web UI |
-| 14 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1312 | TypeScript | 2026-08-22 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
+| 3 | [Rawbeew/flippy](https://github.com/Rawbeew/flippy) | 0 | Python | 2026-08-22 | Free-first multi-provider LLM router + unified AI hub + Loomweaver agent harness (agent, evals, load-testing). Zero non- |
+| 4 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-22 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
+| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-22 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 6 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 3 | Rust | 2026-08-22 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
+| 7 | [daniel06s6995/deepseek-harness-software-OPC](https://github.com/daniel06s6995/deepseek-harness-software-OPC) | 0 | JavaScript | 2026-08-22 | Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re |
+| 8 | [Pericardiac-podzolsoil527/deepseek-plugin-store](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store) | 0 | — | 2026-08-22 | 发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。 |
+| 9 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 180 | TypeScript | 2026-08-22 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 10 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-08-22 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
+| 11 | [NinjaSln-labs/fuyao-nomad](https://github.com/NinjaSln-labs/fuyao-nomad) | 0 | JavaScript | 2026-08-22 | Open-source agent team framework: team-first, DDD-driven, thin harness adapters — not a harness. |
+| 12 | [bugsyhewitt/AlienClaw](https://github.com/bugsyhewitt/AlienClaw) | 7 | TypeScript | 2026-08-22 | Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on  |
+| 13 | [AgentsHarness/capri-hub](https://github.com/AgentsHarness/capri-hub) | 2 | Go | 2026-08-22 | Capri Hub 汇集你的所有 AI Agent |
+| 14 | [AgentsHarness/capri-fe](https://github.com/AgentsHarness/capri-fe) | 1 | TypeScript | 2026-08-22 | Grok Build Web UI |
 | 15 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 28 | Python | 2026-08-22 | Ship AI-agent artifacts, not demo theater — verifier-gated, cross-family runs that learn which model wins. |
 | 16 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-22 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 17 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-08-22 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [sattyamjjain/ferrumdeck](https://github.com/sattyamjjain/ferrumdeck) | 7 | TypeScript | 2026-08-22 | AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an |
 | 47 | [kaydenplayZ/agent-skills-guide](https://github.com/kaydenplayZ/agent-skills-guide) | 0 | — | 2026-08-22 | 🤖 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr |
 | 48 | [ggui-ai/ggui](https://github.com/ggui-ai/ggui) | 38 | TypeScript | 2026-08-22 | The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP. |
-| 49 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35027 | Go | 2026-08-22 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 49 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35028 | Go | 2026-08-22 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 50 | [THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow](https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow) | 0 | Python | 2026-08-22 | 🚀 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro |
 <!-- TRACKER_TABLE_END -->
 
