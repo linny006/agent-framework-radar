@@ -1,5 +1,23 @@
 [
   {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19461,
+    "updated_at": "2026-08-23T19:15:42Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4495,
-    "updated_at": "2026-08-23T19:14:55Z",
+    "updated_at": "2026-08-23T19:15:46Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-08-23T19:06:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T19:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T17:12:35Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "File-first multi-agent LLM orchestrator: agents are versioned markdown folders, not runtime-generated artifacts. Two-tie",
-    "id": "Fedetrain/multi-agent-orchestrator",
-    "language": "Python",
-    "name": "Fedetrain/multi-agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:11:43Z",
-    "url": "https://github.com/Fedetrain/multi-agent-orchestrator"
   }
 ]
