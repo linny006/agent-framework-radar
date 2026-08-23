@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 78,
+    "updated_at": "2026-08-23T09:27:17Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
+    "id": "no-human-ai/no_human",
+    "language": "Python",
+    "name": "no-human-ai/no_human",
+    "stars": 22,
+    "updated_at": "2026-08-23T09:27:03Z",
+    "url": "https://github.com/no-human-ai/no_human"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-23T09:25:46Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-23T09:25:02Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-23T09:23:45Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-23T09:22:55Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-23T09:21:31Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:21:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T09:21:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -34,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T09:15:45Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T09:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-23T09:17:36Z",
+    "updated_at": "2026-08-23T09:26:41Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -158,7 +230,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4494,
-    "updated_at": "2026-08-23T09:17:38Z",
+    "updated_at": "2026-08-23T09:29:42Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-23T09:20:30Z",
+    "updated_at": "2026-08-23T09:27:17Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -232,51 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T08:34:04Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-23T08:27:59Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-23T08:26:52Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-23T08:23:46Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:21:53Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-23T08:21:38Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
     "description": "AI agent debugging backend \u2014 Fastify API + BullMQ worker + Postgres audit log + Redis queue + OpenAI loop-fix. Hardened ",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T08:08:35Z",
+    "updated_at": "2026-08-23T09:30:18Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-23T09:19:06Z",
+    "updated_at": "2026-08-23T09:28:45Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 0,
-    "updated_at": "2026-08-23T09:09:39Z",
+    "updated_at": "2026-08-23T09:27:59Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:27:22Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:27:20Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:27:12Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-08-23T07:26:20Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
