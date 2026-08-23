@@ -1,5 +1,95 @@
 [
   {
+    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
+    "id": "we-are-singular/aml",
+    "language": "TypeScript",
+    "name": "we-are-singular/aml",
+    "stars": 13,
+    "updated_at": "2026-08-23T23:29:05Z",
+    "url": "https://github.com/we-are-singular/aml"
+  },
+  {
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:28:56Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:29:56Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:24:29Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-23T23:22:20Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-23T23:19:17Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:19:10Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-23T23:18:31Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4496,
+    "updated_at": "2026-08-23T23:29:22Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T23:17:43Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -16,15 +106,6 @@
     "stars": 120,
     "updated_at": "2026-08-23T23:16:50Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T23:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -108,24 +189,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:13:39Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-23T22:54:45Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/effect-agent",
     "language": "TypeScript",
@@ -157,27 +220,9 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 538,
+    "stars": 539,
     "updated_at": "2026-08-23T22:35:38Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:26:30Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-23T22:26:05Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -187,24 +232,6 @@
     "stars": 5,
     "updated_at": "2026-08-23T22:20:49Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:19:30Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-23T22:19:04Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "A universal, forkable orchestra-agent architecture. 24 master skillsets, one loaded at a time, each with a dated researc",
@@ -232,15 +259,6 @@
     "stars": 1314,
     "updated_at": "2026-08-23T22:07:19Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-23T23:09:19Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -286,15 +304,6 @@
     "stars": 4883,
     "updated_at": "2026-08-23T21:54:15Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4496,
-    "updated_at": "2026-08-23T23:09:55Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -419,7 +428,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 10,
-    "updated_at": "2026-08-23T23:11:41Z",
+    "updated_at": "2026-08-23T23:29:01Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T20:45:10Z",
     "url": "https://github.com/OBrown101/dawson-server"
-  },
-  {
-    "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
-    "id": "actonos/actonos",
-    "language": "Go",
-    "name": "actonos/actonos",
-    "stars": 77,
-    "updated_at": "2026-08-23T20:21:06Z",
-    "url": "https://github.com/actonos/actonos"
   }
 ]
