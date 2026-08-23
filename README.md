@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 23:43 UTC
+> ⏰ Last updated: 2026-08-23 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-23 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 45 | HTML | 2026-08-23 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 3 | [sakibsadmanshajib/hive](https://github.com/sakibsadmanshajib/hive) | 0 | Go | 2026-08-23 | OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s |
-| 4 | [we-are-singular/aml](https://github.com/we-are-singular/aml) | 13 | TypeScript | 2026-08-23 | Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows. |
-| 5 | [tya5/reyn](https://github.com/tya5/reyn) | 9 | Python | 2026-08-23 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 6 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 1 | TypeScript | 2026-08-23 | Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run |
-| 7 | [Viking602/venat](https://github.com/Viking602/venat) | 1 | Go | 2026-08-23 | Durable, typed multi-agent framework for Go. |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-08-23 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 10 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-23 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 1 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-23 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-23 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 45 | HTML | 2026-08-23 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 5 | [sakibsadmanshajib/hive](https://github.com/sakibsadmanshajib/hive) | 0 | Go | 2026-08-23 | OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s |
+| 6 | [we-are-singular/aml](https://github.com/we-are-singular/aml) | 13 | TypeScript | 2026-08-23 | Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows. |
+| 7 | [tya5/reyn](https://github.com/tya5/reyn) | 9 | Python | 2026-08-23 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 8 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 1 | TypeScript | 2026-08-23 | Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run |
+| 9 | [Viking602/venat](https://github.com/Viking602/venat) | 1 | Go | 2026-08-23 | Durable, typed multi-agent framework for Go. |
+| 10 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-08-23 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
 | 11 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 122 | Shell | 2026-08-23 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
 | 12 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-08-23 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 13 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 119 | HTML | 2026-08-23 | Multi-Agent AI Task Orchestrator 2026 |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [brunogcar/agent](https://github.com/brunogcar/agent) | 1 | Python | 2026-08-23 | Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline  |
 | 25 | [doeixd/effect-agent](https://github.com/doeixd/effect-agent) | 2 | TypeScript | 2026-08-23 | An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o |
 | 26 | [databricks-solutions/consort](https://github.com/databricks-solutions/consort) | 10 | TypeScript | 2026-08-23 | Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv |
-| 27 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 539 | Python | 2026-08-23 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
+| 27 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 540 | Python | 2026-08-23 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
 | 28 | [opencue/cuecards](https://github.com/opencue/cuecards) | 5 | TypeScript | 2026-08-23 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
 | 29 | [indicaindependent/the-gun-slinger](https://github.com/indicaindependent/the-gun-slinger) | 0 | Python | 2026-08-23 | A universal, forkable orchestra-agent architecture. 24 master skillsets, one loaded at a time, each with a dated researc |
 | 30 | [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) | 1161 | Ruby | 2026-08-23 | The most Token-efficient open-source AI Agent |
