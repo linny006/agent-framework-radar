@@ -1,21 +1,30 @@
 [
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
     "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1828,
-    "updated_at": "2026-08-23T11:53:36Z",
-    "url": "https://github.com/cortexkit/magic-context"
+    "name": "devoidfury/hotdog",
+    "stars": 14,
+    "updated_at": "2026-08-23T11:59:27Z",
+    "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35065,
-    "updated_at": "2026-08-23T11:53:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:59:20Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:58:28Z",
+    "url": "https://github.com/devpilgrin/berimor"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -23,8 +32,71 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-23T11:55:41Z",
+    "updated_at": "2026-08-23T11:58:08Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 10,
+    "updated_at": "2026-08-23T11:58:56Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:57:36Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T11:56:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:56:37Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35066,
+    "updated_at": "2026-08-23T11:55:57Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:55:50Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1828,
+    "updated_at": "2026-08-23T11:53:36Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -36,15 +108,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -54,21 +117,12 @@
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
-    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 10,
-    "updated_at": "2026-08-23T11:41:50Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-23T11:53:56Z",
+    "updated_at": "2026-08-23T11:59:22Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T11:53:27Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:39:14Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 3,
-    "updated_at": "2026-08-23T11:51:16Z",
+    "updated_at": "2026-08-23T11:56:43Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -248,7 +293,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4494,
-    "updated_at": "2026-08-23T11:50:35Z",
+    "updated_at": "2026-08-23T11:57:53Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-23T11:31:12Z",
+    "updated_at": "2026-08-23T11:56:54Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-23T10:24:50Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-23T10:18:51Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-23T10:18:51Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
-    "id": "ZJU-REAL/HugAgentOS",
-    "language": "Python",
-    "name": "ZJU-REAL/HugAgentOS",
-    "stars": 512,
-    "updated_at": "2026-08-23T11:48:42Z",
-    "url": "https://github.com/ZJU-REAL/HugAgentOS"
-  },
-  {
-    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:01:42Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2260,
-    "updated_at": "2026-08-23T10:06:03Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
