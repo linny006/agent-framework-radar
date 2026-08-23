@@ -1,5 +1,32 @@
 [
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47300,
+    "updated_at": "2026-08-23T13:13:16Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-23T13:11:53Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T13:10:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
@@ -45,15 +72,6 @@
     "url": "https://github.com/no-human-ai/no_human"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T13:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -77,26 +95,8 @@
     "language": "Java",
     "name": "mwb1219/mwb-ai-claw",
     "stars": 2,
-    "updated_at": "2026-08-23T12:56:37Z",
+    "updated_at": "2026-08-23T13:13:18Z",
     "url": "https://github.com/mwb1219/mwb-ai-claw"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T12:55:53Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47300,
-    "updated_at": "2026-08-23T12:53:58Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -266,7 +266,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-23T13:08:27Z",
+    "updated_at": "2026-08-23T13:14:12Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {

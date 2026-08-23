@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 13:10 UTC
+> ⏰ Last updated: 2026-08-23 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [devpilgrin/berimor](https://github.com/devpilgrin/berimor) | 3 | Rust | 2026-08-23 | Детерминированная агентная архитектура: спецификации, ADR, roadmap и скелет реализации (Rust + TypeScript bootstrap) |
-| 2 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 4 | Python | 2026-08-23 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
-| 3 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1592 | TypeScript | 2026-08-23 | The control plane for AI coding agents. |
-| 4 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 44 | HTML | 2026-08-23 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 5 | [no-human-ai/no_human](https://github.com/no-human-ai/no_human) | 25 | Python | 2026-08-23 | From ticket to reviewed pull request. Free and open-source, on your machine. |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 7 | [cortexkit/aft](https://github.com/cortexkit/aft) | 256 | Rust | 2026-08-23 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 8 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-23 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 9 | [mwb1219/mwb-ai-claw](https://github.com/mwb1219/mwb-ai-claw) | 2 | Java | 2026-08-23 | Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration — run via Shell |
-| 10 | [doeixd/effect-agent](https://github.com/doeixd/effect-agent) | 2 | TypeScript | 2026-08-23 | An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o |
-| 11 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47300 | Python | 2026-08-23 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47300 | Python | 2026-08-23 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 2 | [doeixd/effect-agent](https://github.com/doeixd/effect-agent) | 2 | TypeScript | 2026-08-23 | An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-23 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [devpilgrin/berimor](https://github.com/devpilgrin/berimor) | 3 | Rust | 2026-08-23 | Детерминированная агентная архитектура: спецификации, ADR, roadmap и скелет реализации (Rust + TypeScript bootstrap) |
+| 5 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 4 | Python | 2026-08-23 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
+| 6 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1592 | TypeScript | 2026-08-23 | The control plane for AI coding agents. |
+| 7 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 44 | HTML | 2026-08-23 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 8 | [no-human-ai/no_human](https://github.com/no-human-ai/no_human) | 25 | Python | 2026-08-23 | From ticket to reviewed pull request. Free and open-source, on your machine. |
+| 9 | [cortexkit/aft](https://github.com/cortexkit/aft) | 256 | Rust | 2026-08-23 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 10 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-23 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 11 | [mwb1219/mwb-ai-claw](https://github.com/mwb1219/mwb-ai-claw) | 2 | Java | 2026-08-23 | Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration — run via Shell |
 | 12 | [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | 415 | Go | 2026-08-23 | Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a lib |
 | 13 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1828 | TypeScript | 2026-08-23 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
 | 14 | [trbearth/fieldwork-agent-os](https://github.com/trbearth/fieldwork-agent-os) | 0 | CSS | 2026-08-23 | Local-first desktop workspace for configurable research agents, cited reports, and optional voice. |
