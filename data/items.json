@@ -1,12 +1,39 @@
 [
   {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-08-22T23:58:30Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-22T23:58:15Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-22T23:52:13Z",
+    "updated_at": "2026-08-22T23:58:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:55:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -36,15 +63,6 @@
     "url": "https://github.com/macanderson/context-graph-protocol"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
     "id": "tropo-ai/tropo",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T23:43:21Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-22T23:52:40Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
@@ -203,7 +212,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4491,
-    "updated_at": "2026-08-22T23:38:06Z",
+    "updated_at": "2026-08-22T23:56:19Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 58,
-    "updated_at": "2026-08-22T23:22:23Z",
+    "updated_at": "2026-08-22T23:59:14Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T21:15:58Z",
     "url": "https://github.com/sturlese/imago"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-08-22T21:14:30Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
