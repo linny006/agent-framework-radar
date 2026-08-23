@@ -1,5 +1,32 @@
 [
   {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 10,
+    "updated_at": "2026-08-23T22:42:01Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 45,
+    "updated_at": "2026-08-23T22:39:59Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T22:39:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T22:33:18Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
@@ -230,7 +248,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4496,
-    "updated_at": "2026-08-23T22:39:22Z",
+    "updated_at": "2026-08-23T22:45:16Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:41:27Z",
     "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 45,
-    "updated_at": "2026-08-23T21:37:11Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T20:02:58Z",
     "url": "https://github.com/mythicalOS/mythical-skills"
-  },
-  {
-    "description": "Role playbooks and coordination framework for multi-agent engineering teams",
-    "id": "mythicalOS/mythical-playbooks",
-    "language": "Shell",
-    "name": "mythicalOS/mythical-playbooks",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:02:54Z",
-    "url": "https://github.com/mythicalOS/mythical-playbooks"
   }
 ]
