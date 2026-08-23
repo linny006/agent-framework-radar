@@ -1,5 +1,104 @@
 [
   {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-23T00:14:17Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-23T00:13:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1312,
+    "updated_at": "2026-08-23T00:09:23Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
+    "language": "TypeScript",
+    "name": "plaited/plaited",
+    "stars": 10,
+    "updated_at": "2026-08-23T00:09:21Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "Multiplayer AI. Put Claude Code, Codex and OpenCode in one room, on one question, watched by your whole team \u2014 no CLI mo",
+    "id": "Oryxa-Vault/oryxa",
+    "language": "Rust",
+    "name": "Oryxa-Vault/oryxa",
+    "stars": 1,
+    "updated_at": "2026-08-23T00:05:55Z",
+    "url": "https://github.com/Oryxa-Vault/oryxa"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-08-23T00:04:08Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1153,
+    "updated_at": "2026-08-23T00:04:05Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-08-23T00:03:56Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-08-23T00:02:12Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T00:00:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T00:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -18,24 +117,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-22T23:58:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:55:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -43,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-08-22T23:50:49Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-22T23:48:02Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T23:44:11Z",
     "url": "https://github.com/tropo-ai/tropo"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-22T23:43:21Z",
-    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 77,
-    "updated_at": "2026-08-22T23:48:37Z",
+    "updated_at": "2026-08-23T00:11:32Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -212,7 +275,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4491,
-    "updated_at": "2026-08-22T23:56:19Z",
+    "updated_at": "2026-08-23T00:14:29Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-22T23:05:08Z",
+    "updated_at": "2026-08-23T00:06:31Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -250,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-08-22T23:53:58Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1312,
-    "updated_at": "2026-08-22T23:42:41Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
@@ -346,7 +400,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35041,
+    "stars": 35042,
     "updated_at": "2026-08-22T21:34:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T21:02:22Z",
     "url": "https://github.com/sandeepyadav1478/touchstone"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 3,
-    "updated_at": "2026-08-22T21:01:06Z",
-    "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
-    "id": "no-human-ai/no_human",
-    "language": "Python",
-    "name": "no-human-ai/no_human",
-    "stars": 21,
-    "updated_at": "2026-08-22T20:58:17Z",
-    "url": "https://github.com/no-human-ai/no_human"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 0,
-    "updated_at": "2026-08-22T21:20:46Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47285,
-    "updated_at": "2026-08-22T20:42:52Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Production-ready Claude Code workspace \u2014 25 hooks, 28 commands, structured memory. Ships in 5 min.",
-    "id": "goksnair/claude-code-starter-kit",
-    "language": "Python",
-    "name": "goksnair/claude-code-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-08-22T20:33:53Z",
-    "url": "https://github.com/goksnair/claude-code-starter-kit"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-22T20:05:59Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
