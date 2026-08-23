@@ -1,5 +1,32 @@
 [
   {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 5,
+    "updated_at": "2026-08-23T16:48:35Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-23T16:46:25Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T16:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -25,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T16:43:29Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-23T16:40:18Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T16:30:57Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T16:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -293,7 +302,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4494,
-    "updated_at": "2026-08-23T16:42:10Z",
+    "updated_at": "2026-08-23T16:51:42Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -306,12 +315,21 @@
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1831,
+    "updated_at": "2026-08-23T15:53:42Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47307,
-    "updated_at": "2026-08-23T15:53:42Z",
+    "updated_at": "2026-08-23T16:47:18Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T16:39:31Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1830,
-    "updated_at": "2026-08-23T15:53:42Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "Zchary1106/Myrmecia",
     "stars": 2,
-    "updated_at": "2026-08-23T16:41:43Z",
+    "updated_at": "2026-08-23T16:46:43Z",
     "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-23T15:09:26Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 679,
-    "updated_at": "2026-08-23T15:05:27Z",
-    "url": "https://github.com/aeonfun/aeon"
   }
 ]
