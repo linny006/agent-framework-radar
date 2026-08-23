@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent Identity Protocol -- verifiable, delegable identity for AI agents across MCP and A2A. IETF Internet-Draft. PyPI: a",
+    "id": "sunilp/aip",
+    "language": "HTML",
+    "name": "sunilp/aip",
+    "stars": 6,
+    "updated_at": "2026-08-23T17:42:07Z",
+    "url": "https://github.com/sunilp/aip"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:41:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:41:08Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1314,
+    "updated_at": "2026-08-23T17:38:11Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:39:58Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 45,
+    "updated_at": "2026-08-23T17:36:19Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:35:18Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:34:57Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-23T17:31:39Z",
+    "updated_at": "2026-08-23T17:43:38Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -27,33 +99,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T17:30:11Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Agent Identity Protocol -- verifiable, delegable identity for AI agents across MCP and A2A. IETF Internet-Draft. PyPI: a",
-    "id": "sunilp/aip",
-    "language": "HTML",
-    "name": "sunilp/aip",
-    "stars": 6,
-    "updated_at": "2026-08-23T17:28:05Z",
-    "url": "https://github.com/sunilp/aip"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:23:11Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T17:21:54Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
@@ -95,7 +131,7 @@
     "language": "Go",
     "name": "rapidaai/voice-ai",
     "stars": 718,
-    "updated_at": "2026-08-23T17:29:44Z",
+    "updated_at": "2026-08-23T17:41:45Z",
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-23T17:13:47Z",
+    "updated_at": "2026-08-23T17:42:52Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -239,7 +275,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4494,
-    "updated_at": "2026-08-23T17:34:16Z",
+    "updated_at": "2026-08-23T17:42:33Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 45,
-    "updated_at": "2026-08-23T16:45:06Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
     "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
     "language": "Python",
@@ -378,15 +405,6 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 3,
-    "updated_at": "2026-08-23T16:07:19Z",
-    "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
     "description": "Evidence-native TypeScript framework for agents that perform bounded work under explicit authority.",
     "id": "lokomotifai/pactmark",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T16:00:55Z",
     "url": "https://github.com/NullLabTests/AlgoLab"
-  },
-  {
-    "description": "Everything is a plugin\uff01 \u4e00\u79cd\u57fa\u4e8e\u63d2\u4ef6\u5316\u6269\u5c55\u3001\u4e8b\u4ef6\u9a71\u52a8\u603b\u7ebf\u6a21\u5f0f\u6784\u5efa\u7684\u667a\u80fd\u4f53\u6846\u67b6\u4e0eagent\u5168\u6808\u5e94\u7528\uff08\u5f00\u53d1\u4e2d\uff09",
-    "id": "Removel/Icarus",
-    "language": "Python",
-    "name": "Removel/Icarus",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:59:18Z",
-    "url": "https://github.com/Removel/Icarus"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5232,
-    "updated_at": "2026-08-23T15:54:21Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   }
 ]
