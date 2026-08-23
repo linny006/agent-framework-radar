@@ -1,11 +1,29 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 12,
+    "updated_at": "2026-08-23T16:30:02Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T16:28:54Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 216,
-    "updated_at": "2026-08-23T16:26:55Z",
+    "updated_at": "2026-08-23T16:29:11Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -77,17 +95,8 @@
     "language": "Rust",
     "name": "PiyotaHu/muxiva",
     "stars": 1,
-    "updated_at": "2026-08-23T16:16:21Z",
+    "updated_at": "2026-08-23T16:28:57Z",
     "url": "https://github.com/PiyotaHu/muxiva"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T16:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -171,20 +180,11 @@
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 12,
-    "updated_at": "2026-08-23T16:05:14Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35069,
+    "stars": 35070,
     "updated_at": "2026-08-23T16:05:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -256,7 +256,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47306,
+    "stars": 47307,
     "updated_at": "2026-08-23T15:53:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -338,7 +338,7 @@
     "language": "HTML",
     "name": "IkhsanMAlbar/govchain-llm-orchestrator",
     "stars": 0,
-    "updated_at": "2026-08-23T15:25:54Z",
+    "updated_at": "2026-08-23T16:30:01Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
