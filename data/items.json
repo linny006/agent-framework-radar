@@ -1,5 +1,77 @@
 [
   {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-23T14:43:16Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 7,
+    "updated_at": "2026-08-23T14:42:11Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 44,
+    "updated_at": "2026-08-23T14:41:31Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:41:22Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
+    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "language": "Python",
+    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:40:31Z",
+    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:39:36Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:36:53Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:36:11Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -9,15 +81,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -25,15 +88,6 @@
     "stars": 10,
     "updated_at": "2026-08-23T14:30:11Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:30:03Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47302,
-    "updated_at": "2026-08-23T14:23:04Z",
+    "updated_at": "2026-08-23T14:43:00Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
-    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "language": "Python",
-    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:19:45Z",
-    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -178,6 +223,15 @@
     "stars": 3,
     "updated_at": "2026-08-23T14:19:40Z",
     "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35066,
+    "updated_at": "2026-08-23T14:42:23Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -297,15 +351,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:31:59Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
     "id": "rxnzyor/patchpilot",
     "language": "Python",
@@ -333,15 +378,6 @@
     "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:09:00Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 184,
-    "updated_at": "2026-08-23T14:07:46Z",
+    "updated_at": "2026-08-23T14:39:09Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 44,
-    "updated_at": "2026-08-23T13:55:37Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-23T14:11:11Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "PRAXOVELA (formerly AxisRobo Agent): a governable, local-first desktop agent runtime for AI execution. Deny by default, ",
-    "id": "axisrobo/praxovela-open",
-    "language": "Go",
-    "name": "axisrobo/praxovela-open",
-    "stars": 2,
-    "updated_at": "2026-08-23T13:54:19Z",
-    "url": "https://github.com/axisrobo/praxovela-open"
-  },
-  {
-    "description": "Multi-agent orchestration CLI for Claude Code \u2014 declarative TOML workflows, autonomous agents, context-compression recov",
-    "id": "stempeck/agentfactory",
-    "language": "Go",
-    "name": "stempeck/agentfactory",
-    "stars": 3,
-    "updated_at": "2026-08-23T13:51:46Z",
-    "url": "https://github.com/stempeck/agentfactory"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-23T13:50:45Z",
-    "url": "https://github.com/tya5/reyn"
   }
 ]
