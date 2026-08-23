@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI agent debugging backend \u2014 Fastify API + BullMQ worker + Postgres audit log + Redis queue + OpenAI loop-fix. Hardened ",
+    "id": "SUDARSHANCHAUDHARI/Synaptiq",
+    "language": "TypeScript",
+    "name": "SUDARSHANCHAUDHARI/Synaptiq",
+    "stars": 1,
+    "updated_at": "2026-08-23T08:18:48Z",
+    "url": "https://github.com/SUDARSHANCHAUDHARI/Synaptiq"
+  },
+  {
+    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-23T08:18:14Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T08:18:04Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-23T08:15:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-23T08:15:34Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T08:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-23T08:15:08Z",
+    "updated_at": "2026-08-23T08:19:45Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -63,21 +117,12 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T08:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-23T08:00:14Z",
+    "updated_at": "2026-08-23T08:20:00Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -90,7 +135,7 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "File-based AI tutoring harness for self-study: an LLM agent teaches from your own textbooks while every judgment call \u2014 ",
+    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
     "id": "lungstrahv/T2AG",
     "language": "Python",
     "name": "lungstrahv/T2AG",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:52:50Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9182,
-    "updated_at": "2026-08-23T08:15:12Z",
+    "updated_at": "2026-08-23T08:18:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-23T07:50:43Z",
+    "updated_at": "2026-08-23T08:19:11Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47290,
-    "updated_at": "2026-08-23T08:06:50Z",
+    "updated_at": "2026-08-23T08:15:27Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:29:02Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-23T07:28:26Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "",
@@ -360,24 +387,6 @@
     "url": "https://github.com/fathirn6263/harness-engineering"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-23T07:23:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:23:25Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
     "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
     "id": "Markusnigerian562/Project-A-MOS-Framework",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:17:51Z",
     "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T07:17:37Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
   }
 ]
