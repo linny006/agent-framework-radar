@@ -1,12 +1,21 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-23T19:29:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-23T19:41:54Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-08-23T19:41:41Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -14,8 +23,107 @@
     "language": "TypeScript",
     "name": "geniusdapeng-collab/workloom-im",
     "stars": 0,
-    "updated_at": "2026-08-23T19:24:59Z",
+    "updated_at": "2026-08-23T19:40:34Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
+    "id": "cristofima/maf-graphrag-series",
+    "language": "Python",
+    "name": "cristofima/maf-graphrag-series",
+    "stars": 2,
+    "updated_at": "2026-08-23T19:39:49Z",
+    "url": "https://github.com/cristofima/maf-graphrag-series"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:39:39Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:37:06Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:36:49Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 45,
+    "updated_at": "2026-08-23T19:36:08Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "First-party skill content for the multi-agent coordination framework",
+    "id": "mythicalOS/mythical-skills",
+    "language": "Shell",
+    "name": "mythicalOS/mythical-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:36:05Z",
+    "url": "https://github.com/mythicalOS/mythical-skills"
+  },
+  {
+    "description": "Role playbooks and coordination framework for multi-agent engineering teams",
+    "id": "mythicalOS/mythical-playbooks",
+    "language": "Shell",
+    "name": "mythicalOS/mythical-playbooks",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:35:32Z",
+    "url": "https://github.com/mythicalOS/mythical-playbooks"
+  },
+  {
+    "description": " Ujima Agents is a framework for building Slack-like teams of AI software development agents, with roles, workspace-boun",
+    "id": "UjimaAgents/ujima-agents",
+    "language": "TypeScript",
+    "name": "UjimaAgents/ujima-agents",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:33:33Z",
+    "url": "https://github.com/UjimaAgents/ujima-agents"
+  },
+  {
+    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 10,
+    "updated_at": "2026-08-23T19:38:05Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-23T19:41:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -54,15 +162,6 @@
     "url": "https://github.com/Rawbeew/flippy"
   },
   {
-    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 10,
-    "updated_at": "2026-08-23T19:22:28Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/effect-agent",
     "language": "TypeScript",
@@ -97,15 +196,6 @@
     "stars": 119,
     "updated_at": "2026-08-23T19:20:16Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-23T19:20:11Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -144,15 +234,6 @@
     "url": "https://github.com/Gald3r-Labs/gald3r"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T19:16:57Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -189,15 +270,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:26:02Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -212,7 +284,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4495,
-    "updated_at": "2026-08-23T19:26:50Z",
+    "updated_at": "2026-08-23T19:42:14Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -230,7 +302,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-23T18:58:20Z",
+    "updated_at": "2026-08-23T19:30:37Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 45,
-    "updated_at": "2026-08-23T18:50:21Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
     "id": "MobileGraph/mobilegraph",
     "language": "Kotlin",
@@ -277,15 +340,6 @@
     "stars": 306,
     "updated_at": "2026-08-23T18:43:07Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 77,
-    "updated_at": "2026-08-23T19:07:04Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
@@ -360,6 +414,15 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47309,
+    "updated_at": "2026-08-23T18:17:59Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:57:20Z",
     "url": "https://github.com/Random-Walk2026/agent_roundtable"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 5,
-    "updated_at": "2026-08-23T18:10:21Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 138,
-    "updated_at": "2026-08-23T17:47:28Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Agent Identity Protocol -- verifiable, delegable identity for AI agents across MCP and A2A. IETF Internet-Draft. PyPI: a",
-    "id": "sunilp/aip",
-    "language": "HTML",
-    "name": "sunilp/aip",
-    "stars": 6,
-    "updated_at": "2026-08-23T17:42:07Z",
-    "url": "https://github.com/sunilp/aip"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:41:08Z",
-    "url": "https://github.com/devpilgrin/berimor"
-  },
-  {
-    "description": "A toolkit for orchestrating multi-agent workflows, multi-step planning, parallel and sequential execution, error recover",
-    "id": "CogKnowEdge-Solutions/Orchestration",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:21:50Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Orchestration"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 718,
-    "updated_at": "2026-08-23T17:47:15Z",
-    "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 22,
-    "updated_at": "2026-08-23T17:13:03Z",
-    "url": "https://github.com/use-brian/use-brian"
   }
 ]
