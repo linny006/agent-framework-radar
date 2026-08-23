@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T20:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -106,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-08-23T20:03:04Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T20:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
@@ -347,7 +347,7 @@
     "language": "HTML",
     "name": "israriqbal/agent-ecologies",
     "stars": 120,
-    "updated_at": "2026-08-23T19:19:17Z",
+    "updated_at": "2026-08-23T20:17:25Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-23T19:13:49Z",
+    "updated_at": "2026-08-23T20:17:28Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
