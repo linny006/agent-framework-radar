@@ -1,21 +1,138 @@
 [
   {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
+    "description": "Free unlimited POSIX sandboxes with 0 cold start times",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 9,
+    "updated_at": "2026-08-23T03:44:59Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-23T03:44:16Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:44:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-23T03:40:42Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
     "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-23T03:29:07Z",
-    "url": "https://github.com/databricks-solutions/consort"
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 9,
+    "updated_at": "2026-08-23T03:40:39Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-23T03:39:44Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-23T03:39:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-23T03:38:56Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-23T03:37:53Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:34:26Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 11,
+    "updated_at": "2026-08-23T03:43:20Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1127,
-    "updated_at": "2026-08-23T03:28:26Z",
+    "stars": 1128,
+    "updated_at": "2026-08-23T03:32:03Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T03:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 12,
+    "updated_at": "2026-08-23T03:30:08Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 10,
+    "updated_at": "2026-08-23T03:30:25Z",
+    "url": "https://github.com/databricks-solutions/consort"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -32,17 +149,8 @@
     "language": "Python",
     "name": "getsynkora/synkora-ai",
     "stars": 25,
-    "updated_at": "2026-08-23T03:28:08Z",
+    "updated_at": "2026-08-23T03:37:00Z",
     "url": "https://github.com/getsynkora/synkora-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T03:27:42Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -72,21 +180,12 @@
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-23T03:24:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-23T03:28:36Z",
+    "updated_at": "2026-08-23T03:41:19Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -167,17 +266,8 @@
     "language": "Go",
     "name": "rapidaai/voice-ai",
     "stars": 718,
-    "updated_at": "2026-08-23T03:13:34Z",
+    "updated_at": "2026-08-23T03:36:56Z",
     "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-23T02:59:41Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -248,7 +338,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 122,
-    "updated_at": "2026-08-23T02:41:38Z",
+    "updated_at": "2026-08-23T03:42:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -292,7 +382,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1823,
+    "stars": 1824,
     "updated_at": "2026-08-23T02:25:00Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -304,24 +394,6 @@
     "stars": 4491,
     "updated_at": "2026-08-23T02:25:11Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:23:11Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-23T02:22:51Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -338,26 +410,8 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35052,
-    "updated_at": "2026-08-23T02:19:44Z",
+    "updated_at": "2026-08-23T03:40:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-23T02:16:47Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:16:41Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
     "description": "Visual AI agent builder & chat platform: drag-and-drop LLM workflows, SSE streaming chat, 80+ built-in tools, skill syst",
@@ -378,15 +432,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Free unlimited POSIX sandboxes with 0 cold start times",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 9,
-    "updated_at": "2026-08-23T02:11:02Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
     "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
     "id": "elchemista/spectre",
     "language": "Elixir",
@@ -403,50 +448,5 @@
     "stars": 181,
     "updated_at": "2026-08-23T02:44:07Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Self-hosted AI agents with a web UI \u2014 extend with Python/JS tools & MCP, schedule with cron Jobs, publish as public chat",
-    "id": "phamvanquyit/raw-agents",
-    "language": "TypeScript",
-    "name": "phamvanquyit/raw-agents",
-    "stars": 3,
-    "updated_at": "2026-08-23T02:03:26Z",
-    "url": "https://github.com/phamvanquyit/raw-agents"
-  },
-  {
-    "description": "File-based AI tutoring harness for self-study: an LLM agent teaches from your own textbooks while every judgment call \u2014 ",
-    "id": "lungstrahv/T2AG",
-    "language": "Python",
-    "name": "lungstrahv/T2AG",
-    "stars": 0,
-    "updated_at": "2026-08-23T01:55:52Z",
-    "url": "https://github.com/lungstrahv/T2AG"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T01:51:35Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Autonomous AI Algorithm Discovery Laboratory: a bounded, reproducible research platform that proposes, implements, tests",
-    "id": "NullLabTests/AlgoLab",
-    "language": "Python",
-    "name": "NullLabTests/AlgoLab",
-    "stars": 0,
-    "updated_at": "2026-08-23T01:50:30Z",
-    "url": "https://github.com/NullLabTests/AlgoLab"
-  },
-  {
-    "description": "Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in conso",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 629,
-    "updated_at": "2026-08-23T01:49:16Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
   }
 ]
