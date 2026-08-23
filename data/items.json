@@ -1,12 +1,93 @@
 [
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-23T23:43:42Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:55:47Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Hosting for AI agents \u2014 deploy from inside Claude. Open framework, CLI, and MCP server for grains.run.",
+    "id": "0000F8/grains",
+    "language": "Python",
+    "name": "0000F8/grains",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:52:03Z",
+    "url": "https://github.com/0000F8/grains"
+  },
+  {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 82,
+    "updated_at": "2026-08-23T23:49:35Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "Shell",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 24,
+    "updated_at": "2026-08-23T23:52:37Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:48:31Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "AI agents that organize like a company \u2014 and audit each other before shipping.",
+    "id": "jsk1004ha/luna-swarm",
+    "language": "TypeScript",
+    "name": "jsk1004ha/luna-swarm",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:50:17Z",
+    "url": "https://github.com/jsk1004ha/luna-swarm"
+  },
+  {
+    "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
+    "id": "BrainoutputHQ/brainoutput-community",
+    "language": "JavaScript",
+    "name": "BrainoutputHQ/brainoutput-community",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:46:41Z",
+    "url": "https://github.com/BrainoutputHQ/brainoutput-community"
+  },
+  {
+    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
+    "id": "we-are-singular/aml",
+    "language": "TypeScript",
+    "name": "we-are-singular/aml",
+    "stars": 13,
+    "updated_at": "2026-08-23T23:54:19Z",
+    "url": "https://github.com/we-are-singular/aml"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-23T23:46:18Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
+    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:45:59Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,17 +95,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T23:43:08Z",
+    "updated_at": "2026-08-23T23:45:20Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:39:29Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-23T23:43:42Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -41,17 +122,8 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-23T23:42:33Z",
+    "updated_at": "2026-08-23T23:49:23Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 13,
-    "updated_at": "2026-08-23T23:39:37Z",
-    "url": "https://github.com/we-are-singular/aml"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-23T23:34:14Z",
+    "updated_at": "2026-08-23T23:54:47Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -122,7 +194,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4496,
-    "updated_at": "2026-08-23T23:44:22Z",
+    "updated_at": "2026-08-23T23:54:22Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:14:25Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Hosting for AI agents \u2014 deploy from inside Claude. Open framework, CLI, and MCP server for grains.run.",
-    "id": "0000F8/grains",
-    "language": "Python",
-    "name": "0000F8/grains",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:13:13Z",
-    "url": "https://github.com/0000F8/grains"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -207,15 +270,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:57:13Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/effect-agent",
     "language": "TypeScript",
@@ -238,7 +292,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 540,
+    "stars": 541,
     "updated_at": "2026-08-23T22:35:38Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-23T21:21:34Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
-    "id": "joe960913/Jixu",
-    "language": "TypeScript",
-    "name": "joe960913/Jixu",
-    "stars": 113,
-    "updated_at": "2026-08-23T21:09:05Z",
-    "url": "https://github.com/joe960913/Jixu"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 5,
-    "updated_at": "2026-08-23T21:14:27Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3898,
-    "updated_at": "2026-08-23T21:04:36Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:03:22Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:02:54Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 10,
-    "updated_at": "2026-08-23T23:29:01Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   }
 ]
