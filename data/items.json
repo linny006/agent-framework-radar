@@ -1,5 +1,41 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-23T17:34:35Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:31:39Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-23T17:31:29Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/effect-agent",
     "language": "TypeScript",
@@ -99,15 +135,6 @@
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -198,15 +225,6 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-23T17:03:17Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Durable, typed multi-agent framework for Go.",
     "id": "Viking602/venat",
     "language": "Go",
@@ -221,7 +239,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4494,
-    "updated_at": "2026-08-23T17:27:56Z",
+    "updated_at": "2026-08-23T17:34:16Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -274,7 +292,7 @@
     "id": "parkerluxu/Awesome-agent-cases",
     "language": "JavaScript",
     "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-23T16:48:35Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 138,
-    "updated_at": "2026-08-23T16:13:53Z",
+    "updated_at": "2026-08-23T17:32:58Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5232,
     "updated_at": "2026-08-23T15:54:21Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1832,
-    "updated_at": "2026-08-23T15:53:42Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "PRAXOVELA (formerly AxisRobo Agent): a governable, local-first desktop agent runtime for AI execution. Deny by default, ",
-    "id": "axisrobo/praxovela-open",
-    "language": "Go",
-    "name": "axisrobo/praxovela-open",
-    "stars": 2,
-    "updated_at": "2026-08-23T15:52:09Z",
-    "url": "https://github.com/axisrobo/praxovela-open"
   }
 ]
