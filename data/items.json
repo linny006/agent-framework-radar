@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
+    "description": "A Unified Theory of Observer-Process Integration for Universal Problem Solving Through Tri-Dimensional Entropy Navigatio",
+    "id": "fullscreen-triangle/musande",
+    "language": "TeX",
+    "name": "fullscreen-triangle/musande",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:42:15Z",
+    "url": "https://github.com/fullscreen-triangle/musande"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 47,
+    "updated_at": "2026-08-24T23:38:24Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:37:57Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Evidence-grounded SEO, AEO & GEO Agent Skill for auditing, implementing, and measuring organic discovery across Google, ",
+    "id": "wrg32786/aeo-seo-geo-marketing",
+    "language": "Python",
+    "name": "wrg32786/aeo-seo-geo-marketing",
     "stars": 1,
-    "updated_at": "2026-08-24T23:25:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+    "updated_at": "2026-08-24T23:38:08Z",
+    "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +41,71 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9239,
-    "updated_at": "2026-08-24T23:27:12Z",
+    "updated_at": "2026-08-24T23:41:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
+    "id": "zxfpro/heart",
+    "language": "HTML",
+    "name": "zxfpro/heart",
+    "stars": 1,
+    "updated_at": "2026-08-24T23:33:38Z",
+    "url": "https://github.com/zxfpro/heart"
+  },
+  {
+    "description": "PRAXOVELA (formerly AxisRobo Agent): a governable, local-first desktop agent runtime for AI execution. Deny by default, ",
+    "id": "axisrobo/praxovela-open",
+    "language": "Go",
+    "name": "axisrobo/praxovela-open",
+    "stars": 2,
+    "updated_at": "2026-08-24T23:33:13Z",
+    "url": "https://github.com/axisrobo/praxovela-open"
+  },
+  {
+    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 10,
+    "updated_at": "2026-08-24T23:34:19Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-24T23:33:05Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T23:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-24T23:30:22Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T23:25:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -81,24 +171,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T23:16:16Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-24T23:15:19Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -115,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T23:12:15Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Evidence-grounded SEO, AEO & GEO Agent Skill for auditing, implementing, and measuring organic discovery across Google, ",
-    "id": "wrg32786/aeo-seo-geo-marketing",
-    "language": "Python",
-    "name": "wrg32786/aeo-seo-geo-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:30:05Z",
-    "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
   },
   {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
@@ -180,15 +243,6 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-24T23:00:56Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
     "id": "brunogcar/agent",
     "language": "Python",
@@ -203,26 +257,8 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T22:48:53Z",
+    "updated_at": "2026-08-24T23:38:30Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 47,
-    "updated_at": "2026-08-24T22:46:52Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 10,
-    "updated_at": "2026-08-24T22:51:05Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
     "description": "Canonical dual-runtime plugin catalog for the Allura ecosystem",
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-24T22:29:24Z",
+    "updated_at": "2026-08-24T23:38:49Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 51,
     "updated_at": "2026-08-24T22:04:15Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35118,
-    "updated_at": "2026-08-24T21:54:44Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-24T21:48:22Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:49:35Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-24T22:53:42Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
