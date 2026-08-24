@@ -1,5 +1,23 @@
 [
   {
+    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
+    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:01:12Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T00:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -32,17 +50,8 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 4,
-    "updated_at": "2026-08-23T23:58:53Z",
+    "updated_at": "2026-08-24T00:07:33Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T23:57:00Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -63,11 +72,20 @@
     "url": "https://github.com/0000F8/grains"
   },
   {
+    "description": "AI agents that organize like a company \u2014 and audit each other before shipping.",
+    "id": "jsk1004ha/luna-swarm",
+    "language": "TypeScript",
+    "name": "jsk1004ha/luna-swarm",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:50:17Z",
+    "url": "https://github.com/jsk1004ha/luna-swarm"
+  },
+  {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 82,
+    "stars": 83,
     "updated_at": "2026-08-23T23:49:35Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -90,15 +108,6 @@
     "url": "https://github.com/brunogcar/agent"
   },
   {
-    "description": "AI agents that organize like a company \u2014 and audit each other before shipping.",
-    "id": "jsk1004ha/luna-swarm",
-    "language": "TypeScript",
-    "name": "jsk1004ha/luna-swarm",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:50:17Z",
-    "url": "https://github.com/jsk1004ha/luna-swarm"
-  },
-  {
     "description": "An AI company you run yourself \u2014 agents with roles, approval gates and a Work Twin per person, on your own free / local ",
     "id": "BrainoutputHQ/brainoutput-community",
     "language": "JavaScript",
@@ -117,15 +126,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
-    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
-    "language": "\u2014",
-    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:45:59Z",
-    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -140,7 +140,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-23T23:49:23Z",
+    "updated_at": "2026-08-24T00:11:02Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -212,7 +212,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4496,
-    "updated_at": "2026-08-23T23:59:22Z",
+    "updated_at": "2026-08-24T00:15:14Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-23T23:59:57Z",
+    "updated_at": "2026-08-24T00:01:11Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4883,
-    "updated_at": "2026-08-23T21:54:15Z",
+    "updated_at": "2026-08-24T00:08:20Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
