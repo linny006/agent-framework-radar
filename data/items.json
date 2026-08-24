@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-24T03:59:24Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-24T03:58:32Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35082,
+    "updated_at": "2026-08-24T03:57:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
+    "id": "MRreeeg/multi_agent_orchestrator",
+    "language": "Go",
+    "name": "MRreeeg/multi_agent_orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:56:28Z",
+    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1723,
+    "updated_at": "2026-08-24T03:55:03Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:51:38Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
+    "language": "HTML",
+    "name": "ranxi2001/zero2Agent",
+    "stars": 308,
+    "updated_at": "2026-08-24T03:51:14Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:50:26Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:48:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:47:54Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "subs is an agent harness client & server. You can use it locally, remotely or with your team. You can customize everythi",
     "id": "substructureai/subs",
     "language": "Rust",
@@ -13,7 +112,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47318,
+    "stars": 47319,
     "updated_at": "2026-08-24T03:44:00Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -81,15 +180,6 @@
     "url": "https://github.com/Caprista/KarvyLoop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:37:01Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
     "id": "seed-forge/harness-ai-kit",
     "language": "Python",
@@ -131,7 +221,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4497,
-    "updated_at": "2026-08-24T03:44:46Z",
+    "updated_at": "2026-08-24T03:59:46Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 10,
     "updated_at": "2026-08-24T03:28:36Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
-    "id": "MRreeeg/multi_agent_orchestrator",
-    "language": "Go",
-    "name": "MRreeeg/multi_agent_orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T03:26:38Z",
-    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core. 3,800+ models.",
@@ -169,15 +250,6 @@
     "stars": 105,
     "updated_at": "2026-08-24T03:25:25Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-24T03:22:02Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -279,20 +351,11 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35083,
-    "updated_at": "2026-08-24T03:42:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
-    "stars": 1162,
+    "stars": 1163,
     "updated_at": "2026-08-24T03:03:40Z",
     "url": "https://github.com/clacky-ai/openclacky"
   },
@@ -333,15 +396,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-24T02:58:41Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 77,
-    "updated_at": "2026-08-24T03:43:09Z",
+    "updated_at": "2026-08-24T03:53:54Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-24T03:00:58Z",
     "url": "https://github.com/use-brian/use-brian"
-  },
-  {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 4,
-    "updated_at": "2026-08-24T02:48:44Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 256,
-    "updated_at": "2026-08-24T02:44:44Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:40:45Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1723,
-    "updated_at": "2026-08-24T02:37:44Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "The AI Agent framework for enterprises and agencies",
-    "id": "frogbotai/frogbot",
-    "language": "TypeScript",
-    "name": "frogbotai/frogbot",
-    "stars": 4,
-    "updated_at": "2026-08-24T02:35:50Z",
-    "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-24T02:32:49Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
