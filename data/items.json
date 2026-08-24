@@ -1,12 +1,93 @@
 [
   {
+    "description": "Muse Agents \u2014 harness-independent AI agent framework for agency operations. Thin personas + optional packs + adapters.",
+    "id": "harshsinghmp/muse-agents",
+    "language": "Shell",
+    "name": "harshsinghmp/muse-agents",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:07:57Z",
+    "url": "https://github.com/harshsinghmp/muse-agents"
+  },
+  {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
     "id": "usetheokit/theokit",
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 2,
-    "updated_at": "2026-08-24T14:58:40Z",
+    "updated_at": "2026-08-24T15:03:58Z",
     "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 47,
+    "updated_at": "2026-08-24T15:03:12Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13090,
+    "updated_at": "2026-08-24T15:01:54Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T15:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 257,
+    "updated_at": "2026-08-24T15:00:13Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-24T15:07:58Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1851,
+    "updated_at": "2026-08-24T14:57:21Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:55:20Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
+    "id": "ssevera1/Agent-Builder",
+    "language": "TypeScript",
+    "name": "ssevera1/Agent-Builder",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:55:03Z",
+    "url": "https://github.com/ssevera1/Agent-Builder"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -25,6 +106,15 @@
     "stars": 9,
     "updated_at": "2026-08-24T14:48:34Z",
     "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:48:09Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
@@ -54,15 +144,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T14:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-24T14:57:21Z",
+    "updated_at": "2026-08-24T15:04:57Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -171,21 +252,12 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-24T14:59:46Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
     "id": "geniusdapeng-collab/workloom-im",
     "language": "TypeScript",
     "name": "geniusdapeng-collab/workloom-im",
     "stars": 0,
-    "updated_at": "2026-08-24T14:31:03Z",
+    "updated_at": "2026-08-24T15:05:27Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
@@ -216,15 +288,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1851,
-    "updated_at": "2026-08-24T14:57:21Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Perform amazing feats, safely.",
     "id": "sycdan/nosedive",
     "language": "JavaScript",
@@ -239,7 +302,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-24T14:28:41Z",
+    "updated_at": "2026-08-24T15:04:29Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T14:25:57Z",
+    "updated_at": "2026-08-24T15:04:24Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 47,
-    "updated_at": "2026-08-24T14:11:40Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
     "id": "agents-universe/agents-universe",
     "language": "Python",
@@ -374,7 +428,7 @@
     "language": "TypeScript",
     "name": "geniusdapeng-collab/hyperreality-system",
     "stars": 9,
-    "updated_at": "2026-08-24T14:08:00Z",
+    "updated_at": "2026-08-24T15:03:05Z",
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-24T14:55:20Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 38,
     "updated_at": "2026-08-24T14:04:32Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-24T14:38:31Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:48:09Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 186,
-    "updated_at": "2026-08-24T13:54:29Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 414,
-    "updated_at": "2026-08-24T13:50:54Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-24T14:58:35Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   }
 ]
