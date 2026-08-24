@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T18:13:12Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T18:12:43Z",
+    "updated_at": "2026-08-24T18:15:09Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -32,17 +41,8 @@
     "language": "Python",
     "name": "Yigtwxx/Maestro",
     "stars": 1,
-    "updated_at": "2026-08-24T18:11:48Z",
+    "updated_at": "2026-08-24T18:15:15Z",
     "url": "https://github.com/Yigtwxx/Maestro"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T18:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
@@ -77,7 +77,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-24T17:58:25Z",
+    "updated_at": "2026-08-24T18:14:58Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -167,7 +167,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-24T18:04:59Z",
+    "updated_at": "2026-08-24T18:13:20Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47349,
-    "updated_at": "2026-08-24T18:04:29Z",
+    "updated_at": "2026-08-24T18:14:05Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
