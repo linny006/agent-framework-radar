@@ -1,12 +1,156 @@
 [
   {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:28:00Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T19:15:20Z",
+    "updated_at": "2026-08-24T19:27:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-24T19:25:30Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 4,
+    "updated_at": "2026-08-24T19:24:36Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-24T19:24:15Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-24T19:25:37Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:23:30Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:23:29Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:23:15Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:20:38Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9232,
+    "updated_at": "2026-08-24T19:20:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:20:15Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T19:20:07Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T19:18:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 719,
+    "updated_at": "2026-08-24T19:18:00Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1854,
+    "updated_at": "2026-08-24T19:15:27Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
@@ -16,6 +160,15 @@
     "stars": 2,
     "updated_at": "2026-08-24T19:12:30Z",
     "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 52,
+    "updated_at": "2026-08-24T19:28:34Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
@@ -45,31 +198,13 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
     "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 52,
-    "updated_at": "2026-08-24T19:11:20Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1854,
-    "updated_at": "2026-08-24T19:06:12Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9232,
-    "updated_at": "2026-08-24T19:05:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "aeonfun/aeon",
+    "stars": 686,
+    "updated_at": "2026-08-24T19:07:40Z",
+    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -79,15 +214,6 @@
     "stars": 23,
     "updated_at": "2026-08-24T19:03:24Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 719,
-    "updated_at": "2026-08-24T19:03:03Z",
-    "url": "https://github.com/rapidaai/voice-ai"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -113,26 +239,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 258,
-    "updated_at": "2026-08-24T19:01:16Z",
+    "updated_at": "2026-08-24T19:29:50Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T19:00:44Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 4,
-    "updated_at": "2026-08-24T19:10:32Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
@@ -140,7 +248,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T19:00:27Z",
+    "updated_at": "2026-08-24T19:21:41Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -149,35 +257,8 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 2,
-    "updated_at": "2026-08-24T19:10:20Z",
+    "updated_at": "2026-08-24T19:26:35Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-24T18:52:13Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 686,
-    "updated_at": "2026-08-24T19:07:40Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T19:07:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -212,17 +293,8 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-24T19:02:33Z",
+    "updated_at": "2026-08-24T19:18:41Z",
     "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:37:34Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -230,7 +302,7 @@
     "language": "HTML",
     "name": "skerry699/agent-symphony",
     "stars": 119,
-    "updated_at": "2026-08-24T18:36:50Z",
+    "updated_at": "2026-08-24T19:27:11Z",
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
@@ -241,33 +313,6 @@
     "stars": 7,
     "updated_at": "2026-08-24T18:34:11Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-24T18:34:04Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:30:53Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-24T18:30:44Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Perform amazing feats, safely.",
@@ -284,35 +329,8 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-24T19:02:02Z",
+    "updated_at": "2026-08-24T19:29:49Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:24:38Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:21:41Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-24T18:21:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
@@ -346,18 +364,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47348,
+    "stars": 47349,
     "updated_at": "2026-08-24T18:14:05Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:59:35Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
@@ -439,14 +448,5 @@
     "stars": 321,
     "updated_at": "2026-08-24T17:35:51Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 19,
-    "updated_at": "2026-08-24T18:48:53Z",
-    "url": "https://github.com/roackb2/heddle"
   }
 ]
