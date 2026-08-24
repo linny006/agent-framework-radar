@@ -1,5 +1,59 @@
 [
   {
+    "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
+    "id": "actonos/actonos",
+    "language": "Go",
+    "name": "actonos/actonos",
+    "stars": 140,
+    "updated_at": "2026-08-24T10:50:23Z",
+    "url": "https://github.com/actonos/actonos"
+  },
+  {
+    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
+    "id": "mwb1219/mwb-ai-claw",
+    "language": "Java",
+    "name": "mwb1219/mwb-ai-claw",
+    "stars": 2,
+    "updated_at": "2026-08-24T10:50:10Z",
+    "url": "https://github.com/mwb1219/mwb-ai-claw"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1169,
+    "updated_at": "2026-08-24T10:49:22Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-08-24T10:47:01Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T10:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1315,
+    "updated_at": "2026-08-24T10:44:56Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1726,
-    "updated_at": "2026-08-24T10:36:05Z",
+    "updated_at": "2026-08-24T10:47:08Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/Monadix-AI/monad"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T10:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
@@ -153,21 +198,12 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1315,
-    "updated_at": "2026-08-24T10:44:56Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 414,
-    "updated_at": "2026-08-24T10:43:13Z",
+    "updated_at": "2026-08-24T10:47:49Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9218,
-    "updated_at": "2026-08-24T10:17:37Z",
+    "updated_at": "2026-08-24T10:51:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -239,7 +275,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-24T10:08:37Z",
+    "updated_at": "2026-08-24T10:51:18Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 19472,
     "updated_at": "2026-08-24T09:32:55Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:31:37Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-08-24T09:31:00Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 459,
-    "updated_at": "2026-08-24T10:18:30Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-08-24T09:27:17Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
   }
 ]
