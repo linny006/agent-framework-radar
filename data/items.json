@@ -1,5 +1,23 @@
 [
   {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:03:17Z",
+    "url": "https://github.com/qyiun666/meowire"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T10:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
     "id": "jiabaobei/skills-constitution",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "Go",
     "name": "Gnosil/semantix",
     "stars": 115,
-    "updated_at": "2026-08-24T09:53:48Z",
+    "updated_at": "2026-08-24T10:02:22Z",
     "url": "https://github.com/Gnosil/semantix"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T09:45:55Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -167,7 +176,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35099,
-    "updated_at": "2026-08-24T09:39:19Z",
+    "updated_at": "2026-08-24T10:01:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -234,15 +243,6 @@
     "url": "https://github.com/tropo-ai/tropo"
   },
   {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:36:02Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1315,
-    "updated_at": "2026-08-24T09:52:32Z",
+    "updated_at": "2026-08-24T10:01:32Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -391,7 +391,7 @@
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
-    "stars": 1168,
+    "stars": 1169,
     "updated_at": "2026-08-24T09:05:15Z",
     "url": "https://github.com/clacky-ai/openclacky"
   },
