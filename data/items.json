@@ -1,5 +1,32 @@
 [
   {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-24T14:18:10Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T14:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5245,
+    "updated_at": "2026-08-24T14:15:15Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
     "id": "iyulab/ironhive-host",
     "language": "C#",
@@ -7,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:13:30Z",
     "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1851,
+    "updated_at": "2026-08-24T14:12:28Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -18,12 +54,30 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
+    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
+    "id": "agents-universe/agents-universe",
+    "language": "Python",
+    "name": "agents-universe/agents-universe",
+    "stars": 88,
+    "updated_at": "2026-08-24T14:09:48Z",
+    "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 9,
+    "updated_at": "2026-08-24T14:08:00Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1315,
-    "updated_at": "2026-08-24T14:14:56Z",
+    "updated_at": "2026-08-24T14:23:44Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -54,6 +108,15 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:05:22Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T14:04:22Z",
+    "updated_at": "2026-08-24T14:23:42Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -95,17 +158,8 @@
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1140,
-    "updated_at": "2026-08-24T14:03:50Z",
+    "updated_at": "2026-08-24T14:16:37Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T14:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47344,
-    "updated_at": "2026-08-24T13:51:59Z",
+    "updated_at": "2026-08-24T14:21:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-24T14:05:25Z",
+    "updated_at": "2026-08-24T14:17:50Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T13:43:15Z",
     "url": "https://github.com/Dikhun/Arctus.ai"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-24T14:08:00Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19478,
-    "updated_at": "2026-08-24T14:13:52Z",
+    "updated_at": "2026-08-24T14:16:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T13:25:20Z",
+    "updated_at": "2026-08-24T14:20:30Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -374,17 +419,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-24T14:15:11Z",
+    "updated_at": "2026-08-24T14:23:12Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-24T14:05:22Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
@@ -412,41 +448,5 @@
     "stars": 9222,
     "updated_at": "2026-08-24T13:14:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-24T13:23:50Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35110,
-    "updated_at": "2026-08-24T13:10:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Hosting for AI agents \u2014 deploy from inside Claude. Open framework, CLI, and MCP server for grains.run.",
-    "id": "0000F8/grains",
-    "language": "Python",
-    "name": "0000F8/grains",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:10:09Z",
-    "url": "https://github.com/0000F8/grains"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-24T14:10:57Z",
-    "url": "https://github.com/shaharia-lab/agento"
   }
 ]
