@@ -1,12 +1,21 @@
 [
   {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
     "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-24T02:29:41Z",
-    "url": "https://github.com/doeixd/effect-agent"
+    "name": "frogbotai/frogbot",
+    "stars": 4,
+    "updated_at": "2026-08-24T02:35:50Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "An open-source, local-first AI coding agent powered by Ollama \u2014 and the provider-agnostic TypeScript agent runtime under",
+    "id": "prabhsharan55/psw-code",
+    "language": "TypeScript",
+    "name": "prabhsharan55/psw-code",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:35:27Z",
+    "url": "https://github.com/prabhsharan55/psw-code"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-24T02:29:02Z",
+    "updated_at": "2026-08-24T02:33:06Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-24T02:33:01Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-24T02:32:49Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9201,
+    "updated_at": "2026-08-24T02:32:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-24T02:29:41Z",
+    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "truvaagents/truva-g3",
     "stars": 13,
-    "updated_at": "2026-08-24T02:28:55Z",
+    "updated_at": "2026-08-24T02:34:35Z",
     "url": "https://github.com/truvaagents/truva-g3"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 2260,
     "updated_at": "2026-08-24T02:21:51Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9201,
-    "updated_at": "2026-08-24T02:20:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "",
@@ -90,15 +135,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -117,21 +153,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An open-source, local-first AI coding agent powered by Ollama \u2014 and the provider-agnostic TypeScript agent runtime under",
-    "id": "prabhsharan55/psw-code",
-    "language": "TypeScript",
-    "name": "prabhsharan55/psw-code",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:15:45Z",
-    "url": "https://github.com/prabhsharan55/psw-code"
-  },
-  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T02:12:15Z",
+    "updated_at": "2026-08-24T02:30:30Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -329,7 +356,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4496,
-    "updated_at": "2026-08-24T02:29:32Z",
+    "updated_at": "2026-08-24T02:36:00Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -405,6 +432,15 @@
     "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
   },
   {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 105,
+    "updated_at": "2026-08-24T01:13:50Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T01:12:21Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:11:26Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-24T01:09:15Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1835,
-    "updated_at": "2026-08-24T01:08:47Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35082,
-    "updated_at": "2026-08-24T01:03:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
