@@ -1,5 +1,95 @@
 [
   {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-08-24T11:39:06Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
+    "id": "mwb1219/mwb-ai-claw",
+    "language": "Java",
+    "name": "mwb1219/mwb-ai-claw",
+    "stars": 2,
+    "updated_at": "2026-08-24T11:37:07Z",
+    "url": "https://github.com/mwb1219/mwb-ai-claw"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-24T11:36:35Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-24T11:35:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-24T11:35:04Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-08-24T11:36:45Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1726,
+    "updated_at": "2026-08-24T11:33:15Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-24T11:32:22Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1315,
+    "updated_at": "2026-08-24T11:32:10Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
     "id": "geniusdapeng-collab/hyperreality-system",
     "language": "TypeScript",
@@ -9,21 +99,21 @@
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   },
   {
-    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
-    "id": "mwb1219/mwb-ai-claw",
-    "language": "Java",
-    "name": "mwb1219/mwb-ai-claw",
-    "stars": 2,
-    "updated_at": "2026-08-24T11:26:40Z",
-    "url": "https://github.com/mwb1219/mwb-ai-claw"
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1850,
+    "updated_at": "2026-08-24T11:44:53Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9219,
-    "updated_at": "2026-08-24T11:26:39Z",
+    "stars": 9220,
+    "updated_at": "2026-08-24T11:42:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T11:19:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -124,15 +205,6 @@
     "stars": 38,
     "updated_at": "2026-08-24T11:18:35Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-08-24T11:21:09Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -158,7 +230,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-24T11:16:09Z",
+    "updated_at": "2026-08-24T11:42:12Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -189,20 +261,11 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1315,
-    "updated_at": "2026-08-24T11:23:22Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native te",
     "id": "joe960913/Jixu",
     "language": "TypeScript",
     "name": "joe960913/Jixu",
-    "stars": 114,
+    "stars": 113,
     "updated_at": "2026-08-24T11:12:07Z",
     "url": "https://github.com/joe960913/Jixu"
   },
@@ -248,7 +311,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4498,
-    "updated_at": "2026-08-24T11:12:01Z",
+    "updated_at": "2026-08-24T11:40:11Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-24T10:54:14Z",
+    "updated_at": "2026-08-24T11:41:36Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -315,33 +378,6 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-24T10:39:45Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1726,
-    "updated_at": "2026-08-24T10:47:08Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-24T10:35:03Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 414,
-    "updated_at": "2026-08-24T10:47:49Z",
+    "updated_at": "2026-08-24T11:42:00Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-24T10:10:23Z",
     "url": "https://github.com/detrin/brow"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-08-24T10:12:32Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26302,
-    "updated_at": "2026-08-24T10:08:47Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 116,
-    "updated_at": "2026-08-24T11:01:26Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 187,
-    "updated_at": "2026-08-24T10:39:32Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
