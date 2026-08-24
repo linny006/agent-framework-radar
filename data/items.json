@@ -1,11 +1,47 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35119,
+    "updated_at": "2026-08-24T23:57:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-24T23:52:35Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Shell",
+    "name": "pereirawe/opencode-flow",
+    "stars": 2,
+    "updated_at": "2026-08-24T23:47:07Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T23:45:40Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T23:43:56Z",
+    "updated_at": "2026-08-24T23:45:20Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -16,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T23:42:15Z",
     "url": "https://github.com/fullscreen-triangle/musande"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9240,
+    "updated_at": "2026-08-24T23:41:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-08-24T23:37:57Z",
+    "updated_at": "2026-08-24T23:54:07Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "wrg32786/aeo-seo-geo-marketing",
     "stars": 1,
-    "updated_at": "2026-08-24T23:38:08Z",
+    "updated_at": "2026-08-24T23:58:24Z",
     "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9239,
-    "updated_at": "2026-08-24T23:41:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
@@ -88,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T23:33:05Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-24T23:30:22Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:25:34Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T23:12:15Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 2,
-    "updated_at": "2026-08-24T23:11:13Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-24T23:38:49Z",
+    "updated_at": "2026-08-24T23:52:05Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-24T22:05:56Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 51,
-    "updated_at": "2026-08-24T22:04:15Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
