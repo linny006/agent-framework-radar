@@ -1,12 +1,84 @@
 [
   {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
+    "description": "An autonomous ultra-massive context agent orchestration framework designed to coordinate hundreds of LLMs across a 10-mi",
+    "id": "Dikhun/Arctus.ai",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19477,
-    "updated_at": "2026-08-24T13:31:34Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "Dikhun/Arctus.ai",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:43:15Z",
+    "url": "https://github.com/Dikhun/Arctus.ai"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 11,
+    "updated_at": "2026-08-24T13:41:39Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:40:28Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T13:40:28Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-08-24T13:39:30Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:38:43Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1139,
+    "updated_at": "2026-08-24T13:44:21Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 2,
+    "updated_at": "2026-08-24T13:36:35Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-24T13:36:13Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +86,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T13:30:26Z",
+    "updated_at": "2026-08-24T13:35:16Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 414,
+    "updated_at": "2026-08-24T13:41:23Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19477,
+    "updated_at": "2026-08-24T13:31:34Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checki",
@@ -32,17 +122,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T13:30:13Z",
+    "updated_at": "2026-08-24T13:38:58Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-24T13:30:01Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -52,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T13:28:40Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:27:19Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-24T13:35:07Z",
+    "updated_at": "2026-08-24T13:42:24Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-24T13:34:45Z",
+    "updated_at": "2026-08-24T13:39:50Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -94,7 +184,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47342,
+    "stars": 47343,
     "updated_at": "2026-08-24T13:23:29Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -166,7 +256,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9220,
+    "stars": 9221,
     "updated_at": "2026-08-24T13:14:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -250,15 +340,6 @@
     "stars": 6,
     "updated_at": "2026-08-24T13:07:33Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1139,
-    "updated_at": "2026-08-24T13:04:46Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "Multi-provider LLM failover router + agent harness. Semantic cache, quota-aware routing, key rotation. Stdlib-only core.",
@@ -346,7 +427,7 @@
     "id": "actonos/actonos",
     "language": "Go",
     "name": "actonos/actonos",
-    "stars": 140,
+    "stars": 139,
     "updated_at": "2026-08-24T12:50:47Z",
     "url": "https://github.com/actonos/actonos"
   },
@@ -355,7 +436,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 87,
+    "stars": 88,
     "updated_at": "2026-08-24T12:49:20Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T12:46:53Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4498,
-    "updated_at": "2026-08-24T13:33:32Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 40,
-    "updated_at": "2026-08-24T12:54:21Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-24T12:43:59Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 257,
-    "updated_at": "2026-08-24T12:42:25Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-24T12:40:38Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1726,
-    "updated_at": "2026-08-24T12:37:36Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:36:36Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:36:33Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-24T12:36:29Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   }
 ]
