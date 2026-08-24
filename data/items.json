@@ -1,12 +1,48 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9237,
+    "updated_at": "2026-08-24T21:50:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
+    "id": "solvent-labs-org/metaorcha",
+    "language": "Python",
+    "name": "solvent-labs-org/metaorcha",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:49:20Z",
+    "url": "https://github.com/solvent-labs-org/metaorcha"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 47,
+    "updated_at": "2026-08-24T21:47:19Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-24T21:45:09Z",
+    "updated_at": "2026-08-24T21:48:22Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T21:41:18Z",
+    "updated_at": "2026-08-24T21:50:11Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:49:35Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -81,15 +126,6 @@
     "url": "https://github.com/usetheokit/theokit"
   },
   {
-    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
-    "id": "solvent-labs-org/metaorcha",
-    "language": "Python",
-    "name": "solvent-labs-org/metaorcha",
-    "stars": 2,
-    "updated_at": "2026-08-24T21:34:34Z",
-    "url": "https://github.com/solvent-labs-org/metaorcha"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -133,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:32:02Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9237,
-    "updated_at": "2026-08-24T21:40:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T21:34:14Z",
+    "updated_at": "2026-08-24T21:51:17Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -311,7 +329,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4498,
-    "updated_at": "2026-08-24T21:42:31Z",
+    "updated_at": "2026-08-24T21:47:31Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 47,
-    "updated_at": "2026-08-24T20:51:06Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 19481,
     "updated_at": "2026-08-24T20:49:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
-    "id": "ellmos-ai/ellmos-homebase-mcp",
-    "language": "Python",
-    "name": "ellmos-ai/ellmos-homebase-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-24T20:47:01Z",
-    "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
   }
 ]
