@@ -1,5 +1,104 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 256,
+    "updated_at": "2026-08-24T02:44:44Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 4,
+    "updated_at": "2026-08-24T02:43:50Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:42:39Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-24T02:41:54Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:40:45Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47314,
+    "updated_at": "2026-08-24T02:40:18Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 16,
+    "updated_at": "2026-08-24T02:40:07Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 2,
+    "updated_at": "2026-08-24T02:39:05Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35082,
+    "updated_at": "2026-08-24T02:38:07Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T02:37:15Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:36:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The AI Agent framework for enterprises and agencies",
     "id": "frogbotai/frogbot",
     "language": "TypeScript",
@@ -27,15 +126,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-24T02:33:01Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -49,27 +139,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9201,
+    "stars": 9202,
     "updated_at": "2026-08-24T02:32:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 2,
-    "updated_at": "2026-08-24T02:29:41Z",
-    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -153,15 +225,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:30:30Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/3D-Agent",
     "language": "Python",
@@ -220,18 +283,9 @@
     "id": "ranxi2001/zero2Agent",
     "language": "HTML",
     "name": "ranxi2001/zero2Agent",
-    "stars": 306,
+    "stars": 308,
     "updated_at": "2026-08-24T02:04:43Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 16,
-    "updated_at": "2026-08-24T02:03:32Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -356,7 +410,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4496,
-    "updated_at": "2026-08-24T02:36:00Z",
+    "updated_at": "2026-08-24T02:45:17Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -373,7 +427,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 547,
+    "stars": 548,
     "updated_at": "2026-08-24T01:34:19Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -394,59 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-24T02:23:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 3,
-    "updated_at": "2026-08-24T01:20:46Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Goga is an AI engineering platform for building software with AI agents. Combine engineering knowledge, AI tools, and pi",
-    "id": "qarium/goga",
-    "language": "Python",
-    "name": "qarium/goga",
-    "stars": 13,
-    "updated_at": "2026-08-24T01:20:42Z",
-    "url": "https://github.com/qarium/goga"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-08-24T01:19:25Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
-    "id": "MRreeeg/multi_agent_orchestrator",
-    "language": "Go",
-    "name": "MRreeeg/multi_agent_orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:15:57Z",
-    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 105,
-    "updated_at": "2026-08-24T01:13:50Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:12:21Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
