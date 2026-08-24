@@ -1,12 +1,39 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-24T21:59:37Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Evidence-grounded SEO, AEO & GEO Agent Skill for auditing, implementing, and measuring organic discovery across Google, ",
+    "id": "wrg32786/aeo-seo-geo-marketing",
+    "language": "Python",
+    "name": "wrg32786/aeo-seo-geo-marketing",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:58:27Z",
+    "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9237,
-    "updated_at": "2026-08-24T21:50:13Z",
+    "stars": 9238,
+    "updated_at": "2026-08-24T21:56:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:51:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
@@ -18,15 +45,6 @@
     "url": "https://github.com/solvent-labs-org/metaorcha"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 47,
-    "updated_at": "2026-08-24T21:47:19Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -36,13 +54,13 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 47,
+    "updated_at": "2026-08-24T21:47:19Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T21:41:51Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-24T21:50:11Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
@@ -167,8 +176,17 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T21:32:02Z",
+    "updated_at": "2026-08-24T21:59:31Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15095,
+    "updated_at": "2026-08-24T21:58:25Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T21:51:17Z",
+    "updated_at": "2026-08-24T21:58:40Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -329,7 +347,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4498,
-    "updated_at": "2026-08-24T21:47:31Z",
+    "updated_at": "2026-08-24T21:59:28Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -392,7 +410,7 @@
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 0,
-    "updated_at": "2026-08-24T20:57:19Z",
+    "updated_at": "2026-08-24T21:51:51Z",
     "url": "https://github.com/sycdan/nosedive"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 51,
-    "updated_at": "2026-08-24T20:57:19Z",
+    "updated_at": "2026-08-24T21:59:21Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T20:52:24Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T20:51:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19481,
-    "updated_at": "2026-08-24T20:49:11Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
