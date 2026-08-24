@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T17:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-24T16:59:48Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -16,6 +34,15 @@
     "stars": 13,
     "updated_at": "2026-08-24T16:58:12Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 1,
+    "updated_at": "2026-08-24T16:57:05Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47348,
-    "updated_at": "2026-08-24T16:53:55Z",
+    "updated_at": "2026-08-24T17:04:26Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1315,
-    "updated_at": "2026-08-24T16:50:08Z",
+    "updated_at": "2026-08-24T17:03:50Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -104,17 +131,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6991,
-    "updated_at": "2026-08-24T16:48:28Z",
+    "updated_at": "2026-08-24T17:00:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 3,
-    "updated_at": "2026-08-24T16:43:56Z",
+    "updated_at": "2026-08-24T17:03:22Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 122,
     "updated_at": "2026-08-24T16:37:28Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-24T16:59:48Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-24T16:13:55Z",
+    "updated_at": "2026-08-24T17:03:12Z",
     "url": "https://github.com/vgp7758/Agt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T16:56:06Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 22,
-    "updated_at": "2026-08-24T15:50:28Z",
-    "url": "https://github.com/use-brian/use-brian"
   }
 ]
