@@ -1,5 +1,41 @@
 [
   {
+    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
+    "id": "jiabaobei/skills-constitution",
+    "language": "Python",
+    "name": "jiabaobei/skills-constitution",
+    "stars": 132,
+    "updated_at": "2026-08-24T09:14:26Z",
+    "url": "https://github.com/jiabaobei/skills-constitution"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:12:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:12:39Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u5f00\u53d1\u6846\u67b6\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness \u4e0e Loop",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-08-24T09:11:23Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1315,
-    "updated_at": "2026-08-24T09:05:38Z",
+    "updated_at": "2026-08-24T09:13:55Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -90,13 +126,13 @@
     "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "omnigent-ai/omnigent",
+    "stars": 9214,
+    "updated_at": "2026-08-24T09:14:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -130,7 +166,7 @@
     "id": "zxfpro/heart",
     "language": "HTML",
     "name": "zxfpro/heart",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-24T08:54:58Z",
     "url": "https://github.com/zxfpro/heart"
   },
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T08:54:08Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
-    "id": "jiabaobei/skills-constitution",
-    "language": "Python",
-    "name": "jiabaobei/skills-constitution",
-    "stars": 132,
-    "updated_at": "2026-08-24T08:52:24Z",
-    "url": "https://github.com/jiabaobei/skills-constitution"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -216,6 +243,15 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 114,
+    "updated_at": "2026-08-24T08:42:17Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T08:39:56Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9213,
-    "updated_at": "2026-08-24T09:01:31Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -421,32 +448,5 @@
     "stars": 40,
     "updated_at": "2026-08-24T09:10:00Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-24T08:18:54Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 458,
-    "updated_at": "2026-08-24T08:16:26Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 108,
-    "updated_at": "2026-08-24T08:15:54Z",
-    "url": "https://github.com/pqpo/pragma"
   }
 ]
