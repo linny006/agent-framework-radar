@@ -1,5 +1,104 @@
 [
   {
+    "description": "subs is an agent harness client & server. You can use it locally, remotely or with your team. You can customize everythi",
+    "id": "substructureai/subs",
+    "language": "Rust",
+    "name": "substructureai/subs",
+    "stars": 5,
+    "updated_at": "2026-08-24T03:44:34Z",
+    "url": "https://github.com/substructureai/subs"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47318,
+    "updated_at": "2026-08-24T03:44:00Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "The long-running embedded agent",
+    "id": "crabtalk/crabtalk",
+    "language": "Rust",
+    "name": "crabtalk/crabtalk",
+    "stars": 737,
+    "updated_at": "2026-08-24T03:42:49Z",
+    "url": "https://github.com/crabtalk/crabtalk"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:42:42Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 11,
+    "updated_at": "2026-08-24T03:43:06Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:42:28Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checki",
+    "id": "yxie2/dsh-petrinet",
+    "language": "TypeScript",
+    "name": "yxie2/dsh-petrinet",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:40:43Z",
+    "url": "https://github.com/yxie2/dsh-petrinet"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-08-24T03:40:00Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 10,
+    "updated_at": "2026-08-24T03:37:11Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:37:01Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
+    "id": "seed-forge/harness-ai-kit",
+    "language": "Python",
+    "name": "seed-forge/harness-ai-kit",
+    "stars": 16,
+    "updated_at": "2026-08-24T03:36:06Z",
+    "url": "https://github.com/seed-forge/harness-ai-kit"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -27,30 +126,12 @@
     "url": "https://github.com/lucaslus/dsh-desktop"
   },
   {
-    "description": "Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checki",
-    "id": "yxie2/dsh-petrinet",
-    "language": "TypeScript",
-    "name": "yxie2/dsh-petrinet",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:30:43Z",
-    "url": "https://github.com/yxie2/dsh-petrinet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4497,
-    "updated_at": "2026-08-24T03:34:41Z",
+    "updated_at": "2026-08-24T03:44:46Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -77,7 +158,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 39,
-    "updated_at": "2026-08-24T03:26:37Z",
+    "updated_at": "2026-08-24T03:38:59Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -88,15 +169,6 @@
     "stars": 105,
     "updated_at": "2026-08-24T03:25:25Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47316,
-    "updated_at": "2026-08-24T03:25:02Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -124,15 +196,6 @@
     "stars": 47,
     "updated_at": "2026-08-24T03:18:29Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
-    "id": "seed-forge/harness-ai-kit",
-    "language": "Python",
-    "name": "seed-forge/harness-ai-kit",
-    "stars": 16,
-    "updated_at": "2026-08-24T03:36:06Z",
-    "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
     "description": "Durable, typed multi-agent framework for Go.",
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35083,
-    "updated_at": "2026-08-24T03:06:07Z",
+    "updated_at": "2026-08-24T03:42:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -302,7 +365,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 77,
-    "updated_at": "2026-08-24T03:32:48Z",
+    "updated_at": "2026-08-24T03:43:09Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-24T02:32:49Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9202,
-    "updated_at": "2026-08-24T03:35:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-24T03:31:35Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-08-24T02:34:35Z",
-    "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
-    "description": "Evidence-grounded SEO, AEO & GEO Agent Skill for auditing, implementing, and measuring organic discovery across Google, ",
-    "id": "wrg32786/aeo-seo-geo-marketing",
-    "language": "Python",
-    "name": "wrg32786/aeo-seo-geo-marketing",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:24:06Z",
-    "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-24T02:20:02Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:19:53Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-24T02:15:04Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   }
 ]
