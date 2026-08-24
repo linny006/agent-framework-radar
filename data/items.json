@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T18:59:16Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-24T18:54:45Z",
+    "updated_at": "2026-08-24T19:00:27Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 686,
-    "updated_at": "2026-08-24T18:52:10Z",
+    "updated_at": "2026-08-24T19:00:06Z",
     "url": "https://github.com/aeonfun/aeon"
   },
   {
@@ -63,6 +72,15 @@
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T18:47:09Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T18:45:37Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T18:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -142,15 +151,6 @@
     "stars": 9231,
     "updated_at": "2026-08-24T18:53:03Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T18:47:09Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T18:58:03Z",
+    "updated_at": "2026-08-24T18:59:53Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-24T18:05:05Z",
+    "updated_at": "2026-08-24T18:59:35Z",
     "url": "https://github.com/vgp7758/Agt"
   },
   {
