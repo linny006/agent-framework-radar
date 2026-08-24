@@ -1,12 +1,12 @@
 [
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4497,
-    "updated_at": "2026-08-24T03:30:07Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:36:01Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 2,
-    "updated_at": "2026-08-24T03:27:26Z",
+    "updated_at": "2026-08-24T03:32:57Z",
     "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Native macOS desktop application for DeepSeek Harness (DSH) \u2014 Everything is a Plugin.",
+    "id": "lucaslus/dsh-desktop",
+    "language": "TypeScript",
+    "name": "lucaslus/dsh-desktop",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:32:57Z",
+    "url": "https://github.com/lucaslus/dsh-desktop"
+  },
+  {
+    "description": "Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checki",
+    "id": "yxie2/dsh-petrinet",
+    "language": "TypeScript",
+    "name": "yxie2/dsh-petrinet",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:30:43Z",
+    "url": "https://github.com/yxie2/dsh-petrinet"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4497,
+    "updated_at": "2026-08-24T03:34:41Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -58,7 +94,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47315,
+    "stars": 47316,
     "updated_at": "2026-08-24T03:25:02Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "seed-forge/harness-ai-kit",
     "stars": 16,
-    "updated_at": "2026-08-24T03:17:27Z",
+    "updated_at": "2026-08-24T03:36:06Z",
     "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
@@ -115,24 +151,6 @@
     "stars": 76,
     "updated_at": "2026-08-24T03:16:56Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Workflow-net runtime for DeepSeek Harness: resource-aware concurrency, native loops and fan-out, static soundness checki",
-    "id": "yxie2/dsh-petrinet",
-    "language": "TypeScript",
-    "name": "yxie2/dsh-petrinet",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:16:38Z",
-    "url": "https://github.com/yxie2/dsh-petrinet"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -202,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35082,
+    "stars": 35083,
     "updated_at": "2026-08-24T03:06:07Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 77,
-    "updated_at": "2026-08-24T03:27:11Z",
+    "updated_at": "2026-08-24T03:32:48Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
-    "description": "Native macOS desktop application for DeepSeek Harness (DSH) \u2014 Everything is a Plugin.",
-    "id": "lucaslus/dsh-desktop",
-    "language": "TypeScript",
-    "name": "lucaslus/dsh-desktop",
-    "stars": 1,
-    "updated_at": "2026-08-24T02:50:26Z",
-    "url": "https://github.com/lucaslus/dsh-desktop"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -360,15 +369,6 @@
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-24T02:37:15Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "The AI Agent framework for enterprises and agencies",
     "id": "frogbotai/frogbot",
     "language": "TypeScript",
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9202,
-    "updated_at": "2026-08-24T03:26:32Z",
+    "updated_at": "2026-08-24T03:35:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-24T03:29:59Z",
+    "updated_at": "2026-08-24T03:31:35Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
