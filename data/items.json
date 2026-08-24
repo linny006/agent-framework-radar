@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T16:27:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 19,
+    "updated_at": "2026-08-24T16:22:05Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -9,12 +27,21 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 3,
+    "updated_at": "2026-08-24T16:20:11Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1853,
-    "updated_at": "2026-08-24T16:19:15Z",
+    "updated_at": "2026-08-24T16:27:58Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T16:16:12Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -144,12 +162,21 @@
     "url": "https://github.com/colmugx/posoco-extension"
   },
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-24T16:04:26Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-24T16:23:23Z",
+    "updated_at": "2026-08-24T16:27:51Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T15:54:47Z",
     "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:20:11Z",
-    "url": "https://github.com/devpilgrin/berimor"
   },
   {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
@@ -338,7 +356,7 @@
     "language": "HTML",
     "name": "111nathanlar/Agent-Worlds",
     "stars": 1,
-    "updated_at": "2026-08-24T15:32:55Z",
+    "updated_at": "2026-08-24T16:29:05Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
@@ -347,7 +365,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-24T15:32:44Z",
+    "updated_at": "2026-08-24T16:28:59Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T16:21:37Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-24T16:04:26Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
@@ -439,14 +448,5 @@
     "stars": 1579,
     "updated_at": "2026-08-24T15:12:16Z",
     "url": "https://github.com/Core-Mate/OpenGUI"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 109,
-    "updated_at": "2026-08-24T15:12:00Z",
-    "url": "https://github.com/pqpo/pragma"
   }
 ]
