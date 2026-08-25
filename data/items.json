@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T18:28:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
     "id": "shaharia-lab/agento",
     "language": "Rust",
@@ -7,6 +16,15 @@
     "stars": 29,
     "updated_at": "2026-08-25T18:25:52Z",
     "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 3,
+    "updated_at": "2026-08-25T18:24:01Z",
+    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
@@ -79,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T18:16:22Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:15:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
@@ -340,15 +349,6 @@
     "stars": 35156,
     "updated_at": "2026-08-25T17:28:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:24:01Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
