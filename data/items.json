@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
+    "id": "MRreeeg/multi_agent_orchestrator",
+    "language": "Go",
+    "name": "MRreeeg/multi_agent_orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:34:54Z",
+    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
+  },
+  {
+    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "id": "yomorun/yomo",
+    "language": "Rust",
+    "name": "yomorun/yomo",
+    "stars": 1920,
+    "updated_at": "2026-08-25T02:34:26Z",
+    "url": "https://github.com/yomorun/yomo"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-25T02:31:12Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T02:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
     "id": "shimo4228/agent-knowledge-cycle",
     "language": "\u2014",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 40,
-    "updated_at": "2026-08-25T02:25:23Z",
+    "updated_at": "2026-08-25T02:33:31Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-25T02:29:37Z",
+    "updated_at": "2026-08-25T02:34:43Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9242,
-    "updated_at": "2026-08-25T02:18:38Z",
+    "updated_at": "2026-08-25T02:31:20Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T02:15:27Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T02:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -288,15 +315,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
-    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
-    "id": "MRreeeg/multi_agent_orchestrator",
-    "language": "Go",
-    "name": "MRreeeg/multi_agent_orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-25T01:45:53Z",
-    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -358,15 +376,6 @@
     "stars": 9,
     "updated_at": "2026-08-25T01:31:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83e\udd96 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
-    "id": "yomorun/yomo",
-    "language": "Rust",
-    "name": "yomorun/yomo",
-    "stars": 1920,
-    "updated_at": "2026-08-25T02:21:52Z",
-    "url": "https://github.com/yomorun/yomo"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T01:11:21Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-25T01:10:20Z",
-    "url": "https://github.com/databricks-solutions/consort"
   }
 ]
