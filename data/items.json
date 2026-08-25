@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
@@ -25,6 +34,15 @@
     "stars": 4,
     "updated_at": "2026-08-25T17:07:52Z",
     "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-25T17:05:28Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
@@ -79,15 +97,6 @@
     "stars": 125,
     "updated_at": "2026-08-25T17:02:54Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -439,14 +448,5 @@
     "stars": 6826,
     "updated_at": "2026-08-25T16:11:53Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Make small local LLMs reliable at multi-step agent workflows. Constrained decoding + verify-before-commit: 96.5% end-to-",
-    "id": "ahkamboh/stepmold",
-    "language": "Python",
-    "name": "ahkamboh/stepmold",
-    "stars": 0,
-    "updated_at": "2026-08-25T16:11:47Z",
-    "url": "https://github.com/ahkamboh/stepmold"
   }
 ]
