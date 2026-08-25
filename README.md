@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 23:00 UTC
+> ⏰ Last updated: 2026-08-25 23:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-25 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-08-25 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 3 | [cortexkit/aft](https://github.com/cortexkit/aft) | 261 | Rust | 2026-08-25 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-08-25 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 3 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-08-25 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
 | 4 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9276 | Python | 2026-08-25 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 5 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 469 | Go | 2026-08-25 | Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Co |
-| 6 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-25 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
-| 7 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 48 | HTML | 2026-08-25 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 261 | Rust | 2026-08-25 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 6 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 469 | Go | 2026-08-25 | Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Co |
+| 7 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-25 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
+| 8 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 48 | HTML | 2026-08-25 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
 | 9 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 13108 | Python | 2026-08-25 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
 | 10 | [sakibsadmanshajib/hive](https://github.com/sakibsadmanshajib/hive) | 0 | Go | 2026-08-25 | OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s |
 | 11 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-25 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
