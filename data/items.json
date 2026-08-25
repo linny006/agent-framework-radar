@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u6276\u6447 \u00b7 Nomad v0.7.0 \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\uff0c\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
+    "id": "NinjaSln-labs/fuyao-nomad",
+    "language": "JavaScript",
+    "name": "NinjaSln-labs/fuyao-nomad",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:00:14Z",
+    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:00:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A lightweight repository harness for safe agentic collaboration, deliberate codebase learning, and conversational learni",
     "id": "legrab/codebase-learning-flow",
     "language": "Shell",
@@ -72,15 +90,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "TypeScript SDK for building multi-agent LLM applications \u2014 event-sourced runtime, plugin-based tools, React client",
     "id": "contember/roj",
     "language": "TypeScript",
@@ -115,6 +124,15 @@
     "stars": 119,
     "updated_at": "2026-08-25T15:39:45Z",
     "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:36:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -203,7 +221,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4503,
-    "updated_at": "2026-08-25T15:55:09Z",
+    "updated_at": "2026-08-25T16:00:16Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "\u6276\u6447 \u00b7 Nomad v0.7.0 \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\uff0c\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
-    "id": "NinjaSln-labs/fuyao-nomad",
-    "language": "JavaScript",
-    "name": "NinjaSln-labs/fuyao-nomad",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:59:37Z",
-    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-25T15:14:02Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 196,
-    "updated_at": "2026-08-25T14:41:38Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
