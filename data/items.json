@@ -1,11 +1,110 @@
 [
   {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-25T05:14:52Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-25T05:12:17Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 14,
+    "updated_at": "2026-08-25T05:11:47Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-08-25T05:09:19Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 5,
+    "updated_at": "2026-08-25T05:09:17Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Open-source AI coding agent & harness in TypeScript - everything is a plugin. ReAct loop, MCP support (Claude-compatible",
+    "id": "lzy1102/openaide",
+    "language": "TypeScript",
+    "name": "lzy1102/openaide",
+    "stars": 0,
+    "updated_at": "2026-08-25T05:02:56Z",
+    "url": "https://github.com/lzy1102/openaide"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-25T05:02:41Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4883,
+    "updated_at": "2026-08-25T05:01:54Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 130,
+    "updated_at": "2026-08-25T05:01:18Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-25T05:00:30Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T05:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 19,
-    "updated_at": "2026-08-25T04:59:06Z",
+    "updated_at": "2026-08-25T05:05:26Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-08-25T04:58:29Z",
+    "updated_at": "2026-08-25T05:13:46Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19485,
-    "updated_at": "2026-08-25T04:56:49Z",
+    "updated_at": "2026-08-25T05:12:21Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 47,
     "updated_at": "2026-08-25T04:56:33Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:55:42Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
@@ -126,33 +216,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T04:51:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-08-25T04:49:14Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4883,
-    "updated_at": "2026-08-25T05:00:05Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
     "id": "franktsaodev/Frank-AI-Agent",
     "language": "Python",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9248,
-    "updated_at": "2026-08-25T04:44:28Z",
+    "updated_at": "2026-08-25T05:00:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/ChaoYue0307/awesome-graph-engineering"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-25T04:54:17Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
@@ -268,15 +322,6 @@
     "stars": 415,
     "updated_at": "2026-08-25T04:28:34Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-25T04:28:28Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-25T04:26:22Z",
+    "updated_at": "2026-08-25T05:15:00Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-25T04:07:04Z",
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:05:05Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 191,
-    "updated_at": "2026-08-25T04:38:53Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
-    "id": "zmzai-cloud/zmzai-agent",
-    "language": "TypeScript",
-    "name": "zmzai-cloud/zmzai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:02:35Z",
-    "url": "https://github.com/zmzai-cloud/zmzai-agent"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:02:29Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-08-25T04:02:26Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   }
 ]
