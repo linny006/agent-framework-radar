@@ -1,11 +1,56 @@
 [
   {
+    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
+    "id": "MRreeeg/multi_agent_orchestrator",
+    "language": "Go",
+    "name": "MRreeeg/multi_agent_orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-25T01:23:33Z",
+    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 51,
+    "updated_at": "2026-08-25T01:23:45Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Local-first control plane for long-running and multi-agent AI systems. Observe, steer, recover and orchestrate agents.",
+    "id": "LunaticLegacy/angelus",
+    "language": "Python",
+    "name": "LunaticLegacy/angelus",
+    "stars": 10,
+    "updated_at": "2026-08-25T01:21:43Z",
+    "url": "https://github.com/LunaticLegacy/angelus"
+  },
+  {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-25T01:18:47Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T01:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-25T01:15:02Z",
+    "updated_at": "2026-08-25T01:22:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9241,
-    "updated_at": "2026-08-25T01:14:40Z",
+    "updated_at": "2026-08-25T01:25:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -25,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T01:14:29Z",
     "url": "https://github.com/api-evangelist/open-souls"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35121,
+    "updated_at": "2026-08-25T01:12:05Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-25T01:12:16Z",
+    "updated_at": "2026-08-25T01:22:28Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T01:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 0,
-    "updated_at": "2026-08-25T01:10:11Z",
+    "updated_at": "2026-08-25T01:19:50Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Shell",
     "name": "pereirawe/opencode-flow",
     "stars": 2,
-    "updated_at": "2026-08-25T00:56:56Z",
+    "updated_at": "2026-08-25T01:25:48Z",
     "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 254,
     "updated_at": "2026-08-25T00:44:19Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35121,
-    "updated_at": "2026-08-25T01:12:05Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-25T00:12:36Z",
+    "updated_at": "2026-08-25T01:23:48Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 259,
     "updated_at": "2026-08-24T23:10:15Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1143,
-    "updated_at": "2026-08-24T23:09:40Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 71,
-    "updated_at": "2026-08-24T23:09:37Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-24T23:03:19Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 175,
-    "updated_at": "2026-08-24T23:01:53Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
