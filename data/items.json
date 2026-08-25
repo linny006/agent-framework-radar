@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:13:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -36,6 +45,15 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-08-25T15:05:30Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
     "description": "Portable agent profile definition \u2014 PROFILE.md schema and parser (SKILL.md-style frontmatter + system prompt)",
     "id": "open-assistants-lab/AgentProfile",
     "language": "Python",
@@ -52,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-08-25T15:04:50Z",
     "url": "https://github.com/mybay-ai/mybay-core"
+  },
+  {
+    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
+    "id": "streamcoreai/streamcore-server",
+    "language": "Go",
+    "name": "streamcoreai/streamcore-server",
+    "stars": 187,
+    "updated_at": "2026-08-25T15:02:29Z",
+    "url": "https://github.com/streamcoreai/streamcore-server"
   },
   {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
@@ -81,15 +108,6 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u6276\u6447 \u00b7 Nomad v0.7.0 \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\uff0c\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
     "id": "NinjaSln-labs/fuyao-nomad",
     "language": "JavaScript",
@@ -117,6 +135,15 @@
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
+    "description": "Execute SKILL.md agents via 4 modes \u2014 binary CLI, npx, HTTP API server, or embedded Node.js SDK",
+    "id": "enthrium/open-enthrium-ai-agent-runtime",
+    "language": "JavaScript",
+    "name": "enthrium/open-enthrium-ai-agent-runtime",
+    "stars": 2,
+    "updated_at": "2026-08-25T14:53:43Z",
+    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-25T14:50:25Z",
+    "updated_at": "2026-08-25T15:14:02Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 328,
     "updated_at": "2026-08-25T14:37:50Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Execute SKILL.md agents via 4 modes \u2014 binary CLI, npx, HTTP API server, or embedded Node.js SDK",
-    "id": "enthrium/open-enthrium-ai-agent-runtime",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-agent-runtime",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:53:43Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
   },
   {
     "description": "Self-hosted web-based AI platform \u2014 run SKILL.md agents + build your own enterprise knowledge base with RAG and private ",
@@ -373,7 +391,7 @@
     "id": "HanHan666666/patchbridge-agent",
     "language": "Java",
     "name": "HanHan666666/patchbridge-agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-25T14:26:23Z",
     "url": "https://github.com/HanHan666666/patchbridge-agent"
   },
@@ -385,15 +403,6 @@
     "stars": 13,
     "updated_at": "2026-08-25T14:25:55Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:05:30Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
@@ -439,14 +448,5 @@
     "stars": 9266,
     "updated_at": "2026-08-25T14:56:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:16:37Z",
-    "url": "https://github.com/colmugx/posoco-extension"
   }
 ]
