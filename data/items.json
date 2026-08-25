@@ -1,11 +1,74 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-25T00:14:53Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-25T00:12:36Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 10,
+    "updated_at": "2026-08-25T00:14:00Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
+    "id": "api-evangelist/autogen-studio",
+    "language": "\u2014",
+    "name": "api-evangelist/autogen-studio",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:11:20Z",
+    "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "Shell",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 24,
+    "updated_at": "2026-08-25T00:05:09Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "Evidence-grounded SEO, AEO & GEO Agent Skill for auditing, implementing, and measuring organic discovery across Google, ",
+    "id": "wrg32786/aeo-seo-geo-marketing",
+    "language": "Python",
+    "name": "wrg32786/aeo-seo-geo-marketing",
+    "stars": 1,
+    "updated_at": "2026-08-25T00:04:16Z",
+    "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-25T00:01:21Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T23:59:16Z",
+    "updated_at": "2026-08-25T00:00:30Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:45:40Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "A Unified Theory of Observer-Process Integration for Universal Problem Solving Through Tri-Dimensional Entropy Navigatio",
     "id": "fullscreen-triangle/musande",
     "language": "TeX",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9240,
-    "updated_at": "2026-08-24T23:41:45Z",
+    "updated_at": "2026-08-25T00:13:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T23:54:07Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Evidence-grounded SEO, AEO & GEO Agent Skill for auditing, implementing, and measuring organic discovery across Google, ",
-    "id": "wrg32786/aeo-seo-geo-marketing",
-    "language": "Python",
-    "name": "wrg32786/aeo-seo-geo-marketing",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:58:24Z",
-    "url": "https://github.com/wrg32786/aeo-seo-geo-marketing"
   },
   {
     "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
@@ -211,7 +256,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 258,
+    "stars": 259,
     "updated_at": "2026-08-24T23:10:15Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -259,6 +304,15 @@
     "stars": 1,
     "updated_at": "2026-08-24T22:53:03Z",
     "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15094,
+    "updated_at": "2026-08-24T22:49:06Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
@@ -315,15 +369,6 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-24T22:39:33Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
     "description": "Self-contained multi-agent AI orchestration runtime for .NET. CLI + web UI, native tools, sandboxing, MCP, layered memor",
     "id": "jnotsknab/mux-swarm",
     "language": "C#",
@@ -349,15 +394,6 @@
     "stars": 5,
     "updated_at": "2026-08-24T23:14:46Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-24T23:52:05Z",
-    "url": "https://github.com/shaharia-lab/agento"
   },
   {
     "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
@@ -412,41 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-24T22:10:23Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-24T22:09:47Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 686,
-    "updated_at": "2026-08-24T22:09:26Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-24T22:05:02Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-24T22:05:56Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
