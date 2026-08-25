@@ -1,12 +1,39 @@
 [
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
+    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
+    "id": "japo0nn/jumabek",
+    "language": "Rust",
+    "name": "japo0nn/jumabek",
+    "stars": 1,
+    "updated_at": "2026-08-25T11:16:38Z",
+    "url": "https://github.com/japo0nn/jumabek"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-25T11:15:38Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
     "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-25T11:14:31Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T11:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-25T11:15:23Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "\u6276\u6447 \u00b7 Nomad v0.7.0 \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\uff0c\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:14:52Z",
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-25T11:14:31Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
@@ -50,7 +86,7 @@
     "language": "SCSS",
     "name": "Eddiee-Wei/agent-engineering-notes",
     "stars": 0,
-    "updated_at": "2026-08-25T11:02:47Z",
+    "updated_at": "2026-08-25T11:18:39Z",
     "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
   },
   {
@@ -58,7 +94,7 @@
     "id": "ZJU-REAL/HugAgentOS",
     "language": "Python",
     "name": "ZJU-REAL/HugAgentOS",
-    "stars": 700,
+    "stars": 702,
     "updated_at": "2026-08-25T11:02:39Z",
     "url": "https://github.com/ZJU-REAL/HugAgentOS"
   },
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:01:32Z",
     "url": "https://github.com/mythicalOS/mythical-skills"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T11:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -122,7 +149,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-25T10:53:21Z",
+    "updated_at": "2026-08-25T11:19:03Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47372,
-    "updated_at": "2026-08-25T10:40:49Z",
+    "updated_at": "2026-08-25T11:16:21Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-25T11:00:00Z",
+    "updated_at": "2026-08-25T11:18:10Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -378,24 +405,6 @@
     "url": "https://github.com/substructureai/subs"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-25T10:19:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:19:31Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-25T10:12:14Z",
     "url": "https://github.com/seed-forge/harness-ai-kit"
-  },
-  {
-    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:08:36Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   }
 ]
