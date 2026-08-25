@@ -1,11 +1,47 @@
 [
   {
+    "description": "Self-hosted control plane for deploying, managing, and running AI agents on your own infrastructure.",
+    "id": "mybay-ai/mybay-core",
+    "language": "TypeScript",
+    "name": "mybay-ai/mybay-core",
+    "stars": 2,
+    "updated_at": "2026-08-25T15:28:21Z",
+    "url": "https://github.com/mybay-ai/mybay-core"
+  },
+  {
+    "description": "Self-hosted web-based AI platform \u2014 run SKILL.md agents + build your own enterprise knowledge base with RAG and private ",
+    "id": "enthrium/open-enthrium-ai-platform",
+    "language": "JavaScript",
+    "name": "enthrium/open-enthrium-ai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:25:33Z",
+    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:21:07Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-25T15:20:22Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T15:13:03Z",
+    "updated_at": "2026-08-25T15:15:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "mmeyerlein/meclaw",
     "stars": 11,
-    "updated_at": "2026-08-25T15:12:27Z",
+    "updated_at": "2026-08-25T15:22:36Z",
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
@@ -63,15 +99,6 @@
     "url": "https://github.com/open-assistants-lab/AgentProfile"
   },
   {
-    "description": "Self-hosted control plane for deploying, managing, and running AI agents on your own infrastructure.",
-    "id": "mybay-ai/mybay-core",
-    "language": "TypeScript",
-    "name": "mybay-ai/mybay-core",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:04:50Z",
-    "url": "https://github.com/mybay-ai/mybay-core"
-  },
-  {
     "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
     "id": "streamcoreai/streamcore-server",
     "language": "Go",
@@ -94,9 +121,18 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 103,
+    "stars": 104,
     "updated_at": "2026-08-25T15:01:34Z",
     "url": "https://github.com/agents-universe/agents-universe"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:00:59Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
@@ -115,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T14:59:37Z",
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-25T14:58:13Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
@@ -140,7 +185,7 @@
     "language": "JavaScript",
     "name": "enthrium/open-enthrium-ai-agent-runtime",
     "stars": 2,
-    "updated_at": "2026-08-25T14:53:43Z",
+    "updated_at": "2026-08-25T15:25:55Z",
     "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
   },
   {
@@ -180,6 +225,15 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:23:53Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 184,
-    "updated_at": "2026-08-25T15:08:01Z",
+    "updated_at": "2026-08-25T15:25:51Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -279,21 +333,12 @@
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
-    "description": "Self-hosted web-based AI platform \u2014 run SKILL.md agents + build your own enterprise knowledge base with RAG and private ",
-    "id": "enthrium/open-enthrium-ai-platform",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-25T14:53:28Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-25T15:10:42Z",
+    "updated_at": "2026-08-25T15:29:29Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:47:31Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
     "description": "Make small local LLMs reliable at multi-step agent workflows. Constrained decoding + verify-before-commit: 96.5% end-to-",
     "id": "ahkamboh/stepmold",
     "language": "Python",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "databricks-solutions/consort",
     "stars": 10,
-    "updated_at": "2026-08-25T14:30:09Z",
+    "updated_at": "2026-08-25T15:21:14Z",
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-25T14:27:13Z",
+    "updated_at": "2026-08-25T15:23:08Z",
     "url": "https://github.com/vgp7758/Agt"
   },
   {
@@ -391,7 +427,7 @@
     "id": "HanHan666666/patchbridge-agent",
     "language": "Java",
     "name": "HanHan666666/patchbridge-agent",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-25T14:26:23Z",
     "url": "https://github.com/HanHan666666/patchbridge-agent"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:24:46Z",
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:34:20Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
-    "id": "speleoalex/myagent",
-    "language": "Python",
-    "name": "speleoalex/myagent",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:20:29Z",
-    "url": "https://github.com/speleoalex/myagent"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19494,
-    "updated_at": "2026-08-25T14:56:35Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9266,
-    "updated_at": "2026-08-25T14:56:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
