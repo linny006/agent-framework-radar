@@ -1,5 +1,59 @@
 [
   {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-25T17:59:05Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:56:04Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:57:32Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Perform amazing feats, safely.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:59:34Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
+    "language": "Python",
+    "name": "ranxi2001/zero2Agent",
+    "stars": 328,
+    "updated_at": "2026-08-25T17:53:37Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:53:09Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -27,15 +81,6 @@
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "7bder/orchd-core",
     "stars": 1,
-    "updated_at": "2026-08-25T17:43:00Z",
+    "updated_at": "2026-08-25T18:00:12Z",
     "url": "https://github.com/7bder/orchd-core"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-25T17:38:30Z",
+    "updated_at": "2026-08-25T17:56:07Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9270,
-    "updated_at": "2026-08-25T17:33:46Z",
+    "updated_at": "2026-08-25T17:59:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -234,6 +279,15 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
+    "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
+    "id": "actonos/actonos",
+    "language": "Go",
+    "name": "actonos/actonos",
+    "stars": 115,
+    "updated_at": "2026-08-25T17:12:40Z",
+    "url": "https://github.com/actonos/actonos"
+  },
+  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
@@ -243,15 +297,6 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:09:35Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
@@ -259,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T17:07:52Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "Perform amazing feats, safely.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:52:46Z",
-    "url": "https://github.com/sycdan/nosedive"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19494,
-    "updated_at": "2026-08-25T17:48:42Z",
+    "updated_at": "2026-08-25T17:58:26Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/devpilgrin/berimor"
   },
   {
-    "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
-    "id": "actonos/actonos",
-    "language": "Go",
-    "name": "actonos/actonos",
-    "stars": 115,
-    "updated_at": "2026-08-25T17:12:40Z",
-    "url": "https://github.com/actonos/actonos"
-  },
-  {
     "description": "Minimal provider-agnostic AI agent framework. Tool loops, budget control, multi-model routing in ~200 lines core.",
     "id": "breakingthecloud/tinkuy",
     "language": "TypeScript",
@@ -376,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T16:56:06Z",
     "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
-    "id": "ranxi2001/zero2Agent",
-    "language": "Python",
-    "name": "ranxi2001/zero2Agent",
-    "stars": 328,
-    "updated_at": "2026-08-25T16:56:04Z",
-    "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T16:38:27Z",
     "url": "https://github.com/AnilKerai/model-harness"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-25T16:49:20Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5276,
-    "updated_at": "2026-08-25T16:34:36Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   }
 ]
