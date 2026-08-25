@@ -1,12 +1,66 @@
 [
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:58:07Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4881,
+    "updated_at": "2026-08-25T12:12:46Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9258,
+    "updated_at": "2026-08-25T12:12:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 261,
+    "updated_at": "2026-08-25T12:09:55Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19492,
+    "updated_at": "2026-08-25T12:13:19Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1172,
+    "updated_at": "2026-08-25T12:06:21Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
+    "id": "jumabek-dev/jumabek",
+    "language": "Rust",
+    "name": "jumabek-dev/jumabek",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:09:31Z",
+    "url": "https://github.com/jumabek-dev/jumabek"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 43,
+    "updated_at": "2026-08-25T12:04:36Z",
+    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -14,8 +68,62 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-08-25T11:56:02Z",
+    "updated_at": "2026-08-25T12:12:24Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
+    "id": "klarlabs-studio/nomi",
+    "language": "Go",
+    "name": "klarlabs-studio/nomi",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:04:03Z",
+    "url": "https://github.com/klarlabs-studio/nomi"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 194,
+    "updated_at": "2026-08-25T12:03:34Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-25T12:02:47Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T12:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:00:02Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:11:40Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:52:45Z",
     "url": "https://github.com/valory-xyz/mech-interact"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T11:52:12Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-25T11:56:18Z",
+    "updated_at": "2026-08-25T12:14:11Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -79,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T11:49:05Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
-    "id": "jumabek-dev/jumabek",
-    "language": "Rust",
-    "name": "jumabek-dev/jumabek",
-    "stars": 1,
-    "updated_at": "2026-08-25T11:49:03Z",
-    "url": "https://github.com/jumabek-dev/jumabek"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -211,7 +301,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5268,
+    "stars": 5269,
     "updated_at": "2026-08-25T11:39:59Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -223,33 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:39:11Z",
     "url": "https://github.com/somewhereafter/flourite"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-25T11:38:59Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1172,
-    "updated_at": "2026-08-25T11:45:20Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 261,
-    "updated_at": "2026-08-25T11:36:56Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -315,15 +378,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9257,
-    "updated_at": "2026-08-25T11:48:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -364,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35145,
+    "stars": 35147,
     "updated_at": "2026-08-25T11:17:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:14:52Z",
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-25T11:03:43Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
-    "id": "Eddiee-Wei/agent-engineering-notes",
-    "language": "SCSS",
-    "name": "Eddiee-Wei/agent-engineering-notes",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:21:01Z",
-    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
-  },
-  {
-    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
-    "id": "ZJU-REAL/HugAgentOS",
-    "language": "Python",
-    "name": "ZJU-REAL/HugAgentOS",
-    "stars": 718,
-    "updated_at": "2026-08-25T11:02:39Z",
-    "url": "https://github.com/ZJU-REAL/HugAgentOS"
-  },
-  {
-    "description": "Role playbooks and coordination framework for multi-agent engineering teams",
-    "id": "mythicalOS/mythical-playbooks",
-    "language": "Shell",
-    "name": "mythicalOS/mythical-playbooks",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:01:55Z",
-    "url": "https://github.com/mythicalOS/mythical-playbooks"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 11,
-    "updated_at": "2026-08-25T11:13:25Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
-    "id": "speleoalex/myagent",
-    "language": "Python",
-    "name": "speleoalex/myagent",
-    "stars": 3,
-    "updated_at": "2026-08-25T10:55:42Z",
-    "url": "https://github.com/speleoalex/myagent"
   }
 ]
