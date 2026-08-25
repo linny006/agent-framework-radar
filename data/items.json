@@ -1,11 +1,92 @@
 [
   {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 11,
+    "updated_at": "2026-08-25T23:14:56Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-25T23:14:43Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-25T23:14:17Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 261,
+    "updated_at": "2026-08-25T23:13:51Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-08-25T23:13:01Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9276,
+    "updated_at": "2026-08-25T23:15:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:05:14Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-25T23:05:02Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-25T23:02:56Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T23:00:25Z",
+    "updated_at": "2026-08-25T23:01:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -27,30 +108,12 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9276,
-    "updated_at": "2026-08-25T22:57:50Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 261,
-    "updated_at": "2026-08-25T22:57:31Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
     "name": "agenvoy/Agenvoy",
     "stars": 469,
-    "updated_at": "2026-08-25T22:49:44Z",
+    "updated_at": "2026-08-25T23:01:38Z",
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
@@ -81,30 +144,12 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:51:19Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-25T22:38:56Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
     "id": "shaharia-lab/agento",
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-25T22:53:04Z",
+    "updated_at": "2026-08-25T23:11:04Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-25T22:48:31Z",
+    "updated_at": "2026-08-25T23:09:35Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -180,21 +225,12 @@
     "url": "https://github.com/llm-works/llm-gent"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-25T22:13:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
     "name": "exha1078/agentic-workflow-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-25T22:13:19Z",
+    "updated_at": "2026-08-25T23:14:53Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
@@ -205,24 +241,6 @@
     "stars": 6,
     "updated_at": "2026-08-25T22:12:24Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 11,
-    "updated_at": "2026-08-25T22:06:26Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-25T22:55:52Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1318,
-    "updated_at": "2026-08-25T22:47:51Z",
+    "updated_at": "2026-08-25T23:05:12Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T20:48:27Z",
     "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7004,
-    "updated_at": "2026-08-25T20:47:01Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-25T20:37:09Z",
-    "url": "https://github.com/doeixd/effect-agent"
   }
 ]
