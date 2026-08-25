@@ -1,21 +1,30 @@
 [
   {
-    "description": "Hermes \u2014 a local-first console for AI agents that work like employees. Self-dispatching queue, quality-gated completion,",
-    "id": "at0m-b0mb/talaria",
-    "language": "\u2014",
-    "name": "at0m-b0mb/talaria",
-    "stars": 0,
-    "updated_at": "2026-08-25T20:45:08Z",
-    "url": "https://github.com/at0m-b0mb/talaria"
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-25T20:58:45Z",
+    "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T20:43:37Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-25T20:53:45Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 48,
+    "updated_at": "2026-08-25T20:49:26Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -23,8 +32,35 @@
     "language": "Java",
     "name": "mauro-mura/agenor",
     "stars": 0,
-    "updated_at": "2026-08-25T20:41:39Z",
+    "updated_at": "2026-08-25T20:48:27Z",
     "url": "https://github.com/mauro-mura/agenor"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-25T20:46:36Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T20:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-25T20:41:25Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-25T20:39:40Z",
+    "updated_at": "2026-08-25T20:55:49Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -58,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35158,
+    "stars": 35159,
     "updated_at": "2026-08-25T20:37:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 51,
-    "updated_at": "2026-08-25T20:33:05Z",
+    "updated_at": "2026-08-25T20:58:34Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T20:32:48Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-25T20:26:57Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -198,21 +225,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-25T20:12:22Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-25T20:10:32Z",
+    "updated_at": "2026-08-25T20:49:33Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 9274,
     "updated_at": "2026-08-25T20:10:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-25T20:41:25Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-25T20:12:39Z",
+    "updated_at": "2026-08-25T20:55:02Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7002,
-    "updated_at": "2026-08-25T19:54:37Z",
+    "updated_at": "2026-08-25T20:47:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T19:51:22Z",
     "url": "https://github.com/sycdan/nosedive"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 48,
-    "updated_at": "2026-08-25T19:51:14Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -396,15 +396,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-25T19:31:57Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
     "id": "Smita6756/Hbrain",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 2,
     "updated_at": "2026-08-25T19:27:11Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
+  },
+  {
+    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
+    "id": "vmy41/agent-harness",
+    "language": "\u2014",
+    "name": "vmy41/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-08-25T19:26:47Z",
+    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
