@@ -1,5 +1,23 @@
 [
   {
+    "description": "Hermes \u2014 a local-first console for AI agents that work like employees. Self-dispatching queue, quality-gated completion,",
+    "id": "at0m-b0mb/talaria",
+    "language": "\u2014",
+    "name": "at0m-b0mb/talaria",
+    "stars": 0,
+    "updated_at": "2026-08-25T20:45:08Z",
+    "url": "https://github.com/at0m-b0mb/talaria"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T20:43:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous multi-agent coordination for the JVM",
     "id": "mauro-mura/agenor",
     "language": "Java",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T20:32:48Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T20:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T19:27:11Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-08-25T19:26:47Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
