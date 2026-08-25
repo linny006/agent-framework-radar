@@ -1,5 +1,104 @@
 [
   {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 3,
+    "updated_at": "2026-08-25T21:56:30Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-25T21:56:04Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 11,
+    "updated_at": "2026-08-25T21:55:10Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 122,
+    "updated_at": "2026-08-25T21:54:58Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 8,
+    "updated_at": "2026-08-25T21:53:53Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-25T21:53:46Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1318,
+    "updated_at": "2026-08-25T21:58:34Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 48,
+    "updated_at": "2026-08-25T21:47:08Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T21:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-08-25T21:44:27Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "\ud83d\ude80 SDD + ADD Starter Template \u2014 AI Coding Assistant Governance Framework. Turn your AI coding assistant into a discipline",
+    "id": "khangpqvn/SDDADD",
+    "language": "Shell",
+    "name": "khangpqvn/SDDADD",
+    "stars": 6,
+    "updated_at": "2026-08-25T21:44:25Z",
+    "url": "https://github.com/khangpqvn/SDDADD"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -27,15 +126,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T21:42:08Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
     "id": "rhein1/agoragentic-integrations",
     "language": "JavaScript",
@@ -43,6 +133,15 @@
     "stars": 29,
     "updated_at": "2026-08-25T21:37:38Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35160,
+    "updated_at": "2026-08-25T21:36:38Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
@@ -68,7 +167,7 @@
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 0,
-    "updated_at": "2026-08-25T21:34:36Z",
+    "updated_at": "2026-08-25T21:51:18Z",
     "url": "https://github.com/sycdan/nosedive"
   },
   {
@@ -97,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T21:31:09Z",
     "url": "https://github.com/MrGood4U/cosight"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1318,
-    "updated_at": "2026-08-25T21:38:11Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-25T21:27:04Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Hire AI agents, give them jobs, watch them work. A local-first console where agents own a queue, use real tools, and pas",
@@ -176,7 +257,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-25T21:38:09Z",
+    "updated_at": "2026-08-25T21:58:28Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9275,
-    "updated_at": "2026-08-25T21:18:17Z",
+    "updated_at": "2026-08-25T21:58:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -275,35 +356,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 51,
-    "updated_at": "2026-08-25T21:03:52Z",
+    "updated_at": "2026-08-25T21:47:59Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35160,
-    "updated_at": "2026-08-25T21:36:38Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-25T21:45:21Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 48,
-    "updated_at": "2026-08-25T20:49:26Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -322,15 +376,6 @@
     "stars": 7003,
     "updated_at": "2026-08-25T20:47:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 122,
-    "updated_at": "2026-08-25T21:43:59Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -378,15 +423,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 11,
-    "updated_at": "2026-08-25T20:14:21Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 261,
     "updated_at": "2026-08-25T19:57:25Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 15,
-    "updated_at": "2026-08-25T19:53:05Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "[\u4e2d\u6587\u5316] ",
-    "id": "yangshun2005/eve-cn",
-    "language": "TypeScript",
-    "name": "yangshun2005/eve-cn",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:45:22Z",
-    "url": "https://github.com/yangshun2005/eve-cn"
-  },
-  {
-    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
-    "id": "synapse-ai-hub/synapseForge",
-    "language": "Python",
-    "name": "synapse-ai-hub/synapseForge",
-    "stars": 3,
-    "updated_at": "2026-08-25T19:41:44Z",
-    "url": "https://github.com/synapse-ai-hub/synapseForge"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-25T19:40:53Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
