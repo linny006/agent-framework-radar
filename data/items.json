@@ -1,5 +1,32 @@
 [
   {
+    "description": "Make small local LLMs reliable at multi-step agent workflows. Constrained decoding + verify-before-commit: 96.5% end-to-",
+    "id": "ahkamboh/stepmold",
+    "language": "Python",
+    "name": "ahkamboh/stepmold",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:30:18Z",
+    "url": "https://github.com/ahkamboh/stepmold"
+  },
+  {
+    "description": "Lightweight browser-side AI agent framework for legacy enterprise web apps\u2014Java 8, Spring Boot 2, TypeScript, MCP/WebMCP",
+    "id": "HanHan666666/patchbridge-agent",
+    "language": "Java",
+    "name": "HanHan666666/patchbridge-agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:26:23Z",
+    "url": "https://github.com/HanHan666666/patchbridge-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T14:26:15Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
     "id": "actonos/actonos",
     "language": "Go",
@@ -36,15 +63,6 @@
     "url": "https://github.com/NullLabTests/AlgoLab"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent context compressor and memory persistent orchestration",
     "id": "wmcmahan/cycgraph",
     "language": "TypeScript",
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:11:08Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "Lightweight browser-side AI agent framework for legacy enterprise web apps\u2014Java 8, Spring Boot 2, TypeScript, MCP/WebMCP",
-    "id": "HanHan666666/patchbridge-agent",
-    "language": "Java",
-    "name": "HanHan666666/patchbridge-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:09:53Z",
-    "url": "https://github.com/HanHan666666/patchbridge-agent"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-25T13:58:01Z",
+    "updated_at": "2026-08-25T14:27:13Z",
     "url": "https://github.com/vgp7758/Agt"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47376,
-    "updated_at": "2026-08-25T13:56:45Z",
+    "updated_at": "2026-08-25T14:28:53Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 248,
-    "updated_at": "2026-08-25T14:22:41Z",
+    "updated_at": "2026-08-25T14:28:40Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T13:37:46Z",
     "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5272,
-    "updated_at": "2026-08-25T13:37:31Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   }
 ]
