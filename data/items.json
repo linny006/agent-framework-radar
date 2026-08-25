@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:46:30Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T10:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u6276\u6447 \u00b7 Nomad v0.7.0 \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\uff0c\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
     "id": "NinjaSln-labs/fuyao-nomad",
     "language": "JavaScript",
@@ -106,15 +124,6 @@
     "stars": 10,
     "updated_at": "2026-08-25T10:30:23Z",
     "url": "https://github.com/LunaticLegacy/angelus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T10:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -243,15 +252,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:17:32Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
     "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
     "id": "agenvoy/Agenvoy",
     "language": "Go",
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15102,
-    "updated_at": "2026-08-25T10:20:35Z",
+    "updated_at": "2026-08-25T10:47:10Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
