@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:43:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:39:03Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
     "description": "An agent = model + harness. A .NET 10 framework where guides shape the model's context each turn and sensors guard every",
     "id": "AnilKerai/model-harness",
     "language": "C#",
@@ -70,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-08-25T16:38:19Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T16:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -234,15 +243,6 @@
     "url": "https://github.com/ahkamboh/stepmold"
   },
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-25T16:39:03Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47381,
-    "updated_at": "2026-08-25T16:34:45Z",
+    "updated_at": "2026-08-25T16:43:45Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
