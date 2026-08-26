@@ -1,5 +1,23 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-25T23:58:23Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T23:58:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
     "id": "saajunaid/caddis-plugin",
     "language": "Python",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19492,
-    "updated_at": "2026-08-25T23:50:26Z",
+    "updated_at": "2026-08-25T23:59:54Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9277,
-    "updated_at": "2026-08-25T23:55:24Z",
+    "updated_at": "2026-08-25T23:58:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -81,21 +99,12 @@
     "url": "https://github.com/usetheokit/theokit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T23:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-25T23:43:27Z",
+    "updated_at": "2026-08-25T23:58:00Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2263,
     "updated_at": "2026-08-25T21:17:37Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-25T23:43:40Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
