@@ -1,5 +1,77 @@
 [
   {
+    "description": "Durable single-Agent Harness for TypeScript: recoverable Threads, context continuity, explicit side effects, and a nativ",
+    "id": "joe960913/Jixu",
+    "language": "TypeScript",
+    "name": "joe960913/Jixu",
+    "stars": 116,
+    "updated_at": "2026-08-26T13:08:50Z",
+    "url": "https://github.com/joe960913/Jixu"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:08:30Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 4,
+    "updated_at": "2026-08-26T13:11:21Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-26T13:02:32Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
+    "id": "trbearth/fieldwork-agent-os",
+    "language": "CSS",
+    "name": "trbearth/fieldwork-agent-os",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:01:35Z",
+    "url": "https://github.com/trbearth/fieldwork-agent-os"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 43,
+    "updated_at": "2026-08-26T13:00:37Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-26T12:59:19Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 9292,
     "updated_at": "2026-08-26T12:58:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35180,
-    "updated_at": "2026-08-26T12:55:12Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -27,12 +90,21 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35180,
+    "updated_at": "2026-08-26T13:05:54Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
     "id": "SunrisesIllNeverSee/agent-universe",
     "language": "HTML",
     "name": "SunrisesIllNeverSee/agent-universe",
     "stars": 1,
-    "updated_at": "2026-08-26T12:53:38Z",
+    "updated_at": "2026-08-26T13:10:22Z",
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 0,
-    "updated_at": "2026-08-26T12:51:26Z",
+    "updated_at": "2026-08-26T13:04:09Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 254,
-    "updated_at": "2026-08-26T12:51:25Z",
+    "updated_at": "2026-08-26T13:07:08Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-08-26T12:51:19Z",
+    "updated_at": "2026-08-26T13:10:29Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-26T12:51:05Z",
+    "updated_at": "2026-08-26T13:10:46Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -117,15 +189,6 @@
     "url": "https://github.com/Zchary1106/Myrmecia"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T12:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -133,15 +196,6 @@
     "stars": 120,
     "updated_at": "2026-08-26T12:42:34Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Durable single-Agent Harness for TypeScript: recoverable Threads, context continuity, explicit side effects, and a nativ",
-    "id": "joe960913/Jixu",
-    "language": "TypeScript",
-    "name": "joe960913/Jixu",
-    "stars": 116,
-    "updated_at": "2026-08-26T12:40:24Z",
-    "url": "https://github.com/joe960913/Jixu"
   },
   {
     "description": "dsh-megamesh: super multi-agent architecture - files are messages, adoption replaces all-hands-on-deck failure, term lea",
@@ -194,7 +248,7 @@
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 0,
-    "updated_at": "2026-08-26T12:35:49Z",
+    "updated_at": "2026-08-26T13:10:55Z",
     "url": "https://github.com/sycdan/nosedive"
   },
   {
@@ -265,7 +319,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47417,
+    "stars": 47415,
     "updated_at": "2026-08-26T12:24:50Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "sandeepyadav1478/touchstone",
     "stars": 0,
-    "updated_at": "2026-08-26T12:22:30Z",
+    "updated_at": "2026-08-26T13:07:25Z",
     "url": "https://github.com/sandeepyadav1478/touchstone"
   },
   {
@@ -346,7 +400,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13123,
+    "stars": 13124,
     "updated_at": "2026-08-26T12:11:00Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -360,21 +414,12 @@
     "url": "https://github.com/Lxxz666/DSH-wanter-python"
   },
   {
-    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-08-26T12:07:30Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 4,
-    "updated_at": "2026-08-26T12:05:03Z",
+    "updated_at": "2026-08-26T13:13:02Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-26T12:01:16Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-26T12:00:55Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-26T12:00:02Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:55:19Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-26T11:52:03Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 48,
-    "updated_at": "2026-08-26T11:48:31Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   }
 ]
