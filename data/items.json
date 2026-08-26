@@ -1,12 +1,66 @@
 [
   {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
+    "description": "DeepSeek Harness (dsh) plugins + scaffold: file tree with live git status, browser-reader, MiniMax search, cron schedule",
+    "id": "codelogickeep/deepseek-harness-plugin",
+    "language": "JavaScript",
+    "name": "codelogickeep/deepseek-harness-plugin",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:59:57Z",
+    "url": "https://github.com/codelogickeep/deepseek-harness-plugin"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-26T15:58:11Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
     "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 113,
-    "updated_at": "2026-08-26T15:49:49Z",
-    "url": "https://github.com/pqpo/pragma"
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 9,
+    "updated_at": "2026-08-26T15:56:29Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:56:25Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:54:34Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-26T15:52:53Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness/Loop\u3001Replay \u4e0e\u672c\u5730\u53ef\u89c2\u6d4b\u6027",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-08-26T15:51:07Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T15:46:28Z",
+    "updated_at": "2026-08-26T15:50:11Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 113,
+    "updated_at": "2026-08-26T15:49:49Z",
+    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "kdcube/kdcube",
     "stars": 25,
-    "updated_at": "2026-08-26T15:42:16Z",
+    "updated_at": "2026-08-26T15:58:29Z",
     "url": "https://github.com/kdcube/kdcube"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "hjl2004-10/Agent-Worlds",
     "stars": 4,
-    "updated_at": "2026-08-26T15:36:00Z",
+    "updated_at": "2026-08-26T15:54:28Z",
     "url": "https://github.com/hjl2004-10/Agent-Worlds"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
-    "description": "DeepSeek Harness (dsh) plugins + scaffold: file tree with live git status, browser-reader, MiniMax search, cron schedule",
-    "id": "codelogickeep/deepseek-harness-plugin",
-    "language": "JavaScript",
-    "name": "codelogickeep/deepseek-harness-plugin",
-    "stars": 1,
-    "updated_at": "2026-08-26T15:32:06Z",
-    "url": "https://github.com/codelogickeep/deepseek-harness-plugin"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35184,
-    "updated_at": "2026-08-26T15:31:09Z",
+    "updated_at": "2026-08-26T15:57:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -193,8 +247,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9297,
-    "updated_at": "2026-08-26T15:13:23Z",
+    "stars": 9298,
+    "updated_at": "2026-08-26T15:52:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "agents-universe/agents-universe",
     "stars": 119,
-    "updated_at": "2026-08-26T14:52:03Z",
+    "updated_at": "2026-08-26T15:58:05Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
@@ -304,24 +358,6 @@
     "stars": 65,
     "updated_at": "2026-08-26T15:14:41Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-26T14:43:13Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:43:11Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13127,
-    "updated_at": "2026-08-26T15:18:48Z",
+    "updated_at": "2026-08-26T15:58:05Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-26T14:37:24Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:32:54Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T14:32:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "subs is an agent harness for the cloud. It runs an unprivileged agent loop and uses MCP servers for executing tools. Use",
-    "id": "substructureai/subs",
-    "language": "Rust",
-    "name": "substructureai/subs",
-    "stars": 6,
-    "updated_at": "2026-08-26T14:32:37Z",
-    "url": "https://github.com/substructureai/subs"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 5,
-    "updated_at": "2026-08-26T14:32:31Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   }
 ]
