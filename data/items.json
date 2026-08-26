@@ -1,12 +1,57 @@
 [
   {
+    "description": "A universal, forkable orchestra-agent architecture. 24 master skillsets, one loaded at a time, each with a dated researc",
+    "id": "indicaindependent/the-gun-slinger",
+    "language": "Python",
+    "name": "indicaindependent/the-gun-slinger",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:30:09Z",
+    "url": "https://github.com/indicaindependent/the-gun-slinger"
+  },
+  {
+    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
+    "id": "amilworks/ultra",
+    "language": "Python",
+    "name": "amilworks/ultra",
+    "stars": 6,
+    "updated_at": "2026-08-26T22:25:29Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T22:23:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Minimal AI agent framework \u2014 ephemeral Docker containers, living file memory, filesystem IPC. Production-hardened, runs ",
     "id": "jonathanavni/kuchiclaw",
     "language": "TypeScript",
     "name": "jonathanavni/kuchiclaw",
     "stars": 0,
-    "updated_at": "2026-08-26T22:12:10Z",
+    "updated_at": "2026-08-26T22:18:22Z",
     "url": "https://github.com/jonathanavni/kuchiclaw"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13133,
+    "updated_at": "2026-08-26T22:15:25Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T22:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
@@ -18,12 +63,30 @@
     "url": "https://github.com/clafollett/riff"
   },
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-26T22:11:57Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 263,
+    "updated_at": "2026-08-26T22:11:52Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1318,
-    "updated_at": "2026-08-26T22:10:39Z",
+    "updated_at": "2026-08-26T22:25:57Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9309,
-    "updated_at": "2026-08-26T22:14:34Z",
+    "updated_at": "2026-08-26T22:19:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 45,
     "updated_at": "2026-08-26T22:02:21Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T22:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -70,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T21:54:18Z",
     "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-26T21:52:34Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
@@ -108,15 +171,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 263,
-    "updated_at": "2026-08-26T22:11:52Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 152,
-    "updated_at": "2026-08-26T21:38:53Z",
+    "updated_at": "2026-08-26T22:21:44Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T22:04:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T21:14:16Z",
+    "updated_at": "2026-08-26T22:25:49Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -274,7 +319,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7021,
+    "stars": 7022,
     "updated_at": "2026-08-26T21:13:59Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -302,7 +347,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4502,
-    "updated_at": "2026-08-26T22:14:42Z",
+    "updated_at": "2026-08-26T22:29:48Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-26T20:45:06Z",
+    "updated_at": "2026-08-26T22:17:21Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3902,
     "updated_at": "2026-08-26T22:12:14Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-26T21:52:34Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:36:18Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:43:22Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-26T20:42:27Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Workflow transpilation and execution framework - import LangChain, Airflow, GitHub Actions, Kubernetes, Docker Compose",
-    "id": "Michael-A-Kuykendall/rustchain",
-    "language": "Rust",
-    "name": "Michael-A-Kuykendall/rustchain",
-    "stars": 26,
-    "updated_at": "2026-08-26T20:25:20Z",
-    "url": "https://github.com/Michael-A-Kuykendall/rustchain"
   }
 ]
