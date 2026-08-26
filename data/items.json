@@ -1,11 +1,110 @@
 [
   {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-26T05:15:03Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 4,
+    "updated_at": "2026-08-26T05:12:55Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-26T05:11:37Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-26T05:11:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:09:12Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-26T05:07:45Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-08-26T05:07:10Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-08-26T05:06:54Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-26T05:05:35Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:05:33Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "A lightweight, event-driven agent runtime for Go",
+    "id": "loomagent/loom",
+    "language": "Go",
+    "name": "loomagent/loom",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:03:13Z",
+    "url": "https://github.com/loomagent/loom"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T05:00:21Z",
+    "updated_at": "2026-08-26T05:02:45Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9282,
-    "updated_at": "2026-08-26T04:55:58Z",
+    "updated_at": "2026-08-26T05:15:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 65,
-    "updated_at": "2026-08-26T04:57:34Z",
+    "updated_at": "2026-08-26T05:09:53Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -70,15 +169,6 @@
     "stars": 112,
     "updated_at": "2026-08-26T04:54:59Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "A lightweight, event-driven agent runtime for Go",
-    "id": "loomagent/loom",
-    "language": "Go",
-    "name": "loomagent/loom",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:59:52Z",
-    "url": "https://github.com/loomagent/loom"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -261,15 +351,6 @@
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-26T04:31:07Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
     "id": "SparkElf/deepseek-harness-plus",
     "language": "TypeScript",
@@ -306,15 +387,6 @@
     "url": "https://github.com/KuiChi-x/graphloom"
   },
   {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:24:43Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -342,15 +414,6 @@
     "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-26T04:36:43Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
@@ -365,7 +428,7 @@
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 0,
-    "updated_at": "2026-08-26T04:07:27Z",
+    "updated_at": "2026-08-26T05:11:49Z",
     "url": "https://github.com/sycdan/nosedive"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T04:06:19Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 198,
-    "updated_at": "2026-08-26T04:38:24Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4503,
-    "updated_at": "2026-08-26T04:58:36Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47402,
-    "updated_at": "2026-08-26T04:00:51Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Open-source AI coding agent & harness in TypeScript - everything is a plugin. ReAct loop, MCP support (Claude-compatible",
-    "id": "lzy1102/openaide",
-    "language": "TypeScript",
-    "name": "lzy1102/openaide",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:00:26Z",
-    "url": "https://github.com/lzy1102/openaide"
-  },
-  {
-    "description": "Un agente piensa, otro construye y otro intenta romper lo construido. As\u00ed, la IA no reemplaza el proceso de ingenier\u00eda: ",
-    "id": "Miguelecf/elgordo-ia",
-    "language": "Go",
-    "name": "Miguelecf/elgordo-ia",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:57:37Z",
-    "url": "https://github.com/Miguelecf/elgordo-ia"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 44,
-    "updated_at": "2026-08-26T03:56:04Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:54:32Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
   }
 ]
