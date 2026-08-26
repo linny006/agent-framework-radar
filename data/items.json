@@ -1,5 +1,41 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9313,
+    "updated_at": "2026-08-26T23:26:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:17:47Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
+    "id": "merryshelly/openalpheus",
+    "language": "Python",
+    "name": "merryshelly/openalpheus",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:15:51Z",
+    "url": "https://github.com/merryshelly/openalpheus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -7,33 +43,6 @@
     "stars": 263,
     "updated_at": "2026-08-26T23:14:48Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9312,
-    "updated_at": "2026-08-26T23:14:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-26T23:14:10Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-26T23:13:33Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
@@ -45,13 +54,40 @@
     "url": "https://github.com/clafollett/riff"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
+    "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-08-26T23:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "updated_at": "2026-08-26T23:10:38Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:16:53Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 254,
+    "updated_at": "2026-08-26T23:04:58Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-26T23:13:33Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1318,
-    "updated_at": "2026-08-26T23:14:32Z",
+    "updated_at": "2026-08-26T23:25:53Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T22:47:56Z",
+    "updated_at": "2026-08-26T23:23:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -139,7 +175,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35191,
+    "stars": 35192,
     "updated_at": "2026-08-26T22:23:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "sheawinkler/ContextLattice",
     "stars": 152,
-    "updated_at": "2026-08-26T22:21:44Z",
+    "updated_at": "2026-08-26T23:28:27Z",
     "url": "https://github.com/sheawinkler/ContextLattice"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-08-26T21:43:33Z",
+    "updated_at": "2026-08-26T23:26:38Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 4,
-    "updated_at": "2026-08-26T21:32:06Z",
+    "updated_at": "2026-08-26T23:27:28Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-26T23:06:03Z",
+    "updated_at": "2026-08-26T23:19:01Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T22:25:49Z",
+    "updated_at": "2026-08-26T23:26:22Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -401,7 +437,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4502,
-    "updated_at": "2026-08-26T23:13:46Z",
+    "updated_at": "2026-08-26T23:29:58Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-26T20:56:41Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:53:52Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Template for building local Claude Code agents with persistent memory and functional personality. Zero infrastructure.",
-    "id": "sturlese/imago",
-    "language": "Python",
-    "name": "sturlese/imago",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:49:11Z",
-    "url": "https://github.com/sturlese/imago"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-26T22:17:21Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-08-26T20:43:19Z",
-    "url": "https://github.com/devoidfury/hotdog"
   }
 ]
