@@ -1,12 +1,93 @@
 [
   {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:53:52Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Template for building local Claude Code agents with persistent memory and functional personality. Zero infrastructure.",
+    "id": "sturlese/imago",
+    "language": "Python",
+    "name": "sturlese/imago",
+    "stars": 1,
+    "updated_at": "2026-08-26T20:49:11Z",
+    "url": "https://github.com/sturlese/imago"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9308,
-    "updated_at": "2026-08-26T20:43:23Z",
+    "stars": 9309,
+    "updated_at": "2026-08-26T20:59:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 45,
+    "updated_at": "2026-08-26T20:45:01Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1318,
+    "updated_at": "2026-08-26T20:42:43Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:41:09Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:39:05Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3902,
+    "updated_at": "2026-08-26T20:37:02Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-26T20:36:38Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -16,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T20:42:05Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -45,21 +117,12 @@
     "url": "https://github.com/Michael-A-Kuykendall/rustchain"
   },
   {
-    "description": "Template for building local Claude Code agents with persistent memory and functional personality. Zero infrastructure.",
-    "id": "sturlese/imago",
-    "language": "Python",
-    "name": "sturlese/imago",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:25:05Z",
-    "url": "https://github.com/sturlese/imago"
-  },
-  {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19518,
-    "updated_at": "2026-08-26T20:35:52Z",
+    "updated_at": "2026-08-26T20:51:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T20:36:02Z",
+    "updated_at": "2026-08-26T20:50:00Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -126,31 +189,13 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3902,
-    "updated_at": "2026-08-26T20:37:02Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 262,
-    "updated_at": "2026-08-26T20:40:04Z",
+    "updated_at": "2026-08-26T20:50:13Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:39:05Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
@@ -171,15 +216,6 @@
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-26T20:45:01Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7019,
-    "updated_at": "2026-08-26T19:44:42Z",
+    "updated_at": "2026-08-26T20:48:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 10,
     "updated_at": "2026-08-26T20:39:53Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:41:09Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -250,15 +277,6 @@
     "stars": 49,
     "updated_at": "2026-08-26T19:22:37Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-26T20:36:38Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -360,6 +378,15 @@
     "url": "https://github.com/ssevera1/Agent-Builder"
   },
   {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1391,
+    "updated_at": "2026-08-26T18:55:29Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-26T18:44:19Z",
+    "updated_at": "2026-08-26T20:52:04Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
-    "id": "Gald3r-Labs/gald3r",
-    "language": "Shell",
-    "name": "Gald3r-Labs/gald3r",
-    "stars": 24,
-    "updated_at": "2026-08-26T18:42:17Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
-    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "language": "Python",
-    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:40:40Z",
-    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:36:18Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
