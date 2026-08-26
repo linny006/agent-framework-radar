@@ -1,5 +1,41 @@
 [
   {
+    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-26T06:33:04Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-08-26T06:31:42Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-08-26T06:30:31Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T06:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9285,
-    "updated_at": "2026-08-26T06:30:06Z",
+    "updated_at": "2026-08-26T06:30:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -40,7 +76,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47404,
+    "stars": 47405,
     "updated_at": "2026-08-26T06:26:03Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T06:25:54Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 1,
-    "updated_at": "2026-08-26T06:23:36Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
     "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 4,
-    "updated_at": "2026-08-26T06:22:36Z",
+    "updated_at": "2026-08-26T06:32:39Z",
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T06:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
     "id": "gutomec/nirvana-os-engine",
     "language": "TypeScript",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 200,
-    "updated_at": "2026-08-26T06:05:25Z",
+    "updated_at": "2026-08-26T06:35:07Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 728,
     "updated_at": "2026-08-26T05:55:12Z",
     "url": "https://github.com/ZJU-REAL/HugAgentOS"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-08-26T06:17:13Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -319,7 +328,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 600,
+    "stars": 601,
     "updated_at": "2026-08-26T05:43:49Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -421,15 +430,6 @@
     "stars": 1883,
     "updated_at": "2026-08-26T05:19:00Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "SynthOrg - Framework for building synthetic organizations with autonomous AI agents",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-26T06:09:35Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
