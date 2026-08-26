@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 16:42 UTC
+> ⏰ Last updated: 2026-08-26 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-26 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 2 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-08-26 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 3 | [codelogickeep/deepseek-harness-plugin](https://github.com/codelogickeep/deepseek-harness-plugin) | 1 | JavaScript | 2026-08-26 | DeepSeek Harness (dsh) plugins + scaffold: file tree with live git status, browser-reader, MiniMax search, cron schedule |
-| 4 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-26 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-26 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-08-26 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 3 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-08-26 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
+| 4 | [codelogickeep/deepseek-harness-plugin](https://github.com/codelogickeep/deepseek-harness-plugin) | 1 | JavaScript | 2026-08-26 | DeepSeek Harness (dsh) plugins + scaffold: file tree with live git status, browser-reader, MiniMax search, cron schedule |
+| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-26 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 6 | [geniusdapeng-collab/hyperreality-system](https://github.com/geniusdapeng-collab/hyperreality-system) | 9 | TypeScript | 2026-08-26 | Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f |
 | 7 | [geniusdapeng-collab/workloom-im](https://github.com/geniusdapeng-collab/workloom-im) | 1 | TypeScript | 2026-08-26 | WorkLoom 织元 · DeepSeek Harness 企业级 Agent IM — Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence,  |
 | 8 | [kamalesh404/AgentOS](https://github.com/kamalesh404/AgentOS) | 7 | Python | 2026-08-26 | Autonomous AI agent framework — agents that browse, code, and create with tool use and memory |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [sakibsadmanshajib/hive](https://github.com/sakibsadmanshajib/hive) | 0 | Go | 2026-08-26 | OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s |
 | 25 | [exha1078/agentic-workflow-orchestrator](https://github.com/exha1078/agentic-workflow-orchestrator) | 1 | HTML | 2026-08-26 | 🚀 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment |
 | 26 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-26 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 27 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9301 | Python | 2026-08-26 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 27 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9302 | Python | 2026-08-26 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 28 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 1 | TypeScript | 2026-08-26 | Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run |
 | 29 | [sandeepyadav1478/touchstone](https://github.com/sandeepyadav1478/touchstone) | 0 | Python | 2026-08-26 | Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat |
 | 30 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 49 | HTML | 2026-08-26 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
