@@ -1,12 +1,102 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13130,
+    "updated_at": "2026-08-26T18:14:16Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/3D-Agent",
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 0,
-    "updated_at": "2026-08-26T17:57:17Z",
+    "updated_at": "2026-08-26T18:10:41Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-08-26T18:11:40Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
+    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "language": "Python",
+    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:08:46Z",
+    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
+  },
+  {
+    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
+    "id": "jumabek-dev/jumabek",
+    "language": "Rust",
+    "name": "jumabek-dev/jumabek",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:08:39Z",
+    "url": "https://github.com/jumabek-dev/jumabek"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-26T18:07:52Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:09:56Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-08-26T18:05:15Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-26T18:04:06Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T18:03:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T18:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -36,24 +126,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:50:32Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:50:32Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -61,6 +133,15 @@
     "stars": 77,
     "updated_at": "2026-08-26T17:54:17Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-26T17:50:32Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
@@ -81,21 +162,12 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T17:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-26T17:57:07Z",
+    "updated_at": "2026-08-26T18:04:24Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T17:55:44Z",
+    "updated_at": "2026-08-26T18:12:05Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T17:25:32Z",
     "url": "https://github.com/Maroo1121/Agent-Driven-Development"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13129,
-    "updated_at": "2026-08-26T17:49:06Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
@@ -320,7 +383,7 @@
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 349,
-    "updated_at": "2026-08-26T17:34:17Z",
+    "updated_at": "2026-08-26T18:07:08Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -338,7 +401,7 @@
     "language": "TypeScript",
     "name": "osovv/vv-opencode",
     "stars": 13,
-    "updated_at": "2026-08-26T17:18:22Z",
+    "updated_at": "2026-08-26T18:14:42Z",
     "url": "https://github.com/osovv/vv-opencode"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-26T17:10:05Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-26T17:56:36Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-26T17:02:27Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 693,
-    "updated_at": "2026-08-26T16:54:40Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
-    "id": "bryansparks/armature",
-    "language": "Python",
-    "name": "bryansparks/armature",
-    "stars": 8,
-    "updated_at": "2026-08-26T16:53:56Z",
-    "url": "https://github.com/bryansparks/armature"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-26T16:47:23Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-26T16:40:27Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-26T16:29:58Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   }
 ]
