@@ -1,12 +1,120 @@
 [
   {
+    "description": "Goga is an AI engineering platform for building software with AI agents. Combine engineering knowledge, AI tools, and pi",
+    "id": "qarium/goga",
+    "language": "Python",
+    "name": "qarium/goga",
+    "stars": 13,
+    "updated_at": "2026-08-26T11:12:37Z",
+    "url": "https://github.com/qarium/goga"
+  },
+  {
+    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
+    "id": "sandeepyadav1478/touchstone",
+    "language": "Python",
+    "name": "sandeepyadav1478/touchstone",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:09:23Z",
+    "url": "https://github.com/sandeepyadav1478/touchstone"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-26T11:08:44Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-08-26T11:12:09Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 45,
+    "updated_at": "2026-08-26T11:12:59Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4503,
+    "updated_at": "2026-08-26T11:05:51Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 17,
+    "updated_at": "2026-08-26T11:05:03Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:04:22Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-08-26T11:04:12Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:01:48Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T11:00:25Z",
+    "updated_at": "2026-08-26T11:00:51Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-26T11:00:24Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9290,
+    "updated_at": "2026-08-26T11:12:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A collection of Python SDKs that enable developers to build and deploy agents to the UiPath Cloud Platform using differe",
@@ -16,15 +124,6 @@
     "stars": 11,
     "updated_at": "2026-08-26T10:58:49Z",
     "url": "https://github.com/UiPath/uipath-integrations-python"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9290,
-    "updated_at": "2026-08-26T11:00:16Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -99,15 +198,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-26T10:58:24Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
     "id": "Sheep1433/Noesis",
     "language": "Python",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T10:41:18Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-08-26T11:00:24Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -221,7 +302,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1318,
-    "updated_at": "2026-08-26T10:46:46Z",
+    "updated_at": "2026-08-26T11:05:22Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -270,15 +351,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-26T10:30:34Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
     "id": "gatherfigtree740/ai-agent-landscape",
     "language": "\u2014",
@@ -324,15 +396,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:27:11Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
     "id": "rxnzyor/patchpilot",
     "language": "Python",
@@ -340,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T10:27:09Z",
     "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-26T10:32:30Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
@@ -378,15 +432,6 @@
     "url": "https://github.com/Luiz184/gokin-sdk"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-26T10:23:24Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
@@ -400,53 +445,8 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47416,
+    "stars": 47417,
     "updated_at": "2026-08-26T10:23:10Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
-    "id": "punkxuxu/bank_soal",
-    "language": "Python",
-    "name": "punkxuxu/bank_soal",
-    "stars": 0,
-    "updated_at": "2026-08-26T10:22:57Z",
-    "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:22:49Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T10:22:31Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13123,
-    "updated_at": "2026-08-26T10:20:32Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-08-26T10:19:09Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   }
 ]
