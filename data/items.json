@@ -1,5 +1,32 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-26T14:00:29Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5289,
+    "updated_at": "2026-08-26T13:57:01Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
     "description": "Cosight \u2014 A realtime multimodal AI agent runtime with composable roles and capabilities.",
     "id": "MrGood4U/cosight",
     "language": "JavaScript",
@@ -9,6 +36,15 @@
     "url": "https://github.com/MrGood4U/cosight"
   },
   {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-26T13:53:00Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
     "id": "jiabaobei/skills-constitution",
     "language": "Python",
@@ -16,6 +52,24 @@
     "stars": 153,
     "updated_at": "2026-08-26T13:52:05Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
+  },
+  {
+    "description": "Perform amazing feats, safely.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:51:58Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:51:31Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -45,6 +99,15 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1891,
+    "updated_at": "2026-08-26T13:49:58Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-26T13:58:05Z",
+    "updated_at": "2026-08-26T14:01:49Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -72,22 +135,13 @@
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:45:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:51:31Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 45,
+    "updated_at": "2026-08-26T13:44:19Z",
+    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9293,
-    "updated_at": "2026-08-26T13:44:15Z",
+    "updated_at": "2026-08-26T14:02:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -196,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T13:24:30Z",
     "url": "https://github.com/api-evangelist/open-souls"
-  },
-  {
-    "description": "Perform amazing feats, safely.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:51:58Z",
-    "url": "https://github.com/sycdan/nosedive"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1891,
-    "updated_at": "2026-08-26T13:49:58Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -329,7 +365,7 @@
     "language": "HTML",
     "name": "qadeer-ux/oh-my-codex-remix",
     "stars": 1,
-    "updated_at": "2026-08-26T13:08:39Z",
+    "updated_at": "2026-08-26T14:02:11Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
@@ -346,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35181,
+    "stars": 35182,
     "updated_at": "2026-08-26T13:05:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -412,41 +448,5 @@
     "stars": 254,
     "updated_at": "2026-08-26T13:55:22Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness/Loop\u3001Replay \u4e0e\u672c\u5730\u53ef\u89c2\u6d4b\u6027",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 5,
-    "updated_at": "2026-08-26T13:40:27Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Coordination layer for the 7-tool AI agent ecosystem",
-    "id": "vartiainen1/agent-orchestrator",
-    "language": "Python",
-    "name": "vartiainen1/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:49:16Z",
-    "url": "https://github.com/vartiainen1/agent-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:53:24Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-08-26T13:53:00Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
