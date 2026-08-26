@@ -1,12 +1,48 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 45,
+    "updated_at": "2026-08-26T08:58:52Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
+    "id": "ellmos-ai/ellmos-filecommander-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/ellmos-filecommander-mcp",
+    "stars": 4,
+    "updated_at": "2026-08-26T08:57:05Z",
+    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9288,
-    "updated_at": "2026-08-26T08:44:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-26T08:57:01Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 105,
+    "updated_at": "2026-08-26T08:56:07Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
+    "id": "hibuka-labs/phi-agent",
+    "language": "Rust",
+    "name": "hibuka-labs/phi-agent",
+    "stars": 14,
+    "updated_at": "2026-08-26T08:54:29Z",
+    "url": "https://github.com/hibuka-labs/phi-agent"
   },
   {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
@@ -14,8 +50,107 @@
     "language": "Rust",
     "name": "mmeyerlein/meclaw",
     "stars": 11,
-    "updated_at": "2026-08-26T08:41:45Z",
+    "updated_at": "2026-08-26T08:53:21Z",
     "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47410,
+    "updated_at": "2026-08-26T08:58:30Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-26T08:51:49Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:49:02Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T08:48:38Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 43,
+    "updated_at": "2026-08-26T08:48:13Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-08-26T08:47:31Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1731,
+    "updated_at": "2026-08-26T08:47:18Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1889,
+    "updated_at": "2026-08-26T08:47:07Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9288,
+    "updated_at": "2026-08-26T08:54:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1318,
+    "updated_at": "2026-08-26T08:41:25Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -34,24 +169,6 @@
     "stars": 119,
     "updated_at": "2026-08-26T08:40:10Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 43,
-    "updated_at": "2026-08-26T08:38:35Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
-    "id": "ellmos-ai/ellmos-filecommander-mcp",
-    "language": "JavaScript",
-    "name": "ellmos-ai/ellmos-filecommander-mcp",
-    "stars": 4,
-    "updated_at": "2026-08-26T08:38:01Z",
-    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -99,15 +216,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-26T08:35:28Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -126,15 +234,6 @@
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47409,
-    "updated_at": "2026-08-26T08:34:55Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Toolchain Actualization Under Trust \u2014 compile, actualize and guard AI-agent workspaces: versioned packs \u2192 hash-locked to",
     "id": "yurgeno/taut",
     "language": "TypeScript",
@@ -149,7 +248,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-26T08:32:55Z",
+    "updated_at": "2026-08-26T08:52:59Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -189,15 +288,6 @@
     "url": "https://github.com/Atman-Angle/Nexora-Agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T08:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
     "id": "Inupedia/spotlight",
     "language": "TypeScript",
@@ -232,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T08:28:06Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1318,
-    "updated_at": "2026-08-26T08:41:25Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
@@ -320,7 +401,7 @@
     "language": "TypeScript",
     "name": "DeliveryPerson2004/DeepForge",
     "stars": 3,
-    "updated_at": "2026-08-26T08:12:41Z",
+    "updated_at": "2026-08-26T08:57:55Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
   },
   {
@@ -340,33 +421,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T08:07:46Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1889,
-    "updated_at": "2026-08-26T08:07:07Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1731,
-    "updated_at": "2026-08-26T08:05:07Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T08:20:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Open-source AI coding agent & harness in TypeScript - everything is a plugin. ReAct loop, MCP support (Claude-compatible",
@@ -394,59 +448,5 @@
     "stars": 7009,
     "updated_at": "2026-08-26T08:00:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 36,
-    "updated_at": "2026-08-26T08:00:06Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4884,
-    "updated_at": "2026-08-26T07:57:30Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4503,
-    "updated_at": "2026-08-26T07:54:45Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:54:01Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Standalone SDK workspace for building Aomi dynamic plugins.",
-    "id": "aomi-labs/aomi-sdk",
-    "language": "Rust",
-    "name": "aomi-labs/aomi-sdk",
-    "stars": 4,
-    "updated_at": "2026-08-26T07:56:10Z",
-    "url": "https://github.com/aomi-labs/aomi-sdk"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 4,
-    "updated_at": "2026-08-26T07:51:52Z",
-    "url": "https://github.com/Ecro/harness-maker"
   }
 ]
