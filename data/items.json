@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:13:40Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Durable single-Agent Harness for TypeScript: recoverable Threads, context continuity, explicit side effects, and a nativ",
     "id": "joe960913/Jixu",
     "language": "TypeScript",
@@ -16,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T13:08:30Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
+    "id": "sandeepyadav1478/touchstone",
+    "language": "Python",
+    "name": "sandeepyadav1478/touchstone",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:07:25Z",
+    "url": "https://github.com/sandeepyadav1478/touchstone"
   },
   {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
@@ -52,15 +70,6 @@
     "stars": 43,
     "updated_at": "2026-08-26T13:00:37Z",
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -248,7 +257,7 @@
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 0,
-    "updated_at": "2026-08-26T13:10:55Z",
+    "updated_at": "2026-08-26T13:14:54Z",
     "url": "https://github.com/sycdan/nosedive"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 47415,
     "updated_at": "2026-08-26T12:24:50Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
-    "id": "sandeepyadav1478/touchstone",
-    "language": "Python",
-    "name": "sandeepyadav1478/touchstone",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:07:25Z",
-    "url": "https://github.com/sandeepyadav1478/touchstone"
   },
   {
     "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
