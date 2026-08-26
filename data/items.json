@@ -1,12 +1,39 @@
 [
   {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 65,
+    "updated_at": "2026-08-26T04:22:03Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 1,
-    "updated_at": "2026-08-26T04:12:59Z",
+    "updated_at": "2026-08-26T04:20:10Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9281,
+    "updated_at": "2026-08-26T04:21:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T04:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A persistent tile-based MMORPG for humans and AI agents alike \u2014 raw HTTP, TypeScript SDK, and MCP server against one aut",
@@ -25,15 +52,6 @@
     "stars": 36,
     "updated_at": "2026-08-26T04:10:37Z",
     "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 65,
-    "updated_at": "2026-08-26T04:10:05Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
@@ -135,15 +153,6 @@
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T04:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source AI coding agent & harness in TypeScript - everything is a plugin. ReAct loop, MCP support (Claude-compatible",
     "id": "lzy1102/openaide",
     "language": "TypeScript",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T04:00:52Z",
+    "updated_at": "2026-08-26T04:22:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -346,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35168,
+    "stars": 35170,
     "updated_at": "2026-08-26T03:43:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T03:37:07Z",
     "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "DeepSeek Harness \u7684 Python \u91cd\u5b9e\u73b0\uff1a\u63d2\u4ef6\u5185\u6838 + \u4e8b\u4ef6\u6eaf\u6e90 + \u4e94\u6bb5\u5de5\u5177\u7ba1\u7ebf + wanter\uff08water+ant\uff09\u7269\u7406\u7ecf\u9a8c\u5c42\u2014\u2014\u7eaf\u68af\u5ea6 0% \u9003\u9038 vs wanter 100%\uff0c\u8def\u5f84\u590d\u7528 \u224830\u00d7 \u52a0\u901f",
-    "id": "Lxxz666/DSH-wanter-python",
-    "language": "Python",
-    "name": "Lxxz666/DSH-wanter-python",
-    "stars": 2,
-    "updated_at": "2026-08-26T03:35:48Z",
-    "url": "https://github.com/Lxxz666/DSH-wanter-python"
   }
 ]
