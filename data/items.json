@@ -1,12 +1,39 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9308,
+    "updated_at": "2026-08-26T20:43:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-26T20:42:05Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T20:25:52Z",
+    "updated_at": "2026-08-26T20:30:25Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-26T20:42:27Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Workflow transpilation and execution framework - import LangChain, Airflow, GitHub Actions, Kubernetes, Docker Compose",
@@ -27,6 +54,15 @@
     "url": "https://github.com/sturlese/imago"
   },
   {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19518,
+    "updated_at": "2026-08-26T20:35:52Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
     "id": "tropo-ai/tropo",
     "language": "Python",
@@ -34,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T20:12:44Z",
     "url": "https://github.com/tropo-ai/tropo"
+  },
+  {
+    "description": "DSPy Go implementation",
+    "id": "XiaoConstantine/dspy-go",
+    "language": "Go",
+    "name": "XiaoConstantine/dspy-go",
+    "stars": 194,
+    "updated_at": "2026-08-26T20:12:03Z",
+    "url": "https://github.com/XiaoConstantine/dspy-go"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -45,13 +90,22 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19517,
-    "updated_at": "2026-08-26T20:23:45Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:09:38Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-26T20:07:58Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -59,8 +113,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T20:29:44Z",
+    "updated_at": "2026-08-26T20:36:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 31,
+    "updated_at": "2026-08-26T20:02:41Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -68,8 +131,17 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3902,
-    "updated_at": "2026-08-26T20:29:33Z",
+    "updated_at": "2026-08-26T20:37:02Z",
     "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 262,
+    "updated_at": "2026-08-26T20:40:04Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -77,7 +149,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 4,
-    "updated_at": "2026-08-26T20:27:11Z",
+    "updated_at": "2026-08-26T20:39:05Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 45,
-    "updated_at": "2026-08-26T20:14:47Z",
+    "updated_at": "2026-08-26T20:45:01Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -115,15 +187,6 @@
     "stars": 11,
     "updated_at": "2026-08-26T19:50:03Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "DSPy Go implementation",
-    "id": "XiaoConstantine/dspy-go",
-    "language": "Go",
-    "name": "XiaoConstantine/dspy-go",
-    "stars": 194,
-    "updated_at": "2026-08-26T20:12:03Z",
-    "url": "https://github.com/XiaoConstantine/dspy-go"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "databricks-solutions/consort",
     "stars": 10,
-    "updated_at": "2026-08-26T19:44:04Z",
+    "updated_at": "2026-08-26T20:39:53Z",
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 0,
-    "updated_at": "2026-08-26T20:20:27Z",
+    "updated_at": "2026-08-26T20:41:09Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:34:27Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-26T20:28:02Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and",
@@ -203,7 +257,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-26T20:23:52Z",
+    "updated_at": "2026-08-26T20:36:38Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -392,61 +446,7 @@
     "language": "HTML",
     "name": "Rakshit64w43/agent-gateway-hub",
     "stars": 4,
-    "updated_at": "2026-08-26T18:25:19Z",
+    "updated_at": "2026-08-26T20:36:18Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13131,
-    "updated_at": "2026-08-26T19:29:10Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-08-26T18:14:42Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
-    "id": "7bder/orchd-core",
-    "language": "Python",
-    "name": "7bder/orchd-core",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:13:48Z",
-    "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
-    "id": "jumabek-dev/jumabek",
-    "language": "Rust",
-    "name": "jumabek-dev/jumabek",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:08:39Z",
-    "url": "https://github.com/jumabek-dev/jumabek"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-26T20:18:25Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 218,
-    "updated_at": "2026-08-26T17:56:33Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
