@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 113,
+    "updated_at": "2026-08-26T15:49:49Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:46:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -54,6 +72,15 @@
     "url": "https://github.com/Wang-Lin-Chang/dsh-megamesh"
   },
   {
+    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
+    "id": "synapse-ai-hub/synapseForge",
+    "language": "Python",
+    "name": "synapse-ai-hub/synapseForge",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:37:27Z",
+    "url": "https://github.com/synapse-ai-hub/synapseForge"
+  },
+  {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -103,7 +130,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35185,
+    "stars": 35184,
     "updated_at": "2026-08-26T15:31:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -166,7 +193,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9296,
+    "stars": 9297,
     "updated_at": "2026-08-26T15:13:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -214,15 +241,6 @@
     "stars": 123,
     "updated_at": "2026-08-26T15:03:54Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T15:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 45,
-    "updated_at": "2026-08-26T15:35:09Z",
+    "updated_at": "2026-08-26T15:47:48Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-26T14:32:31Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-08-26T14:32:27Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 10,
-    "updated_at": "2026-08-26T14:30:11Z",
-    "url": "https://github.com/databricks-solutions/consort"
   }
 ]
