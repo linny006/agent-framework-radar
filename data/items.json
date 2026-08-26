@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1318,
+    "updated_at": "2026-08-26T09:13:49Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:12:35Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47413,
+    "updated_at": "2026-08-26T09:12:32Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T09:09:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:08:58Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -27,6 +72,15 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
+    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
+    "id": "hibuka-labs/phi-agent",
+    "language": "Rust",
+    "name": "hibuka-labs/phi-agent",
+    "stars": 14,
+    "updated_at": "2026-08-26T09:04:36Z",
+    "url": "https://github.com/hibuka-labs/phi-agent"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -34,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T09:00:57Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T09:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Official extension collection for posoco",
@@ -61,15 +106,6 @@
     "stars": 45,
     "updated_at": "2026-08-26T08:58:52Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47411,
-    "updated_at": "2026-08-26T08:58:30Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
@@ -99,15 +135,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
-    "id": "hibuka-labs/phi-agent",
-    "language": "Rust",
-    "name": "hibuka-labs/phi-agent",
-    "stars": 14,
-    "updated_at": "2026-08-26T09:04:36Z",
-    "url": "https://github.com/hibuka-labs/phi-agent"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T08:48:38Z",
+    "updated_at": "2026-08-26T09:12:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 28,
-    "updated_at": "2026-08-26T08:47:31Z",
+    "updated_at": "2026-08-26T09:13:23Z",
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
@@ -176,17 +203,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9288,
-    "updated_at": "2026-08-26T09:07:22Z",
+    "updated_at": "2026-08-26T09:15:20Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1318,
-    "updated_at": "2026-08-26T08:41:25Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -279,15 +297,6 @@
     "url": "https://github.com/yurgeno/taut"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-26T09:04:40Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -304,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-08-26T08:31:46Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T09:08:38Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Reliable, embeddable TypeScript agent runtime with durable runs, tool safety, recovery, evidence, and bounded multi-agen",
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "relayax/relayagent",
     "stars": 17,
-    "updated_at": "2026-08-26T08:12:43Z",
+    "updated_at": "2026-08-26T09:14:03Z",
     "url": "https://github.com/relayax/relayagent"
   },
   {
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "DeliveryPerson2004/DeepForge",
     "stars": 3,
-    "updated_at": "2026-08-26T09:08:33Z",
+    "updated_at": "2026-08-26T09:11:53Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
   },
   {
