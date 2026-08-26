@@ -1,5 +1,41 @@
 [
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13133,
+    "updated_at": "2026-08-26T23:53:44Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-08-26T23:53:36Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9314,
+    "updated_at": "2026-08-26T23:49:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Perform amazing feats, safely.",
     "id": "sycdan/nosedive",
     "language": "JavaScript",
@@ -7,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T23:44:50Z",
     "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4503,
+    "updated_at": "2026-08-26T23:53:52Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -18,13 +63,13 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9314,
-    "updated_at": "2026-08-26T23:43:24Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 51,
+    "updated_at": "2026-08-26T23:41:51Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19518,
-    "updated_at": "2026-08-26T23:37:45Z",
+    "updated_at": "2026-08-26T23:46:08Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -63,30 +108,12 @@
     "url": "https://github.com/devpilgrin/berimor"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4503,
-    "updated_at": "2026-08-26T23:43:46Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T23:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-26T23:43:09Z",
+    "updated_at": "2026-08-26T23:49:35Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -153,11 +180,20 @@
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:00:02Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 614,
+    "stars": 615,
     "updated_at": "2026-08-26T22:58:26Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -229,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35192,
+    "stars": 35191,
     "updated_at": "2026-08-26T22:23:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T22:18:22Z",
     "url": "https://github.com/jonathanavni/kuchiclaw"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13133,
-    "updated_at": "2026-08-26T22:15:25Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -286,15 +313,6 @@
     "stars": 471,
     "updated_at": "2026-08-26T21:51:40Z",
     "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 51,
-    "updated_at": "2026-08-26T23:41:51Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "DSPy Go implementation",
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 4,
-    "updated_at": "2026-08-26T23:42:05Z",
+    "updated_at": "2026-08-26T23:49:58Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-26T23:19:01Z",
+    "updated_at": "2026-08-26T23:50:02Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1894,
     "updated_at": "2026-08-26T21:29:25Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:24:42Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:24:24Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
