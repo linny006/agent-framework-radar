@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:25:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Workflow transpilation and execution framework - import LangChain, Airflow, GitHub Actions, Kubernetes, Docker Compose",
     "id": "Michael-A-Kuykendall/rustchain",
     "language": "Rust",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T20:25:05Z",
     "url": "https://github.com/sturlese/imago"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T20:03:14Z",
+    "updated_at": "2026-08-26T20:29:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3902,
-    "updated_at": "2026-08-26T19:59:59Z",
+    "updated_at": "2026-08-26T20:29:33Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -77,7 +77,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 4,
-    "updated_at": "2026-08-26T20:09:09Z",
+    "updated_at": "2026-08-26T20:27:11Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -106,6 +106,15 @@
     "stars": 45,
     "updated_at": "2026-08-26T20:14:47Z",
     "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 11,
+    "updated_at": "2026-08-26T19:50:03Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
     "description": "DSPy Go implementation",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-26T20:24:59Z",
+    "updated_at": "2026-08-26T20:28:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 218,
     "updated_at": "2026-08-26T17:56:33Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
-    "id": "LudicDynamics/WorldLines",
-    "language": "TypeScript",
-    "name": "LudicDynamics/WorldLines",
-    "stars": 68,
-    "updated_at": "2026-08-26T17:55:34Z",
-    "url": "https://github.com/LudicDynamics/WorldLines"
   }
 ]
