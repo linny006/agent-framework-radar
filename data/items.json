@@ -1,5 +1,131 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9292,
+    "updated_at": "2026-08-26T12:58:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35180,
+    "updated_at": "2026-08-26T12:55:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1176,
+    "updated_at": "2026-08-26T12:56:42Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 1,
+    "updated_at": "2026-08-26T12:53:38Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
+    "id": "jiabaobei/skills-constitution",
+    "language": "Python",
+    "name": "jiabaobei/skills-constitution",
+    "stars": 152,
+    "updated_at": "2026-08-26T12:53:07Z",
+    "url": "https://github.com/jiabaobei/skills-constitution"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-26T12:51:26Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-08-26T12:51:25Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001\u53ef\u63a7 Harness/Loop\u3001Replay \u4e0e\u672c\u5730\u53ef\u89c2\u6d4b\u6027",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-08-26T12:51:19Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-26T12:51:05Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Coordination layer for the 7-tool AI agent ecosystem",
+    "id": "vartiainen1/agent-orchestrator",
+    "language": "Python",
+    "name": "vartiainen1/agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-26T12:49:16Z",
+    "url": "https://github.com/vartiainen1/agent-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-26T12:49:12Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-26T12:47:14Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
+    "id": "Zchary1106/Myrmecia",
+    "language": "TypeScript",
+    "name": "Zchary1106/Myrmecia",
+    "stars": 2,
+    "updated_at": "2026-08-26T12:46:31Z",
+    "url": "https://github.com/Zchary1106/Myrmecia"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -16,15 +142,6 @@
     "stars": 116,
     "updated_at": "2026-08-26T12:40:24Z",
     "url": "https://github.com/joe960913/Jixu"
-  },
-  {
-    "description": "Coordination layer for the 7-tool AI agent ecosystem",
-    "id": "vartiainen1/agent-orchestrator",
-    "language": "Python",
-    "name": "vartiainen1/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:40:17Z",
-    "url": "https://github.com/vartiainen1/agent-orchestrator"
   },
   {
     "description": "dsh-megamesh: super multi-agent architecture - files are messages, adoption replaces all-hands-on-deck failure, term lea",
@@ -54,6 +171,15 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-26T12:38:22Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
     "id": "shimo4228/contemplative-agent",
     "language": "Python",
@@ -72,24 +198,6 @@
     "url": "https://github.com/sycdan/nosedive"
   },
   {
-    "description": "Governed agent marketplace. Bounty board where AI agents form teams, fill slots, and earn revenue under MO\u00a7ES\u2122 governanc",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 1,
-    "updated_at": "2026-08-26T12:32:20Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9290,
-    "updated_at": "2026-08-26T12:45:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The zero-trust framework for autonomous AI agents.",
     "id": "calebfaruki/sycophant",
     "language": "Rust",
@@ -106,15 +214,6 @@
     "stars": 1101,
     "updated_at": "2026-08-26T12:40:58Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T12:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek Harness \u751f\u6001\u7cbe\u9009\u5217\u8868\uff1a\u63d2\u4ef6 / \u6280\u80fd / MCP / UI \u4e00\u4f53\u5316\u76ee\u5f55\uff08\u5408\u5e76\u4e24\u4efd awesome \u5217\u8868\u3001\u8de8\u6e90\u53bb\u91cd\u3001\u5254\u9664\u6b7b\u94fe\uff0c3362 \u6761\u76ee\uff09\u3002A single deduplicated curated list o",
@@ -140,7 +239,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26322,
-    "updated_at": "2026-08-26T12:27:55Z",
+    "updated_at": "2026-08-26T12:51:36Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -180,15 +279,6 @@
     "url": "https://github.com/sandeepyadav1478/touchstone"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:44:31Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
     "description": "AutoGen Studio is a low-code / no-code developer GUI from Microsoft Research for rapidly prototyping, composing, and deb",
     "id": "api-evangelist/autogen-studio",
     "language": "\u2014",
@@ -196,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T12:19:28Z",
     "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-26T12:42:10Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Hosting for AI agents \u2014 deploy from inside Claude. Open framework, CLI, and MCP server for grains.run.",
@@ -250,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T12:12:33Z",
     "url": "https://github.com/aniripsaretro-max/golemreach"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1175,
-    "updated_at": "2026-08-26T12:38:53Z",
-    "url": "https://github.com/clacky-ai/openclacky"
   },
   {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
@@ -376,77 +448,5 @@
     "stars": 48,
     "updated_at": "2026-08-26T11:48:31Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 51,
-    "updated_at": "2026-08-26T11:46:34Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T12:26:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4888,
-    "updated_at": "2026-08-26T11:45:09Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T11:44:55Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:44:27Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3901,
-    "updated_at": "2026-08-26T11:43:39Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 117,
-    "updated_at": "2026-08-26T11:40:48Z",
-    "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
-    "id": "zxfpro/heart",
-    "language": "HTML",
-    "name": "zxfpro/heart",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:40:22Z",
-    "url": "https://github.com/zxfpro/heart"
   }
 ]
