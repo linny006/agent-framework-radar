@@ -1,5 +1,41 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9326,
+    "updated_at": "2026-08-27T07:44:03Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 175,
+    "updated_at": "2026-08-27T07:34:24Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1177,
+    "updated_at": "2026-08-27T07:32:28Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T07:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4502,
-    "updated_at": "2026-08-27T07:30:18Z",
+    "updated_at": "2026-08-27T07:41:07Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 4,
-    "updated_at": "2026-08-27T07:25:19Z",
+    "updated_at": "2026-08-27T07:39:37Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T07:20:56Z",
+    "updated_at": "2026-08-27T07:43:58Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -79,24 +115,6 @@
     "stars": 12,
     "updated_at": "2026-08-27T07:19:46Z",
     "url": "https://github.com/Sheep1433/Noesis"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9326,
-    "updated_at": "2026-08-27T07:30:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 175,
-    "updated_at": "2026-08-27T07:16:30Z",
-    "url": "https://github.com/Gnosil/semantix"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -117,15 +135,6 @@
     "url": "https://github.com/altneu-dev/agent-template"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T07:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u5929\u673a(Tianji):\u591a CLI \u7f16\u7a0b\u52a9\u624b\u7f16\u6392\u6846\u67b6\u2014\u2014\u516d\u89d2\u8272\u673a\u68b0\u6d41\u6c34\u7ebf(\u603b\u63a7/\u5206\u914d\u5668/\u76d1\u63a7\u5668/\u67b6\u6784\u5e08/\u5b9e\u65bd\u8005/\u5ba1\u6838\u8005),\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
     "id": "SiwenPz/Tianji",
     "language": "Python",
@@ -139,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35206,
+    "stars": 35208,
     "updated_at": "2026-08-27T07:12:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -166,7 +175,7 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4896,
+    "stars": 4897,
     "updated_at": "2026-08-27T07:07:44Z",
     "url": "https://github.com/iflytek/skillhub"
   },
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 3,
-    "updated_at": "2026-08-27T07:21:26Z",
+    "updated_at": "2026-08-27T07:39:25Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19525,
-    "updated_at": "2026-08-27T07:29:59Z",
+    "updated_at": "2026-08-27T07:44:02Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:58:08Z",
     "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
-  },
-  {
-    "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
-    "id": "zxfpro/heart",
-    "language": "HTML",
-    "name": "zxfpro/heart",
-    "stars": 1,
-    "updated_at": "2026-08-27T05:55:48Z",
-    "url": "https://github.com/zxfpro/heart"
   }
 ]
