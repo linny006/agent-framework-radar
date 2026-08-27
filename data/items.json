@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-27T06:28:45Z",
+    "updated_at": "2026-08-27T06:30:41Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
+    "id": "zj-unicom-ai/UniEmployee",
+    "language": "Python",
+    "name": "zj-unicom-ai/UniEmployee",
+    "stars": 21,
+    "updated_at": "2026-08-27T06:30:20Z",
+    "url": "https://github.com/zj-unicom-ai/UniEmployee"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -79,15 +97,6 @@
     "stars": 1585,
     "updated_at": "2026-08-27T06:18:31Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
@@ -205,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T05:55:48Z",
     "url": "https://github.com/zxfpro/heart"
-  },
-  {
-    "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
-    "id": "zj-unicom-ai/UniEmployee",
-    "language": "Python",
-    "name": "zj-unicom-ai/UniEmployee",
-    "stars": 21,
-    "updated_at": "2026-08-27T06:30:20Z",
-    "url": "https://github.com/zj-unicom-ai/UniEmployee"
   },
   {
     "description": "A multi-agent & multi-harness AI agent management and orchestration system",

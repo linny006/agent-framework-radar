@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 06:30 UTC
+> ⏰ Last updated: 2026-08-27 06:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,29 +43,29 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [gutomec/nirvana-os-engine](https://github.com/gutomec/nirvana-os-engine) | 66 | TypeScript | 2026-08-27 | Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp |
-| 2 | [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) | 4502 | C++ | 2026-08-27 | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec |
-| 3 | [cortexkit/aft](https://github.com/cortexkit/aft) | 263 | Rust | 2026-08-27 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-27 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 4 | Rust | 2026-08-27 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
-| 6 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26327 | Python | 2026-08-27 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 7 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 13 | TypeScript | 2026-08-27 | An opinionated agentic development layer for OpenCode — spec-first when it matters, review-driven execution, portable mo |
-| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9323 | Python | 2026-08-27 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 9 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1585 | Python | 2026-08-27 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
-| 10 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 11 | [Atiqul-Islam/genesis](https://github.com/Atiqul-Islam/genesis) | 0 | Rust | 2026-08-27 | An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ |
-| 12 | [tagword/seed](https://github.com/tagword/seed) | 1 | Python | 2026-08-27 | Universal AI agent kernel — LLM loop, sessions, memory, tool runtime, cron & webhooks. Build your own agent with Markdow |
-| 13 | [shaharia-lab/agento](https://github.com/shaharia-lab/agento) | 29 | Rust | 2026-08-27 | Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at  |
-| 14 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 14 | TypeScript | 2026-08-27 | AI agent with zero dependencies, bring your own bun |
-| 15 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 13 | Go | 2026-08-27 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
-| 16 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 123 | Shell | 2026-08-27 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 17 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47440 | Python | 2026-08-27 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
-| 18 | [shibing624/agentica](https://github.com/shibing624/agentica) | 350 | Python | 2026-08-27 | One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh |
-| 19 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 203 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 20 | [Gnosil/semantix](https://github.com/Gnosil/semantix) | 173 | Go | 2026-08-27 | semantic agent kernel which make agent efficient and self-evolve |
-| 21 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19525 | Python | 2026-08-27 | How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
-| 22 | [CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime](https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime) | 0 | — | 2026-08-27 | Domain-separated controlled self-boot agent architecture — an enterprise AI agent runtime where AI self-produces tools & |
-| 23 | [zxfpro/heart](https://github.com/zxfpro/heart) | 1 | HTML | 2026-08-27 | Give AI models a heartbeat — unlock agent subjective initiative (主观能动性). |
-| 24 | [zj-unicom-ai/UniEmployee](https://github.com/zj-unicom-ai/UniEmployee) | 21 | Python | 2026-08-27 | UniEmployee 是一套面向企业的数字员工构建与运行平台 \| An enterprise platform for building and running AI digital employees — Employee → Work |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [zj-unicom-ai/UniEmployee](https://github.com/zj-unicom-ai/UniEmployee) | 21 | Python | 2026-08-27 | UniEmployee 是一套面向企业的数字员工构建与运行平台 \| An enterprise platform for building and running AI digital employees — Employee → Work |
+| 4 | [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) | 4502 | C++ | 2026-08-27 | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec |
+| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 263 | Rust | 2026-08-27 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 6 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-27 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 7 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 4 | Rust | 2026-08-27 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
+| 8 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26327 | Python | 2026-08-27 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
+| 9 | [osovv/vv-opencode](https://github.com/osovv/vv-opencode) | 13 | TypeScript | 2026-08-27 | An opinionated agentic development layer for OpenCode — spec-first when it matters, review-driven execution, portable mo |
+| 10 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9323 | Python | 2026-08-27 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 11 | [ShenSeanChen/waku-agent](https://github.com/ShenSeanChen/waku-agent) | 1585 | Python | 2026-08-27 | Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil |
+| 12 | [Atiqul-Islam/genesis](https://github.com/Atiqul-Islam/genesis) | 0 | Rust | 2026-08-27 | An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ |
+| 13 | [tagword/seed](https://github.com/tagword/seed) | 1 | Python | 2026-08-27 | Universal AI agent kernel — LLM loop, sessions, memory, tool runtime, cron & webhooks. Build your own agent with Markdow |
+| 14 | [shaharia-lab/agento](https://github.com/shaharia-lab/agento) | 29 | Rust | 2026-08-27 | Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at  |
+| 15 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 14 | TypeScript | 2026-08-27 | AI agent with zero dependencies, bring your own bun |
+| 16 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 13 | Go | 2026-08-27 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
+| 17 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 123 | Shell | 2026-08-27 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 18 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 47440 | Python | 2026-08-27 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 19 | [shibing624/agentica](https://github.com/shibing624/agentica) | 350 | Python | 2026-08-27 | One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh |
+| 20 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 203 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 21 | [Gnosil/semantix](https://github.com/Gnosil/semantix) | 173 | Go | 2026-08-27 | semantic agent kernel which make agent efficient and self-evolve |
+| 22 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19525 | Python | 2026-08-27 | How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
+| 23 | [CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime](https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime) | 0 | — | 2026-08-27 | Domain-separated controlled self-boot agent architecture — an enterprise AI agent runtime where AI self-produces tools & |
+| 24 | [zxfpro/heart](https://github.com/zxfpro/heart) | 1 | HTML | 2026-08-27 | Give AI models a heartbeat — unlock agent subjective initiative (主观能动性). |
 | 25 | [plmbr/nui](https://github.com/plmbr/nui) | 5 | Go | 2026-08-27 | A multi-agent & multi-harness AI agent management and orchestration system |
 | 26 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-08-27 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
 | 27 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-08-27 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
