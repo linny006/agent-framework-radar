@@ -1,21 +1,12 @@
 [
   {
-    "description": "Hire AI agents, give them jobs, watch them work. A local-first console where agents own a queue, use real tools, and pas",
-    "id": "at0m-b0mb/Hermes-Agent-Console",
-    "language": "Python",
-    "name": "at0m-b0mb/Hermes-Agent-Console",
-    "stars": 2,
-    "updated_at": "2026-08-27T20:14:03Z",
-    "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9368,
-    "updated_at": "2026-08-27T20:13:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-08-27T20:29:40Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -23,8 +14,26 @@
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 0,
-    "updated_at": "2026-08-27T20:12:18Z",
+    "updated_at": "2026-08-27T20:29:05Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
+    "id": "zlatko-lakisic/agentic-orchestration",
+    "language": "Python",
+    "name": "zlatko-lakisic/agentic-orchestration",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:29:58Z",
+    "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-27T20:27:41Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
@@ -32,8 +41,53 @@
     "language": "Python",
     "name": "reda-baqechame/self-learning-24.7-agent",
     "stars": 1,
-    "updated_at": "2026-08-27T20:11:34Z",
+    "updated_at": "2026-08-27T20:27:20Z",
     "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 52,
+    "updated_at": "2026-08-27T20:30:09Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 263,
+    "updated_at": "2026-08-27T20:20:26Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4890,
+    "updated_at": "2026-08-27T20:17:56Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:17:30Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9369,
+    "updated_at": "2026-08-27T20:30:03Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -41,8 +95,44 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T20:07:33Z",
+    "updated_at": "2026-08-27T20:16:43Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Hire AI agents, give them jobs, watch them work. A local-first console where agents own a queue, use real tools, and pas",
+    "id": "at0m-b0mb/Hermes-Agent-Console",
+    "language": "Python",
+    "name": "at0m-b0mb/Hermes-Agent-Console",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:15:38Z",
+    "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T20:28:38Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:12:53Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -54,15 +144,6 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T20:05:21Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 108,
     "updated_at": "2026-08-27T20:03:59Z",
     "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Claude-powered agent that answers architectural questions about codebases by building a structural knowledge graph and p",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 1,
-    "updated_at": "2026-08-27T19:59:20Z",
+    "updated_at": "2026-08-27T20:25:05Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
@@ -135,15 +207,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 263,
-    "updated_at": "2026-08-27T19:56:09Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
     "id": "speleoalex/myagent",
     "language": "Python",
@@ -151,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T19:55:58Z",
     "url": "https://github.com/speleoalex/myagent"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 52,
-    "updated_at": "2026-08-27T19:57:00Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:50:54Z",
     "url": "https://github.com/valory-xyz/kv-store"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-27T20:14:44Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -252,6 +297,15 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 188,
+    "updated_at": "2026-08-27T19:31:16Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
     "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
     "id": "Lykhoyda/rn-dev-agent",
     "language": "TypeScript",
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-27T20:08:00Z",
+    "updated_at": "2026-08-27T20:23:28Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -304,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:08:34Z",
     "url": "https://github.com/clafollett/riff"
-  },
-  {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:12:53Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -347,7 +392,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-27T18:55:45Z",
+    "updated_at": "2026-08-27T20:26:41Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-08-27T19:43:17Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T18:35:09Z",
     "url": "https://github.com/norton77930/loopplane"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 187,
-    "updated_at": "2026-08-27T19:31:16Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-27T18:35:53Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 30,
-    "updated_at": "2026-08-27T18:20:01Z",
-    "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 5,
-    "updated_at": "2026-08-27T19:41:36Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
   }
 ]
