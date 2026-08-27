@@ -1,11 +1,83 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-27T11:44:55Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
+    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "language": "Python",
+    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:39:40Z",
+    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 262,
+    "updated_at": "2026-08-27T11:45:19Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:35:16Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-27T11:44:59Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-27T11:35:02Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1319,
+    "updated_at": "2026-08-27T11:33:39Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T11:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1096,
-    "updated_at": "2026-08-27T11:26:42Z",
+    "updated_at": "2026-08-27T11:42:46Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
@@ -31,18 +103,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9338,
-    "updated_at": "2026-08-27T11:22:57Z",
+    "stars": 9339,
+    "updated_at": "2026-08-27T11:45:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
-    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "language": "Python",
-    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:21:54Z",
-    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -72,33 +135,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:25:56Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T11:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1319,
-    "updated_at": "2026-08-27T11:24:35Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -108,15 +144,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-27T11:28:44Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/3D-Agent",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:02:22Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 262,
-    "updated_at": "2026-08-27T11:01:58Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1899,
-    "updated_at": "2026-08-27T10:52:22Z",
+    "updated_at": "2026-08-27T11:40:23Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -176,7 +194,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4503,
-    "updated_at": "2026-08-27T11:30:02Z",
+    "updated_at": "2026-08-27T11:43:34Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -373,18 +391,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47454,
+    "stars": 47455,
     "updated_at": "2026-08-27T09:53:29Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-27T09:52:20Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Ontology-centered financial research and operations platform that unifies market, fundamental, portfolio, and risk data;",
@@ -439,14 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-27T10:38:22Z",
     "url": "https://github.com/use-brian/use-brian"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T09:13:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
