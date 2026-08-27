@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-27T19:27:50Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-27T19:23:32Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-08-27T19:18:13Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-27T19:17:28Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in conso",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 634,
+    "updated_at": "2026-08-27T19:16:35Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T19:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -36,13 +90,13 @@
     "url": "https://github.com/clafollett/riff"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-27T19:07:37Z",
-    "url": "https://github.com/openamer/openamer"
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:02:50Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -63,21 +117,12 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T19:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
     "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
     "language": "Python",
     "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
     "stars": 1,
-    "updated_at": "2026-08-27T18:58:53Z",
+    "updated_at": "2026-08-27T19:18:56Z",
     "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T18:58:47Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-27T19:03:51Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -194,17 +230,8 @@
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 5,
-    "updated_at": "2026-08-27T18:40:53Z",
+    "updated_at": "2026-08-27T19:23:09Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-27T19:10:54Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "Spec-first, embeddable agent harness runtime - a control plane for loop-engineered AI agents. Governed tool calls throug",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19537,
-    "updated_at": "2026-08-27T19:13:39Z",
+    "updated_at": "2026-08-27T19:22:02Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -229,8 +256,8 @@
     "id": "Gnosil/semantix",
     "language": "Go",
     "name": "Gnosil/semantix",
-    "stars": 186,
-    "updated_at": "2026-08-27T18:28:56Z",
+    "stars": 187,
+    "updated_at": "2026-08-27T19:29:22Z",
     "url": "https://github.com/Gnosil/semantix"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-27T18:25:10Z",
+    "updated_at": "2026-08-27T19:27:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:02:50Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
     "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
     "id": "jumabek-dev/jumabek",
     "language": "Rust",
@@ -387,15 +405,6 @@
     "url": "https://github.com/legrab/codebase-learning-flow"
   },
   {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-08-27T19:12:08Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
     "description": "Zero-dependency TypeScript SDK for AI agent governance: policy enforcement, injection detection, tamper-evident audit, a",
     "id": "lua-ai-global/governance",
     "language": "TypeScript",
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1321,
-    "updated_at": "2026-08-27T17:40:04Z",
+    "updated_at": "2026-08-27T19:22:37Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-08-27T17:37:17Z",
-    "url": "https://github.com/devoidfury/hotdog"
   }
 ]
