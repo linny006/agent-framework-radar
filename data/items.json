@@ -1,12 +1,102 @@
 [
   {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-27T06:28:45Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4502,
+    "updated_at": "2026-08-27T06:26:08Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 263,
+    "updated_at": "2026-08-27T06:24:13Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-27T06:23:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 4,
+    "updated_at": "2026-08-27T06:22:10Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26327,
+    "updated_at": "2026-08-27T06:25:53Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 13,
+    "updated_at": "2026-08-27T06:21:16Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9323,
-    "updated_at": "2026-08-27T06:11:43Z",
+    "updated_at": "2026-08-27T06:18:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1585,
+    "updated_at": "2026-08-27T06:18:31Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
+    "id": "Atiqul-Islam/genesis",
+    "language": "Rust",
+    "name": "Atiqul-Islam/genesis",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:13:53Z",
+    "url": "https://github.com/Atiqul-Islam/genesis"
   },
   {
     "description": "Universal AI agent kernel \u2014 LLM loop, sessions, memory, tool runtime, cron & webhooks. Build your own agent with Markdow",
@@ -27,15 +117,6 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T06:14:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -43,15 +124,6 @@
     "stars": 14,
     "updated_at": "2026-08-27T06:10:51Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-27T06:10:06Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -76,8 +148,8 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47439,
-    "updated_at": "2026-08-27T06:05:28Z",
+    "stars": 47440,
+    "updated_at": "2026-08-27T06:25:23Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -99,29 +171,11 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 4,
-    "updated_at": "2026-08-27T06:14:40Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "semantic agent kernel which make agent efficient and self-evolve",
     "id": "Gnosil/semantix",
     "language": "Go",
     "name": "Gnosil/semantix",
-    "stars": 172,
+    "stars": 173,
     "updated_at": "2026-08-27T05:59:48Z",
     "url": "https://github.com/Gnosil/semantix"
   },
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "zj-unicom-ai/UniEmployee",
     "stars": 21,
-    "updated_at": "2026-08-27T05:53:27Z",
+    "updated_at": "2026-08-27T06:30:20Z",
     "url": "https://github.com/zj-unicom-ai/UniEmployee"
   },
   {
@@ -187,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T06:13:25Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 263,
-    "updated_at": "2026-08-27T05:41:01Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1585,
-    "updated_at": "2026-08-27T06:02:03Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -324,15 +360,6 @@
     "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4502,
-    "updated_at": "2026-08-27T05:29:06Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "Perform amazing feats, safely.",
     "id": "sycdan/nosedive",
     "language": "JavaScript",
@@ -369,15 +396,6 @@
     "url": "https://github.com/wxhcore/bumblehive"
   },
   {
-    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
-    "id": "Atiqul-Islam/genesis",
-    "language": "Rust",
-    "name": "Atiqul-Islam/genesis",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:13:53Z",
-    "url": "https://github.com/Atiqul-Islam/genesis"
-  },
-  {
     "description": "\u5929\u673a(Tianji):\u591a CLI \u7f16\u7a0b\u52a9\u624b\u7f16\u6392\u6846\u67b6\u2014\u2014\u516d\u89d2\u8272\u673a\u68b0\u6d41\u6c34\u7ebf(\u603b\u63a7/\u5206\u914d\u5668/\u76d1\u63a7\u5668/\u67b6\u6784\u5e08/\u5b9e\u65bd\u8005/\u5ba1\u6838\u8005),\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
     "id": "SiwenPz/Tianji",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 618,
-    "updated_at": "2026-08-27T04:29:51Z",
+    "updated_at": "2026-08-27T06:24:49Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 218,
     "updated_at": "2026-08-27T04:24:00Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
-    "id": "clafollett/riff",
-    "language": "TypeScript",
-    "name": "clafollett/riff",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:20:37Z",
-    "url": "https://github.com/clafollett/riff"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:15:20Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
