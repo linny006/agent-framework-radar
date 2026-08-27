@@ -1,12 +1,129 @@
 [
   {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 45,
+    "updated_at": "2026-08-27T03:29:29Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47436,
+    "updated_at": "2026-08-27T03:29:15Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9316,
+    "updated_at": "2026-08-27T03:26:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:26:04Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 263,
+    "updated_at": "2026-08-27T03:23:37Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Hire AI agents, give them jobs, watch them work. A local-first console where agents own a queue, use real tools, and pas",
+    "id": "at0m-b0mb/Hermes-Agent-Console",
+    "language": "Python",
+    "name": "at0m-b0mb/Hermes-Agent-Console",
+    "stars": 2,
+    "updated_at": "2026-08-27T03:21:10Z",
+    "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T03:29:17Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:19:06Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
+    "id": "zmzai-cloud/zmzai-agent",
+    "language": "TypeScript",
+    "name": "zmzai-cloud/zmzai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:18:34Z",
+    "url": "https://github.com/zmzai-cloud/zmzai-agent"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 11,
+    "updated_at": "2026-08-27T03:17:00Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T03:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 617,
+    "updated_at": "2026-08-27T03:15:01Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-27T03:14:29Z",
+    "updated_at": "2026-08-27T03:24:54Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1735,
+    "updated_at": "2026-08-27T03:13:23Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-27T03:14:30Z",
+    "updated_at": "2026-08-27T03:24:55Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +149,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T03:11:46Z",
+    "updated_at": "2026-08-27T03:29:51Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -81,15 +198,6 @@
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T03:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -108,15 +216,6 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47434,
-    "updated_at": "2026-08-27T03:13:54Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -131,7 +230,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-27T02:53:39Z",
+    "updated_at": "2026-08-27T03:27:39Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -149,7 +248,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 499,
-    "updated_at": "2026-08-27T02:50:54Z",
+    "updated_at": "2026-08-27T03:19:17Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -185,7 +284,7 @@
     "language": "Python",
     "name": "SiwenPz/Tianji",
     "stars": 3,
-    "updated_at": "2026-08-27T02:44:00Z",
+    "updated_at": "2026-08-27T03:25:05Z",
     "url": "https://github.com/SiwenPz/Tianji"
   },
   {
@@ -194,17 +293,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19520,
-    "updated_at": "2026-08-27T03:14:14Z",
+    "updated_at": "2026-08-27T03:27:05Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-27T03:14:27Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -232,24 +322,6 @@
     "stars": 415,
     "updated_at": "2026-08-27T02:37:39Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9316,
-    "updated_at": "2026-08-27T03:10:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1735,
-    "updated_at": "2026-08-27T03:13:23Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
     "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
@@ -376,77 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-27T02:01:40Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:00:52Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
-    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
-    "id": "Sheep1433/Noesis",
-    "language": "Python",
-    "name": "Sheep1433/Noesis",
-    "stars": 12,
-    "updated_at": "2026-08-27T01:53:51Z",
-    "url": "https://github.com/Sheep1433/Noesis"
-  },
-  {
-    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
-    "id": "macanderson/context-graph-protocol",
-    "language": "Rust",
-    "name": "macanderson/context-graph-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:45:12Z",
-    "url": "https://github.com/macanderson/context-graph-protocol"
-  },
-  {
-    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
-    "id": "atliliw/langchainrust",
-    "language": "Rust",
-    "name": "atliliw/langchainrust",
-    "stars": 14,
-    "updated_at": "2026-08-27T01:42:41Z",
-    "url": "https://github.com/atliliw/langchainrust"
-  },
-  {
-    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
-    "id": "proteus-evolve/Proteus",
-    "language": "Python",
-    "name": "proteus-evolve/Proteus",
-    "stars": 57,
-    "updated_at": "2026-08-27T01:38:39Z",
-    "url": "https://github.com/proteus-evolve/Proteus"
-  },
-  {
-    "description": "DeepSeek Harness \u7684 Python \u91cd\u5b9e\u73b0\uff1a\u63d2\u4ef6\u5185\u6838 + \u4e8b\u4ef6\u6eaf\u6e90 + \u4e94\u6bb5\u5de5\u5177\u7ba1\u7ebf + wanter\uff08water+ant\uff09\u7269\u7406\u7ecf\u9a8c\u5c42\u2014\u2014\u7eaf\u68af\u5ea6 0% \u9003\u9038 vs wanter 100%\uff0c\u8def\u5f84\u590d\u7528 \u224830\u00d7 \u52a0\u901f",
-    "id": "Lxxz666/DSH-wanter-python",
-    "language": "Python",
-    "name": "Lxxz666/DSH-wanter-python",
-    "stars": 2,
-    "updated_at": "2026-08-27T01:35:40Z",
-    "url": "https://github.com/Lxxz666/DSH-wanter-python"
-  },
-  {
-    "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
-    "id": "Inupedia/spotlight",
-    "language": "TypeScript",
-    "name": "Inupedia/spotlight",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:25:44Z",
-    "url": "https://github.com/Inupedia/spotlight"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-27T01:24:23Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   }
 ]
