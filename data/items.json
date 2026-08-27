@@ -1,5 +1,113 @@
 [
   {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 17,
+    "updated_at": "2026-08-27T02:14:29Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "\u6276\u6447 \u00b7 Nomad v0.7.0 \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\uff0c\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
+    "id": "NinjaSln-labs/fuyao-nomad",
+    "language": "JavaScript",
+    "name": "NinjaSln-labs/fuyao-nomad",
+    "stars": 0,
+    "updated_at": "2026-08-27T02:13:04Z",
+    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-08-27T02:12:47Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
+    "id": "ionalpha/flynn",
+    "language": "Go",
+    "name": "ionalpha/flynn",
+    "stars": 3,
+    "updated_at": "2026-08-27T02:10:13Z",
+    "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-27T02:15:06Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-27T02:05:47Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35200,
+    "updated_at": "2026-08-27T02:05:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 203,
+    "updated_at": "2026-08-27T02:05:24Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-27T02:01:40Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T02:00:52Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T02:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-08-27T02:00:12Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -23,26 +131,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T01:47:42Z",
+    "updated_at": "2026-08-27T02:09:40Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:47:32Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T01:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
@@ -63,20 +153,11 @@
     "url": "https://github.com/atliliw/langchainrust"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:41:17Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
     "id": "proteus-evolve/Proteus",
     "language": "Python",
     "name": "proteus-evolve/Proteus",
-    "stars": 56,
+    "stars": 57,
     "updated_at": "2026-08-27T01:38:39Z",
     "url": "https://github.com/proteus-evolve/Proteus"
   },
@@ -108,21 +189,12 @@
     "url": "https://github.com/Lxxz666/DSH-wanter-python"
   },
   {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:00:12Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
     "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19519,
-    "updated_at": "2026-08-27T01:50:17Z",
+    "updated_at": "2026-08-27T02:01:42Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9316,
-    "updated_at": "2026-08-27T01:28:48Z",
+    "updated_at": "2026-08-27T02:04:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 189,
-    "updated_at": "2026-08-27T01:25:34Z",
+    "updated_at": "2026-08-27T02:09:27Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35201,
-    "updated_at": "2026-08-27T01:23:29Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 5,
     "updated_at": "2026-08-27T01:29:31Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 3,
-    "updated_at": "2026-08-27T01:49:31Z",
-    "url": "https://github.com/ionalpha/flynn"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "rundesk-ai/rundesk-cli",
     "stars": 4,
-    "updated_at": "2026-08-27T01:53:27Z",
+    "updated_at": "2026-08-27T02:14:16Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 203,
-    "updated_at": "2026-08-27T00:40:03Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:37:33Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-27T00:40:18Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:37:15Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-08-27T00:37:02Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 499,
-    "updated_at": "2026-08-27T01:53:37Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-27T00:30:29Z",
-    "url": "https://github.com/telus-labs/stagecraft"
   }
 ]
