@@ -1,12 +1,93 @@
 [
   {
+    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:26:59Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
+    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "language": "Python",
+    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:25:32Z",
+    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47459,
+    "updated_at": "2026-08-27T13:21:15Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
+    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "language": "Python",
+    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:18:58Z",
+    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:27:48Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:14:53Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-27T13:14:35Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T13:15:01Z",
+    "updated_at": "2026-08-27T13:29:14Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T13:18:29Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
@@ -27,15 +108,6 @@
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -45,21 +117,12 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:14:03Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
     "id": "speleoalex/myagent",
     "language": "Python",
     "name": "speleoalex/myagent",
     "stars": 3,
-    "updated_at": "2026-08-27T12:57:10Z",
+    "updated_at": "2026-08-27T13:25:56Z",
     "url": "https://github.com/speleoalex/myagent"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1177,
-    "updated_at": "2026-08-27T12:57:08Z",
+    "updated_at": "2026-08-27T13:24:11Z",
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/HanHan666666/patchbridge-agent"
   },
   {
-    "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
-    "id": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "language": "Python",
-    "name": "abhisoni-sketch/ZiWan-Creative-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:51:42Z",
-    "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -124,15 +178,6 @@
     "stars": 26332,
     "updated_at": "2026-08-27T12:48:32Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
-    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "language": "Python",
-    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "stars": 1,
-    "updated_at": "2026-08-27T12:47:47Z",
-    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
     "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
@@ -198,15 +243,6 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47459,
-    "updated_at": "2026-08-27T12:37:43Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
     "id": "hara-cli/hara",
     "language": "TypeScript",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 47,
-    "updated_at": "2026-08-27T12:12:37Z",
+    "updated_at": "2026-08-27T13:28:16Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-27T13:05:10Z",
+    "updated_at": "2026-08-27T13:19:54Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -302,7 +338,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4503,
-    "updated_at": "2026-08-27T13:12:19Z",
+    "updated_at": "2026-08-27T13:26:05Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 0,
-    "updated_at": "2026-08-27T11:50:24Z",
+    "updated_at": "2026-08-27T13:26:15Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-27T13:07:53Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Offline-first AI agent runtime and workspace for Android \u2014 Kotlin, Flutter, MCP, on-device LLM, and a policy-gated tool ",
     "id": "FishBottle7/OpenCray",
     "language": "Kotlin",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T10:48:36Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 17,
-    "updated_at": "2026-08-27T10:47:07Z",
-    "url": "https://github.com/relayax/relayagent"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:30:08Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35210,
-    "updated_at": "2026-08-27T10:23:56Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
