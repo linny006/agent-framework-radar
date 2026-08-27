@@ -1,12 +1,111 @@
 [
   {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4502,
+    "updated_at": "2026-08-27T08:10:35Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-08-27T08:09:30Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
     "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
     "id": "microsoft/Sico",
     "language": "Python",
     "name": "microsoft/Sico",
     "stars": 185,
-    "updated_at": "2026-08-27T08:00:17Z",
+    "updated_at": "2026-08-27T08:08:09Z",
     "url": "https://github.com/microsoft/Sico"
+  },
+  {
+    "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
+    "id": "zj-unicom-ai/UniEmployee",
+    "language": "Python",
+    "name": "zj-unicom-ai/UniEmployee",
+    "stars": 21,
+    "updated_at": "2026-08-27T08:07:49Z",
+    "url": "https://github.com/zj-unicom-ai/UniEmployee"
+  },
+  {
+    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
+    "id": "impartshadow/shadow",
+    "language": "Python",
+    "name": "impartshadow/shadow",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:07:19Z",
+    "url": "https://github.com/impartshadow/shadow"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 204,
+    "updated_at": "2026-08-27T08:06:56Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 254,
+    "updated_at": "2026-08-27T08:06:11Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 10,
+    "updated_at": "2026-08-27T08:05:43Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-27T08:08:27Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 25,
+    "updated_at": "2026-08-27T08:03:32Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1177,
+    "updated_at": "2026-08-27T08:00:42Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T08:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -68,17 +167,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9327,
-    "updated_at": "2026-08-27T07:58:46Z",
+    "updated_at": "2026-08-27T08:01:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T07:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u57fa\u4e8e DeepSeek /responses API \u7684 TypeScript AI Agent \u6846\u67b6\uff1a\u591a\u8f6e\u5bf9\u8bdd + \u5de5\u5177\u8c03\u7528\uff08web \u641c\u7d22 / shell / \u8be2\u95ee\u5f00\u53d1\u8005\uff09\uff0cshell \u547d\u4ee4\u5728 Docker Sandbox \u4e2d\u9694\u79bb\u6267\u884c\uff0cA",
@@ -88,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T07:45:19Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-27T08:00:23Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -112,18 +193,9 @@
     "id": "Gnosil/semantix",
     "language": "Go",
     "name": "Gnosil/semantix",
-    "stars": 176,
+    "stars": 177,
     "updated_at": "2026-08-27T07:34:24Z",
     "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1177,
-    "updated_at": "2026-08-27T07:32:28Z",
-    "url": "https://github.com/clacky-ai/openclacky"
   },
   {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T07:28:32Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4502,
-    "updated_at": "2026-08-27T07:58:30Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
@@ -248,7 +311,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 45,
-    "updated_at": "2026-08-27T07:05:31Z",
+    "updated_at": "2026-08-27T08:01:35Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -320,7 +383,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 618,
-    "updated_at": "2026-08-27T07:58:44Z",
+    "updated_at": "2026-08-27T08:15:06Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -331,15 +394,6 @@
     "stars": 15136,
     "updated_at": "2026-08-27T06:40:25Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 204,
-    "updated_at": "2026-08-27T06:39:47Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
@@ -378,15 +432,6 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
-    "id": "zj-unicom-ai/UniEmployee",
-    "language": "Python",
-    "name": "zj-unicom-ai/UniEmployee",
-    "stars": 21,
-    "updated_at": "2026-08-27T06:36:23Z",
-    "url": "https://github.com/zj-unicom-ai/UniEmployee"
-  },
-  {
     "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
     "id": "ionalpha/flynn",
     "language": "Go",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T06:36:05Z",
     "url": "https://github.com/Removel/Icarus"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26329,
-    "updated_at": "2026-08-27T06:25:53Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-08-27T06:21:16Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6832,
-    "updated_at": "2026-08-27T06:16:52Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 114,
-    "updated_at": "2026-08-27T06:14:38Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
-    "id": "Atiqul-Islam/genesis",
-    "language": "Rust",
-    "name": "Atiqul-Islam/genesis",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:13:53Z",
-    "url": "https://github.com/Atiqul-Islam/genesis"
   }
 ]
