@@ -1,5 +1,77 @@
 [
   {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-27T20:44:03Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T20:41:56Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 500,
+    "updated_at": "2026-08-27T20:37:10Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9369,
+    "updated_at": "2026-08-27T20:36:20Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19538,
+    "updated_at": "2026-08-27T20:34:55Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-27T20:33:49Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:37:32Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 0,
-    "updated_at": "2026-08-27T20:29:05Z",
+    "updated_at": "2026-08-27T20:44:16Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-27T20:27:41Z",
+    "updated_at": "2026-08-27T20:41:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-27T20:30:09Z",
+    "updated_at": "2026-08-27T20:43:33Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -81,21 +153,12 @@
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9369,
-    "updated_at": "2026-08-27T20:30:03Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T20:16:43Z",
+    "updated_at": "2026-08-27T20:41:42Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -108,30 +171,12 @@
     "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-27T20:28:38Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
     "id": "Allura-Ecosystem/Allura_Memory",
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-08-27T20:12:53Z",
+    "updated_at": "2026-08-27T20:42:57Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
@@ -187,24 +232,6 @@
     "stars": 123,
     "updated_at": "2026-08-27T19:59:20Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-27T20:25:05Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19538,
-    "updated_at": "2026-08-27T19:58:30Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
@@ -301,7 +328,7 @@
     "id": "Gnosil/semantix",
     "language": "Go",
     "name": "Gnosil/semantix",
-    "stars": 188,
+    "stars": 189,
     "updated_at": "2026-08-27T19:31:16Z",
     "url": "https://github.com/Gnosil/semantix"
   },
@@ -322,15 +349,6 @@
     "stars": 24,
     "updated_at": "2026-08-27T19:18:13Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-27T20:23:28Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in conso",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13154,
-    "updated_at": "2026-08-27T18:41:38Z",
+    "updated_at": "2026-08-27T20:37:57Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-27T19:23:09Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Spec-first, embeddable agent harness runtime - a control plane for loop-engineered AI agents. Governed tool calls throug",
-    "id": "norton77930/loopplane",
-    "language": "Python",
-    "name": "norton77930/loopplane",
-    "stars": 2,
-    "updated_at": "2026-08-27T18:35:09Z",
-    "url": "https://github.com/norton77930/loopplane"
   }
 ]
