@@ -1,5 +1,95 @@
 [
   {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-08-27T09:12:16Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13144,
+    "updated_at": "2026-08-27T09:02:22Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 46,
+    "updated_at": "2026-08-27T09:01:30Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-27T09:00:50Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1737,
+    "updated_at": "2026-08-27T08:59:49Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1318,
+    "updated_at": "2026-08-27T08:59:41Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "TypeScript ports of the Microsoft Foundry hosted-agent samples, built on agent-framework-js (@polymind-inc/agent-framewo",
+    "id": "polymind-inc/foundry-samples",
+    "language": "\u2014",
+    "name": "polymind-inc/foundry-samples",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:59:07Z",
+    "url": "https://github.com/polymind-inc/foundry-samples"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4900,
+    "updated_at": "2026-08-27T08:56:07Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
+    "id": "atliliw/langchainrust",
+    "language": "Rust",
+    "name": "atliliw/langchainrust",
+    "stars": 14,
+    "updated_at": "2026-08-27T08:54:42Z",
+    "url": "https://github.com/atliliw/langchainrust"
+  },
+  {
     "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
     "id": "Eclipseic1848/CoreMind",
     "language": "TypeScript",
@@ -7,6 +97,15 @@
     "stars": 5,
     "updated_at": "2026-08-27T08:54:41Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
+    "id": "clafollett/riff",
+    "language": "TypeScript",
+    "name": "clafollett/riff",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:53:56Z",
+    "url": "https://github.com/clafollett/riff"
   },
   {
     "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
@@ -32,26 +131,8 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 191,
-    "updated_at": "2026-08-27T08:52:13Z",
+    "updated_at": "2026-08-27T09:05:01Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-27T08:46:58Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T08:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "semantic agent kernel which make agent efficient and self-evolve",
@@ -76,18 +157,9 @@
     "id": "logandoo/weave-thinker",
     "language": "Python",
     "name": "logandoo/weave-thinker",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-27T08:42:45Z",
     "url": "https://github.com/logandoo/weave-thinker"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1318,
-    "updated_at": "2026-08-27T08:59:41Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Package manager for AI agent assets \u2014 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev,",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9328,
-    "updated_at": "2026-08-27T08:52:42Z",
+    "updated_at": "2026-08-27T09:10:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "databricks-solutions/consort",
     "stars": 11,
-    "updated_at": "2026-08-27T08:32:10Z",
+    "updated_at": "2026-08-27T09:08:32Z",
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-27T08:56:16Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -203,7 +266,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4502,
-    "updated_at": "2026-08-27T08:59:43Z",
+    "updated_at": "2026-08-27T09:15:03Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -297,15 +360,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4899,
-    "updated_at": "2026-08-27T08:56:07Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "\u57fa\u4e8e DeepSeek /responses API \u7684 TypeScript AI Agent \u6846\u67b6\uff1a\u591a\u8f6e\u5bf9\u8bdd + \u5de5\u5177\u8c03\u7528\uff08web \u641c\u7d22 / shell / \u8be2\u95ee\u5f00\u53d1\u8005\uff09\uff0cshell \u547d\u4ee4\u5728 Docker Sandbox \u4e2d\u9694\u79bb\u6267\u884c\uff0cA",
     "id": "DeliveryPerson2004/DeepForge",
     "language": "TypeScript",
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "SiwenPz/Tianji",
     "stars": 3,
-    "updated_at": "2026-08-27T07:13:02Z",
+    "updated_at": "2026-08-27T09:07:19Z",
     "url": "https://github.com/SiwenPz/Tianji"
   },
   {
@@ -391,62 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35209,
-    "updated_at": "2026-08-27T07:12:59Z",
+    "stars": 35210,
+    "updated_at": "2026-08-27T09:10:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-27T07:12:20Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T08:48:45Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-27T07:06:53Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Agentic LLM shell aimed at low cost GPUs",
-    "id": "chrisws/nitro",
-    "language": "C++",
-    "name": "chrisws/nitro",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:03:47Z",
-    "url": "https://github.com/chrisws/nitro"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 262,
-    "updated_at": "2026-08-27T07:10:54Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Universal AI agent kernel \u2014 LLM loop, sessions, memory, tool runtime, cron & webhooks. Build your own agent with Markdow",
-    "id": "tagword/seed",
-    "language": "Python",
-    "name": "tagword/seed",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:00:07Z",
-    "url": "https://github.com/tagword/seed"
   }
 ]
