@@ -1,5 +1,104 @@
 [
   {
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:57:06Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35204,
+    "updated_at": "2026-08-27T06:56:07Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/nitro",
+    "language": "C++",
+    "name": "chrisws/nitro",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:55:20Z",
+    "url": "https://github.com/chrisws/nitro"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1899,
+    "updated_at": "2026-08-27T06:55:02Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-27T06:54:23Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4895,
+    "updated_at": "2026-08-27T06:54:53Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
+    "id": "logandoo/weave-thinker",
+    "language": "Python",
+    "name": "logandoo/weave-thinker",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:50:07Z",
+    "url": "https://github.com/logandoo/weave-thinker"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-27T06:48:25Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9324,
+    "updated_at": "2026-08-27T06:58:24Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DeepSeek Harness (dsh) plugins + scaffold: file tree with live git status, browser-reader, MiniMax search, cron schedule",
+    "id": "codelogickeep/deepseek-harness-plugin",
+    "language": "JavaScript",
+    "name": "codelogickeep/deepseek-harness-plugin",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:44:00Z",
+    "url": "https://github.com/codelogickeep/deepseek-harness-plugin"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -13,7 +112,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 15133,
+    "stars": 15134,
     "updated_at": "2026-08-27T06:40:25Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -40,7 +139,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47442,
+    "stars": 47444,
     "updated_at": "2026-08-27T06:38:49Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -61,15 +160,6 @@
     "stars": 39,
     "updated_at": "2026-08-27T06:38:21Z",
     "url": "https://github.com/WhitzardAgent/WhitzardOS"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9324,
-    "updated_at": "2026-08-27T06:44:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -104,8 +194,17 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 3,
-    "updated_at": "2026-08-27T06:36:05Z",
+    "updated_at": "2026-08-27T06:55:55Z",
     "url": "https://github.com/ionalpha/flynn"
+  },
+  {
+    "description": "Everything is a plugin\uff01 \u4e00\u79cd\u57fa\u4e8e\u63d2\u4ef6\u5316\u6269\u5c55\u3001\u4e8b\u4ef6\u9a71\u52a8\u603b\u7ebf\u6a21\u5f0f\u6784\u5efa\u7684\u667a\u80fd\u4f53\u6846\u67b6\u4e0eagent\u5168\u6808\u5e94\u7528\uff08\u5f00\u53d1\u4e2d\uff09",
+    "id": "Removel/Icarus",
+    "language": "Python",
+    "name": "Removel/Icarus",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:36:05Z",
+    "url": "https://github.com/Removel/Icarus"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -115,33 +214,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T06:36:03Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1899,
-    "updated_at": "2026-08-27T06:33:55Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:32:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4895,
-    "updated_at": "2026-08-27T06:31:06Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -158,7 +230,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4502,
-    "updated_at": "2026-08-27T06:44:10Z",
+    "updated_at": "2026-08-27T06:59:10Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "tagword/seed",
     "stars": 1,
-    "updated_at": "2026-08-27T06:11:13Z",
+    "updated_at": "2026-08-27T07:00:07Z",
     "url": "https://github.com/tagword/seed"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Go",
     "name": "Gnosil/semantix",
     "stars": 174,
-    "updated_at": "2026-08-27T05:59:48Z",
+    "updated_at": "2026-08-27T06:54:51Z",
     "url": "https://github.com/Gnosil/semantix"
   },
   {
@@ -320,7 +392,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-08-27T06:13:25Z",
+    "updated_at": "2026-08-27T06:59:24Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -329,7 +401,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 45,
-    "updated_at": "2026-08-27T05:36:18Z",
+    "updated_at": "2026-08-27T06:58:40Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -340,24 +412,6 @@
     "stars": 113,
     "updated_at": "2026-08-27T06:14:38Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-27T06:12:10Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35204,
-    "updated_at": "2026-08-27T05:27:05Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -387,15 +441,6 @@
     "url": "https://github.com/sirrobot01/writ"
   },
   {
-    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
-    "id": "logandoo/weave-thinker",
-    "language": "Python",
-    "name": "logandoo/weave-thinker",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:10:22Z",
-    "url": "https://github.com/logandoo/weave-thinker"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-27T05:10:06Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
-    "id": "pleaseai/please",
-    "language": "TypeScript",
-    "name": "pleaseai/please",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:09:44Z",
-    "url": "https://github.com/pleaseai/please"
-  },
-  {
-    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
-    "id": "proteus-evolve/Proteus",
-    "language": "Python",
-    "name": "proteus-evolve/Proteus",
-    "stars": 57,
-    "updated_at": "2026-08-27T05:04:00Z",
-    "url": "https://github.com/proteus-evolve/Proteus"
-  },
-  {
-    "description": "Perform amazing feats, safely.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:54:39Z",
-    "url": "https://github.com/sycdan/nosedive"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 3,
-    "updated_at": "2026-08-27T04:51:28Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
-    "id": "zmzai-cloud/zmzai-agent",
-    "language": "TypeScript",
-    "name": "zmzai-cloud/zmzai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:49:04Z",
-    "url": "https://github.com/zmzai-cloud/zmzai-agent"
   }
 ]
