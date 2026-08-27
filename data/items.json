@@ -1,12 +1,21 @@
 [
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4502,
-    "updated_at": "2026-08-27T08:10:35Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
+    "description": "Modular Python framework for LLM agents with multiple agent patterns, memory, RAG, MCP, and context engineering.",
+    "id": "Ling-ye/Lingye_Agent",
+    "language": "Python",
+    "name": "Ling-ye/Lingye_Agent",
+    "stars": 8,
+    "updated_at": "2026-08-27T08:27:10Z",
+    "url": "https://github.com/Ling-ye/Lingye_Agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-27T08:28:39Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-08-27T08:09:30Z",
+    "updated_at": "2026-08-27T08:22:59Z",
     "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19525,
+    "updated_at": "2026-08-27T08:30:16Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 45,
+    "updated_at": "2026-08-27T08:16:17Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T08:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 618,
+    "updated_at": "2026-08-27T08:15:22Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4502,
+    "updated_at": "2026-08-27T08:10:35Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
@@ -72,15 +126,6 @@
     "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-27T08:08:27Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -90,22 +135,22 @@
     "url": "https://github.com/roackb2/heddle"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9328,
+    "updated_at": "2026-08-27T08:26:43Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1177,
-    "updated_at": "2026-08-27T08:00:42Z",
+    "updated_at": "2026-08-27T08:27:12Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T08:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 4,
-    "updated_at": "2026-08-27T07:51:05Z",
+    "updated_at": "2026-08-27T08:23:25Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 4899,
     "updated_at": "2026-08-27T07:49:25Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9327,
-    "updated_at": "2026-08-27T08:01:34Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\u57fa\u4e8e DeepSeek /responses API \u7684 TypeScript AI Agent \u6846\u67b6\uff1a\u591a\u8f6e\u5bf9\u8bdd + \u5de5\u5177\u8c03\u7528\uff08web \u641c\u7d22 / shell / \u8be2\u95ee\u5f00\u53d1\u8005\uff09\uff0cshell \u547d\u4ee4\u5728 Docker Sandbox \u4e2d\u9694\u79bb\u6267\u884c\uff0cA",
@@ -248,7 +284,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-27T07:16:19Z",
+    "updated_at": "2026-08-27T08:28:37Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T07:06:53Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 45,
-    "updated_at": "2026-08-27T08:01:35Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Agentic LLM shell aimed at low cost GPUs",
@@ -378,15 +405,6 @@
     "url": "https://github.com/codelogickeep/deepseek-harness-plugin"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 618,
-    "updated_at": "2026-08-27T08:15:06Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
@@ -409,7 +427,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47448,
+    "stars": 47449,
     "updated_at": "2026-08-27T06:38:49Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -430,23 +448,5 @@
     "stars": 1586,
     "updated_at": "2026-08-27T06:36:35Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
-    "id": "ionalpha/flynn",
-    "language": "Go",
-    "name": "ionalpha/flynn",
-    "stars": 3,
-    "updated_at": "2026-08-27T07:51:27Z",
-    "url": "https://github.com/ionalpha/flynn"
-  },
-  {
-    "description": "Everything is a plugin\uff01 \u4e00\u79cd\u57fa\u4e8e\u63d2\u4ef6\u5316\u6269\u5c55\u3001\u4e8b\u4ef6\u9a71\u52a8\u603b\u7ebf\u6a21\u5f0f\u6784\u5efa\u7684\u667a\u80fd\u4f53\u6846\u67b6\u4e0eagent\u5168\u6808\u5e94\u7528\uff08\u5f00\u53d1\u4e2d\uff09",
-    "id": "Removel/Icarus",
-    "language": "Python",
-    "name": "Removel/Icarus",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:36:05Z",
-    "url": "https://github.com/Removel/Icarus"
   }
 ]
