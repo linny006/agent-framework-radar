@@ -1,12 +1,30 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9318,
+    "updated_at": "2026-08-27T05:13:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
     "id": "NinjaSln-labs/fuyao-nomad",
     "language": "JavaScript",
     "name": "NinjaSln-labs/fuyao-nomad",
     "stars": 0,
-    "updated_at": "2026-08-27T04:59:52Z",
+    "updated_at": "2026-08-27T05:12:03Z",
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35205,
+    "updated_at": "2026-08-27T05:11:16Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Self-hosted personal AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
@@ -14,15 +32,60 @@
     "language": "Python",
     "name": "logandoo/weave-thinker",
     "stars": 0,
-    "updated_at": "2026-08-27T04:59:29Z",
+    "updated_at": "2026-08-27T05:10:22Z",
     "url": "https://github.com/logandoo/weave-thinker"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-27T05:10:06Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
+    "id": "pleaseai/please",
+    "language": "TypeScript",
+    "name": "pleaseai/please",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:09:44Z",
+    "url": "https://github.com/pleaseai/please"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-27T05:07:23Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 57,
+    "updated_at": "2026-08-27T05:04:00Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T05:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
-    "stars": 4503,
+    "stars": 4502,
     "updated_at": "2026-08-27T04:57:09Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 4,
-    "updated_at": "2026-08-27T04:55:03Z",
+    "updated_at": "2026-08-27T05:13:42Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -99,15 +162,6 @@
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T04:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
@@ -126,15 +180,6 @@
     "url": "https://github.com/sirrobot01/writ"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35206,
-    "updated_at": "2026-08-27T04:42:14Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\u5929\u673a(Tianji):\u591a CLI \u7f16\u7a0b\u52a9\u624b\u7f16\u6392\u6846\u67b6\u2014\u2014\u516d\u89d2\u8272\u673a\u68b0\u6d41\u6c34\u7ebf(\u603b\u63a7/\u5206\u914d\u5668/\u76d1\u63a7\u5668/\u67b6\u6784\u5e08/\u5b9e\u65bd\u8005/\u5ba1\u6838\u8005),\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
     "id": "SiwenPz/Tianji",
     "language": "Python",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19522,
-    "updated_at": "2026-08-27T04:50:00Z",
+    "updated_at": "2026-08-27T05:08:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:22:32Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T04:20:37Z",
     "url": "https://github.com/clafollett/riff"
-  },
-  {
-    "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
-    "id": "pleaseai/please",
-    "language": "TypeScript",
-    "name": "pleaseai/please",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:42:53Z",
-    "url": "https://github.com/pleaseai/please"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T04:23:05Z",
+    "updated_at": "2026-08-27T05:13:09Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -265,7 +292,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47438,
+    "stars": 47437,
     "updated_at": "2026-08-27T04:05:55Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -286,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T04:05:38Z",
     "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9318,
-    "updated_at": "2026-08-27T04:41:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
@@ -331,6 +349,15 @@
     "stars": 4,
     "updated_at": "2026-08-27T03:51:40Z",
     "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26326,
+    "updated_at": "2026-08-27T03:47:44Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-27T03:11:24Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "The agent framework where every run is durable, replayable, and resumable by default.",
-    "id": "ThousandBirdsInc/chidori",
-    "language": "Rust",
-    "name": "ThousandBirdsInc/chidori",
-    "stars": 1363,
-    "updated_at": "2026-08-27T03:04:14Z",
-    "url": "https://github.com/ThousandBirdsInc/chidori"
-  },
-  {
-    "description": "Open-source AI coding agent & harness in TypeScript - everything is a plugin. ReAct loop, MCP support (Claude-compatible",
-    "id": "lzy1102/openaide",
-    "language": "TypeScript",
-    "name": "lzy1102/openaide",
-    "stars": 1,
-    "updated_at": "2026-08-27T03:04:03Z",
-    "url": "https://github.com/lzy1102/openaide"
-  },
-  {
-    "description": "Universal AI agent kernel \u2014 LLM loop, sessions, memory, tool runtime, cron & webhooks. Build your own agent with Markdow",
-    "id": "tagword/seed",
-    "language": "Python",
-    "name": "tagword/seed",
-    "stars": 1,
-    "updated_at": "2026-08-27T03:03:26Z",
-    "url": "https://github.com/tagword/seed"
   }
 ]
