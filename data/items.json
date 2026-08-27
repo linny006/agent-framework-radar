@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-08-27T10:15:15Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-27T10:08:14Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 205,
+    "updated_at": "2026-08-27T10:07:51Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 350,
+    "updated_at": "2026-08-27T10:04:29Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -13,18 +58,27 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9330,
+    "stars": 9331,
     "updated_at": "2026-08-27T09:58:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
     "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 38,
-    "updated_at": "2026-08-27T09:58:29Z",
-    "url": "https://github.com/ggui-ai/ggui"
+    "name": "usetheokit/theokit",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:57:03Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-08-27T09:56:22Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -40,9 +94,18 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47451,
+    "stars": 47452,
     "updated_at": "2026-08-27T09:53:29Z",
     "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1899,
+    "updated_at": "2026-08-27T09:52:43Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19526,
-    "updated_at": "2026-08-27T09:51:40Z",
+    "updated_at": "2026-08-27T10:10:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 47,
-    "updated_at": "2026-08-27T09:50:34Z",
+    "updated_at": "2026-08-27T10:14:49Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/relayax/relayagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -158,17 +212,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4503,
-    "updated_at": "2026-08-27T09:39:33Z",
+    "updated_at": "2026-08-27T10:03:05Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 415,
-    "updated_at": "2026-08-27T09:56:22Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 25,
-    "updated_at": "2026-08-27T09:36:42Z",
+    "updated_at": "2026-08-27T10:03:10Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35212,
-    "updated_at": "2026-08-27T09:59:48Z",
+    "updated_at": "2026-08-27T10:13:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:57:03Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -292,8 +328,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13146,
-    "updated_at": "2026-08-27T09:02:22Z",
+    "stars": 13147,
+    "updated_at": "2026-08-27T10:10:40Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/WhitzardAgent/WhitzardOS"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1899,
-    "updated_at": "2026-08-27T09:52:43Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
@@ -405,20 +432,11 @@
     "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 205,
-    "updated_at": "2026-08-27T08:38:50Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
     "id": "ranxi2001/zero2Agent",
     "language": "Python",
     "name": "ranxi2001/zero2Agent",
-    "stars": 346,
+    "stars": 347,
     "updated_at": "2026-08-27T08:31:51Z",
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
@@ -430,23 +448,5 @@
     "stars": 1177,
     "updated_at": "2026-08-27T08:27:12Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Modular Python framework for LLM agents with multiple agent patterns, memory, RAG, MCP, and context engineering.",
-    "id": "Ling-ye/Lingye_Agent",
-    "language": "Python",
-    "name": "Ling-ye/Lingye_Agent",
-    "stars": 8,
-    "updated_at": "2026-08-27T08:27:10Z",
-    "url": "https://github.com/Ling-ye/Lingye_Agent"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 618,
-    "updated_at": "2026-08-27T08:15:22Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   }
 ]
