@@ -1,21 +1,57 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9365,
-    "updated_at": "2026-08-27T17:15:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 1,
-    "updated_at": "2026-08-27T17:12:49Z",
+    "updated_at": "2026-08-27T17:22:07Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:28:47Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-08-27T17:19:42Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T17:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9365,
+    "updated_at": "2026-08-27T17:29:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-27T17:11:51Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "A multi-agent & multi-harness AI agent management and orchestration system",
@@ -34,6 +70,15 @@
     "stars": 9,
     "updated_at": "2026-08-27T17:09:16Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19533,
+    "updated_at": "2026-08-27T17:27:38Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
@@ -59,8 +104,17 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 263,
-    "updated_at": "2026-08-27T17:04:57Z",
+    "updated_at": "2026-08-27T17:17:37Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 4,
+    "updated_at": "2026-08-27T17:03:27Z",
+    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:01:38Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T17:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "semantic agent kernel which make agent efficient and self-evolve",
@@ -144,21 +189,12 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 4,
-    "updated_at": "2026-08-27T17:03:27Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-08-27T16:46:38Z",
+    "updated_at": "2026-08-27T17:25:13Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-27T16:47:22Z",
+    "updated_at": "2026-08-27T17:29:02Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-08-27T16:28:12Z",
     "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19533,
-    "updated_at": "2026-08-27T17:07:38Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -239,7 +266,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35217,
-    "updated_at": "2026-08-27T17:12:55Z",
+    "updated_at": "2026-08-27T17:20:56Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-27T16:19:36Z",
+    "updated_at": "2026-08-27T17:26:26Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -284,7 +311,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4504,
-    "updated_at": "2026-08-27T17:10:33Z",
+    "updated_at": "2026-08-27T17:25:32Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 219,
-    "updated_at": "2026-08-27T16:02:31Z",
+    "updated_at": "2026-08-27T17:25:01Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -347,26 +374,8 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 25,
-    "updated_at": "2026-08-27T15:57:50Z",
+    "updated_at": "2026-08-27T17:18:05Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:56:32Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-27T17:11:51Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Agent swarms that recursively evolve themselves \u2014 recursive self-improvement as auditable topology. Build an agentic har",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T17:11:39Z",
+    "updated_at": "2026-08-27T17:28:53Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-27T15:36:46Z",
     "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
-    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
-    "id": "reda-baqechame/self-learning-24.7-agent",
-    "language": "Python",
-    "name": "reda-baqechame/self-learning-24.7-agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:32:52Z",
-    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
   }
 ]
