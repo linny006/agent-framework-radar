@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-27T13:15:01Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
+    "id": "mybay-ai/mybay-core",
+    "language": "TypeScript",
+    "name": "mybay-ai/mybay-core",
+    "stars": 2,
+    "updated_at": "2026-08-27T13:05:57Z",
+    "url": "https://github.com/mybay-ai/mybay-core"
+  },
+  {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:05:07Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9355,
+    "updated_at": "2026-08-27T12:57:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:14:03Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
     "id": "speleoalex/myagent",
     "language": "Python",
@@ -18,22 +72,13 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:57:34Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "Lightweight browser-side AI agent framework for legacy enterprise web apps\u2014Java 8, Spring Boot 2, TypeScript, MCP/WebMCP",
-    "id": "HanHan666666/patchbridge-agent",
-    "language": "Java",
-    "name": "HanHan666666/patchbridge-agent",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:55:58Z",
-    "url": "https://github.com/HanHan666666/patchbridge-agent"
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 350,
+    "updated_at": "2026-08-27T12:56:54Z",
+    "url": "https://github.com/shibing624/agentica"
   },
   {
     "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
@@ -43,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T12:55:59Z",
     "url": "https://github.com/pleaseai/please"
+  },
+  {
+    "description": "Lightweight browser-side AI agent framework for legacy enterprise web apps\u2014Java 8, Spring Boot 2, TypeScript, MCP/WebMCP",
+    "id": "HanHan666666/patchbridge-agent",
+    "language": "Java",
+    "name": "HanHan666666/patchbridge-agent",
+    "stars": 3,
+    "updated_at": "2026-08-27T12:55:58Z",
+    "url": "https://github.com/HanHan666666/patchbridge-agent"
   },
   {
     "description": "Enterprise Multi-Agent Creative & Copywriting Studio on Google Cloud Vertex AI (Gemini 3 Series, Imagen 3, Veo 2). Featu",
@@ -59,8 +113,17 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13148,
-    "updated_at": "2026-08-27T12:59:34Z",
+    "updated_at": "2026-08-27T13:09:26Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26332,
+    "updated_at": "2026-08-27T12:48:32Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
@@ -81,24 +144,6 @@
     "url": "https://github.com/yuting-ai/asAgent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Self-hosted control plane for deploying, managing, and running AI agents on your own infrastructure.",
-    "id": "mybay-ai/mybay-core",
-    "language": "TypeScript",
-    "name": "mybay-ai/mybay-core",
-    "stars": 2,
-    "updated_at": "2026-08-27T12:59:50Z",
-    "url": "https://github.com/mybay-ai/mybay-core"
-  },
-  {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
     "id": "xuiltul/animaworks",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 254,
     "updated_at": "2026-08-27T12:45:20Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9353,
-    "updated_at": "2026-08-27T12:57:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-27T12:39:16Z",
+    "updated_at": "2026-08-27T13:11:40Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -166,7 +202,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47458,
+    "stars": 47459,
     "updated_at": "2026-08-27T12:37:43Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -178,24 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T12:37:29Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-27T12:36:48Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 350,
-    "updated_at": "2026-08-27T12:56:54Z",
-    "url": "https://github.com/shibing624/agentica"
   },
   {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
@@ -257,7 +275,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-27T12:01:50Z",
+    "updated_at": "2026-08-27T13:05:10Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -284,7 +302,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4503,
-    "updated_at": "2026-08-27T12:58:26Z",
+    "updated_at": "2026-08-27T13:12:19Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 1097,
     "updated_at": "2026-08-27T11:42:46Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26331,
-    "updated_at": "2026-08-27T12:48:32Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T12:56:04Z",
+    "updated_at": "2026-08-27T13:07:53Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -436,17 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35209,
+    "stars": 35210,
     "updated_at": "2026-08-27T10:23:56Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-08-27T10:23:28Z",
-    "url": "https://github.com/kdcube/kdcube"
   }
 ]
