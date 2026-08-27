@@ -5,15 +5,123 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 415,
-    "updated_at": "2026-08-27T09:12:16Z",
+    "updated_at": "2026-08-27T09:23:42Z",
     "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47451,
+    "updated_at": "2026-08-27T09:23:33Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 262,
+    "updated_at": "2026-08-27T09:23:03Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 218,
+    "updated_at": "2026-08-27T09:21:03Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 23,
+    "updated_at": "2026-08-27T09:27:49Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9330,
+    "updated_at": "2026-08-27T09:28:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-27T09:13:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:12:55Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:11:19Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35210,
+    "updated_at": "2026-08-27T09:10:58Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 11,
+    "updated_at": "2026-08-27T09:08:32Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "\u5929\u673a(Tianji):\u591a CLI \u7f16\u7a0b\u52a9\u624b\u7f16\u6392\u6846\u67b6\u2014\u2014\u516d\u89d2\u8272\u673a\u68b0\u6d41\u6c34\u7ebf(\u603b\u63a7/\u5206\u914d\u5668/\u76d1\u63a7\u5668/\u67b6\u6784\u5e08/\u5b9e\u65bd\u8005/\u5ba1\u6838\u8005),\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
+    "id": "SiwenPz/Tianji",
+    "language": "Python",
+    "name": "SiwenPz/Tianji",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:07:19Z",
+    "url": "https://github.com/SiwenPz/Tianji"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13144,
+    "stars": 13145,
     "updated_at": "2026-08-27T09:02:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -22,7 +130,7 @@
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-08-27T09:01:30Z",
     "url": "https://github.com/futuregene/future-os"
   },
@@ -32,17 +140,8 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-27T09:00:50Z",
+    "updated_at": "2026-08-27T09:22:20Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -76,8 +175,8 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 4900,
-    "updated_at": "2026-08-27T08:56:07Z",
+    "stars": 4901,
+    "updated_at": "2026-08-27T09:28:24Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 191,
-    "updated_at": "2026-08-27T09:05:01Z",
+    "updated_at": "2026-08-27T09:25:26Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -171,31 +270,13 @@
     "url": "https://github.com/seed-forge/harness-ai-kit"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
+    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
+    "id": "ranxi2001/zero2Agent",
     "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 218,
-    "updated_at": "2026-08-27T08:44:14Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9328,
-    "updated_at": "2026-08-27T09:10:27Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 11,
-    "updated_at": "2026-08-27T09:08:32Z",
-    "url": "https://github.com/databricks-solutions/consort"
+    "name": "ranxi2001/zero2Agent",
+    "stars": 345,
+    "updated_at": "2026-08-27T08:31:51Z",
+    "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -203,7 +284,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-27T08:28:37Z",
+    "updated_at": "2026-08-27T09:27:40Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19525,
-    "updated_at": "2026-08-27T08:30:16Z",
+    "updated_at": "2026-08-27T09:29:32Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -266,7 +347,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4502,
-    "updated_at": "2026-08-27T09:15:03Z",
+    "updated_at": "2026-08-27T09:30:09Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -329,7 +410,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 25,
-    "updated_at": "2026-08-27T08:03:32Z",
+    "updated_at": "2026-08-27T09:27:44Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-27T07:45:19Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:42:23Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:28:32Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
-    "id": "merryshelly/openalpheus",
-    "language": "Python",
-    "name": "merryshelly/openalpheus",
-    "stars": 3,
-    "updated_at": "2026-08-27T07:25:52Z",
-    "url": "https://github.com/merryshelly/openalpheus"
-  },
-  {
-    "description": "Toolchain Actualization Under Trust \u2014 compile, actualize and guard AI-agent workspaces: versioned packs \u2192 hash-locked to",
-    "id": "yurgeno/taut",
-    "language": "TypeScript",
-    "name": "yurgeno/taut",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:24:36Z",
-    "url": "https://github.com/yurgeno/taut"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-27T07:24:15Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
-    "id": "Sheep1433/Noesis",
-    "language": "Python",
-    "name": "Sheep1433/Noesis",
-    "stars": 12,
-    "updated_at": "2026-08-27T07:19:46Z",
-    "url": "https://github.com/Sheep1433/Noesis"
-  },
-  {
-    "description": "A deployable agent in one repository \u2014 fork it, point a platform at it, and what arrives is the whole package: harness, ",
-    "id": "altneu-dev/agent-template",
-    "language": "Shell",
-    "name": "altneu-dev/agent-template",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:15:33Z",
-    "url": "https://github.com/altneu-dev/agent-template"
-  },
-  {
-    "description": "\u5929\u673a(Tianji):\u591a CLI \u7f16\u7a0b\u52a9\u624b\u7f16\u6392\u6846\u67b6\u2014\u2014\u516d\u89d2\u8272\u673a\u68b0\u6d41\u6c34\u7ebf(\u603b\u63a7/\u5206\u914d\u5668/\u76d1\u63a7\u5668/\u67b6\u6784\u5e08/\u5b9e\u65bd\u8005/\u5ba1\u6838\u8005),\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
-    "id": "SiwenPz/Tianji",
-    "language": "Python",
-    "name": "SiwenPz/Tianji",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:07:19Z",
-    "url": "https://github.com/SiwenPz/Tianji"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35210,
-    "updated_at": "2026-08-27T09:10:58Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
