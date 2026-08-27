@@ -1,12 +1,102 @@
 [
   {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T22:28:38Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-27T22:28:32Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9370,
+    "updated_at": "2026-08-27T22:27:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-27T22:23:15Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
+    "id": "7bder/orchd-core",
+    "language": "Python",
+    "name": "7bder/orchd-core",
+    "stars": 1,
+    "updated_at": "2026-08-27T22:21:59Z",
+    "url": "https://github.com/7bder/orchd-core"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-27T22:28:54Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:19:43Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-27T22:15:10Z",
+    "updated_at": "2026-08-27T22:26:55Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
+    "id": "lottieepigastric889/lucky-block-script-hub",
+    "language": "HTML",
+    "name": "lottieepigastric889/lucky-block-script-hub",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:17:19Z",
+    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
+  },
+  {
+    "description": "Unlock automated targeting, instant item liquidation, and low-latency execution with this lightweight HTML script hub fo",
+    "id": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
+    "language": "HTML",
+    "name": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:17:16Z",
+    "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T22:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -23,17 +113,17 @@
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-08-27T22:12:59Z",
+    "updated_at": "2026-08-27T22:18:54Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-27T22:13:45Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
+    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
+    "id": "salvatoreabient793/cursor-auto-deployment-agent",
+    "language": "\u2014",
+    "name": "salvatoreabient793/cursor-auto-deployment-agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T22:11:39Z",
+    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19539,
-    "updated_at": "2026-08-27T22:06:08Z",
+    "updated_at": "2026-08-27T22:28:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -230,17 +320,8 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-08-27T22:00:29Z",
+    "updated_at": "2026-08-27T22:25:30Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T22:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
@@ -259,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T21:59:48Z",
     "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T21:59:01Z",
-    "url": "https://github.com/brunogcar/agent"
   },
   {
     "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
@@ -315,15 +387,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9370,
-    "updated_at": "2026-08-27T22:06:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
@@ -356,7 +419,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 11,
-    "updated_at": "2026-08-27T21:50:17Z",
+    "updated_at": "2026-08-27T22:27:39Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 472,
     "updated_at": "2026-08-27T21:53:15Z",
     "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-08-27T21:45:56Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-08-27T21:44:51Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4504,
-    "updated_at": "2026-08-27T22:06:44Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35221,
-    "updated_at": "2026-08-27T21:40:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
-    "id": "s2mgtvodois2/postgresql-mcp-js",
-    "language": "TypeScript",
-    "name": "s2mgtvodois2/postgresql-mcp-js",
-    "stars": 1,
-    "updated_at": "2026-08-27T21:38:43Z",
-    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T21:49:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-27T21:33:44Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
