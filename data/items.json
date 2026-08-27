@@ -1,12 +1,93 @@
 [
   {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 172,
+    "updated_at": "2026-08-27T05:59:48Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19525,
+    "updated_at": "2026-08-27T05:59:06Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Give AI models a heartbeat \u2014 unlock agent subjective initiative (\u4e3b\u89c2\u80fd\u52a8\u6027).",
+    "id": "zxfpro/heart",
+    "language": "HTML",
+    "name": "zxfpro/heart",
+    "stars": 1,
+    "updated_at": "2026-08-27T05:55:48Z",
+    "url": "https://github.com/zxfpro/heart"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47438,
+    "updated_at": "2026-08-27T05:54:35Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9319,
-    "updated_at": "2026-08-27T05:44:25Z",
+    "stars": 9320,
+    "updated_at": "2026-08-27T05:58:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
+    "id": "zj-unicom-ai/UniEmployee",
+    "language": "Python",
+    "name": "zj-unicom-ai/UniEmployee",
+    "stars": 21,
+    "updated_at": "2026-08-27T05:53:27Z",
+    "url": "https://github.com/zj-unicom-ai/UniEmployee"
+  },
+  {
+    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
+    "id": "plmbr/nui",
+    "language": "Go",
+    "name": "plmbr/nui",
+    "stars": 5,
+    "updated_at": "2026-08-27T05:51:08Z",
+    "url": "https://github.com/plmbr/nui"
+  },
+  {
+    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
+    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:58:08Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-27T05:46:47Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T05:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-08-27T05:42:21Z",
+    "updated_at": "2026-08-27T05:59:54Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1585,
-    "updated_at": "2026-08-27T05:41:00Z",
+    "updated_at": "2026-08-27T05:55:44Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-27T05:38:24Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -50,17 +122,8 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 4,
-    "updated_at": "2026-08-27T05:36:57Z",
+    "updated_at": "2026-08-27T05:54:39Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
-    "id": "plmbr/nui",
-    "language": "Go",
-    "name": "plmbr/nui",
-    "stars": 5,
-    "updated_at": "2026-08-27T05:43:56Z",
-    "url": "https://github.com/plmbr/nui"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -90,15 +153,6 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T05:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -113,17 +167,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T05:29:03Z",
+    "updated_at": "2026-08-27T05:58:27Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19524,
-    "updated_at": "2026-08-27T05:27:58Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "shibing624/agentica",
     "stars": 350,
-    "updated_at": "2026-08-27T05:27:15Z",
+    "updated_at": "2026-08-27T05:59:46Z",
     "url": "https://github.com/shibing624/agentica"
   },
   {
@@ -139,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35203,
+    "stars": 35202,
     "updated_at": "2026-08-27T05:27:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -160,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T05:26:00Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 172,
-    "updated_at": "2026-08-27T05:24:32Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47437,
-    "updated_at": "2026-08-27T05:20:23Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Keep your agent and workflow. Add visibility first, limits when needed, and enforceable contracts for high-risk work.",
@@ -257,7 +284,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-27T04:54:12Z",
+    "updated_at": "2026-08-27T05:57:28Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-27T05:27:53Z",
+    "updated_at": "2026-08-27T05:49:53Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "SiwenPz/Tianji",
     "stars": 3,
-    "updated_at": "2026-08-27T04:52:00Z",
+    "updated_at": "2026-08-27T05:54:24Z",
     "url": "https://github.com/SiwenPz/Tianji"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 11,
-    "updated_at": "2026-08-27T05:18:11Z",
+    "updated_at": "2026-08-27T05:49:25Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -414,39 +441,12 @@
     "url": "https://github.com/at0m-b0mb/Hermes-Agent-Console"
   },
   {
-    "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
-    "id": "zj-unicom-ai/UniEmployee",
-    "language": "Python",
-    "name": "zj-unicom-ai/UniEmployee",
-    "stars": 21,
-    "updated_at": "2026-08-27T04:00:29Z",
-    "url": "https://github.com/zj-unicom-ai/UniEmployee"
-  },
-  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5294,
+    "stars": 5295,
     "updated_at": "2026-08-27T03:58:24Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 2,
-    "updated_at": "2026-08-27T03:55:59Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-27T03:51:40Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
