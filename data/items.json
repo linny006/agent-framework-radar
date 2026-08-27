@@ -1,5 +1,41 @@
 [
   {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:26:54Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T12:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9351,
+    "updated_at": "2026-08-27T12:23:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 47,
+    "updated_at": "2026-08-27T12:12:37Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
@@ -27,15 +63,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9350,
-    "updated_at": "2026-08-27T12:14:31Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
@@ -52,15 +79,6 @@
     "stars": 5,
     "updated_at": "2026-08-27T12:01:43Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 29,
-    "updated_at": "2026-08-27T12:11:17Z",
+    "updated_at": "2026-08-27T12:28:01Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -121,7 +139,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 262,
+    "stars": 263,
     "updated_at": "2026-08-27T11:45:19Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -135,12 +153,21 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1097,
+    "updated_at": "2026-08-27T11:42:46Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1900,
-    "updated_at": "2026-08-27T11:40:23Z",
+    "updated_at": "2026-08-27T12:24:24Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:39:40Z",
     "url": "https://github.com/abhisoni-sketch/ZiWan-Creative-Studio"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26331,
+    "updated_at": "2026-08-27T11:38:13Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
@@ -180,15 +216,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1096,
-    "updated_at": "2026-08-27T11:42:46Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -207,15 +234,6 @@
     "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:19:13Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-27T11:29:16Z",
+    "updated_at": "2026-08-27T12:28:51Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -292,7 +310,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35211,
+    "stars": 35209,
     "updated_at": "2026-08-27T10:23:56Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -322,15 +340,6 @@
     "stars": 25,
     "updated_at": "2026-08-27T10:16:31Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 47,
-    "updated_at": "2026-08-27T12:12:37Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "shibing624/agentica",
     "stars": 350,
-    "updated_at": "2026-08-27T10:04:29Z",
+    "updated_at": "2026-08-27T12:28:39Z",
     "url": "https://github.com/shibing624/agentica"
   },
   {
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 3,
-    "updated_at": "2026-08-27T12:13:29Z",
+    "updated_at": "2026-08-27T12:30:07Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -409,7 +418,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 15140,
+    "stars": 15139,
     "updated_at": "2026-08-27T09:55:21Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T09:49:00Z",
     "url": "https://github.com/Moonweave-AI/axiolune"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4890,
-    "updated_at": "2026-08-27T09:48:08Z",
-    "url": "https://github.com/iflytek/skillhub"
   }
 ]
