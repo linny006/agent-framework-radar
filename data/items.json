@@ -1,11 +1,92 @@
 [
   {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-08-28T13:43:41Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-28T13:41:56Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\u4eba\u6c11\u65e5\u76ca\u589e\u957f\u7684\u7f8e\u597d\u751f\u6d3b\u9700\u8981\uff0c\u4e0e\u4e0d\u5e73\u8861\u3001\u4e0d\u5145\u5206\u7684\u53d1\u5c55\u4e4b\u95f4\u7684\u77db\u76fe\u3002\u666e\u901a\u4eba\u83b7\u5f97\u7a33\u5b9a\u6536\u5165\u3001\u4e0a\u5347\u673a\u4f1a\u548c\u516c\u5171\u4fdd\u969c\u7684\u80fd\u529b\uff0c\u4e0e\u673a\u4f1a\u3001\u4fe1\u606f\u3001\u670d\u52a1\u5206\u5e03\u4e0d\u5747\u4e4b\u95f4\u7684\u65ad\u5c42\u3002",
+    "id": "damonleelcx/Opportunity-Bridge-Agent",
+    "language": "Go",
+    "name": "damonleelcx/Opportunity-Bridge-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:41:59Z",
+    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T13:41:29Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:39:07Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 17,
+    "updated_at": "2026-08-28T13:38:01Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:36:16Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15147,
+    "updated_at": "2026-08-28T13:29:03Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-28T13:27:24Z",
+    "updated_at": "2026-08-28T13:39:33Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -27,30 +108,12 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "\u4eba\u6c11\u65e5\u76ca\u589e\u957f\u7684\u7f8e\u597d\u751f\u6d3b\u9700\u8981\uff0c\u4e0e\u4e0d\u5e73\u8861\u3001\u4e0d\u5145\u5206\u7684\u53d1\u5c55\u4e4b\u95f4\u7684\u77db\u76fe\u3002\u666e\u901a\u4eba\u83b7\u5f97\u7a33\u5b9a\u6536\u5165\u3001\u4e0a\u5347\u673a\u4f1a\u548c\u516c\u5171\u4fdd\u969c\u7684\u80fd\u529b\uff0c\u4e0e\u673a\u4f1a\u3001\u4fe1\u606f\u3001\u670d\u52a1\u5206\u5e03\u4e0d\u5747\u4e4b\u95f4\u7684\u65ad\u5c42\u3002",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:20:35Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 17,
-    "updated_at": "2026-08-28T13:29:38Z",
-    "url": "https://github.com/relayax/relayagent"
-  },
-  {
     "description": "Run DeepSeek Harness (AI Agent) locally on Android - no Termux, no root, no PC. Bionic Node.js runtime inside the APK, d",
     "id": "Soodok/deepseek-harness-android",
     "language": "Kotlin",
     "name": "Soodok/deepseek-harness-android",
     "stars": 2,
-    "updated_at": "2026-08-28T13:17:15Z",
+    "updated_at": "2026-08-28T13:45:16Z",
     "url": "https://github.com/Soodok/deepseek-harness-android"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T13:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -88,6 +142,15 @@
     "stars": 3902,
     "updated_at": "2026-08-28T13:13:16Z",
     "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13172,
+    "updated_at": "2026-08-28T13:12:47Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-28T13:07:51Z",
+    "updated_at": "2026-08-28T13:33:01Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19553,
-    "updated_at": "2026-08-28T13:21:34Z",
+    "updated_at": "2026-08-28T13:44:42Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -139,7 +202,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47491,
+    "stars": 47492,
     "updated_at": "2026-08-28T13:03:08Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9424,
-    "updated_at": "2026-08-28T13:00:19Z",
+    "updated_at": "2026-08-28T13:42:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -158,7 +221,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-28T13:30:02Z",
+    "updated_at": "2026-08-28T13:30:45Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T12:55:38Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13171,
-    "updated_at": "2026-08-28T13:12:47Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T13:23:54Z",
+    "updated_at": "2026-08-28T13:41:58Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 696,
     "updated_at": "2026-08-28T12:44:35Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15147,
-    "updated_at": "2026-08-28T13:29:03Z",
-    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
@@ -277,15 +322,6 @@
     "stars": 29,
     "updated_at": "2026-08-28T12:37:20Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T13:26:33Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -400,7 +436,7 @@
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
-    "stars": 48,
+    "stars": 49,
     "updated_at": "2026-08-28T12:01:18Z",
     "url": "https://github.com/futuregene/future-os"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-28T12:00:12Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1911,
-    "updated_at": "2026-08-28T11:54:40Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 502,
-    "updated_at": "2026-08-28T13:23:41Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 177,
-    "updated_at": "2026-08-28T11:40:38Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-28T11:38:53Z",
-    "url": "https://github.com/dmirain/OctoForge"
   }
 ]
