@@ -1,21 +1,39 @@
 [
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-08-28T00:15:06Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-28T00:14:33Z",
+    "updated_at": "2026-08-28T00:28:01Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:27:43Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-08-28T00:24:23Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:23:11Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -23,8 +41,35 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9371,
-    "updated_at": "2026-08-28T00:13:29Z",
+    "updated_at": "2026-08-28T00:19:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 801,
+    "updated_at": "2026-08-28T00:17:23Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 205,
+    "updated_at": "2026-08-28T00:16:27Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T00:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T00:13:25Z",
     "url": "https://github.com/clafollett/riff"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:10:14Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
@@ -72,15 +108,6 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T00:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-08-27T23:55:17Z",
+    "updated_at": "2026-08-28T00:29:51Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19540,
-    "updated_at": "2026-08-27T23:54:32Z",
+    "updated_at": "2026-08-28T00:29:15Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T00:15:09Z",
+    "updated_at": "2026-08-28T00:21:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 123,
     "updated_at": "2026-08-27T23:42:31Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
-    "id": "reda-baqechame/self-learning-24.7-agent",
-    "language": "Python",
-    "name": "reda-baqechame/self-learning-24.7-agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:41:45Z",
-    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 5,
-    "updated_at": "2026-08-28T00:15:09Z",
+    "updated_at": "2026-08-28T00:16:03Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -374,7 +392,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4504,
-    "updated_at": "2026-08-28T00:13:40Z",
+    "updated_at": "2026-08-28T00:28:46Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 254,
     "updated_at": "2026-08-27T22:36:40Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:35:13Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 146,
-    "updated_at": "2026-08-27T22:33:02Z",
-    "url": "https://github.com/agents-universe/agents-universe"
   }
 ]
