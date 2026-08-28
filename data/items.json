@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/nitro",
+    "language": "C++",
+    "name": "chrisws/nitro",
+    "stars": 1,
+    "updated_at": "2026-08-28T07:13:41Z",
+    "url": "https://github.com/chrisws/nitro"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9401,
+    "updated_at": "2026-08-28T07:10:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19545,
+    "updated_at": "2026-08-28T07:10:22Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-28T07:07:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-28T07:04:45Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-28T07:13:53Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 48,
+    "updated_at": "2026-08-28T07:00:46Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T07:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
     "id": "aloth/awesome-ai-agents",
     "language": "\u2014",
@@ -9,21 +81,12 @@
     "url": "https://github.com/aloth/awesome-ai-agents"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9399,
-    "updated_at": "2026-08-28T07:00:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-28T06:57:31Z",
+    "updated_at": "2026-08-28T07:12:47Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -85,18 +148,9 @@
     "id": "Gnosil/semantix",
     "language": "Go",
     "name": "Gnosil/semantix",
-    "stars": 197,
+    "stars": 198,
     "updated_at": "2026-08-28T06:48:33Z",
     "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 48,
-    "updated_at": "2026-08-28T06:55:19Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
@@ -117,15 +171,6 @@
     "url": "https://github.com/zj-unicom-ai/UniEmployee"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T06:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
     "id": "xiejianjun000/eco-agent",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T06:42:15Z",
     "url": "https://github.com/NumericalArt/Pritha"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T07:00:00Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
@@ -230,7 +266,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4504,
-    "updated_at": "2026-08-28T06:57:29Z",
+    "updated_at": "2026-08-28T07:13:59Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -265,7 +301,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35235,
+    "stars": 35234,
     "updated_at": "2026-08-28T06:17:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -333,15 +369,6 @@
     "url": "https://github.com/Viking602/venat"
   },
   {
-    "description": "Agentic LLM shell aimed at low cost GPUs",
-    "id": "chrisws/nitro",
-    "language": "C++",
-    "name": "chrisws/nitro",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:58:43Z",
-    "url": "https://github.com/chrisws/nitro"
-  },
-  {
     "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
     "id": "synapse-ai-hub/synapseForge",
     "language": "Python",
@@ -373,7 +400,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47478,
+    "stars": 47479,
     "updated_at": "2026-08-28T05:52:03Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "pleaseai/please",
     "stars": 0,
-    "updated_at": "2026-08-28T06:50:03Z",
+    "updated_at": "2026-08-28T07:12:10Z",
     "url": "https://github.com/pleaseai/please"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-28T05:27:51Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Event-driven autonomous AI agent orchestration \u2014 no polling, no cron. inotify watches memory, agents react instantly. De",
-    "id": "noivan0/NOVA",
-    "language": "Python",
-    "name": "noivan0/NOVA",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:26:56Z",
-    "url": "https://github.com/noivan0/NOVA"
-  },
-  {
-    "description": "Perform amazing feats, safely.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:26:30Z",
-    "url": "https://github.com/sycdan/nosedive"
   }
 ]
