@@ -1,5 +1,50 @@
 [
   {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 25,
+    "updated_at": "2026-08-28T01:55:42Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-28T01:53:45Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 52,
+    "updated_at": "2026-08-28T01:53:38Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T01:46:35Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T01:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A lightweight, event-driven agent runtime for Go",
     "id": "loomagent/loom",
     "language": "Go",
@@ -16,15 +61,6 @@
     "stars": 8,
     "updated_at": "2026-08-28T01:44:20Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 52,
-    "updated_at": "2026-08-28T01:43:53Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -81,15 +117,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T01:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
     "id": "Allura-Ecosystem/Allura_Memory",
     "language": "TypeScript",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-28T01:40:36Z",
+    "updated_at": "2026-08-28T01:55:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -139,7 +166,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35225,
+    "stars": 35226,
     "updated_at": "2026-08-28T01:22:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -229,7 +256,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13157,
+    "stars": 13158,
     "updated_at": "2026-08-28T00:52:39Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-28T00:48:41Z",
+    "updated_at": "2026-08-28T01:54:45Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19541,
-    "updated_at": "2026-08-28T01:41:45Z",
+    "updated_at": "2026-08-28T01:53:16Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 53,
     "updated_at": "2026-08-28T00:37:11Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
-    "id": "reda-baqechame/self-learning-24.7-agent",
-    "language": "Python",
-    "name": "reda-baqechame/self-learning-24.7-agent",
-    "stars": 1,
-    "updated_at": "2026-08-28T00:27:43Z",
-    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
   },
   {
     "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "we-are-singular/aml",
     "stars": 13,
-    "updated_at": "2026-08-28T00:08:25Z",
+    "updated_at": "2026-08-28T01:57:10Z",
     "url": "https://github.com/we-are-singular/aml"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T23:34:52Z",
     "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-27T23:31:56Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-27T23:31:31Z",
-    "url": "https://github.com/dmirain/OctoForge"
   }
 ]
