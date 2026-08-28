@@ -5,8 +5,89 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-28T15:54:09Z",
+    "updated_at": "2026-08-28T16:13:52Z",
     "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:10:51Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19556,
+    "updated_at": "2026-08-28T16:10:37Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 17,
+    "updated_at": "2026-08-28T16:09:06Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:05:04Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
+    "id": "Zuga-Technologies/zugamind",
+    "language": "Python",
+    "name": "Zuga-Technologies/zugamind",
+    "stars": 13,
+    "updated_at": "2026-08-28T16:03:18Z",
+    "url": "https://github.com/Zuga-Technologies/zugamind"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 296,
+    "updated_at": "2026-08-28T16:01:39Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-28T16:01:01Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:13:31Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -23,17 +104,8 @@
     "language": "TypeScript",
     "name": "contember/roj",
     "stars": 0,
-    "updated_at": "2026-08-28T15:51:54Z",
+    "updated_at": "2026-08-28T16:14:51Z",
     "url": "https://github.com/contember/roj"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-28T15:51:22Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -43,15 +115,6 @@
     "stars": 17,
     "updated_at": "2026-08-28T15:50:36Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19554,
-    "updated_at": "2026-08-28T15:58:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T15:46:01Z",
     "url": "https://github.com/Allura-Ecosystem/allura-plugins"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T15:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Execute SKILL.md agents via 4 modes \u2014 binary CLI, npx, HTTP API server, or embedded Node.js SDK",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
     "stars": 1596,
-    "updated_at": "2026-08-28T15:42:52Z",
+    "updated_at": "2026-08-28T16:12:15Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 4,
-    "updated_at": "2026-08-28T15:41:57Z",
+    "updated_at": "2026-08-28T16:09:15Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:57:02Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -184,7 +229,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1913,
+    "stars": 1914,
     "updated_at": "2026-08-28T15:29:21Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T15:22:57Z",
     "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-28T15:22:55Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "pqpo/pragma",
     "stars": 115,
-    "updated_at": "2026-08-28T14:56:44Z",
+    "updated_at": "2026-08-28T16:08:02Z",
     "url": "https://github.com/pqpo/pragma"
   },
   {
@@ -328,8 +364,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9431,
-    "updated_at": "2026-08-28T14:52:14Z",
+    "stars": 9432,
+    "updated_at": "2026-08-28T16:13:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 296,
-    "updated_at": "2026-08-28T14:43:40Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 4,
-    "updated_at": "2026-08-28T15:10:58Z",
+    "updated_at": "2026-08-28T16:06:44Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 204,
     "updated_at": "2026-08-28T14:39:32Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 2,
-    "updated_at": "2026-08-28T14:37:08Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-28T14:32:15Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 12,
-    "updated_at": "2026-08-28T14:30:11Z",
-    "url": "https://github.com/databricks-solutions/consort"
   }
 ]
