@@ -1,12 +1,111 @@
 [
   {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-28T20:43:24Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 265,
+    "updated_at": "2026-08-28T20:42:08Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-28T20:39:40Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
     "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-08-28T20:28:19Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-28T20:39:15Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-28T20:39:09Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-28T20:35:54Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:35:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:34:58Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 105,
+    "updated_at": "2026-08-28T20:33:52Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:33:48Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:44:17Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:44:30Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -14,8 +113,26 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35237,
-    "updated_at": "2026-08-28T20:28:54Z",
+    "updated_at": "2026-08-28T20:31:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T20:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-08-28T20:28:19Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -36,15 +153,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-28T20:23:24Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
     "id": "joseym/salvor",
     "language": "Rust",
@@ -52,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T20:21:03Z",
     "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:30:03Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:18:50Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -99,15 +189,6 @@
     "url": "https://github.com/alexmerced-oss/open-agent-profile"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T20:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -115,15 +196,6 @@
     "stars": 1114,
     "updated_at": "2026-08-28T20:13:09Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:10:36Z",
-    "url": "https://github.com/StateKnot/StateKnot"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9438,
-    "updated_at": "2026-08-28T20:21:36Z",
+    "updated_at": "2026-08-28T20:38:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -225,15 +297,6 @@
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T19:46:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-28T19:44:08Z",
+    "updated_at": "2026-08-28T20:36:04Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 105,
-    "updated_at": "2026-08-28T19:56:05Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
@@ -373,7 +427,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13180,
+    "stars": 13181,
     "updated_at": "2026-08-28T19:19:22Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -394,59 +448,5 @@
     "stars": 53,
     "updated_at": "2026-08-28T19:16:32Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
-    "id": "amilworks/ultra",
-    "language": "Python",
-    "name": "amilworks/ultra",
-    "stars": 6,
-    "updated_at": "2026-08-28T19:20:35Z",
-    "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:14:38Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-28T19:59:22Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
-    "id": "pleaseai/please",
-    "language": "TypeScript",
-    "name": "pleaseai/please",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:12:10Z",
-    "url": "https://github.com/pleaseai/please"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 17,
-    "updated_at": "2026-08-28T19:01:59Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-28T18:57:43Z",
-    "url": "https://github.com/shaharia-lab/agento"
   }
 ]
