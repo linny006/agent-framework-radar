@@ -1,12 +1,93 @@
 [
   {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-08-28T00:56:29Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4504,
+    "updated_at": "2026-08-28T00:56:04Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-28T00:54:58Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-08-28T00:58:18Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:52:42Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-08-28T00:52:32Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-28T00:52:13Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
     "description": "Perform amazing feats, safely.",
     "id": "sycdan/nosedive",
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 0,
-    "updated_at": "2026-08-28T00:44:42Z",
+    "updated_at": "2026-08-28T00:50:49Z",
     "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 11,
+    "updated_at": "2026-08-28T00:48:52Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-28T00:48:41Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -14,8 +95,35 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-28T00:44:09Z",
+    "updated_at": "2026-08-28T00:47:25Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
+    "id": "clafollett/riff",
+    "language": "TypeScript",
+    "name": "clafollett/riff",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:47:10Z",
+    "url": "https://github.com/clafollett/riff"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9373,
+    "updated_at": "2026-08-28T00:46:33Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T00:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T00:43:34Z",
+    "updated_at": "2026-08-28T00:56:25Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13155,
-    "updated_at": "2026-08-28T00:43:53Z",
+    "updated_at": "2026-08-28T00:52:39Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -59,7 +167,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1321,
-    "updated_at": "2026-08-28T00:40:46Z",
+    "updated_at": "2026-08-28T00:59:12Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -68,7 +176,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 52,
-    "updated_at": "2026-08-28T00:40:40Z",
+    "updated_at": "2026-08-28T00:48:04Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -81,24 +189,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:39:39Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9372,
-    "updated_at": "2026-08-28T00:39:33Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83d\ude80 Xenon \u2014 Agent Harness for AI coding agents. \u8bc1\u636e\u5bfc\u5411\u67b6\u6784 + 7\u79cd\u63a8\u7406\u8303\u5f0f + \u6267\u884c\u9694\u79bb\u8fb9\u754c + SWE-bench 40% \u901a\u8fc7\u7387\uff08+6.7pp\uff09\u3002\u53ef\u4fe1\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u8bc4\u6d4b\u7684 AI Agent ",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -106,15 +196,6 @@
     "stars": 53,
     "updated_at": "2026-08-28T00:37:11Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T00:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
@@ -144,15 +225,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
-    "id": "clafollett/riff",
-    "language": "TypeScript",
-    "name": "clafollett/riff",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:13:25Z",
-    "url": "https://github.com/clafollett/riff"
-  },
-  {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
     "id": "we-are-singular/aml",
     "language": "TypeScript",
@@ -171,15 +243,6 @@
     "url": "https://github.com/telus-labs/stagecraft"
   },
   {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 11,
-    "updated_at": "2026-08-28T00:04:13Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -194,7 +257,7 @@
     "language": "Shell",
     "name": "ek33450505/claude-agent-team",
     "stars": 8,
-    "updated_at": "2026-08-27T23:54:22Z",
+    "updated_at": "2026-08-28T00:56:54Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T23:43:36Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-28T00:44:04Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -306,15 +360,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-28T00:41:56Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -331,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T23:27:49Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-08-27T23:27:21Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T23:04:57Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-28T00:16:03Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4504,
-    "updated_at": "2026-08-28T00:43:44Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-27T23:01:50Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:52:59Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   }
 ]
