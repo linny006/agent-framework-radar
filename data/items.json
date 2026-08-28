@@ -1,12 +1,120 @@
 [
   {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3902,
+    "updated_at": "2026-08-28T13:13:16Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 192,
+    "updated_at": "2026-08-28T13:10:42Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-28T13:10:32Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-28T13:07:51Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "Shell",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 24,
+    "updated_at": "2026-08-28T13:07:13Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
+    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19553,
+    "updated_at": "2026-08-28T13:07:08Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-28T13:06:11Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:05:23Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47491,
+    "updated_at": "2026-08-28T13:03:08Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9423,
+    "updated_at": "2026-08-28T13:00:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-28T13:00:18Z",
+    "updated_at": "2026-08-28T13:11:18Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4505,
+    "updated_at": "2026-08-28T13:15:04Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13171,
-    "updated_at": "2026-08-28T12:57:25Z",
+    "updated_at": "2026-08-28T13:12:47Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -68,7 +176,7 @@
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-08-28T12:58:44Z",
+    "updated_at": "2026-08-28T13:10:41Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
@@ -79,15 +187,6 @@
     "stars": 265,
     "updated_at": "2026-08-28T12:48:46Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19552,
-    "updated_at": "2026-08-28T12:54:16Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Run DeepSeek Harness (AI Agent) locally on Android - no Termux, no root, no PC. Bionic Node.js runtime inside the APK, d",
@@ -103,27 +202,9 @@
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1108,
+    "stars": 1109,
     "updated_at": "2026-08-28T12:45:55Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-28T12:57:33Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -131,7 +212,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T12:59:21Z",
+    "updated_at": "2026-08-28T13:09:25Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -142,15 +223,6 @@
     "stars": 696,
     "updated_at": "2026-08-28T12:44:35Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 192,
-    "updated_at": "2026-08-28T12:42:49Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T12:35:52Z",
+    "updated_at": "2026-08-28T13:00:33Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -342,31 +414,13 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-28T12:52:45Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 502,
-    "updated_at": "2026-08-28T12:57:47Z",
+    "updated_at": "2026-08-28T13:07:24Z",
     "url": "https://github.com/jaylfc/taOS"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9422,
-    "updated_at": "2026-08-28T11:44:06Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -394,59 +448,5 @@
     "stars": 2269,
     "updated_at": "2026-08-28T11:37:32Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1599,
-    "updated_at": "2026-08-28T11:34:46Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 24,
-    "updated_at": "2026-08-28T12:55:30Z",
-    "url": "https://github.com/use-brian/use-brian"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-08-28T11:20:23Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Orchestrate Any Agent. Connect Everything.",
-    "id": "lambda-harness/LAP",
-    "language": "Python",
-    "name": "lambda-harness/LAP",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:17:01Z",
-    "url": "https://github.com/lambda-harness/LAP"
-  },
-  {
-    "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
-    "id": "speleoalex/myagent",
-    "language": "Python",
-    "name": "speleoalex/myagent",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:14:18Z",
-    "url": "https://github.com/speleoalex/myagent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T11:16:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
