@@ -1,5 +1,104 @@
 [
   {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-28T12:43:46Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 192,
+    "updated_at": "2026-08-28T12:42:49Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15147,
+    "updated_at": "2026-08-28T12:42:33Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 25,
+    "updated_at": "2026-08-28T12:39:43Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-28T12:37:20Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 696,
+    "updated_at": "2026-08-28T12:44:35Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T12:35:52Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:34:39Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1108,
+    "updated_at": "2026-08-28T12:42:59Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-28T12:33:01Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A reasoning-first idle engine for persistent LLM agents. Behaviour emerges from the agent reasoning about its idle state",
     "id": "freeze1999/reverie-automata",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-28T12:26:53Z",
+    "updated_at": "2026-08-28T12:38:53Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35237,
-    "updated_at": "2026-08-28T12:23:14Z",
+    "updated_at": "2026-08-28T12:42:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -86,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T12:24:17Z",
+    "updated_at": "2026-08-28T12:45:16Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -117,15 +216,6 @@
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -133,15 +223,6 @@
     "stars": 7037,
     "updated_at": "2026-08-28T12:15:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-28T12:13:41Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "\u4eba\u6c11\u65e5\u76ca\u589e\u957f\u7684\u7f8e\u597d\u751f\u6d3b\u9700\u8981\uff0c\u4e0e\u4e0d\u5e73\u8861\u3001\u4e0d\u5145\u5206\u7684\u53d1\u5c55\u4e4b\u95f4\u7684\u77db\u76fe\u3002\u666e\u901a\u4eba\u83b7\u5f97\u7a33\u5b9a\u6536\u5165\u3001\u4e0a\u5347\u673a\u4f1a\u548c\u516c\u5171\u4fdd\u969c\u7684\u80fd\u529b\uff0c\u4e0e\u673a\u4f1a\u3001\u4fe1\u606f\u3001\u670d\u52a1\u5206\u5e03\u4e0d\u5747\u4e4b\u95f4\u7684\u65ad\u5c42\u3002",
@@ -167,17 +248,8 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 204,
-    "updated_at": "2026-08-28T12:03:33Z",
+    "updated_at": "2026-08-28T12:41:06Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 25,
-    "updated_at": "2026-08-28T12:29:22Z",
-    "url": "https://github.com/roackb2/heddle"
   },
   {
     "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
@@ -230,7 +302,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 502,
-    "updated_at": "2026-08-28T12:29:34Z",
+    "updated_at": "2026-08-28T12:41:40Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -248,7 +320,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19552,
-    "updated_at": "2026-08-28T12:25:10Z",
+    "updated_at": "2026-08-28T12:43:32Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -295,24 +367,6 @@
     "stars": 1599,
     "updated_at": "2026-08-28T11:34:46Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15147,
-    "updated_at": "2026-08-28T12:28:19Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T12:27:58Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
@@ -383,7 +437,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4504,
-    "updated_at": "2026-08-28T12:14:41Z",
+    "updated_at": "2026-08-28T12:41:45Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-28T10:52:21Z",
     "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:17:28Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1108,
-    "updated_at": "2026-08-28T10:46:45Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
-    "id": "ranxi2001/zero2Agent",
-    "language": "Python",
-    "name": "ranxi2001/zero2Agent",
-    "stars": 358,
-    "updated_at": "2026-08-28T10:45:22Z",
-    "url": "https://github.com/ranxi2001/zero2Agent"
-  },
-  {
-    "description": "Durable single-Agent Harness for TypeScript: recoverable Threads, context continuity, explicit side effects, and a nativ",
-    "id": "joe960913/Jixu",
-    "language": "TypeScript",
-    "name": "joe960913/Jixu",
-    "stars": 117,
-    "updated_at": "2026-08-28T10:45:13Z",
-    "url": "https://github.com/joe960913/Jixu"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 1,
-    "updated_at": "2026-08-28T10:43:26Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 2,
-    "updated_at": "2026-08-28T10:42:01Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
   }
 ]
