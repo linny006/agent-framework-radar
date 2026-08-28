@@ -1,12 +1,57 @@
 [
   {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
     "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3902,
-    "updated_at": "2026-08-28T13:13:16Z",
-    "url": "https://github.com/evalstate/fast-agent"
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:27:24Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Perform amazing feats, safely.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:23:42Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:23:12Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\u4eba\u6c11\u65e5\u76ca\u589e\u957f\u7684\u7f8e\u597d\u751f\u6d3b\u9700\u8981\uff0c\u4e0e\u4e0d\u5e73\u8861\u3001\u4e0d\u5145\u5206\u7684\u53d1\u5c55\u4e4b\u95f4\u7684\u77db\u76fe\u3002\u666e\u901a\u4eba\u83b7\u5f97\u7a33\u5b9a\u6536\u5165\u3001\u4e0a\u5347\u673a\u4f1a\u548c\u516c\u5171\u4fdd\u969c\u7684\u80fd\u529b\uff0c\u4e0e\u673a\u4f1a\u3001\u4fe1\u606f\u3001\u670d\u52a1\u5206\u5e03\u4e0d\u5747\u4e4b\u95f4\u7684\u65ad\u5c42\u3002",
+    "id": "damonleelcx/Opportunity-Bridge-Agent",
+    "language": "Go",
+    "name": "damonleelcx/Opportunity-Bridge-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:20:35Z",
+    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
+  },
+  {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 17,
+    "updated_at": "2026-08-28T13:29:38Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "Run DeepSeek Harness (AI Agent) locally on Android - no Termux, no root, no PC. Bionic Node.js runtime inside the APK, d",
+    "id": "Soodok/deepseek-harness-android",
+    "language": "Kotlin",
+    "name": "Soodok/deepseek-harness-android",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:17:15Z",
+    "url": "https://github.com/Soodok/deepseek-harness-android"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 192,
-    "updated_at": "2026-08-28T13:10:42Z",
+    "updated_at": "2026-08-28T13:16:44Z",
     "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:15:31Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3902,
+    "updated_at": "2026-08-28T13:13:16Z",
+    "url": "https://github.com/evalstate/fast-agent"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19553,
-    "updated_at": "2026-08-28T13:07:08Z",
+    "updated_at": "2026-08-28T13:21:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:05:23Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -81,31 +144,13 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T13:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9423,
+    "stars": 9424,
     "updated_at": "2026-08-28T13:00:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 2,
-    "updated_at": "2026-08-28T13:11:18Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -113,7 +158,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-28T13:15:04Z",
+    "updated_at": "2026-08-28T13:30:02Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -144,15 +189,6 @@
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:52:18Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
     "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
     "id": "erishen/crewai-pse",
     "language": "Python",
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-08-28T13:10:41Z",
+    "updated_at": "2026-08-28T13:28:29Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 265,
     "updated_at": "2026-08-28T12:48:46Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Run DeepSeek Harness (AI Agent) locally on Android - no Termux, no root, no PC. Bionic Node.js runtime inside the APK, d",
-    "id": "Soodok/deepseek-harness-android",
-    "language": "Kotlin",
-    "name": "Soodok/deepseek-harness-android",
-    "stars": 2,
-    "updated_at": "2026-08-28T12:46:07Z",
-    "url": "https://github.com/Soodok/deepseek-harness-android"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T13:09:25Z",
+    "updated_at": "2026-08-28T13:23:54Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15147,
-    "updated_at": "2026-08-28T12:47:59Z",
+    "updated_at": "2026-08-28T13:29:03Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T13:00:33Z",
+    "updated_at": "2026-08-28T13:26:33Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T12:27:32Z",
     "url": "https://github.com/freeze1999/reverie-automata"
-  },
-  {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 17,
-    "updated_at": "2026-08-28T12:24:16Z",
-    "url": "https://github.com/relayax/relayagent"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -360,15 +378,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "\u4eba\u6c11\u65e5\u76ca\u589e\u957f\u7684\u7f8e\u597d\u751f\u6d3b\u9700\u8981\uff0c\u4e0e\u4e0d\u5e73\u8861\u3001\u4e0d\u5145\u5206\u7684\u53d1\u5c55\u4e4b\u95f4\u7684\u77db\u76fe\u3002\u666e\u901a\u4eba\u83b7\u5f97\u7a33\u5b9a\u6536\u5165\u3001\u4e0a\u5347\u673a\u4f1a\u548c\u516c\u5171\u4fdd\u969c\u7684\u80fd\u529b\uff0c\u4e0e\u673a\u4f1a\u3001\u4fe1\u606f\u3001\u670d\u52a1\u5206\u5e03\u4e0d\u5747\u4e4b\u95f4\u7684\u65ad\u5c42\u3002",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:11:47Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 502,
-    "updated_at": "2026-08-28T13:07:24Z",
+    "updated_at": "2026-08-28T13:23:41Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-28T11:38:53Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2269,
-    "updated_at": "2026-08-28T11:37:32Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
