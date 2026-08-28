@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 11,
+    "updated_at": "2026-08-28T11:00:00Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 52,
+    "updated_at": "2026-08-28T10:57:24Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-28T10:58:46Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4504,
+    "updated_at": "2026-08-28T10:51:23Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 4,
+    "updated_at": "2026-08-28T10:52:21Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:48:54Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-08-28T10:48:12Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T10:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Durable single-Agent Harness for TypeScript: recoverable Threads, context continuity, explicit side effects, and a nativ",
     "id": "joe960913/Jixu",
     "language": "TypeScript",
@@ -7,6 +79,15 @@
     "stars": 117,
     "updated_at": "2026-08-28T10:45:13Z",
     "url": "https://github.com/joe960913/Jixu"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-28T10:44:08Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:40:27Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
     "description": "An agent framework that runs an existing coding-agent harness \u2014 Claude Code, OpenCode, Pi \u2014 instead of writing its own a",
     "id": "pleaseai/please",
     "language": "TypeScript",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9416,
-    "updated_at": "2026-08-28T10:39:16Z",
+    "updated_at": "2026-08-28T10:53:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T10:38:18Z",
+    "updated_at": "2026-08-28T10:51:28Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -85,7 +157,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19548,
+    "stars": 19549,
     "updated_at": "2026-08-28T10:36:38Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -94,7 +166,7 @@
     "id": "lambda-harness/LAP",
     "language": "Python",
     "name": "lambda-harness/LAP",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-28T10:34:24Z",
     "url": "https://github.com/lambda-harness/LAP"
   },
@@ -131,26 +203,8 @@
     "language": "TypeScript",
     "name": "relayax/relayagent",
     "stars": 17,
-    "updated_at": "2026-08-28T10:45:02Z",
+    "updated_at": "2026-08-28T10:57:23Z",
     "url": "https://github.com/relayax/relayagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T10:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-28T10:33:52Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T10:29:34Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 4,
-    "updated_at": "2026-08-28T10:29:27Z",
-    "url": "https://github.com/usetheokit/theokit"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -187,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T10:19:16Z",
     "url": "https://github.com/pamod-madubashana/cotrex-ai"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-28T10:39:50Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The agent framework where every run is durable, replayable, and resumable by default.",
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "agentlas-ai/Agentlas-OS",
     "stars": 1106,
-    "updated_at": "2026-08-28T10:08:42Z",
+    "updated_at": "2026-08-28T10:46:45Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T10:38:35Z",
+    "updated_at": "2026-08-28T10:51:03Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 48,
-    "updated_at": "2026-08-28T10:07:34Z",
+    "updated_at": "2026-08-28T10:59:20Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4905,
     "updated_at": "2026-08-28T09:22:19Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Agent harness monorepo: a Cordis-powered plugin runtime hosting a PSE (Planner-Specialist-Evaluator) multi-agent system ",
-    "id": "erishen/resolve-studio",
-    "language": "TypeScript",
-    "name": "erishen/resolve-studio",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:20:22Z",
-    "url": "https://github.com/erishen/resolve-studio"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:17:28Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47484,
-    "updated_at": "2026-08-28T09:14:39Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 264,
-    "updated_at": "2026-08-28T09:13:12Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
