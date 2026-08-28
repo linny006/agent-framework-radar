@@ -1,5 +1,131 @@
 [
   {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-28T15:54:09Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-28T15:53:18Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "TypeScript SDK for building multi-agent LLM applications \u2014 event-sourced runtime, plugin-based tools, React client",
+    "id": "contember/roj",
+    "language": "TypeScript",
+    "name": "contember/roj",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:51:54Z",
+    "url": "https://github.com/contember/roj"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-28T15:51:22Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 17,
+    "updated_at": "2026-08-28T15:50:36Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19554,
+    "updated_at": "2026-08-28T15:58:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:47:47Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "Canonical dual-runtime plugin catalog for the Allura ecosystem",
+    "id": "Allura-Ecosystem/allura-plugins",
+    "language": "JavaScript",
+    "name": "Allura-Ecosystem/allura-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:46:01Z",
+    "url": "https://github.com/Allura-Ecosystem/allura-plugins"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T15:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Execute SKILL.md agents via 4 modes \u2014 binary CLI, npx, HTTP API server, or embedded Node.js SDK",
+    "id": "enthrium/open-enthrium-ai-agent-runtime",
+    "language": "JavaScript",
+    "name": "enthrium/open-enthrium-ai-agent-runtime",
+    "stars": 2,
+    "updated_at": "2026-08-28T15:43:16Z",
+    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
+  },
+  {
+    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6837,
+    "updated_at": "2026-08-28T15:42:58Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1596,
+    "updated_at": "2026-08-28T15:42:52Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Self-hosted web-based AI platform \u2014 run SKILL.md agents + build your own enterprise knowledge base with RAG and private ",
+    "id": "enthrium/open-enthrium-ai-platform",
+    "language": "JavaScript",
+    "name": "enthrium/open-enthrium-ai-platform",
+    "stars": 1,
+    "updated_at": "2026-08-28T15:42:51Z",
+    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-28T15:41:57Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
@@ -27,31 +153,13 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-28T15:35:38Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
     "id": "Allura-Ecosystem/Allura_Memory",
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-08-28T15:35:28Z",
+    "updated_at": "2026-08-28T15:57:02Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-28T15:40:06Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -59,17 +167,8 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35239,
-    "updated_at": "2026-08-28T15:34:38Z",
+    "updated_at": "2026-08-28T15:53:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T15:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
@@ -115,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T15:25:15Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 17,
-    "updated_at": "2026-08-28T15:23:25Z",
-    "url": "https://github.com/ethosagent/ethos"
   },
   {
     "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
@@ -238,7 +328,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9430,
+    "stars": 9431,
     "updated_at": "2026-08-28T14:52:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -268,15 +358,6 @@
     "stars": 57,
     "updated_at": "2026-08-28T14:52:08Z",
     "url": "https://github.com/proteus-evolve/Proteus"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19554,
-    "updated_at": "2026-08-28T15:43:56Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
@@ -315,21 +396,12 @@
     "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
-    "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plan",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6837,
-    "updated_at": "2026-08-28T15:42:58Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
     "description": "Self-hosted: describe software and it gets built in one pass, split into parts, built in parallel, each part checked by ",
     "id": "Aureliolo/synthorg",
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-28T15:40:13Z",
+    "updated_at": "2026-08-28T15:59:30Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-28T14:30:50Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-28T14:30:11Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Local-first, Codex-native agent foundry and knowledge OS for creating reviewed, testable specialist AI agents.",
-    "id": "NumericalArt/Pritha",
-    "language": "JavaScript",
-    "name": "NumericalArt/Pritha",
-    "stars": 4,
-    "updated_at": "2026-08-28T14:29:03Z",
-    "url": "https://github.com/NumericalArt/Pritha"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 156,
-    "updated_at": "2026-08-28T14:28:13Z",
-    "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26349,
-    "updated_at": "2026-08-28T14:26:57Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Open Autonomy library skills to interact with Olas Marketplace",
-    "id": "valory-xyz/mech-interact",
-    "language": "Python",
-    "name": "valory-xyz/mech-interact",
-    "stars": 0,
-    "updated_at": "2026-08-28T14:26:42Z",
-    "url": "https://github.com/valory-xyz/mech-interact"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-08-28T14:26:31Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "Open Autonomy library skill for funding mechanism",
-    "id": "valory-xyz/funds-manager",
-    "language": "Python",
-    "name": "valory-xyz/funds-manager",
-    "stars": 0,
-    "updated_at": "2026-08-28T14:26:02Z",
-    "url": "https://github.com/valory-xyz/funds-manager"
-  },
-  {
-    "description": "Open Autonomy library skill wrapping generative AI",
-    "id": "valory-xyz/genai",
-    "language": "Python",
-    "name": "valory-xyz/genai",
-    "stars": 0,
-    "updated_at": "2026-08-28T14:25:28Z",
-    "url": "https://github.com/valory-xyz/genai"
   }
 ]
