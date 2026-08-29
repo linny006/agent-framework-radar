@@ -1,6 +1,96 @@
 [
   {
-    "description": "Open Souls is an open-source framework and philosophy for building \"AI souls\" \u2014 agentic, embodied digital beings with pe",
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:14:40Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:10:58Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
+  },
+  {
+    "description": "Self-bootstrapping Agent engineering framework: intent \u2192 tasks \u2192 7-layer runnable project \u2192 agent topology \u2192 evolution e",
+    "id": "eeyzs1/meta_harness",
+    "language": "Python",
+    "name": "eeyzs1/meta_harness",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:10:44Z",
+    "url": "https://github.com/eeyzs1/meta_harness"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 214,
+    "updated_at": "2026-08-29T04:09:32Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-29T04:13:29Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 12,
+    "updated_at": "2026-08-29T04:09:21Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 115,
+    "updated_at": "2026-08-29T04:07:07Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-29T04:07:18Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-08-29T04:05:53Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T04:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open Souls \u2014 independent third-party profile of a public API surface, by API Evangelist. Open Souls is an open-source fr",
     "id": "api-evangelist/open-souls",
     "language": "\u2014",
     "name": "api-evangelist/open-souls",
@@ -72,40 +162,13 @@
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T03:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-08-29T03:42:22Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-29T03:59:38Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-29T03:40:45Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
+    "name": "HKUDS/nanobot",
+    "stars": 47508,
+    "updated_at": "2026-08-29T03:44:09Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
@@ -135,15 +198,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-29T03:48:14Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -169,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T03:29:13Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47507,
-    "updated_at": "2026-08-29T03:44:09Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -221,7 +266,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 123,
-    "updated_at": "2026-08-29T03:13:16Z",
+    "updated_at": "2026-08-29T04:14:57Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-29T03:39:09Z",
+    "updated_at": "2026-08-29T04:09:34Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T02:21:06Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-29T02:15:10Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-08-29T02:14:45Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "The ultimate power-tools, guardrails, and runtime enhancement suite for OpenCode coding agents.",
-    "id": "amadshobi/oh-my-hook",
-    "language": "JavaScript",
-    "name": "amadshobi/oh-my-hook",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:13:16Z",
-    "url": "https://github.com/amadshobi/oh-my-hook"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 205,
-    "updated_at": "2026-08-29T02:07:45Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9451,
-    "updated_at": "2026-08-29T01:57:07Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
