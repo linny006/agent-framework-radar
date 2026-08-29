@@ -1,11 +1,47 @@
 [
   {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-08-29T20:59:40Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
+    "id": "Zhivex/zhivex-ai-sdk-py",
+    "language": "Python",
+    "name": "Zhivex/zhivex-ai-sdk-py",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:57:41Z",
+    "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-08-29T20:59:13Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:53:53Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-08-29T20:45:16Z",
+    "updated_at": "2026-08-29T20:51:35Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 22,
-    "updated_at": "2026-08-29T20:42:41Z",
+    "updated_at": "2026-08-29T20:50:25Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T20:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-29T20:42:27Z",
+    "updated_at": "2026-08-29T20:53:20Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-08-29T20:40:30Z",
+    "updated_at": "2026-08-29T20:59:57Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -79,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T20:32:03Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 77,
-    "updated_at": "2026-08-29T20:42:14Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -178,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T20:17:01Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
-    "id": "zkysar1/Claude-Mind",
-    "language": "Python",
-    "name": "zkysar1/Claude-Mind",
-    "stars": 5,
-    "updated_at": "2026-08-29T20:11:01Z",
-    "url": "https://github.com/zkysar1/Claude-Mind"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-29T19:24:09Z",
+    "updated_at": "2026-08-29T20:52:49Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-29T20:40:34Z",
+    "updated_at": "2026-08-29T20:48:50Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:53:21Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 229,
-    "updated_at": "2026-08-29T18:38:27Z",
-    "url": "https://github.com/Gnosil/semantix"
   }
 ]
