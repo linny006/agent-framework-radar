@@ -5,8 +5,98 @@
     "language": "TypeScript",
     "name": "bugsyhewitt/AlienClaw",
     "stars": 7,
-    "updated_at": "2026-08-29T20:29:57Z",
+    "updated_at": "2026-08-29T20:45:16Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-29T20:42:41Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-29T20:42:27Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:41:44Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 108,
+    "updated_at": "2026-08-29T20:40:30Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7048,
+    "updated_at": "2026-08-29T20:39:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 266,
+    "updated_at": "2026-08-29T20:35:34Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:33:40Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T20:32:03Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-08-29T20:42:14Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T20:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -16,33 +106,6 @@
     "stars": 66,
     "updated_at": "2026-08-29T20:28:35Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 77,
-    "updated_at": "2026-08-29T20:27:19Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T20:25:23Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-08-29T20:23:52Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Perform amazing feats, safely; note input, know output.",
@@ -117,24 +180,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T20:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-29T20:15:14Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
     "id": "zkysar1/Claude-Mind",
     "language": "Python",
@@ -142,6 +187,15 @@
     "stars": 5,
     "updated_at": "2026-08-29T20:11:01Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9480,
+    "updated_at": "2026-08-29T20:10:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
@@ -160,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T20:07:38Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 266,
-    "updated_at": "2026-08-29T20:05:45Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 13,
-    "updated_at": "2026-08-29T19:30:44Z",
+    "updated_at": "2026-08-29T20:36:00Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:57:05Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-29T18:58:19Z",
+    "updated_at": "2026-08-29T20:40:34Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 229,
     "updated_at": "2026-08-29T18:38:27Z",
     "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-08-29T18:40:56Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 258,
-    "updated_at": "2026-08-29T18:35:16Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-29T18:33:21Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35241,
-    "updated_at": "2026-08-29T18:32:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
