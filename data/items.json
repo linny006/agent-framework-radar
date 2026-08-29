@@ -1,5 +1,230 @@
 [
   {
+    "description": "An open specification for persisting a named AI agent as a file instead of a running process. Portable agent profiles wi",
+    "id": "alexmerced-oss/open-agent-profile",
+    "language": "Python",
+    "name": "alexmerced-oss/open-agent-profile",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:30:08Z",
+    "url": "https://github.com/alexmerced-oss/open-agent-profile"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:29:01Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:28:59Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-29T00:28:26Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-29T00:28:47Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-29T00:25:51Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
+    "id": "Smita6756/Hbrain",
+    "language": "Python",
+    "name": "Smita6756/Hbrain",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:23:20Z",
+    "url": "https://github.com/Smita6756/Hbrain"
+  },
+  {
+    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
+    "id": "carlososoriopulgar/agent-kernel",
+    "language": "\u2014",
+    "name": "carlososoriopulgar/agent-kernel",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:21:43Z",
+    "url": "https://github.com/carlososoriopulgar/agent-kernel"
+  },
+  {
+    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
+    "id": "peruzzo3265/ClawTrap",
+    "language": "JavaScript",
+    "name": "peruzzo3265/ClawTrap",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:21:38Z",
+    "url": "https://github.com/peruzzo3265/ClawTrap"
+  },
+  {
+    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
+    "id": "adaxial-lineofscrimmage6998/mempalace",
+    "language": "\u2014",
+    "name": "adaxial-lineofscrimmage6998/mempalace",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:21:35Z",
+    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
+  },
+  {
+    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
+    "id": "berrettabadger966/genesis-pantheon",
+    "language": "Python",
+    "name": "berrettabadger966/genesis-pantheon",
+    "stars": 2,
+    "updated_at": "2026-08-29T00:20:46Z",
+    "url": "https://github.com/berrettabadger966/genesis-pantheon"
+  },
+  {
+    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
+    "id": "vmy41/agent-harness",
+    "language": "\u2014",
+    "name": "vmy41/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:20:24Z",
+    "url": "https://github.com/vmy41/agent-harness"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:19:19Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
+    "id": "Ansellwaxlike187/cowork-semantic-search",
+    "language": "Python",
+    "name": "Ansellwaxlike187/cowork-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:18:24Z",
+    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
+  },
+  {
+    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
+    "id": "fathirn6263/harness-engineering",
+    "language": "\u2014",
+    "name": "fathirn6263/harness-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:18:17Z",
+    "url": "https://github.com/fathirn6263/harness-engineering"
+  },
+  {
+    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:17:42Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
+    "id": "Markusnigerian562/Project-A-MOS-Framework",
+    "language": "Shell",
+    "name": "Markusnigerian562/Project-A-MOS-Framework",
+    "stars": 2,
+    "updated_at": "2026-08-29T00:16:59Z",
+    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
+  },
+  {
+    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
+    "id": "counterplaybloodtest96/agent-orchestrator",
+    "language": "\u2014",
+    "name": "counterplaybloodtest96/agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:16:54Z",
+    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
+  },
+  {
+    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
+    "id": "Internationaleundset619/OpenDsStar",
+    "language": "Python",
+    "name": "Internationaleundset619/OpenDsStar",
+    "stars": 1,
+    "updated_at": "2026-08-29T00:16:43Z",
+    "url": "https://github.com/Internationaleundset619/OpenDsStar"
+  },
+  {
+    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
+    "id": "Zuga-Technologies/zugamind",
+    "language": "Python",
+    "name": "Zuga-Technologies/zugamind",
+    "stars": 13,
+    "updated_at": "2026-08-29T00:16:35Z",
+    "url": "https://github.com/Zuga-Technologies/zugamind"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:16:19Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-08-29T00:16:15Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
+    "id": "merryshelly/openalpheus",
+    "language": "Python",
+    "name": "merryshelly/openalpheus",
+    "stars": 3,
+    "updated_at": "2026-08-29T00:15:51Z",
+    "url": "https://github.com/merryshelly/openalpheus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9443,
+    "updated_at": "2026-08-29T00:15:27Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T00:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -135,33 +360,6 @@
     "url": "https://github.com/derekhu0002/archgraph"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T00:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-29T00:03:32Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 13,
-    "updated_at": "2026-08-28T23:58:15Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -180,15 +378,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-28T23:51:13Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
     "id": "raineislam/mcp-framework",
     "language": "Python",
@@ -196,24 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T23:47:01Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-28T23:43:15Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9442,
-    "updated_at": "2026-08-29T00:02:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
@@ -230,7 +401,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19565,
-    "updated_at": "2026-08-29T00:03:33Z",
+    "updated_at": "2026-08-29T00:17:18Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -277,176 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T23:41:29Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-29T00:06:21Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-08-28T23:23:59Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-28T23:20:20Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
-    "id": "agents-universe/agents-universe",
-    "language": "Python",
-    "name": "agents-universe/agents-universe",
-    "stars": 161,
-    "updated_at": "2026-08-28T23:19:23Z",
-    "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-08-29T00:06:11Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
-    "id": "mybay-ai/mybay",
-    "language": "TypeScript",
-    "name": "mybay-ai/mybay",
-    "stars": 2,
-    "updated_at": "2026-08-28T23:15:35Z",
-    "url": "https://github.com/mybay-ai/mybay"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-28T23:12:16Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7039,
-    "updated_at": "2026-08-28T23:11:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 105,
-    "updated_at": "2026-08-28T23:37:43Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-28T23:09:58Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 13,
-    "updated_at": "2026-08-28T22:47:35Z",
-    "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-08-28T22:44:38Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T22:33:46Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Self-hosted: describe software and it gets built in one pass, split into parts, built in parallel, each part checked by ",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-28T22:32:20Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 0,
-    "updated_at": "2026-08-28T22:23:06Z",
-    "url": "https://github.com/bhodgens/meept"
-  },
-  {
-    "description": "A minimal Rust agent framework where every run is durably executed.",
-    "id": "tokeira/tokeira-odori",
-    "language": "Rust",
-    "name": "tokeira/tokeira-odori",
-    "stars": 0,
-    "updated_at": "2026-08-28T22:20:49Z",
-    "url": "https://github.com/tokeira/tokeira-odori"
-  },
-  {
-    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
-    "id": "reda-baqechame/self-learning-24.7-agent",
-    "language": "Python",
-    "name": "reda-baqechame/self-learning-24.7-agent",
-    "stars": 1,
-    "updated_at": "2026-08-28T22:12:48Z",
-    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:04:04Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 30,
-    "updated_at": "2026-08-28T22:07:01Z",
-    "url": "https://github.com/monaccode/astromesh"
   }
 ]
