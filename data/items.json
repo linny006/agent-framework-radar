@@ -1,5 +1,68 @@
 [
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-29T11:59:39Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1927,
+    "updated_at": "2026-08-29T11:59:28Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 17,
+    "updated_at": "2026-08-29T11:58:36Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-29T11:57:18Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2272,
+    "updated_at": "2026-08-29T11:54:22Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Build durable agent harnesses so smaller models can do repeatable, verifiable work \u2014 a versioned folder with tools, guar",
+    "id": "FrancescoMrn/hiveloom",
+    "language": "Python",
+    "name": "FrancescoMrn/hiveloom",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:55:10Z",
+    "url": "https://github.com/FrancescoMrn/hiveloom"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T11:45:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
     "id": "we-are-singular/aml",
     "language": "TypeScript",
@@ -58,7 +121,7 @@
     "id": "livecontext-ai/livecontext-ce",
     "language": "Java",
     "name": "livecontext-ai/livecontext-ce",
-    "stars": 360,
+    "stars": 361,
     "updated_at": "2026-08-29T11:39:20Z",
     "url": "https://github.com/livecontext-ai/livecontext-ce"
   },
@@ -79,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T11:36:57Z",
     "url": "https://github.com/Alear030/Alear030"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-29T11:36:14Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-29T11:35:18Z",
+    "updated_at": "2026-08-29T11:56:00Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T11:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
@@ -142,6 +187,15 @@
     "stars": 3,
     "updated_at": "2026-08-29T11:29:48Z",
     "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Curated Agentic AI resources: AI agent frameworks, tutorials, courses, projects, MCP tools, research papers, evaluation,",
+    "id": "Titan-Codes-Official/awesome-agentic-ai",
+    "language": "\u2014",
+    "name": "Titan-Codes-Official/awesome-agentic-ai",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:29:04Z",
+    "url": "https://github.com/Titan-Codes-Official/awesome-agentic-ai"
   },
   {
     "description": "Grok Build Web UI",
@@ -185,7 +239,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-29T11:22:24Z",
+    "updated_at": "2026-08-29T11:47:26Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -194,7 +248,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 257,
-    "updated_at": "2026-08-29T11:31:35Z",
+    "updated_at": "2026-08-29T11:49:54Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -279,31 +333,13 @@
     "url": "https://github.com/AgentsHarness/capri-host"
   },
   {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 17,
-    "updated_at": "2026-08-29T11:11:37Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-29T11:38:14Z",
+    "updated_at": "2026-08-29T11:58:28Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-29T10:48:39Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "A Simple Python Based General AI Agent",
@@ -412,41 +448,5 @@
     "stars": 45,
     "updated_at": "2026-08-29T10:24:34Z",
     "url": "https://github.com/crystal-autobot/autobot"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-08-29T11:22:08Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Offline-first AI agent runtime and workspace for Android \u2014 Kotlin, Flutter, MCP, on-device LLM, and a policy-gated tool ",
-    "id": "FishBottle7/OpenCray",
-    "language": "Kotlin",
-    "name": "FishBottle7/OpenCray",
-    "stars": 1,
-    "updated_at": "2026-08-29T10:17:30Z",
-    "url": "https://github.com/FishBottle7/OpenCray"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-29T10:17:22Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
-    "id": "yuting-ai/asAgent",
-    "language": "Python",
-    "name": "yuting-ai/asAgent",
-    "stars": 22,
-    "updated_at": "2026-08-29T10:12:23Z",
-    "url": "https://github.com/yuting-ai/asAgent"
   }
 ]
