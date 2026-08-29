@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u57fa\u4e8e DeepSeek /responses API \u7684 TypeScript AI Agent \u6846\u67b6\uff1a\u591a\u8f6e\u5bf9\u8bdd + \u5de5\u5177\u8c03\u7528\uff08web \u641c\u7d22 / shell / \u8be2\u95ee\u5f00\u53d1\u8005\uff09\uff0cshell \u547d\u4ee4\u5728 Docker Sandbox \u4e2d\u9694\u79bb\u6267\u884c\uff0cA",
+    "id": "DeliveryPerson2004/DeepForge",
+    "language": "TypeScript",
+    "name": "DeliveryPerson2004/DeepForge",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:59:50Z",
+    "url": "https://github.com/DeliveryPerson2004/DeepForge"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-08-29T10:00:15Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 5,
+    "updated_at": "2026-08-29T09:55:58Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-29T09:54:23Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:53:07Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-29T10:00:11Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "DeepSeek Harness Local for Android - \u5728\u624b\u673a\u4e0a\u8fd0\u884c\u5b8c\u6574 DeepSeek Agent\uff1a\u514d Root / \u514d Termux / bionic Node \u5f15\u64ce / \u6269\u5c55\u4e2d\u5fc3\u6309\u9700\u5b89\u88c5 Python\u3001Git\u3001JD",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 2,
+    "updated_at": "2026-08-29T09:49:36Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Free, fully local, easy to use Ai agent/character platform with built in neuroscience inspired persistent memory, moods ",
+    "id": "Kronic90/Mimirs-Memory-Hub",
+    "language": "Python",
+    "name": "Kronic90/Mimirs-Memory-Hub",
+    "stars": 26,
+    "updated_at": "2026-08-29T09:48:17Z",
+    "url": "https://github.com/Kronic90/Mimirs-Memory-Hub"
+  },
+  {
+    "description": "Pi agent skills for specialized workflows and automation",
+    "id": "shalomb/agent-skills",
+    "language": "Python",
+    "name": "shalomb/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:47:45Z",
+    "url": "https://github.com/shalomb/agent-skills"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:58:57Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
     "id": "franktsaodev/Frank-AI-Agent",
     "language": "Python",
@@ -18,21 +117,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-08-29T09:44:19Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-08-29T09:39:23Z",
+    "updated_at": "2026-08-29T09:59:35Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-29T09:41:52Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
     "id": "StateKnot/StateKnot",
     "language": "Rust",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T09:30:27Z",
     "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T09:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -112,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35240,
+    "stars": 35241,
     "updated_at": "2026-08-29T09:29:11Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -144,15 +216,6 @@
     "url": "https://github.com/yuting-ai/asAgent"
   },
   {
-    "description": "Free, fully local, easy to use Ai agent/character platform with built in neuroscience inspired persistent memory, moods ",
-    "id": "Kronic90/Mimirs-Memory-Hub",
-    "language": "Python",
-    "name": "Kronic90/Mimirs-Memory-Hub",
-    "stars": 26,
-    "updated_at": "2026-08-29T09:25:00Z",
-    "url": "https://github.com/Kronic90/Mimirs-Memory-Hub"
-  },
-  {
     "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
     "id": "zmzai-cloud/zmzai-agent",
     "language": "TypeScript",
@@ -178,15 +241,6 @@
     "stars": 115,
     "updated_at": "2026-08-29T09:21:13Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "DeepSeek Harness Local for Android - \u5728\u624b\u673a\u4e0a\u8fd0\u884c\u5b8c\u6574 DeepSeek Agent\uff1a\u514d Root / \u514d Termux / bionic Node \u5f15\u64ce / \u6269\u5c55\u4e2d\u5fc3\u6309\u9700\u5b89\u88c5 Python\u3001Git\u3001JD",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 2,
-    "updated_at": "2026-08-29T09:19:20Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Cosight \u2014 A realtime multimodal AI agent runtime with composable roles and capabilities.",
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-08-29T09:37:38Z",
+    "updated_at": "2026-08-29T09:59:13Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-29T09:31:33Z",
+    "updated_at": "2026-08-29T09:59:20Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T08:50:58Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "PurrCat Agent",
-    "id": "PurrPod/purrcat",
-    "language": "Python",
-    "name": "PurrPod/purrcat",
-    "stars": 5,
-    "updated_at": "2026-08-29T08:44:43Z",
-    "url": "https://github.com/PurrPod/purrcat"
   },
   {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
@@ -403,50 +448,5 @@
     "stars": 634,
     "updated_at": "2026-08-29T08:18:15Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-29T08:17:36Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 17,
-    "updated_at": "2026-08-29T08:15:45Z",
-    "url": "https://github.com/relayax/relayagent"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 24,
-    "updated_at": "2026-08-29T08:31:16Z",
-    "url": "https://github.com/use-brian/use-brian"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 205,
-    "updated_at": "2026-08-29T08:39:56Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Been building this for 6 months. Finally at a place  where I'm comfortable sharing it.",
-    "id": "vignesh2027/Claude-Agentic-Skills2.0-version",
-    "language": "\u2014",
-    "name": "vignesh2027/Claude-Agentic-Skills2.0-version",
-    "stars": 6,
-    "updated_at": "2026-08-29T07:58:45Z",
-    "url": "https://github.com/vignesh2027/Claude-Agentic-Skills2.0-version"
   }
 ]
