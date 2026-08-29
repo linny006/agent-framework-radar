@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-29T05:30:02Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-29T05:14:42Z",
+    "updated_at": "2026-08-29T05:29:08Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-29T05:11:53Z",
+    "updated_at": "2026-08-29T05:26:14Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
+    "id": "relayax/relayagent",
+    "language": "TypeScript",
+    "name": "relayax/relayagent",
+    "stars": 17,
+    "updated_at": "2026-08-29T05:22:35Z",
+    "url": "https://github.com/relayax/relayagent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-29T05:18:54Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:15:44Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T05:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -27,13 +72,13 @@
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-29T05:12:33Z",
-    "url": "https://github.com/tya5/reyn"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35237,
+    "updated_at": "2026-08-29T05:27:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
@@ -70,15 +115,6 @@
     "stars": 16,
     "updated_at": "2026-08-29T05:04:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T05:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-29T04:59:09Z",
+    "updated_at": "2026-08-29T05:29:07Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35238,
-    "updated_at": "2026-08-29T05:05:41Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "a demo plugin for a preset with builtin musescore wasm editor/preview engine for agent composing",
     "id": "clclyzybzjsq/dsh-collab-score-based-on-mscore",
     "language": "C++",
@@ -328,7 +355,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47510,
+    "stars": 47511,
     "updated_at": "2026-08-29T03:44:09Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T03:00:09Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "This is an agent framework that can be connected",
-    "id": "Developerprit/ThinkStack",
-    "language": "Python",
-    "name": "Developerprit/ThinkStack",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:59:55Z",
-    "url": "https://github.com/Developerprit/ThinkStack"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-29T02:53:54Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
-    "id": "yuting-ai/asAgent",
-    "language": "Python",
-    "name": "yuting-ai/asAgent",
-    "stars": 22,
-    "updated_at": "2026-08-29T02:52:25Z",
-    "url": "https://github.com/yuting-ai/asAgent"
   }
 ]
