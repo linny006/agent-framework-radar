@@ -1,5 +1,86 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-28T23:59:47Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
+    "id": "Zuga-Technologies/zugamind",
+    "language": "Python",
+    "name": "Zuga-Technologies/zugamind",
+    "stars": 13,
+    "updated_at": "2026-08-28T23:58:15Z",
+    "url": "https://github.com/Zuga-Technologies/zugamind"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-08-28T23:56:53Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:56:32Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-28T23:53:33Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-28T23:51:13Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:47:01Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-28T23:57:41Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
     "id": "StateKnot/StateKnot",
     "language": "Rust",
@@ -9,21 +90,12 @@
     "url": "https://github.com/StateKnot/StateKnot"
   },
   {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 13,
-    "updated_at": "2026-08-28T23:42:03Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9442,
-    "updated_at": "2026-08-28T23:41:34Z",
+    "updated_at": "2026-08-28T23:46:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -41,26 +113,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19565,
-    "updated_at": "2026-08-28T23:44:40Z",
+    "updated_at": "2026-08-28T23:48:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-08-28T23:39:15Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-28T23:39:05Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Perform amazing feats, safely.",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-28T23:35:48Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
@@ -117,31 +162,13 @@
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T23:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1917,
+    "stars": 1918,
     "updated_at": "2026-08-28T23:28:29Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-28T23:41:00Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-08-28T23:39:25Z",
+    "updated_at": "2026-08-28T23:55:29Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 35236,
     "updated_at": "2026-08-28T23:33:19Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-28T23:42:08Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
@@ -430,23 +448,5 @@
     "stars": 131,
     "updated_at": "2026-08-28T21:21:03Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "An open specification for persisting a named AI agent as a file instead of a running process. Portable agent profiles wi",
-    "id": "alexmerced-oss/open-agent-profile",
-    "language": "Python",
-    "name": "alexmerced-oss/open-agent-profile",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:24:19Z",
-    "url": "https://github.com/alexmerced-oss/open-agent-profile"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:50:20Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   }
 ]
