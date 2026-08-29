@@ -1,5 +1,77 @@
 [
   {
+    "description": "Free, fully local, easy to use Ai agent/character platform with built in neuroscience inspired persistent memory, moods ",
+    "id": "Kronic90/Mimirs-Memory-Hub",
+    "language": "Python",
+    "name": "Kronic90/Mimirs-Memory-Hub",
+    "stars": 26,
+    "updated_at": "2026-08-29T10:28:13Z",
+    "url": "https://github.com/Kronic90/Mimirs-Memory-Hub"
+  },
+  {
+    "description": "A from-scratch Python agent harness: tool orchestration, multi-agent routing, session lifecycle, event-driven hooks, and",
+    "id": "Alear030/Alear030",
+    "language": "Python",
+    "name": "Alear030/Alear030",
+    "stars": 3,
+    "updated_at": "2026-08-29T10:26:16Z",
+    "url": "https://github.com/Alear030/Alear030"
+  },
+  {
+    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-08-29T10:26:49Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Ultra-efficient personal AI assistant powered by Crystal",
+    "id": "crystal-autobot/autobot",
+    "language": "Crystal",
+    "name": "crystal-autobot/autobot",
+    "stars": 45,
+    "updated_at": "2026-08-29T10:24:34Z",
+    "url": "https://github.com/crystal-autobot/autobot"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-08-29T10:23:44Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Offline-first AI agent runtime and workspace for Android \u2014 Kotlin, Flutter, MCP, on-device LLM, and a policy-gated tool ",
+    "id": "FishBottle7/OpenCray",
+    "language": "Kotlin",
+    "name": "FishBottle7/OpenCray",
+    "stars": 1,
+    "updated_at": "2026-08-29T10:17:30Z",
+    "url": "https://github.com/FishBottle7/OpenCray"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 9,
+    "updated_at": "2026-08-29T10:17:22Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T10:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
     "id": "yuting-ai/asAgent",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-29T10:10:32Z",
+    "updated_at": "2026-08-29T10:27:19Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T10:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u57fa\u4e8e DeepSeek /responses API \u7684 TypeScript AI Agent \u6846\u67b6\uff1a\u591a\u8f6e\u5bf9\u8bdd + \u5de5\u5177\u8c03\u7528\uff08web \u641c\u7d22 / shell / \u8be2\u95ee\u5f00\u53d1\u8005\uff09\uff0cshell \u547d\u4ee4\u5728 Docker Sandbox \u4e2d\u9694\u79bb\u6267\u884c\uff0cA",
     "id": "DeliveryPerson2004/DeepForge",
     "language": "TypeScript",
@@ -79,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T09:59:50Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-08-29T10:10:41Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "PurrCat Agent",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T09:49:36Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Free, fully local, easy to use Ai agent/character platform with built in neuroscience inspired persistent memory, moods ",
-    "id": "Kronic90/Mimirs-Memory-Hub",
-    "language": "Python",
-    "name": "Kronic90/Mimirs-Memory-Hub",
-    "stars": 26,
-    "updated_at": "2026-08-29T09:48:17Z",
-    "url": "https://github.com/Kronic90/Mimirs-Memory-Hub"
   },
   {
     "description": "Pi agent skills for specialized workflows and automation",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 257,
-    "updated_at": "2026-08-29T10:10:38Z",
+    "updated_at": "2026-08-29T10:23:57Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-29T10:11:43Z",
+    "updated_at": "2026-08-29T10:26:30Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -364,7 +409,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1925,
+    "stars": 1926,
     "updated_at": "2026-08-29T08:53:44Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T08:34:29Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:33:45Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "Everything is a plugin\uff01 \u4e00\u79cd\u57fa\u4e8e\u63d2\u4ef6\u5316\u6269\u5c55\u3001\u4e8b\u4ef6\u9a71\u52a8\u603b\u7ebf\u6a21\u5f0f\u6784\u5efa\u7684\u667a\u80fd\u4f53\u6846\u67b6\u4e0eagent\u5168\u6808\u5e94\u7528\uff08\u5f00\u53d1\u4e2d\uff09",
-    "id": "Removel/Icarus",
-    "language": "Python",
-    "name": "Removel/Icarus",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:33:23Z",
-    "url": "https://github.com/Removel/Icarus"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-08-29T08:31:59Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47517,
-    "updated_at": "2026-08-29T09:29:31Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-29T08:25:54Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   }
 ]
