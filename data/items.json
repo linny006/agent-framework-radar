@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-29T09:11:07Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:10:49Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-29T09:07:29Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 115,
+    "updated_at": "2026-08-29T09:11:20Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-29T09:06:36Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:05:36Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-08-29T09:05:16Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
+    "id": "yuting-ai/asAgent",
+    "language": "Python",
+    "name": "yuting-ai/asAgent",
+    "stars": 22,
+    "updated_at": "2026-08-29T09:04:38Z",
+    "url": "https://github.com/yuting-ai/asAgent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35238,
+    "updated_at": "2026-08-29T09:04:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
+    "id": "Cobra-bit-prog/agent-guard",
+    "language": "TypeScript",
+    "name": "Cobra-bit-prog/agent-guard",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:00:26Z",
+    "url": "https://github.com/Cobra-bit-prog/agent-guard"
+  },
+  {
+    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
+    "id": "jumabek-dev/jumabek",
+    "language": "Rust",
+    "name": "jumabek-dev/jumabek",
+    "stars": 2,
+    "updated_at": "2026-08-29T09:00:32Z",
+    "url": "https://github.com/jumabek-dev/jumabek"
+  },
+  {
     "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
     "id": "Marssssss/OneAI",
     "language": "Rust",
@@ -9,22 +117,13 @@
     "url": "https://github.com/Marssssss/OneAI"
   },
   {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 2,
-    "updated_at": "2026-08-29T08:59:10Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 115,
-    "updated_at": "2026-08-29T08:57:18Z",
-    "url": "https://github.com/pqpo/pragma"
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-29T09:14:48Z",
+    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -72,33 +171,6 @@
     "url": "https://github.com/MolexZzz/MemCodeAgent"
   },
   {
-    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
-    "id": "yuting-ai/asAgent",
-    "language": "Python",
-    "name": "yuting-ai/asAgent",
-    "stars": 22,
-    "updated_at": "2026-08-29T08:49:06Z",
-    "url": "https://github.com/yuting-ai/asAgent"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-29T08:47:16Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T08:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "PurrCat Agent",
     "id": "PurrPod/purrcat",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 4914,
     "updated_at": "2026-08-29T08:43:13Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-29T08:59:31Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
@@ -167,7 +230,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-29T08:59:56Z",
+    "updated_at": "2026-08-29T09:15:07Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -180,21 +243,12 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35238,
-    "updated_at": "2026-08-29T08:30:41Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47517,
-    "updated_at": "2026-08-29T08:42:27Z",
+    "updated_at": "2026-08-29T09:09:54Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 256,
-    "updated_at": "2026-08-29T08:45:39Z",
+    "updated_at": "2026-08-29T09:10:28Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 205,
     "updated_at": "2026-08-29T08:39:56Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:02:16Z",
-    "url": "https://github.com/StateKnot/StateKnot"
   },
   {
     "description": "Been building this for 6 months. Finally at a place  where I'm comfortable sharing it.",
@@ -369,15 +414,6 @@
     "url": "https://github.com/elchemista/spectre"
   },
   {
-    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-    "id": "Cobra-bit-prog/agent-guard",
-    "language": "TypeScript",
-    "name": "Cobra-bit-prog/agent-guard",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:33:33Z",
-    "url": "https://github.com/Cobra-bit-prog/agent-guard"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-29T07:27:34Z",
     "url": "https://github.com/HopkeyEZ/Xpro"
-  },
-  {
-    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
-    "id": "synapse-ai-hub/synapseForge",
-    "language": "Python",
-    "name": "synapse-ai-hub/synapseForge",
-    "stars": 3,
-    "updated_at": "2026-08-29T07:25:20Z",
-    "url": "https://github.com/synapse-ai-hub/synapseForge"
-  },
-  {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:24:45Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 17,
-    "updated_at": "2026-08-29T07:23:28Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:23:18Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
   }
 ]
