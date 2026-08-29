@@ -1,12 +1,138 @@
 [
   {
+    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
+    "id": "Zuga-Technologies/zugamind",
+    "language": "Python",
+    "name": "Zuga-Technologies/zugamind",
+    "stars": 13,
+    "updated_at": "2026-08-29T13:43:26Z",
+    "url": "https://github.com/Zuga-Technologies/zugamind"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:42:43Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
+    "id": "erishen/crewai-pse",
+    "language": "Python",
+    "name": "erishen/crewai-pse",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:42:31Z",
+    "url": "https://github.com/erishen/crewai-pse"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by Microsoft AutoGen. Register tasks under task",
+    "id": "erishen/autogen-pse",
+    "language": "Python",
+    "name": "erishen/autogen-pse",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:42:26Z",
+    "url": "https://github.com/erishen/autogen-pse"
+  },
+  {
+    "description": "Agent harness monorepo: a Cordis-powered plugin runtime hosting a PSE (Planner-Specialist-Evaluator) multi-agent system ",
+    "id": "erishen/resolve-studio",
+    "language": "TypeScript",
+    "name": "erishen/resolve-studio",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:40:50Z",
+    "url": "https://github.com/erishen/resolve-studio"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 704,
+    "updated_at": "2026-08-29T13:40:48Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
     "description": "Autonomous multi-agent coordination for the JVM",
     "id": "mauro-mura/agenor",
     "language": "Java",
     "name": "mauro-mura/agenor",
     "stars": 0,
-    "updated_at": "2026-08-29T13:29:52Z",
+    "updated_at": "2026-08-29T13:40:30Z",
     "url": "https://github.com/mauro-mura/agenor"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:40:27Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-08-29T13:39:16Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-08-29T13:38:06Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-29T13:34:18Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1928,
+    "updated_at": "2026-08-29T13:32:35Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 3055,
+    "updated_at": "2026-08-29T13:32:03Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-29T13:31:43Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T13:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
@@ -16,15 +142,6 @@
     "stars": 13,
     "updated_at": "2026-08-29T13:27:02Z",
     "url": "https://github.com/atliliw/langchainrust"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-08-29T13:26:14Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
@@ -68,7 +185,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47519,
-    "updated_at": "2026-08-29T13:22:20Z",
+    "updated_at": "2026-08-29T13:39:29Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -99,15 +216,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T13:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
     "id": "yuting-ai/asAgent",
     "language": "Python",
@@ -135,24 +243,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T13:09:30Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-29T13:08:20Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
     "id": "ethosagent/ethos",
     "language": "TypeScript",
@@ -176,7 +266,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 257,
-    "updated_at": "2026-08-29T13:06:43Z",
+    "updated_at": "2026-08-29T13:33:52Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -189,31 +279,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-29T13:02:05Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
     "id": "Aureliolo/synthorg",
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-29T13:01:56Z",
+    "updated_at": "2026-08-29T13:42:06Z",
     "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1928,
-    "updated_at": "2026-08-29T13:01:27Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -234,30 +306,12 @@
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 13,
-    "updated_at": "2026-08-29T12:55:24Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
-    "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 3053,
-    "updated_at": "2026-08-29T13:07:55Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-29T13:29:28Z",
+    "updated_at": "2026-08-29T13:41:27Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-29T13:28:41Z",
+    "updated_at": "2026-08-29T13:39:21Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -383,7 +437,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-29T13:29:25Z",
+    "updated_at": "2026-08-29T13:41:11Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2272,
     "updated_at": "2026-08-29T11:54:22Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Build durable agent harnesses so smaller models can do repeatable, verifiable work \u2014 a versioned folder with tools, guar",
-    "id": "FrancescoMrn/hiveloom",
-    "language": "Python",
-    "name": "FrancescoMrn/hiveloom",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:04:09Z",
-    "url": "https://github.com/FrancescoMrn/hiveloom"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 13,
-    "updated_at": "2026-08-29T11:44:41Z",
-    "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
-    "id": "pereirawe/opencode-flow",
-    "language": "Shell",
-    "name": "pereirawe/opencode-flow",
-    "stars": 2,
-    "updated_at": "2026-08-29T11:44:00Z",
-    "url": "https://github.com/pereirawe/opencode-flow"
-  },
-  {
-    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
-    "id": "mwb1219/mwb-ai-claw",
-    "language": "Java",
-    "name": "mwb1219/mwb-ai-claw",
-    "stars": 2,
-    "updated_at": "2026-08-29T11:42:27Z",
-    "url": "https://github.com/mwb1219/mwb-ai-claw"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-08-29T11:42:25Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Muxiva is a Rust-native real-time multimodal agent runtime with bounded graph execution and safe Rust, C++, Python, and ",
-    "id": "PiyotaHu/muxiva",
-    "language": "Rust",
-    "name": "PiyotaHu/muxiva",
-    "stars": 1,
-    "updated_at": "2026-08-29T11:40:44Z",
-    "url": "https://github.com/PiyotaHu/muxiva"
   }
 ]
