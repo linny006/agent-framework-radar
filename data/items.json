@@ -1,12 +1,12 @@
 [
   {
-    "description": "Perform amazing feats, safely.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:29:26Z",
-    "url": "https://github.com/sycdan/nosedive"
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-29T06:41:34Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +14,98 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-29T06:28:33Z",
+    "updated_at": "2026-08-29T06:44:10Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35235,
+    "updated_at": "2026-08-29T06:40:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/nitro",
+    "language": "C++",
+    "name": "chrisws/nitro",
+    "stars": 1,
+    "updated_at": "2026-08-29T06:38:07Z",
+    "url": "https://github.com/chrisws/nitro"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:37:53Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:45:18Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 14,
+    "updated_at": "2026-08-29T06:36:40Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
+    "id": "vamsiramakrishnan/gemini-rs",
+    "language": "Rust",
+    "name": "vamsiramakrishnan/gemini-rs",
+    "stars": 3,
+    "updated_at": "2026-08-29T06:36:11Z",
+    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
+  },
+  {
+    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
+    "id": "abubakarsiddik31/golem",
+    "language": "Go",
+    "name": "abubakarsiddik31/golem",
+    "stars": 1,
+    "updated_at": "2026-08-29T06:34:12Z",
+    "url": "https://github.com/abubakarsiddik31/golem"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-08-29T06:45:13Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T06:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Perform amazing feats, safely.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 0,
+    "updated_at": "2026-08-29T06:29:26Z",
+    "url": "https://github.com/sycdan/nosedive"
   },
   {
     "description": "DeepSeek Harness Local for Android - \u5728\u624b\u673a\u4e0a\u8fd0\u884c\u5b8c\u6574 DeepSeek Agent\uff1a\u514d Root / \u514d Termux / bionic Node \u5f15\u64ce / \u6269\u5c55\u4e2d\u5fc3\u6309\u9700\u5b89\u88c5 Python\u3001Git\u3001JD",
@@ -99,15 +189,6 @@
     "url": "https://github.com/chenkezhen480/Cyrene"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T06:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -115,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T06:14:39Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-08-29T06:29:23Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 256,
-    "updated_at": "2026-08-29T06:12:19Z",
+    "updated_at": "2026-08-29T06:41:48Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:30:19Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -223,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T05:29:08Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35235,
-    "updated_at": "2026-08-29T05:27:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T04:15:17Z",
     "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
-    "description": "Self-bootstrapping Agent engineering framework: intent \u2192 tasks \u2192 7-layer runnable project \u2192 agent topology \u2192 evolution e",
-    "id": "eeyzs1/meta_harness",
-    "language": "Python",
-    "name": "eeyzs1/meta_harness",
-    "stars": 0,
-    "updated_at": "2026-08-29T04:10:44Z",
-    "url": "https://github.com/eeyzs1/meta_harness"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 216,
-    "updated_at": "2026-08-29T04:09:32Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 115,
-    "updated_at": "2026-08-29T06:29:24Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Open Souls \u2014 independent third-party profile of a public API surface, by API Evangelist. Open Souls is an open-source fr",
-    "id": "api-evangelist/open-souls",
-    "language": "\u2014",
-    "name": "api-evangelist/open-souls",
-    "stars": 1,
-    "updated_at": "2026-08-29T03:59:48Z",
-    "url": "https://github.com/api-evangelist/open-souls"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 195,
-    "updated_at": "2026-08-29T03:55:27Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "a demo plugin for a preset with builtin musescore wasm editor/preview engine for agent composing",
-    "id": "clclyzybzjsq/dsh-collab-score-based-on-mscore",
-    "language": "C++",
-    "name": "clclyzybzjsq/dsh-collab-score-based-on-mscore",
-    "stars": 2,
-    "updated_at": "2026-08-29T03:48:27Z",
-    "url": "https://github.com/clclyzybzjsq/dsh-collab-score-based-on-mscore"
   }
 ]
