@@ -1,12 +1,21 @@
 [
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:59:44Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-08-29T13:14:35Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
+    "id": "yuting-ai/asAgent",
+    "language": "Python",
+    "name": "yuting-ai/asAgent",
+    "stars": 22,
+    "updated_at": "2026-08-29T13:13:46Z",
+    "url": "https://github.com/yuting-ai/asAgent"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -14,8 +23,125 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-29T12:58:55Z",
+    "updated_at": "2026-08-29T13:12:39Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-08-29T13:12:18Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 123,
+    "updated_at": "2026-08-29T13:10:03Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:09:30Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-29T13:08:20Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
+    "language": "TypeScript",
+    "name": "ethosagent/ethos",
+    "stars": 17,
+    "updated_at": "2026-08-29T13:07:43Z",
+    "url": "https://github.com/ethosagent/ethos"
+  },
+  {
+    "description": "Agent Capability Standard is an open specification for composable AI agent capabilities. It defines 36 atomic capabiliti",
+    "id": "synaptiai/agent-capability-standard",
+    "language": "Python",
+    "name": "synaptiai/agent-capability-standard",
+    "stars": 4,
+    "updated_at": "2026-08-29T13:10:22Z",
+    "url": "https://github.com/synaptiai/agent-capability-standard"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 257,
+    "updated_at": "2026-08-29T13:06:43Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:04:19Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-29T13:02:05Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-29T13:01:56Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1928,
+    "updated_at": "2026-08-29T13:01:27Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T13:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:59:44Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
@@ -36,21 +162,12 @@
     "url": "https://github.com/Zuga-Technologies/zugamind"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-29T12:53:44Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 3053,
-    "updated_at": "2026-08-29T12:52:30Z",
+    "updated_at": "2026-08-29T13:07:55Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
@@ -63,15 +180,6 @@
     "url": "https://github.com/tya5/reyn"
   },
   {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 17,
-    "updated_at": "2026-08-29T12:48:19Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
     "description": "Production-grade developer instructions, multi-agent workflows, scoped rules, and skill execution harnesses for AI codin",
     "id": "andreassag/agentic-instructions",
     "language": "Python",
@@ -81,22 +189,13 @@
     "url": "https://github.com/andreassag/agentic-instructions"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T12:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T12:42:01Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
+    "name": "pydantic/pydantic-ai",
+    "stars": 19570,
+    "updated_at": "2026-08-29T12:42:33Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -133,33 +232,6 @@
     "stars": 4,
     "updated_at": "2026-08-29T12:34:24Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 257,
-    "updated_at": "2026-08-29T12:41:45Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-29T12:28:16Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-08-29T12:24:49Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "Curated Agentic AI resources: AI agent frameworks, tutorials, courses, projects, MCP tools, research papers, evaluation,",
@@ -225,15 +297,6 @@
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1928,
-    "updated_at": "2026-08-29T12:05:41Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-29T12:01:46Z",
+    "updated_at": "2026-08-29T13:08:50Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 4505,
     "updated_at": "2026-08-29T12:00:56Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 123,
-    "updated_at": "2026-08-29T11:59:39Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -333,15 +387,6 @@
     "url": "https://github.com/PiyotaHu/muxiva"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-29T12:51:54Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped ",
     "id": "livecontext-ai/livecontext-ce",
     "language": "Java",
@@ -367,15 +412,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T12:59:36Z",
     "url": "https://github.com/Alear030/Alear030"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19569,
-    "updated_at": "2026-08-29T12:42:33Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T11:25:56Z",
     "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 2,
-    "updated_at": "2026-08-29T11:21:08Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "ActonOS is a single-purpose appliance operating system engineered as a customizable, self-governing AI agent kernel runn",
-    "id": "actonos/actonos",
-    "language": "Go",
-    "name": "actonos/actonos",
-    "stars": 99,
-    "updated_at": "2026-08-29T11:19:29Z",
-    "url": "https://github.com/actonos/actonos"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-08-29T11:17:58Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:07:37Z",
-    "url": "https://github.com/StateKnot/StateKnot"
   }
 ]
