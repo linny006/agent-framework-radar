@@ -1,5 +1,95 @@
 [
   {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-08-30T17:25:53Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T17:26:19Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "\u51b3\u7b56\u4e0e\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\uff1a\u5927\u8111\u4e13\u6ce8\u51b3\u7b56\u3001\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u72ec\u7acb\u5e72\u6d3b\u3001\u4e0a\u4e0b\u6587\u77ed\u5c0f\u3002\u81ea\u52a8\u62c6\u89e3\u2192\u9009\u6a21\u578b\u2192\u6d3e\u6d3b\u2192\u770b\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u8282\u7701\u6210\u672c\u3002",
+    "id": "ZzkAItech/router-brain",
+    "language": "Python",
+    "name": "ZzkAItech/router-brain",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:24:45Z",
+    "url": "https://github.com/ZzkAItech/router-brain"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-08-30T17:21:57Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
+    "id": "elchemista/spectre",
+    "language": "Elixir",
+    "name": "elchemista/spectre",
+    "stars": 10,
+    "updated_at": "2026-08-30T17:20:30Z",
+    "url": "https://github.com/elchemista/spectre"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:20:29Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:20:11Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-30T17:20:04Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:16:03Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -9,15 +99,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T17:15:17Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 24,
     "updated_at": "2026-08-30T17:12:10Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 2,
-    "updated_at": "2026-08-30T17:12:03Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "Model-agnostic multi-agent AI harness in Rust \u2014 streaming ReAct loop, isolated sub-agents, gated tools, replayable sessi",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-30T17:09:12Z",
+    "updated_at": "2026-08-30T17:19:40Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -135,24 +207,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "\u6a21\u578b\u8def\u7531\u5927\u8111\uff1a\u51b3\u7b56/\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\u3002\u5927\u8111\u53ea\u505a\u51b3\u7b56\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u4e13\u6ce8\u5e72\u6d3b\u3002\u62c6\u89e3\u2192\u6d3e\u6d3b\u2192\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u4fbf\u5b9c\u4f18\u5148\u7701\u6210\u672c\u3002",
-    "id": "ZzkAItech/router-brain",
-    "language": "Python",
-    "name": "ZzkAItech/router-brain",
-    "stars": 1,
-    "updated_at": "2026-08-30T17:04:57Z",
-    "url": "https://github.com/ZzkAItech/router-brain"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-30T17:04:22Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -160,15 +214,6 @@
     "stars": 20,
     "updated_at": "2026-08-30T17:04:03Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-30T17:07:09Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T17:02:06Z",
+    "updated_at": "2026-08-30T17:24:22Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -229,8 +265,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9512,
-    "updated_at": "2026-08-30T16:54:28Z",
+    "stars": 9513,
+    "updated_at": "2026-08-30T17:19:28Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-08-30T16:53:05Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-30T17:06:41Z",
+    "updated_at": "2026-08-30T17:16:48Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-30T16:21:44Z",
+    "updated_at": "2026-08-30T17:24:40Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -320,17 +347,8 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-08-30T16:21:04Z",
+    "updated_at": "2026-08-30T17:21:28Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-08-30T16:37:41Z",
-    "url": "https://github.com/Alexli18/binex"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-08-30T17:15:12Z",
+    "updated_at": "2026-08-30T17:26:32Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:48:39Z",
     "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
-    "id": "jiabaobei/skills-constitution",
-    "language": "Python",
-    "name": "jiabaobei/skills-constitution",
-    "stars": 190,
-    "updated_at": "2026-08-30T15:46:21Z",
-    "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 219,
-    "updated_at": "2026-08-30T15:36:12Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
