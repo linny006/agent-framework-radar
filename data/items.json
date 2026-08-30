@@ -1,5 +1,95 @@
 [
   {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:15:04Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T14:14:47Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9507,
+    "updated_at": "2026-08-30T14:13:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-30T14:12:49Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:14:54Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Expert Fleet \u2014 a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, model-free runbooks",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:05:45Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
+    "description": "Role playbooks and coordination framework for multi-agent engineering teams",
+    "id": "mythicalOS/mythical-playbooks",
+    "language": "Shell",
+    "name": "mythicalOS/mythical-playbooks",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:04:27Z",
+    "url": "https://github.com/mythicalOS/mythical-playbooks"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-30T14:02:35Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
+    "id": "Core-Mate/OpenGUI",
+    "language": "TypeScript",
+    "name": "Core-Mate/OpenGUI",
+    "stars": 1587,
+    "updated_at": "2026-08-30T14:01:48Z",
+    "url": "https://github.com/Core-Mate/OpenGUI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
     "id": "joseym/salvor",
     "language": "Rust",
@@ -16,15 +106,6 @@
     "stars": 124,
     "updated_at": "2026-08-30T13:59:21Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T13:59:08Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -58,18 +139,9 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 191,
+    "stars": 192,
     "updated_at": "2026-08-30T13:57:08Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-30T13:57:05Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -79,24 +151,6 @@
     "stars": 1941,
     "updated_at": "2026-08-30T13:55:11Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-30T13:54:46Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-30T13:54:03Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
   },
   {
     "description": "An agent is a prompt, a model and a list of tools; a tool is an async function with a decorator. No graphs, no DSLs, no ",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-30T13:55:40Z",
+    "updated_at": "2026-08-30T14:05:30Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -122,17 +176,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T13:55:55Z",
+    "updated_at": "2026-08-30T14:14:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9506,
-    "updated_at": "2026-08-30T13:49:10Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
@@ -149,24 +194,15 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-30T14:00:00Z",
+    "updated_at": "2026-08-30T14:03:24Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T13:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35255,
+    "stars": 35256,
     "updated_at": "2026-08-30T13:43:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-08-30T13:53:56Z",
+    "updated_at": "2026-08-30T14:04:47Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T13:30:29Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Role playbooks and coordination framework for multi-agent engineering teams",
-    "id": "mythicalOS/mythical-playbooks",
-    "language": "Shell",
-    "name": "mythicalOS/mythical-playbooks",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:49:33Z",
-    "url": "https://github.com/mythicalOS/mythical-playbooks"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-30T13:19:51Z",
+    "updated_at": "2026-08-30T14:03:39Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 66,
-    "updated_at": "2026-08-30T12:57:19Z",
+    "updated_at": "2026-08-30T14:08:32Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -414,39 +441,12 @@
     "url": "https://github.com/fkucukkara/microsoft-agent-framework-playground"
   },
   {
-    "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
-    "id": "elchemista/spectre",
-    "language": "Elixir",
-    "name": "elchemista/spectre",
-    "stars": 10,
-    "updated_at": "2026-08-30T12:35:01Z",
-    "url": "https://github.com/elchemista/spectre"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-08-30T12:34:12Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-30T12:33:21Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-30T12:29:44Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
+    "description": "Your own agentic working mate. For long horizon and complex task automation",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 89,
+    "updated_at": "2026-08-30T12:35:48Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   }
 ]
