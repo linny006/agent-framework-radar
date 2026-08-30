@@ -1,12 +1,120 @@
 [
   {
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
+    "language": "TypeScript",
+    "name": "frogbotai/frogbot",
+    "stars": 4,
+    "updated_at": "2026-08-30T19:55:15Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
     "description": "Governance-Oriented Agent Architecture (GOAA): file-centric human-in-the-loop governance framework for long-cycle agent ",
     "id": "roebin87/goaa",
     "language": "Python",
     "name": "roebin87/goaa",
     "stars": 0,
-    "updated_at": "2026-08-30T19:44:44Z",
+    "updated_at": "2026-08-30T19:54:56Z",
     "url": "https://github.com/roebin87/goaa"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 540,
+    "updated_at": "2026-08-30T19:54:52Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1322,
+    "updated_at": "2026-08-30T19:56:24Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 25,
+    "updated_at": "2026-08-30T19:54:45Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
+    "id": "elchemista/spectre",
+    "language": "Elixir",
+    "name": "elchemista/spectre",
+    "stars": 10,
+    "updated_at": "2026-08-30T19:52:12Z",
+    "url": "https://github.com/elchemista/spectre"
+  },
+  {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 478,
+    "updated_at": "2026-08-30T19:52:31Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-30T19:50:42Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1947,
+    "updated_at": "2026-08-30T19:50:01Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-08-30T19:49:52Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Grok Build Remote Web UI ACP Host",
+    "id": "AgentsHarness/capri-host",
+    "language": "Go",
+    "name": "AgentsHarness/capri-host",
+    "stars": 2,
+    "updated_at": "2026-08-30T19:45:56Z",
+    "url": "https://github.com/AgentsHarness/capri-host"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T19:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 1,
+    "updated_at": "2026-08-30T19:44:57Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -25,33 +133,6 @@
     "stars": 10,
     "updated_at": "2026-08-30T19:41:56Z",
     "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1946,
-    "updated_at": "2026-08-30T19:41:50Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:41:14Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Grok Build Web UI",
-    "id": "AgentsHarness/capri-fe",
-    "language": "TypeScript",
-    "name": "AgentsHarness/capri-fe",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:44:57Z",
-    "url": "https://github.com/AgentsHarness/capri-fe"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9515,
-    "updated_at": "2026-08-30T19:37:55Z",
+    "updated_at": "2026-08-30T19:49:01Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:30:31Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T19:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -351,15 +423,6 @@
     "url": "https://github.com/DevMando/MandoCode"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1322,
-    "updated_at": "2026-08-30T19:44:08Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
     "id": "luwelle/Production_GenAI_interview",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 4505,
     "updated_at": "2026-08-30T19:26:55Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:18:36Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-30T19:16:23Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-08-30T19:13:46Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "Local-first Python toolkit for parallel Claude and LLM agent orchestration: consensus voting, stigmergy, boss-worker swa",
-    "id": "ellmos-ai/swarm_ai",
-    "language": "Python",
-    "name": "ellmos-ai/swarm_ai",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:13:42Z",
-    "url": "https://github.com/ellmos-ai/swarm_ai"
-  },
-  {
-    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
-    "id": "ellmos-ai/GARDENER",
-    "language": "Python",
-    "name": "ellmos-ai/GARDENER",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:13:35Z",
-    "url": "https://github.com/ellmos-ai/GARDENER"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:12:07Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:10:59Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
