@@ -1,30 +1,12 @@
 [
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:28:31Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
     "id": "sandbaseai/sandbase-harness",
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T15:27:55Z",
+    "updated_at": "2026-08-30T15:43:16Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-30T15:27:53Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -32,8 +14,116 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 1,
-    "updated_at": "2026-08-30T15:25:58Z",
+    "updated_at": "2026-08-30T15:42:32Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-30T15:44:10Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 270,
+    "updated_at": "2026-08-30T15:36:48Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
+    "id": "jumabek-dev/jumabek",
+    "language": "Rust",
+    "name": "jumabek-dev/jumabek",
+    "stars": 2,
+    "updated_at": "2026-08-30T15:37:16Z",
+    "url": "https://github.com/jumabek-dev/jumabek"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 219,
+    "updated_at": "2026-08-30T15:36:12Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-30T15:34:55Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 2,
+    "updated_at": "2026-08-30T15:34:27Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:45:00Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-08-30T15:31:08Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T15:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
+    "id": "DevMando/MandoCode",
+    "language": "C#",
+    "name": "DevMando/MandoCode",
+    "stars": 14,
+    "updated_at": "2026-08-30T15:30:20Z",
+    "url": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35259,
+    "updated_at": "2026-08-30T15:28:48Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-30T15:31:58Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "An agent is a prompt, a model and a list of tools; a tool is an async function with a decorator. No graphs, no DSLs, no ",
@@ -50,17 +140,8 @@
     "language": "TypeScript",
     "name": "SparkElf/deepseek-harness-plus",
     "stars": 2,
-    "updated_at": "2026-08-30T15:25:19Z",
+    "updated_at": "2026-08-30T15:33:30Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-30T15:22:33Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:15:35Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-08-30T15:12:09Z",
+    "updated_at": "2026-08-30T15:42:24Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9509,
-    "updated_at": "2026-08-30T15:28:53Z",
+    "updated_at": "2026-08-30T15:45:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 53,
     "updated_at": "2026-08-30T15:13:26Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35259,
-    "updated_at": "2026-08-30T15:28:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -225,24 +288,6 @@
     "url": "https://github.com/Human-Agent-Society/CORAL"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 270,
-    "updated_at": "2026-08-30T15:05:30Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-30T15:04:13Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
     "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
     "id": "sycdan/nosedive",
     "language": "JavaScript",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-30T15:29:00Z",
+    "updated_at": "2026-08-30T15:33:09Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-30T14:26:34Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4505,
-    "updated_at": "2026-08-30T15:24:45Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:25:47Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "Orchestrate Any Agent. Connect Everything.",
-    "id": "lambda-harness/LAP",
-    "language": "Python",
-    "name": "lambda-harness/LAP",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:22:32Z",
-    "url": "https://github.com/lambda-harness/LAP"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-08-30T14:55:53Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-30T14:12:49Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
