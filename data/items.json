@@ -1,12 +1,120 @@
 [
   {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-30T20:30:23Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-08-30T20:28:40Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:27:08Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:23:20Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-08-30T20:23:16Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
+    "id": "AgentsKit-io/agentskit-registry",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit-registry",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:22:06Z",
+    "url": "https://github.com/AgentsKit-io/agentskit-registry"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-30T20:22:05Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
     "id": "aeonfun/aeon",
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 706,
-    "updated_at": "2026-08-30T20:14:02Z",
+    "updated_at": "2026-08-30T20:20:40Z",
     "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 478,
+    "updated_at": "2026-08-30T20:20:04Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
+    "id": "ssevera1/Agent-Builder",
+    "language": "TypeScript",
+    "name": "ssevera1/Agent-Builder",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:19:22Z",
+    "url": "https://github.com/ssevera1/Agent-Builder"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4894,
+    "updated_at": "2026-08-30T20:26:23Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T20:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-30T20:14:54Z",
+    "url": "https://github.com/daretodave/nexus"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -54,15 +162,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-30T20:14:54Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
     "id": "llm-works/llm-gent",
     "language": "Python",
@@ -79,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T20:08:25Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
-    "id": "ssevera1/Agent-Builder",
-    "language": "TypeScript",
-    "name": "ssevera1/Agent-Builder",
-    "stars": 0,
-    "updated_at": "2026-08-30T20:13:27Z",
-    "url": "https://github.com/ssevera1/Agent-Builder"
-  },
-  {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 5,
-    "updated_at": "2026-08-30T20:14:39Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -126,15 +207,6 @@
     "url": "https://github.com/MrGood4U/cosight"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-30T20:14:43Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -144,21 +216,12 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T20:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9515,
-    "updated_at": "2026-08-30T20:08:18Z",
+    "updated_at": "2026-08-30T20:20:07Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 10,
     "updated_at": "2026-08-30T19:52:12Z",
     "url": "https://github.com/elchemista/spectre"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 478,
-    "updated_at": "2026-08-30T19:52:31Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-30T19:30:14Z",
+    "updated_at": "2026-08-30T20:28:28Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T19:28:34Z",
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:28:17Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:27:14Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-30T19:28:36Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:26:06Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:25:03Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:24:53Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
   }
 ]
