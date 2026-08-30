@@ -5,8 +5,98 @@
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T18:44:09Z",
+    "updated_at": "2026-08-30T19:00:11Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Provider-neutral LLM router and model orchestration engine with auto-learning and budget zones",
+    "id": "ellmos-ai/clutch",
+    "language": "Python",
+    "name": "ellmos-ai/clutch",
+    "stars": 2,
+    "updated_at": "2026-08-30T18:59:04Z",
+    "url": "https://github.com/ellmos-ai/clutch"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9514,
+    "updated_at": "2026-08-30T18:56:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:53:48Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 6,
+    "updated_at": "2026-08-30T18:59:27Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 2,
+    "updated_at": "2026-08-30T18:48:44Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 108,
+    "updated_at": "2026-08-30T18:51:23Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 2,
+    "updated_at": "2026-08-30T18:46:31Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4505,
+    "updated_at": "2026-08-30T18:59:37Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:45:29Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T18:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -54,15 +144,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:37:31Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -99,24 +180,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 2,
-    "updated_at": "2026-08-30T18:33:50Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4505,
-    "updated_at": "2026-08-30T18:43:00Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
     "id": "llm-works/llm-gent",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 35267,
     "updated_at": "2026-08-30T18:32:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T18:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local filesystem MCP server with 44 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
@@ -187,15 +241,6 @@
     "stars": 646,
     "updated_at": "2026-08-30T18:24:57Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9514,
-    "updated_at": "2026-08-30T18:45:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -247,7 +292,7 @@
     "id": "RyanAlberts/best-of-Agent-Harnesses",
     "language": "Python",
     "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 739,
+    "stars": 740,
     "updated_at": "2026-08-30T17:57:04Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
@@ -378,15 +423,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Grok Build Web UI",
-    "id": "AgentsHarness/capri-fe",
-    "language": "TypeScript",
-    "name": "AgentsHarness/capri-fe",
-    "stars": 1,
-    "updated_at": "2026-08-30T17:30:21Z",
-    "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T17:27:03Z",
     "url": "https://github.com/A1m1ng777888/super-brain"
-  },
-  {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-08-30T17:43:23Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-08-30T18:37:26Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-30T17:51:23Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:16:03Z",
-    "url": "https://github.com/hara-cli/hara"
   }
 ]
