@@ -1,12 +1,93 @@
 [
   {
+    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
+    "id": "yuting-ai/asAgent",
+    "language": "Python",
+    "name": "yuting-ai/asAgent",
+    "stars": 22,
+    "updated_at": "2026-08-30T10:28:18Z",
+    "url": "https://github.com/yuting-ai/asAgent"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:28:39Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-30T10:14:12Z",
+    "updated_at": "2026-08-30T10:26:39Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 115,
+    "updated_at": "2026-08-30T10:26:28Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-30T10:24:29Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-08-30T10:24:17Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-30T10:22:54Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4505,
+    "updated_at": "2026-08-30T10:29:08Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 9,
+    "updated_at": "2026-08-30T10:29:55Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Offline-first AI agent runtime and workspace for Android \u2014 Kotlin, Flutter, MCP, on-device LLM, and a policy-gated tool ",
+    "id": "FishBottle7/OpenCray",
+    "language": "Kotlin",
+    "name": "FishBottle7/OpenCray",
+    "stars": 1,
+    "updated_at": "2026-08-30T10:18:41Z",
+    "url": "https://github.com/FishBottle7/OpenCray"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -14,8 +95,17 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-08-30T10:13:58Z",
+    "updated_at": "2026-08-30T10:16:43Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T10:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Claude-powered agent that answers architectural questions about codebases by building a structural knowledge graph and p",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T10:08:51Z",
     "url": "https://github.com/RitikPatill/codegraph-agent"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-30T10:08:34Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -79,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T10:00:52Z",
     "url": "https://github.com/RexHuang/novus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T10:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
@@ -144,24 +216,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
-    "id": "yuting-ai/asAgent",
-    "language": "Python",
-    "name": "yuting-ai/asAgent",
-    "stars": 22,
-    "updated_at": "2026-08-30T09:56:23Z",
-    "url": "https://github.com/yuting-ai/asAgent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 9,
-    "updated_at": "2026-08-30T09:51:39Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "\u57fa\u4e8e DeepSeek /responses API \u7684 TypeScript AI Agent \u6846\u67b6\uff1a\u591a\u8f6e\u5bf9\u8bdd + \u5de5\u5177\u8c03\u7528\uff08web \u641c\u7d22 / shell / \u8be2\u95ee\u5f00\u53d1\u8005\uff09\uff0cshell \u547d\u4ee4\u5728 Docker Sandbox \u4e2d\u9694\u79bb\u6267\u884c\uff0cA",
     "id": "DeliveryPerson2004/DeepForge",
     "language": "TypeScript",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9503,
-    "updated_at": "2026-08-30T10:14:42Z",
+    "updated_at": "2026-08-30T10:22:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -265,7 +319,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35250,
+    "stars": 35251,
     "updated_at": "2026-08-30T09:29:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -342,15 +396,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 115,
-    "updated_at": "2026-08-30T09:00:57Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
     "description": "AI Agent Development Full-Chain Guide: Development, Testing, and Base Framework",
     "id": "ADW-19/build_a_product_agent",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-30T08:48:55Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13217,
-    "updated_at": "2026-08-30T08:45:09Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Execute SKILL.md agents via 4 modes \u2014 binary CLI, npx, HTTP API server, or embedded Node.js SDK",
-    "id": "enthrium/open-enthrium-ai-agent-runtime",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-agent-runtime",
-    "stars": 2,
-    "updated_at": "2026-08-30T08:45:05Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
-  },
-  {
-    "description": "Self-hosted web-based AI platform \u2014 run SKILL.md agents + build your own enterprise knowledge base with RAG and private ",
-    "id": "enthrium/open-enthrium-ai-platform",
-    "language": "JavaScript",
-    "name": "enthrium/open-enthrium-ai-platform",
-    "stars": 1,
-    "updated_at": "2026-08-30T08:44:51Z",
-    "url": "https://github.com/enthrium/open-enthrium-ai-platform"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 38,
-    "updated_at": "2026-08-30T08:36:08Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 108,
-    "updated_at": "2026-08-30T08:30:29Z",
-    "url": "https://github.com/assafkip/kipi-system"
   }
 ]
