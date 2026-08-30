@@ -1,21 +1,66 @@
 [
   {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-08-30T17:25:53Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
     "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
     "id": "sandbaseai/sandbase-harness",
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T17:26:19Z",
+    "updated_at": "2026-08-30T17:30:24Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:28:39Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-08-30T17:28:22Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1944,
+    "updated_at": "2026-08-30T17:27:33Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\u8d85\u8111 Super Brain \u2014 AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf\uff1a\u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
+    "id": "A1m1ng777888/super-brain",
+    "language": "Python",
+    "name": "A1m1ng777888/super-brain",
+    "stars": 0,
+    "updated_at": "2026-08-30T17:27:03Z",
+    "url": "https://github.com/A1m1ng777888/super-brain"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:26:43Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-08-30T17:29:57Z",
+    "url": "https://github.com/Alexli18/binex"
   },
   {
     "description": "\u51b3\u7b56\u4e0e\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\uff1a\u5927\u8111\u4e13\u6ce8\u51b3\u7b56\u3001\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u72ec\u7acb\u5e72\u6d3b\u3001\u4e0a\u4e0b\u6587\u77ed\u5c0f\u3002\u81ea\u52a8\u62c6\u89e3\u2192\u9009\u6a21\u578b\u2192\u6d3e\u6d3b\u2192\u770b\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u8282\u7701\u6210\u672c\u3002",
@@ -50,17 +95,8 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 2,
-    "updated_at": "2026-08-30T17:20:29Z",
+    "updated_at": "2026-08-30T17:30:06Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-30T17:20:11Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -79,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T17:16:03Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -207,15 +234,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-08-30T17:04:03Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9513,
-    "updated_at": "2026-08-30T17:19:28Z",
+    "updated_at": "2026-08-30T17:28:05Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:24:31Z",
     "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1944,
-    "updated_at": "2026-08-30T16:22:50Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T15:51:23Z",
     "url": "https://github.com/jumabek-dev/jumabek"
-  },
-  {
-    "description": "Autonomous multi-agent coordination for the JVM",
-    "id": "mauro-mura/agenor",
-    "language": "Java",
-    "name": "mauro-mura/agenor",
-    "stars": 0,
-    "updated_at": "2026-08-30T15:48:39Z",
-    "url": "https://github.com/mauro-mura/agenor"
   }
 ]
