@@ -5,8 +5,116 @@
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T12:45:15Z",
+    "updated_at": "2026-08-30T12:59:48Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-30T12:58:32Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-30T12:57:19Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-30T12:59:55Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-30T12:56:59Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "BlackPearl \u2014 DeepSeek-powered AI agent harness and orchestration ecosystem with 286+ skills, 273+ specialist agents, plu",
+    "id": "BlackPearl-AI/BlackPearl",
+    "language": "TypeScript",
+    "name": "BlackPearl-AI/BlackPearl",
+    "stars": 3,
+    "updated_at": "2026-08-30T12:51:22Z",
+    "url": "https://github.com/BlackPearl-AI/BlackPearl"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-30T12:52:15Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-30T12:49:46Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-30T12:53:37Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Agent Capability Standard is an open specification for composable AI agent capabilities. It defines 36 atomic capabiliti",
+    "id": "synaptiai/agent-capability-standard",
+    "language": "Python",
+    "name": "synaptiai/agent-capability-standard",
+    "stars": 4,
+    "updated_at": "2026-08-30T12:49:45Z",
+    "url": "https://github.com/synaptiai/agent-capability-standard"
+  },
+  {
+    "description": "An educational, runnable .NET console app that walks through the official Agent Framework \"Get started\" tutorial, one st",
+    "id": "fkucukkara/microsoft-agent-framework-playground",
+    "language": "C#",
+    "name": "fkucukkara/microsoft-agent-framework-playground",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:47:06Z",
+    "url": "https://github.com/fkucukkara/microsoft-agent-framework-playground"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T12:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 270,
+    "updated_at": "2026-08-30T12:45:09Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -18,15 +126,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-30T12:45:05Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -34,15 +133,6 @@
     "stars": 35256,
     "updated_at": "2026-08-30T12:37:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "BlackPearl \u2014 DeepSeek-powered AI agent harness and orchestration ecosystem with 286+ skills, 273+ specialist agents, plu",
-    "id": "modarif/BlackPearl",
-    "language": "TypeScript",
-    "name": "modarif/BlackPearl",
-    "stars": 3,
-    "updated_at": "2026-08-30T12:36:51Z",
-    "url": "https://github.com/modarif/BlackPearl"
   },
   {
     "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19584,
-    "updated_at": "2026-08-30T12:30:41Z",
+    "updated_at": "2026-08-30T12:47:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T12:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T12:29:43Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-30T12:44:59Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -221,7 +293,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-08-30T12:31:44Z",
+    "updated_at": "2026-08-30T12:57:09Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 25,
     "updated_at": "2026-08-30T12:11:15Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-30T12:45:19Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "An agent is a prompt, a model and a list of tools; a tool is an async function with a decorator. No graphs, no DSLs, no ",
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9504,
-    "updated_at": "2026-08-30T12:44:21Z",
+    "updated_at": "2026-08-30T12:57:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -374,7 +437,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-30T12:34:19Z",
+    "updated_at": "2026-08-30T12:57:43Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-30T11:41:18Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:40:14Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:40:10Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 262,
-    "updated_at": "2026-08-30T11:39:57Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:39:41Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:38:59Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:38:52Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:38:17Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
