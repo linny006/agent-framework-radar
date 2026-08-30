@@ -1,5 +1,32 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9515,
+    "updated_at": "2026-08-30T19:59:44Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-08-30T19:59:09Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T19:56:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The AI Agent framework for enterprises and agencies",
     "id": "frogbotai/frogbot",
     "language": "TypeScript",
@@ -23,7 +50,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 540,
-    "updated_at": "2026-08-30T19:54:52Z",
+    "updated_at": "2026-08-30T19:59:16Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 25,
-    "updated_at": "2026-08-30T19:54:45Z",
+    "updated_at": "2026-08-30T19:56:58Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -99,15 +126,6 @@
     "url": "https://github.com/AgentsHarness/capri-host"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T19:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Grok Build Web UI",
     "id": "AgentsHarness/capri-fe",
     "language": "TypeScript",
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:38:51Z",
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9515,
-    "updated_at": "2026-08-30T19:49:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
@@ -392,7 +401,7 @@
     "language": "C#",
     "name": "DevMando/MandoCode.Desktop",
     "stars": 2,
-    "updated_at": "2026-08-30T19:22:09Z",
+    "updated_at": "2026-08-30T19:58:31Z",
     "url": "https://github.com/DevMando/MandoCode.Desktop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T19:20:26Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4505,
-    "updated_at": "2026-08-30T19:26:55Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   }
 ]
