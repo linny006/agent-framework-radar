@@ -1,21 +1,66 @@
 [
   {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-30T20:59:14Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-08-30T20:44:10Z",
+    "updated_at": "2026-08-30T20:59:04Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 646,
+    "updated_at": "2026-08-30T20:57:49Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-30T20:58:21Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
     "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-08-30T20:44:08Z",
-    "url": "https://github.com/opencue/cuecards"
+    "name": "plaited/plaited",
+    "stars": 10,
+    "updated_at": "2026-08-30T20:54:57Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9515,
+    "updated_at": "2026-08-30T20:54:53Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:53:01Z",
+    "url": "https://github.com/llm-works/llm-gent"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -23,8 +68,62 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 2,
-    "updated_at": "2026-08-30T20:41:59Z",
+    "updated_at": "2026-08-30T20:50:46Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:58:18Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-08-30T20:48:49Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
+    "language": "TypeScript",
+    "name": "frogbotai/frogbot",
+    "stars": 4,
+    "updated_at": "2026-08-30T20:48:34Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 478,
+    "updated_at": "2026-08-30T20:50:30Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-08-30T20:46:00Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T20:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4894,
-    "updated_at": "2026-08-30T20:37:34Z",
+    "updated_at": "2026-08-30T20:58:49Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -95,7 +194,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-30T20:42:40Z",
+    "updated_at": "2026-08-30T20:58:00Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -126,31 +225,13 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-08-30T20:31:34Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-08-30T20:39:52Z",
+    "updated_at": "2026-08-30T20:56:31Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T20:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -216,15 +297,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 478,
-    "updated_at": "2026-08-30T20:41:44Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -279,21 +351,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
-    "id": "llm-works/llm-gent",
-    "language": "Python",
-    "name": "llm-works/llm-gent",
-    "stars": 0,
-    "updated_at": "2026-08-30T20:10:35Z",
-    "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1322,
-    "updated_at": "2026-08-30T20:40:23Z",
+    "updated_at": "2026-08-30T20:49:52Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -322,24 +385,6 @@
     "stars": 53,
     "updated_at": "2026-08-30T20:05:11Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9515,
-    "updated_at": "2026-08-30T20:40:23Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The AI Agent framework for enterprises and agencies",
-    "id": "frogbotai/frogbot",
-    "language": "TypeScript",
-    "name": "frogbotai/frogbot",
-    "stars": 4,
-    "updated_at": "2026-08-30T19:55:15Z",
-    "url": "https://github.com/frogbotai/frogbot"
   },
   {
     "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
@@ -374,7 +419,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-08-30T19:49:52Z",
+    "updated_at": "2026-08-30T21:00:21Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/AgentsHarness/capri-fe"
   },
   {
-    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
-    "id": "plaited/plaited",
-    "language": "TypeScript",
-    "name": "plaited/plaited",
-    "stars": 10,
-    "updated_at": "2026-08-30T19:41:56Z",
-    "url": "https://github.com/plaited/plaited"
-  },
-  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-30T19:39:55Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
-    "id": "lottieepigastric889/lucky-block-script-hub",
-    "language": "HTML",
-    "name": "lottieepigastric889/lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:38:55Z",
-    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
-  },
-  {
-    "description": "Unlock automated targeting, instant item liquidation, and low-latency execution with this lightweight HTML script hub fo",
-    "id": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "language": "HTML",
-    "name": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:38:51Z",
-    "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:35:48Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:33:12Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   }
 ]
