@@ -1,12 +1,30 @@
 [
   {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 24,
+    "updated_at": "2026-08-30T07:28:19Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-08-30T07:22:21Z",
+    "updated_at": "2026-08-30T07:27:08Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-08-30T07:26:51Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -14,15 +32,51 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 1,
-    "updated_at": "2026-08-30T07:22:00Z",
+    "updated_at": "2026-08-30T07:25:28Z",
     "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 219,
+    "updated_at": "2026-08-30T07:25:24Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-30T07:24:18Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
+    "language": "TypeScript",
+    "name": "plaited/plaited",
+    "stars": 10,
+    "updated_at": "2026-08-30T07:23:39Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T07:23:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 268,
+    "stars": 269,
     "updated_at": "2026-08-30T07:21:55Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-30T07:21:23Z",
+    "updated_at": "2026-08-30T07:29:21Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -72,20 +126,11 @@
     "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T07:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1936,
+    "stars": 1937,
     "updated_at": "2026-08-30T07:15:05Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -135,15 +180,6 @@
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
-    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
-    "id": "plaited/plaited",
-    "language": "TypeScript",
-    "name": "plaited/plaited",
-    "stars": 10,
-    "updated_at": "2026-08-30T07:05:22Z",
-    "url": "https://github.com/plaited/plaited"
-  },
-  {
     "description": "A small Python agent framework \u2014 tool-calling loop, YAML config, pluggable transports.",
     "id": "islavutin-oss/agentino",
     "language": "Python",
@@ -189,15 +225,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-30T07:23:13Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-30T07:12:54Z",
+    "updated_at": "2026-08-30T07:26:41Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-08-30T07:02:16Z",
+    "updated_at": "2026-08-30T07:27:28Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-08-30T07:23:27Z",
+    "updated_at": "2026-08-30T07:30:05Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9500,
-    "updated_at": "2026-08-30T07:10:00Z",
+    "updated_at": "2026-08-30T07:29:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T05:52:34Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-08-30T05:51:25Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-30T05:49:13Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
-    "id": "macanderson/context-graph-protocol",
-    "language": "Rust",
-    "name": "macanderson/context-graph-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-30T05:48:55Z",
-    "url": "https://github.com/macanderson/context-graph-protocol"
   }
 ]
