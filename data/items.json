@@ -1,12 +1,75 @@
 [
   {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T17:30:24Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
+    "description": "\u51b3\u7b56\u4e0e\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\uff1a\u5927\u8111\u4e13\u6ce8\u51b3\u7b56\u3001\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u72ec\u7acb\u5e72\u6d3b\u3001\u4e0a\u4e0b\u6587\u77ed\u5c0f\u3002\u81ea\u52a8\u62c6\u89e3\u2192\u9009\u6a21\u578b\u2192\u6d3e\u6d3b\u2192\u770b\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u8282\u7701\u6210\u672c\u3002",
+    "id": "ZzkAItech/router-brain",
+    "language": "Python",
+    "name": "ZzkAItech/router-brain",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:43:42Z",
+    "url": "https://github.com/ZzkAItech/router-brain"
+  },
+  {
+    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
+    "id": "solvent-labs-org/metaorcha",
+    "language": "Python",
+    "name": "solvent-labs-org/metaorcha",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:42:43Z",
+    "url": "https://github.com/solvent-labs-org/metaorcha"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-30T17:42:29Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-08-30T17:42:25Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-30T17:40:47Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
+    "id": "ellmos-ai/ellmos-stack",
+    "language": "Python",
+    "name": "ellmos-ai/ellmos-stack",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:39:32Z",
+    "url": "https://github.com/ellmos-ai/ellmos-stack"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-30T17:38:04Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:37:25Z",
+    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -14,8 +77,53 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-08-30T17:28:39Z",
+    "updated_at": "2026-08-30T17:35:06Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T17:45:01Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-08-30T17:32:38Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 270,
+    "updated_at": "2026-08-30T17:31:05Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:30:21Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -31,7 +139,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1944,
+    "stars": 1945,
     "updated_at": "2026-08-30T17:27:33Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -45,31 +153,13 @@
     "url": "https://github.com/A1m1ng777888/super-brain"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:26:43Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
     "id": "Alexli18/binex",
     "language": "Python",
     "name": "Alexli18/binex",
     "stars": 62,
-    "updated_at": "2026-08-30T17:29:57Z",
+    "updated_at": "2026-08-30T17:43:23Z",
     "url": "https://github.com/Alexli18/binex"
-  },
-  {
-    "description": "\u51b3\u7b56\u4e0e\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\uff1a\u5927\u8111\u4e13\u6ce8\u51b3\u7b56\u3001\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u72ec\u7acb\u5e72\u6d3b\u3001\u4e0a\u4e0b\u6587\u77ed\u5c0f\u3002\u81ea\u52a8\u62c6\u89e3\u2192\u9009\u6a21\u578b\u2192\u6d3e\u6d3b\u2192\u770b\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u8282\u7701\u6210\u672c\u3002",
-    "id": "ZzkAItech/router-brain",
-    "language": "Python",
-    "name": "ZzkAItech/router-brain",
-    "stars": 1,
-    "updated_at": "2026-08-30T17:24:45Z",
-    "url": "https://github.com/ZzkAItech/router-brain"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -88,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-08-30T17:20:30Z",
     "url": "https://github.com/elchemista/spectre"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 2,
-    "updated_at": "2026-08-30T17:30:06Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -198,15 +279,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 270,
-    "updated_at": "2026-08-30T17:06:44Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
     "id": "merryshelly/openalpheus",
     "language": "Python",
@@ -270,21 +342,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-30T16:57:24Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9513,
-    "updated_at": "2026-08-30T17:28:05Z",
+    "updated_at": "2026-08-30T17:43:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -347,17 +410,8 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-30T17:24:40Z",
+    "updated_at": "2026-08-30T17:31:01Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-08-30T17:21:28Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-08-30T17:26:32Z",
+    "updated_at": "2026-08-30T17:38:40Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-08-30T16:05:53Z",
+    "updated_at": "2026-08-30T17:44:40Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
-    "id": "franktsaodev/Frank-AI-Agent",
-    "language": "Python",
-    "name": "franktsaodev/Frank-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:01:32Z",
-    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5352,
-    "updated_at": "2026-08-30T16:47:49Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "TypeScript",
-    "name": "akyourowngames/friday",
-    "stars": 5,
-    "updated_at": "2026-08-30T16:00:28Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-08-30T15:58:09Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:57:50Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
-    "id": "jumabek-dev/jumabek",
-    "language": "Rust",
-    "name": "jumabek-dev/jumabek",
-    "stars": 2,
-    "updated_at": "2026-08-30T15:51:23Z",
-    "url": "https://github.com/jumabek-dev/jumabek"
   }
 ]
