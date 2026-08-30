@@ -5,8 +5,107 @@
     "language": "TypeScript",
     "name": "sandbaseai/sandbase-harness",
     "stars": 638,
-    "updated_at": "2026-08-30T16:44:23Z",
+    "updated_at": "2026-08-30T16:58:55Z",
     "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-30T16:57:24Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "musterhq/muster",
+    "language": "TypeScript",
+    "name": "musterhq/muster",
+    "stars": 11,
+    "updated_at": "2026-08-30T16:54:11Z",
+    "url": "https://github.com/musterhq/muster"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:53:59Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-30T16:54:20Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "\u6a21\u578b\u8def\u7531\u5927\u8111\uff1a\u51b3\u7b56/\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\u3002\u5927\u8111\u53ea\u505a\u51b3\u7b56\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u4e13\u6ce8\u5e72\u6d3b\u3002\u62c6\u89e3\u2192\u6d3e\u6d3b\u2192\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u4fbf\u5b9c\u4f18\u5148\u7701\u6210\u672c\u3002",
+    "id": "ZzkAItech/router-brain",
+    "language": "Python",
+    "name": "ZzkAItech/router-brain",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:53:07Z",
+    "url": "https://github.com/ZzkAItech/router-brain"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-08-30T16:53:05Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:59:27Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-30T16:52:34Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-08-30T16:50:16Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:47:06Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -16,24 +115,6 @@
     "stars": 5,
     "updated_at": "2026-08-30T16:43:33Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:43:28Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:42:01Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
     "description": "\ud83d\ude80 SDD + ADD Starter Template \u2014 AI Coding Assistant Governance Framework. Turn your AI coding assistant into a discipline",
@@ -50,26 +131,8 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-30T16:40:06Z",
+    "updated_at": "2026-08-30T16:50:54Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-30T16:43:13Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T16:25:45Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-30T16:24:53Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
@@ -122,7 +176,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-30T16:40:51Z",
+    "updated_at": "2026-08-30T16:59:19Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-08-30T16:42:09Z",
+    "updated_at": "2026-08-30T16:56:51Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -193,7 +247,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47535,
+    "stars": 47536,
     "updated_at": "2026-08-30T16:06:16Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -248,7 +302,7 @@
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
     "stars": 5352,
-    "updated_at": "2026-08-30T16:43:57Z",
+    "updated_at": "2026-08-30T16:47:49Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9511,
-    "updated_at": "2026-08-30T16:37:19Z",
+    "updated_at": "2026-08-30T16:54:28Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T15:57:50Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-08-30T16:31:53Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "A personal assistant that runs on your own machine, does real work on it, and writes itself new abilities when the ones ",
@@ -396,15 +441,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "musterhq/muster",
-    "language": "TypeScript",
-    "name": "musterhq/muster",
-    "stars": 11,
-    "updated_at": "2026-08-30T16:31:11Z",
-    "url": "https://github.com/musterhq/muster"
-  },
-  {
     "description": "\u8ba9\u667a\u80fd\u4f53\u50cf\u4eba\u4e00\u6837\u5b66\u4e60\u548c\u5de5\u4f5c\uff0c\u5171\u4eab\u667a\u80fd\u4f53\u548c\u9879\u76ee\u8bb0\u5fc6",
     "id": "agents-universe/agents-universe",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 195,
     "updated_at": "2026-08-30T16:38:44Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 116,
-    "updated_at": "2026-08-30T15:12:35Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-30T15:08:51Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 2,
-    "updated_at": "2026-08-30T15:08:31Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "Self-hosted Agent Ops \u2014 run, govern, observe, and improve fleets of AI agents from one local-first control plane.",
-    "id": "Zchary1106/Myrmecia",
-    "language": "TypeScript",
-    "name": "Zchary1106/Myrmecia",
-    "stars": 2,
-    "updated_at": "2026-08-30T15:07:35Z",
-    "url": "https://github.com/Zchary1106/Myrmecia"
   }
 ]
