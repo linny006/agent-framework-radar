@@ -1,21 +1,174 @@
 [
   {
+    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
+    "id": "Ethanon/developer.ai",
+    "language": "Shell",
+    "name": "Ethanon/developer.ai",
+    "stars": 9,
+    "updated_at": "2026-08-30T16:14:31Z",
+    "url": "https://github.com/Ethanon/developer.ai"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T16:15:20Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-08-30T16:13:10Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 12,
+    "updated_at": "2026-08-30T16:14:00Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
+    "id": "moortekweb-art/agentic-harness",
+    "language": "Python",
+    "name": "moortekweb-art/agentic-harness",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:13:50Z",
+    "url": "https://github.com/moortekweb-art/agentic-harness"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 108,
+    "updated_at": "2026-08-30T16:15:14Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 1,
-    "updated_at": "2026-08-30T15:59:14Z",
+    "updated_at": "2026-08-30T16:13:48Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47536,
+    "updated_at": "2026-08-30T16:06:16Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:05:53Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-08-30T16:04:44Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-30T16:03:14Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-08-30T16:02:37Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 270,
+    "updated_at": "2026-08-30T16:01:42Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
+    "id": "franktsaodev/Frank-AI-Agent",
+    "language": "Python",
+    "name": "franktsaodev/Frank-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:01:32Z",
+    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T15:58:44Z",
+    "updated_at": "2026-08-30T16:08:17Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5352,
+    "updated_at": "2026-08-30T16:02:53Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "TypeScript",
+    "name": "akyourowngames/friday",
+    "stars": 5,
+    "updated_at": "2026-08-30T16:00:28Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9511,
+    "updated_at": "2026-08-30T16:14:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
@@ -25,15 +178,6 @@
     "stars": 22,
     "updated_at": "2026-08-30T15:58:09Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T15:59:37Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
     "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
@@ -63,15 +207,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-08-30T15:56:20Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -88,24 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T15:51:23Z",
     "url": "https://github.com/jumabek-dev/jumabek"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-30T15:53:12Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Self-hosted completion gate for coding agents: independent verification before done, durable evidence, CLI and local GUI",
-    "id": "moortekweb-art/agentic-harness",
-    "language": "Python",
-    "name": "moortekweb-art/agentic-harness",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:48:52Z",
-    "url": "https://github.com/moortekweb-art/agentic-harness"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -126,15 +243,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
-    "id": "franktsaodev/Frank-AI-Agent",
-    "language": "Python",
-    "name": "franktsaodev/Frank-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T15:47:42Z",
-    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
-  },
-  {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
     "id": "jiabaobei/skills-constitution",
     "language": "Python",
@@ -142,42 +250,6 @@
     "stars": 190,
     "updated_at": "2026-08-30T15:46:21Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
-    "id": "Alexli18/binex",
-    "language": "Python",
-    "name": "Alexli18/binex",
-    "stars": 62,
-    "updated_at": "2026-08-30T15:45:44Z",
-    "url": "https://github.com/Alexli18/binex"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9510,
-    "updated_at": "2026-08-30T16:00:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 270,
-    "updated_at": "2026-08-30T15:36:48Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -220,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35259,
+    "stars": 35260,
     "updated_at": "2026-08-30T15:28:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -293,7 +365,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-08-30T15:12:21Z",
+    "updated_at": "2026-08-30T16:12:19Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -320,7 +392,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-30T15:07:50Z",
+    "updated_at": "2026-08-30T16:02:46Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T15:02:10Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-08-30T15:00:45Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:59:17Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:54:48Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 738,
-    "updated_at": "2026-08-30T14:52:49Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-30T15:33:09Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
-    "id": "agents-inc/agents-inc",
-    "language": "TypeScript",
-    "name": "agents-inc/agents-inc",
-    "stars": 8,
-    "updated_at": "2026-08-30T14:49:52Z",
-    "url": "https://github.com/agents-inc/agents-inc"
-  },
-  {
-    "description": "A personal substrate for agent packages that ship their own screens. One manifest declares the agent, its verbs, and its",
-    "id": "relayax/relayagent",
-    "language": "TypeScript",
-    "name": "relayax/relayagent",
-    "stars": 17,
-    "updated_at": "2026-08-30T14:48:16Z",
-    "url": "https://github.com/relayax/relayagent"
-  },
-  {
-    "description": "Self-hosted AI operations board: run Grok, Claude and OpenAI agents as real jobs on your own VPS. Apache-2.0.",
-    "id": "m1keluka/OperationKit",
-    "language": "TypeScript",
-    "name": "m1keluka/OperationKit",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:46:47Z",
-    "url": "https://github.com/m1keluka/OperationKit"
   }
 ]
