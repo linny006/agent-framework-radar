@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\ude80 Xenon \u2014 Agent Harness for AI coding agents. \u8bc1\u636e\u5bfc\u5411\u67b6\u6784 + 7\u79cd\u63a8\u7406\u8303\u5f0f + \u6267\u884c\u9694\u79bb\u8fb9\u754c + SWE-bench 40% \u901a\u8fc7\u7387\uff08+6.7pp\uff09\u3002\u53ef\u4fe1\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u8bc4\u6d4b\u7684 AI Agent ",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-08-30T01:31:18Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-08-30T01:31:13Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T01:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -90,15 +117,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T01:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -106,15 +124,6 @@
     "stars": 9,
     "updated_at": "2026-08-30T01:14:59Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-08-30T01:25:59Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -439,14 +448,5 @@
     "stars": 108,
     "updated_at": "2026-08-30T01:30:20Z",
     "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Claude Code plugin for React Native \u2014 explores codebases, designs architecture, implements features, and verifies live o",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-08-29T23:44:19Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   }
 ]
