@@ -1,12 +1,138 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-30T17:59:21Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T17:58:03Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "\ud83c\udfc6 Curated, ranked list of AI agent harnesses (100+) \u2014 plus an MCP server, llms.txt & JSON so agents can recommend them t",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 739,
+    "updated_at": "2026-08-30T17:57:04Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:55:42Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-08-30T17:55:25Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-08-30T17:54:52Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-30T17:54:21Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "A minimal Rust agent framework where every run is durably executed.",
+    "id": "tokeira/tokeira-odori",
+    "language": "Rust",
+    "name": "tokeira/tokeira-odori",
+    "stars": 0,
+    "updated_at": "2026-08-30T17:53:16Z",
+    "url": "https://github.com/tokeira/tokeira-odori"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-30T17:51:29Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:48:06Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 29,
+    "updated_at": "2026-08-30T17:47:03Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
     "description": "\u51b3\u7b56\u4e0e\u6267\u884c\u5206\u79bb\u7684 AI \u7f16\u6392\u6846\u67b6\uff1a\u5927\u8111\u4e13\u6ce8\u51b3\u7b56\u3001\u4e0d\u88ab\u7ec6\u8282\u5e72\u6270\uff0c\u5de5\u4eba\u72ec\u7acb\u5e72\u6d3b\u3001\u4e0a\u4e0b\u6587\u77ed\u5c0f\u3002\u81ea\u52a8\u62c6\u89e3\u2192\u9009\u6a21\u578b\u2192\u6d3e\u6d3b\u2192\u770b\u53cd\u9988\u2192\u8fed\u4ee3\uff0c\u591a\u6a21\u578b\u4ea4\u53c9\u9a8c\u8bc1\u5bf9\u6297\u5e7b\u89c9\uff0c\u8282\u7701\u6210\u672c\u3002",
     "id": "ZzkAItech/router-brain",
     "language": "Python",
     "name": "ZzkAItech/router-brain",
     "stars": 1,
-    "updated_at": "2026-08-30T17:43:42Z",
+    "updated_at": "2026-08-30T17:47:02Z",
     "url": "https://github.com/ZzkAItech/router-brain"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-08-30T17:46:47Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
+    "id": "elchemista/spectre",
+    "language": "Elixir",
+    "name": "elchemista/spectre",
+    "stars": 10,
+    "updated_at": "2026-08-30T17:46:10Z",
+    "url": "https://github.com/elchemista/spectre"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "solvent-labs-org/metaorcha",
     "stars": 3,
-    "updated_at": "2026-08-30T17:42:43Z",
+    "updated_at": "2026-08-30T17:57:42Z",
     "url": "https://github.com/solvent-labs-org/metaorcha"
   },
   {
@@ -36,15 +162,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-30T17:40:47Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Self-hosted local-first AI research stack with Ollama, n8n, Rinnsal memory, KnowledgeDigest search, and Docker Compose a",
     "id": "ellmos-ai/ellmos-stack",
     "language": "Python",
@@ -54,15 +171,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-stack"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-30T17:38:04Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -70,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T17:37:25Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-30T17:35:06Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T17:45:01Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -106,15 +196,6 @@
     "stars": 270,
     "updated_at": "2026-08-30T17:31:05Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T17:30:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Grok Build Web UI",
@@ -139,7 +220,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1945,
+    "stars": 1946,
     "updated_at": "2026-08-30T17:27:33Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -167,17 +248,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-08-30T17:21:57Z",
+    "updated_at": "2026-08-30T17:58:29Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
-    "id": "elchemista/spectre",
-    "language": "Elixir",
-    "name": "elchemista/spectre",
-    "stars": 10,
-    "updated_at": "2026-08-30T17:20:30Z",
-    "url": "https://github.com/elchemista/spectre"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -185,7 +257,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-30T17:20:04Z",
+    "updated_at": "2026-08-30T17:51:23Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T17:16:03Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-08-30T17:14:09Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
@@ -311,7 +374,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-30T17:14:25Z",
+    "updated_at": "2026-08-30T17:56:05Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-30T17:16:48Z",
+    "updated_at": "2026-08-30T17:59:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "\ud83d\ude80 SDD + ADD Starter Template \u2014 AI Coding Assistant Governance Framework. Turn your AI coding assistant into a discipline",
-    "id": "khangpqvn/SDDADD",
-    "language": "Shell",
-    "name": "khangpqvn/SDDADD",
-    "stars": 7,
-    "updated_at": "2026-08-30T16:40:27Z",
-    "url": "https://github.com/khangpqvn/SDDADD"
-  },
-  {
-    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
-    "id": "trbearth/fieldwork-agent-os",
-    "language": "CSS",
-    "name": "trbearth/fieldwork-agent-os",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:24:31Z",
-    "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-30T17:31:01Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 12,
-    "updated_at": "2026-08-30T16:14:00Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 108,
-    "updated_at": "2026-08-30T17:38:40Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47536,
-    "updated_at": "2026-08-30T16:06:16Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-30T17:44:40Z",
-    "url": "https://github.com/Arasz/ai-badger"
   }
 ]
