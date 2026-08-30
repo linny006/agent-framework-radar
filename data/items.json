@@ -1,5 +1,104 @@
 [
   {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-30T13:14:58Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-30T13:14:50Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
+    "id": "sandbaseai/sandbase-harness",
+    "language": "TypeScript",
+    "name": "sandbaseai/sandbase-harness",
+    "stars": 638,
+    "updated_at": "2026-08-30T13:15:03Z",
+    "url": "https://github.com/sandbaseai/sandbase-harness"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35257,
+    "updated_at": "2026-08-30T13:12:56Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-08-30T13:14:08Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-30T13:12:20Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "BlackPearl \u2014 DeepSeek-powered AI agent harness and orchestration ecosystem with 286+ skills, 273+ specialist agents, plu",
+    "id": "BlackPearl-AI/BlackPearl",
+    "language": "TypeScript",
+    "name": "BlackPearl-AI/BlackPearl",
+    "stars": 3,
+    "updated_at": "2026-08-30T13:10:54Z",
+    "url": "https://github.com/BlackPearl-AI/BlackPearl"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-30T13:10:34Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-08-30T13:09:07Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 207,
+    "updated_at": "2026-08-30T13:04:49Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T13:04:17Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -16,51 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T13:02:41Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
-  },
-  {
-    "description": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a l",
-    "id": "sandbaseai/sandbase-harness",
-    "language": "TypeScript",
-    "name": "sandbaseai/sandbase-harness",
-    "stars": 638,
-    "updated_at": "2026-08-30T13:02:20Z",
-    "url": "https://github.com/sandbaseai/sandbase-harness"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:02:15Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "BlackPearl \u2014 DeepSeek-powered AI agent harness and orchestration ecosystem with 286+ skills, 273+ specialist agents, plu",
-    "id": "BlackPearl-AI/BlackPearl",
-    "language": "TypeScript",
-    "name": "BlackPearl-AI/BlackPearl",
-    "stars": 3,
-    "updated_at": "2026-08-30T13:01:00Z",
-    "url": "https://github.com/BlackPearl-AI/BlackPearl"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T13:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-30T13:00:23Z",
-    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -81,15 +135,6 @@
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-30T12:59:55Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 49,
     "updated_at": "2026-08-30T12:56:59Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-30T12:52:15Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-30T12:53:37Z",
+    "updated_at": "2026-08-30T13:07:48Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35256,
-    "updated_at": "2026-08-30T12:37:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Supervised Process Event Controller for Transition and Reasoning with Elixir. (S.P.E.C.T.R.E)",
     "id": "elchemista/spectre",
     "language": "Elixir",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-30T12:32:45Z",
+    "updated_at": "2026-08-30T13:13:11Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 9,
-    "updated_at": "2026-08-30T12:26:02Z",
+    "updated_at": "2026-08-30T13:11:25Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-30T12:19:04Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
     "id": "T-80BVVD/kiri",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "Go",
     "name": "rapidaai/voice-ai",
     "stars": 720,
-    "updated_at": "2026-08-30T13:02:34Z",
+    "updated_at": "2026-08-30T13:06:46Z",
     "url": "https://github.com/rapidaai/voice-ai"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T12:16:18Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-08-30T13:03:49Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Agent and workflow runtime built on Microsoft Agent Framework, with portable YAML/JSON agents, MCP, Skills, Plugins and ",
@@ -383,7 +392,7 @@
     "language": "JavaScript",
     "name": "EvoMap/awesome-agent-evolution",
     "stars": 202,
-    "updated_at": "2026-08-30T11:58:31Z",
+    "updated_at": "2026-08-30T13:07:11Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9504,
-    "updated_at": "2026-08-30T13:01:25Z",
+    "updated_at": "2026-08-30T13:13:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 219,
     "updated_at": "2026-08-30T11:45:46Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:45:36Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
   }
 ]
