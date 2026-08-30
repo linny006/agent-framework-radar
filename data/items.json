@@ -1,12 +1,138 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 706,
+    "updated_at": "2026-08-30T20:14:02Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9515,
-    "updated_at": "2026-08-30T19:59:44Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-08-30T20:13:51Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "The zero-trust framework for autonomous AI agents.",
+    "id": "calebfaruki/sycophant",
+    "language": "Rust",
+    "name": "calebfaruki/sycophant",
+    "stars": 6,
+    "updated_at": "2026-08-30T20:12:59Z",
+    "url": "https://github.com/calebfaruki/sycophant"
+  },
+  {
+    "description": "Governance-Oriented Agent Architecture (GOAA): file-centric human-in-the-loop governance framework for long-cycle agent ",
+    "id": "roebin87/goaa",
+    "language": "Python",
+    "name": "roebin87/goaa",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:12:47Z",
+    "url": "https://github.com/roebin87/goaa"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-30T20:11:33Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-30T20:11:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-08-30T20:14:54Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:10:35Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-30T20:08:25Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
+    "id": "ssevera1/Agent-Builder",
+    "language": "TypeScript",
+    "name": "ssevera1/Agent-Builder",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:13:27Z",
+    "url": "https://github.com/ssevera1/Agent-Builder"
+  },
+  {
+    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
+    "id": "AgentsKit-io/agentskit-registry",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit-registry",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:14:39Z",
+    "url": "https://github.com/AgentsKit-io/agentskit-registry"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1322,
+    "updated_at": "2026-08-30T20:04:49Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 540,
+    "updated_at": "2026-08-30T20:10:36Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Cosight \u2014 A realtime multimodal AI agent runtime with composable roles and capabilities.",
+    "id": "MrGood4U/cosight",
+    "language": "JavaScript",
+    "name": "MrGood4U/cosight",
+    "stars": 0,
+    "updated_at": "2026-08-30T20:04:33Z",
+    "url": "https://github.com/MrGood4U/cosight"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-08-30T20:14:43Z",
+    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -14,7 +140,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-08-30T19:59:09Z",
+    "updated_at": "2026-08-30T20:05:11Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -23,8 +149,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T19:56:28Z",
+    "updated_at": "2026-08-30T20:00:21Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9515,
+    "updated_at": "2026-08-30T20:08:18Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The AI Agent framework for enterprises and agencies",
@@ -36,39 +171,12 @@
     "url": "https://github.com/frogbotai/frogbot"
   },
   {
-    "description": "Governance-Oriented Agent Architecture (GOAA): file-centric human-in-the-loop governance framework for long-cycle agent ",
-    "id": "roebin87/goaa",
-    "language": "Python",
-    "name": "roebin87/goaa",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:54:56Z",
-    "url": "https://github.com/roebin87/goaa"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 540,
-    "updated_at": "2026-08-30T19:59:16Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1322,
-    "updated_at": "2026-08-30T19:56:24Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 25,
-    "updated_at": "2026-08-30T19:56:58Z",
+    "updated_at": "2026-08-30T20:10:02Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -103,7 +211,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1947,
+    "stars": 1948,
     "updated_at": "2026-08-30T19:50:01Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -178,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:38:51Z",
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 706,
-    "updated_at": "2026-08-30T19:43:43Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:24:53Z",
     "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:24:38Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:24:32Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:24:02Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:23:11Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2277,
-    "updated_at": "2026-08-30T19:22:40Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
-    "id": "DevMando/MandoCode.Desktop",
-    "language": "C#",
-    "name": "DevMando/MandoCode.Desktop",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:58:31Z",
-    "url": "https://github.com/DevMando/MandoCode.Desktop"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 8,
-    "updated_at": "2026-08-30T19:22:08Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:22:01Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
-    "id": "DevMando/MandoCode",
-    "language": "C#",
-    "name": "DevMando/MandoCode",
-    "stars": 14,
-    "updated_at": "2026-08-30T19:22:17Z",
-    "url": "https://github.com/DevMando/MandoCode"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:20:26Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-08-30T19:20:26Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
