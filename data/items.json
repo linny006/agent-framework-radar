@@ -1,30 +1,48 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-31T18:29:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7082,
+    "updated_at": "2026-08-31T18:23:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9552,
+    "updated_at": "2026-08-31T18:21:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Team-shared Agent Harness Builder to configure MCP Servers, Skills and AGENTS.md / CLAUDE.md for your team with cross-ag",
     "id": "shiftbloom-studio/myosotis",
     "language": "TypeScript",
     "name": "shiftbloom-studio/myosotis",
     "stars": 1,
-    "updated_at": "2026-08-31T18:11:52Z",
+    "updated_at": "2026-08-31T18:20:47Z",
     "url": "https://github.com/shiftbloom-studio/myosotis"
   },
   {
-    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-08-31T18:03:44Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-31T18:12:44Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+    "description": "Lemmings clone demonstrating F# message-passing MailboxProcessors",
+    "id": "Thorium/FsLemming",
+    "language": "F#",
+    "name": "Thorium/FsLemming",
+    "stars": 6,
+    "updated_at": "2026-08-31T18:20:19Z",
+    "url": "https://github.com/Thorium/FsLemming"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -32,17 +50,44 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T18:00:25Z",
+    "updated_at": "2026-08-31T18:15:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-08-31T18:14:16Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
     "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13246,
-    "updated_at": "2026-08-31T17:59:57Z",
-    "url": "https://github.com/microsoft/agent-framework"
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-31T18:22:23Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:22:44Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-08-31T18:02:18Z",
+    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -54,22 +99,22 @@
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9552,
-    "updated_at": "2026-08-31T18:07:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-31T18:26:45Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7082,
-    "updated_at": "2026-08-31T17:56:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "microsoft/agent-framework",
+    "stars": 13246,
+    "updated_at": "2026-08-31T17:59:57Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -139,7 +184,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1963,
+    "stars": 1964,
     "updated_at": "2026-08-31T17:43:23Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -216,15 +261,6 @@
     "url": "https://github.com/merryshelly/openalpheus"
   },
   {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:03:33Z",
-    "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
     "id": "daniel06s6995/deepseek-harness-software-OPC",
     "language": "JavaScript",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4896,
-    "updated_at": "2026-08-31T17:24:20Z",
+    "updated_at": "2026-08-31T18:20:02Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:14:29Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 13,
-    "updated_at": "2026-08-31T17:58:22Z",
-    "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "Build and manage AI agents within git repositories using a Rust-based, dependency-free framework that version-controls a",
-    "id": "yeab405/rusty-gitclaw",
-    "language": "Rust",
-    "name": "yeab405/rusty-gitclaw",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:11:40Z",
-    "url": "https://github.com/yeab405/rusty-gitclaw"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:09:47Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:09:25Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
   }
 ]
