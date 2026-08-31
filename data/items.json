@@ -1,11 +1,47 @@
 [
   {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-31T22:12:48Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
+    "id": "we-are-singular/aml",
+    "language": "TypeScript",
+    "name": "we-are-singular/aml",
+    "stars": 13,
+    "updated_at": "2026-08-31T22:08:18Z",
+    "url": "https://github.com/we-are-singular/aml"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T22:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 0,
+    "updated_at": "2026-08-31T22:00:04Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-31T22:00:02Z",
+    "updated_at": "2026-08-31T22:15:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T21:56:03Z",
     "url": "https://github.com/jumabek-dev/jumabek"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-31T21:57:29Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Deterministic decision rules for AI agents and trading systems. Plain-text rules in, auditable decisions out \u2014 the same ",
@@ -81,21 +108,12 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T21:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9558,
-    "updated_at": "2026-08-31T21:59:34Z",
+    "updated_at": "2026-08-31T22:14:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-31T21:34:50Z",
+    "updated_at": "2026-08-31T22:07:12Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -140,7 +158,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T21:34:33Z",
+    "updated_at": "2026-08-31T22:14:57Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-31T21:57:10Z",
+    "updated_at": "2026-08-31T22:15:12Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-08-31T21:52:53Z",
+    "updated_at": "2026-08-31T22:00:25Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -355,7 +373,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7086,
+    "stars": 7087,
     "updated_at": "2026-08-31T20:41:20Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "sageox/agent-toolkit",
     "stars": 7,
-    "updated_at": "2026-08-31T20:31:44Z",
+    "updated_at": "2026-08-31T22:15:20Z",
     "url": "https://github.com/sageox/agent-toolkit"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-31T21:31:48Z",
+    "updated_at": "2026-08-31T22:05:40Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-31T20:13:11Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
-    "id": "synapse-ai-hub/synapseForge",
-    "language": "Python",
-    "name": "synapse-ai-hub/synapseForge",
-    "stars": 3,
-    "updated_at": "2026-08-31T20:09:23Z",
-    "url": "https://github.com/synapse-ai-hub/synapseForge"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 49,
-    "updated_at": "2026-08-31T20:08:53Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   }
 ]
