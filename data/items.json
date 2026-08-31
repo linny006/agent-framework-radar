@@ -1,12 +1,48 @@
 [
   {
+    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
+    "id": "Rahulsanecdote/Forge",
+    "language": "TypeScript",
+    "name": "Rahulsanecdote/Forge",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:59:04Z",
+    "url": "https://github.com/Rahulsanecdote/Forge"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:50:48Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "\ud83d\ude80 SDD + ADD Starter Template \u2014 AI Coding Assistant Governance Framework. Turn your AI coding assistant into a discipline",
+    "id": "khangpqvn/SDDADD",
+    "language": "Shell",
+    "name": "khangpqvn/SDDADD",
+    "stars": 7,
+    "updated_at": "2026-08-31T19:50:09Z",
+    "url": "https://github.com/khangpqvn/SDDADD"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T19:45:25Z",
+    "updated_at": "2026-08-31T19:46:32Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 135,
+    "updated_at": "2026-08-31T19:45:32Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -16,6 +52,15 @@
     "stars": 1967,
     "updated_at": "2026-08-31T19:44:52Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9555,
+    "updated_at": "2026-08-31T19:53:09Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -36,21 +81,12 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
-    "id": "Rahulsanecdote/Forge",
-    "language": "TypeScript",
-    "name": "Rahulsanecdote/Forge",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:44:25Z",
-    "url": "https://github.com/Rahulsanecdote/Forge"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-31T19:46:27Z",
+    "updated_at": "2026-08-31T19:54:38Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -72,6 +108,15 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13248,
+    "updated_at": "2026-08-31T19:31:56Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
     "id": "Losina24/ARCH",
     "language": "TypeScript",
@@ -88,15 +133,6 @@
     "stars": 124,
     "updated_at": "2026-08-31T19:27:39Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9554,
-    "updated_at": "2026-08-31T19:43:34Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19618,
-    "updated_at": "2026-08-31T19:33:13Z",
+    "updated_at": "2026-08-31T19:55:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-08-31T19:41:12Z",
+    "updated_at": "2026-08-31T20:00:03Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -225,24 +261,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:44:05Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13247,
-    "updated_at": "2026-08-31T19:31:56Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-31T19:06:57Z",
+    "updated_at": "2026-08-31T19:48:44Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-31T18:55:33Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-08-31T17:40:31Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Kotlin-first framework for building Model Agnostic AI applications, RAG systems, and agentic workflows on Android and Ko",
-    "id": "MobileGraph/mobilegraph",
-    "language": "Kotlin",
-    "name": "MobileGraph/mobilegraph",
-    "stars": 3,
-    "updated_at": "2026-08-31T17:39:49Z",
-    "url": "https://github.com/MobileGraph/mobilegraph"
   }
 ]
