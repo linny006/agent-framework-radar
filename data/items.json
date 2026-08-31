@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 1,
+    "updated_at": "2026-08-31T17:06:34Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-08-31T17:05:20Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-08-31T17:01:07Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-31T17:12:56Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T17:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
     "id": "Core-Mate/OpenGUI",
     "language": "TypeScript",
@@ -18,6 +63,15 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-08-31T16:56:12Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -27,12 +81,21 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 270,
+    "updated_at": "2026-08-31T16:52:22Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35288,
-    "updated_at": "2026-08-31T16:51:51Z",
+    "updated_at": "2026-08-31T17:08:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -72,21 +135,12 @@
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T16:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
     "id": "we-are-singular/aml",
     "language": "TypeScript",
     "name": "we-are-singular/aml",
     "stars": 13,
-    "updated_at": "2026-08-31T16:59:15Z",
+    "updated_at": "2026-08-31T17:13:30Z",
     "url": "https://github.com/we-are-singular/aml"
   },
   {
@@ -115,6 +169,15 @@
     "stars": 49,
     "updated_at": "2026-08-31T16:43:31Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7081,
+    "updated_at": "2026-08-31T16:42:55Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -180,13 +243,13 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7081,
-    "updated_at": "2026-08-31T16:42:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 66,
+    "updated_at": "2026-08-31T16:32:47Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -198,30 +261,12 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 66,
-    "updated_at": "2026-08-31T16:32:47Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-08-31T16:54:53Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
     "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
     "id": "proteus-evolve/Proteus",
     "language": "Python",
     "name": "proteus-evolve/Proteus",
     "stars": 84,
-    "updated_at": "2026-08-31T16:31:56Z",
+    "updated_at": "2026-08-31T17:12:40Z",
     "url": "https://github.com/proteus-evolve/Proteus"
   },
   {
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-31T16:30:32Z",
+    "updated_at": "2026-08-31T17:00:54Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "truvaagents/truva-g3",
     "stars": 13,
-    "updated_at": "2026-08-31T16:10:46Z",
+    "updated_at": "2026-08-31T17:03:10Z",
     "url": "https://github.com/truvaagents/truva-g3"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 32,
-    "updated_at": "2026-08-31T16:10:23Z",
+    "updated_at": "2026-08-31T17:10:08Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -311,7 +356,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T16:56:11Z",
+    "updated_at": "2026-08-31T17:08:45Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-31T15:58:48Z",
+    "updated_at": "2026-08-31T17:12:25Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 270,
-    "updated_at": "2026-08-31T16:52:22Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -358,15 +394,6 @@
     "stars": 6,
     "updated_at": "2026-08-31T15:56:37Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-08-31T16:56:12Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "\u8d85\u8111 Super Brain \u2014 AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf\uff1a\u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "aeonfun/aeon",
     "stars": 708,
-    "updated_at": "2026-08-31T16:55:59Z",
+    "updated_at": "2026-08-31T17:15:07Z",
     "url": "https://github.com/aeonfun/aeon"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T15:27:19Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26372,
-    "updated_at": "2026-08-31T15:20:39Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "saifullahseodeveloper/deepseek-reasonix",
-    "language": "\u2014",
-    "name": "saifullahseodeveloper/deepseek-reasonix",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:09:02Z",
-    "url": "https://github.com/saifullahseodeveloper/deepseek-reasonix"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 2,
-    "updated_at": "2026-08-31T15:06:52Z",
-    "url": "https://github.com/openamer/openamer"
   }
 ]
