@@ -5,8 +5,80 @@
     "language": "TypeScript",
     "name": "we-are-singular/aml",
     "stars": 13,
-    "updated_at": "2026-08-31T15:33:44Z",
+    "updated_at": "2026-08-31T15:47:16Z",
     "url": "https://github.com/we-are-singular/aml"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-31T15:58:48Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T15:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9546,
+    "updated_at": "2026-08-31T15:42:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-08-31T15:56:35Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-08-31T15:39:42Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "\u8d85\u8111 Super Brain \u2014 AI Agent \u8ba4\u77e5\u589e\u5f3a\u7cfb\u7edf\uff1a\u6301\u4e45\u8bb0\u5fc6\u3001\u77e5\u8bc6\u56fe\u8c31\u3001SimHash\u8bed\u4e49\u641c\u7d22\u3001\u81ea\u68c0\u4fee\u590d",
+    "id": "A1m1ng777888/super-brain",
+    "language": "Python",
+    "name": "A1m1ng777888/super-brain",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:37:45Z",
+    "url": "https://github.com/A1m1ng777888/super-brain"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:35:48Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-31T15:35:30Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -27,13 +99,13 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T15:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 708,
+    "updated_at": "2026-08-31T15:30:30Z",
+    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
@@ -41,17 +113,17 @@
     "language": "Python",
     "name": "momang85/weavemind",
     "stars": 1,
-    "updated_at": "2026-08-31T15:29:46Z",
+    "updated_at": "2026-08-31T15:49:46Z",
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-08-31T15:39:42Z",
-    "url": "https://github.com/usetheokit/theokit"
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:27:19Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7082,
-    "updated_at": "2026-08-31T15:43:40Z",
+    "updated_at": "2026-08-31T15:48:48Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -77,7 +149,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T15:38:56Z",
+    "updated_at": "2026-08-31T15:55:39Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -139,7 +211,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1961,
+    "stars": 1962,
     "updated_at": "2026-08-31T15:00:18Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-31T15:44:02Z",
+    "updated_at": "2026-08-31T15:58:44Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-31T15:37:45Z",
+    "updated_at": "2026-08-31T15:54:23Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -241,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T14:47:18Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-08-31T15:41:32Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T14:16:04Z",
     "url": "https://github.com/m1keluka/OperationKit"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:14:45Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-08-31T15:42:06Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-08-31T14:11:24Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:11:08Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:04:05Z",
-    "url": "https://github.com/sycdan/nosedive"
-  },
-  {
-    "description": "Industrial-grade C++20 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming, tool registry,",
-    "id": "dqsjqian/AriaAgent",
-    "language": "C++",
-    "name": "dqsjqian/AriaAgent",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:08:44Z",
-    "url": "https://github.com/dqsjqian/AriaAgent"
-  },
-  {
-    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
-    "id": "Prompthon-IO/agent-systems-handbook",
-    "language": "MDX",
-    "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 316,
-    "updated_at": "2026-08-31T14:05:48Z",
-    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   }
 ]
