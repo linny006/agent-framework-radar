@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T06:12:57Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:12:11Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -16,6 +34,15 @@
     "stars": 263,
     "updated_at": "2026-08-31T06:10:15Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9524,
+    "updated_at": "2026-08-31T06:09:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1322,
-    "updated_at": "2026-08-31T06:04:31Z",
+    "updated_at": "2026-08-31T06:13:15Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -70,24 +97,6 @@
     "stars": 20,
     "updated_at": "2026-08-31T06:01:35Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T06:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9523,
-    "updated_at": "2026-08-31T06:09:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "FrontierAgent skills and plugins: extensions, workflows, and setup guides for Apodex AI's agent framework.",
@@ -148,7 +157,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47554,
+    "stars": 47555,
     "updated_at": "2026-08-31T05:37:21Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
     "stars": 4,
-    "updated_at": "2026-08-31T06:08:23Z",
+    "updated_at": "2026-08-31T06:13:47Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
@@ -238,7 +247,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35280,
+    "stars": 35281,
     "updated_at": "2026-08-31T05:12:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 1179,
     "updated_at": "2026-08-31T04:27:00Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-31T04:41:18Z",
-    "url": "https://github.com/sycdan/nosedive"
   }
 ]
