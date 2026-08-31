@@ -1,12 +1,75 @@
 [
   {
+    "description": "Team-shared Agent Harness Builder to configure MCP Servers, Skills and AGENTS.md / CLAUDE.md for your team with cross-ag",
+    "id": "shiftbloom-studio/myosotis",
+    "language": "TypeScript",
+    "name": "shiftbloom-studio/myosotis",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:11:52Z",
+    "url": "https://github.com/shiftbloom-studio/myosotis"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-08-31T18:03:44Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-31T18:12:44Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T18:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13246,
+    "updated_at": "2026-08-31T17:59:57Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 3,
-    "updated_at": "2026-08-31T17:58:49Z",
+    "updated_at": "2026-08-31T18:01:38Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9552,
+    "updated_at": "2026-08-31T18:07:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7082,
+    "updated_at": "2026-08-31T17:56:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -16,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:53:43Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-08-31T17:52:34Z",
+    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/HTTP API, agentic tool loop + graph retrieval +",
@@ -63,15 +135,6 @@
     "url": "https://github.com/ANcpLua/grounded-agents"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T17:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-31T17:41:39Z",
+    "updated_at": "2026-08-31T18:11:58Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-31T17:41:15Z",
+    "updated_at": "2026-08-31T18:12:51Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
-    "description": "Team-shared Agent Harness Builder to configure MCP Servers, Skills and AGENTS.md / CLAUDE.md for your team with cross-ag",
-    "id": "shiftbloom-studio/myosotis",
-    "language": "TypeScript",
-    "name": "shiftbloom-studio/myosotis",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:00:13Z",
-    "url": "https://github.com/shiftbloom-studio/myosotis"
-  },
-  {
     "description": "An open-source terminal coding agent runtime and CLI for real project work.",
     "id": "roackb2/heddle",
     "language": "TypeScript",
@@ -151,15 +205,6 @@
     "stars": 25,
     "updated_at": "2026-08-31T17:37:39Z",
     "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-31T17:54:08Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 1,
-    "updated_at": "2026-08-31T17:33:47Z",
+    "updated_at": "2026-08-31T18:03:33Z",
     "url": "https://github.com/doeixd/effect-agent"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:31:28Z",
     "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7081,
-    "updated_at": "2026-08-31T17:56:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -292,7 +328,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19615,
+    "stars": 19617,
     "updated_at": "2026-08-31T17:20:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -355,7 +391,7 @@
     "id": "aeonfun/aeon",
     "language": "TypeScript",
     "name": "aeonfun/aeon",
-    "stars": 708,
+    "stars": 709,
     "updated_at": "2026-08-31T17:15:07Z",
     "url": "https://github.com/aeonfun/aeon"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T17:09:25Z",
     "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "Store, consolidate, and recall coding agent memories with provenance tracking using SQLite and FAISS for fast, structure",
-    "id": "InitialDBklyn/consolidation-memory",
-    "language": "Python",
-    "name": "InitialDBklyn/consolidation-memory",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:09:10Z",
-    "url": "https://github.com/InitialDBklyn/consolidation-memory"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35290,
-    "updated_at": "2026-08-31T17:08:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:06:34Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-08-31T17:05:20Z",
-    "url": "https://github.com/RONIN511/alphora"
   }
 ]
