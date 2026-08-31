@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1967,
+    "updated_at": "2026-08-31T19:44:52Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-31T19:43:30Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-31T19:41:25Z",
+    "updated_at": "2026-08-31T19:46:27Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 49,
     "updated_at": "2026-08-31T19:34:44Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
@@ -405,15 +423,6 @@
     "url": "https://github.com/ANcpLua/grounded-agents"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1966,
-    "updated_at": "2026-08-31T19:44:52Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -421,15 +430,6 @@
     "stars": 5,
     "updated_at": "2026-08-31T18:55:33Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-31T19:43:30Z",
-    "url": "https://github.com/ourostack/ouroboros"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
