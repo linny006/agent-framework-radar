@@ -1,5 +1,59 @@
 [
   {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1179,
+    "updated_at": "2026-08-31T06:42:16Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 4,
+    "updated_at": "2026-08-31T06:44:18Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9526,
+    "updated_at": "2026-08-31T06:44:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-08-31T06:39:59Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 219,
+    "updated_at": "2026-08-31T06:34:23Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T06:30:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
     "id": "fmuecke/agent-win-sandbox",
     "language": "PowerShell",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-08-31T06:28:41Z",
+    "updated_at": "2026-08-31T06:42:13Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -86,17 +140,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T06:26:49Z",
+    "updated_at": "2026-08-31T06:42:53Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-08-31T06:19:53Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -126,33 +171,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 219,
-    "updated_at": "2026-08-31T06:16:55Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9524,
-    "updated_at": "2026-08-31T06:25:37Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T06:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
     "id": "subkoks/agents-md",
     "language": "Shell",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 263,
-    "updated_at": "2026-08-31T06:10:15Z",
+    "updated_at": "2026-08-31T06:35:56Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1322,
-    "updated_at": "2026-08-31T06:13:15Z",
+    "updated_at": "2026-08-31T06:32:41Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-08-31T05:32:57Z",
+    "updated_at": "2026-08-31T06:45:04Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T05:32:40Z",
     "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 4,
-    "updated_at": "2026-08-31T06:13:47Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
     "description": "Agent SDK for Go - with Temporal & Restate support for durable execution, multi-agent support, and OTeL tracing support",
@@ -337,7 +346,7 @@
     "id": "ZJU-REAL/HugAgentOS",
     "language": "Python",
     "name": "ZJU-REAL/HugAgentOS",
-    "stars": 996,
+    "stars": 1003,
     "updated_at": "2026-08-31T05:09:46Z",
     "url": "https://github.com/ZJU-REAL/HugAgentOS"
   },
@@ -382,7 +391,7 @@
     "id": "Core-Mate/OpenGUI",
     "language": "TypeScript",
     "name": "Core-Mate/OpenGUI",
-    "stars": 1587,
+    "stars": 1588,
     "updated_at": "2026-08-31T04:53:01Z",
     "url": "https://github.com/Core-Mate/OpenGUI"
   },
@@ -392,7 +401,7 @@
     "language": "JavaScript",
     "name": "amadshobi/oh-my-hook",
     "stars": 0,
-    "updated_at": "2026-08-31T04:52:04Z",
+    "updated_at": "2026-08-31T06:35:35Z",
     "url": "https://github.com/amadshobi/oh-my-hook"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T04:37:42Z",
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19599,
-    "updated_at": "2026-08-31T06:11:02Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
