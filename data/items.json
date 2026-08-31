@@ -1,12 +1,93 @@
 [
   {
+    "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
+    "id": "Losina24/ARCH",
+    "language": "TypeScript",
+    "name": "Losina24/ARCH",
+    "stars": 1,
+    "updated_at": "2026-08-31T20:43:30Z",
+    "url": "https://github.com/Losina24/ARCH"
+  },
+  {
+    "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
+    "id": "unknowbug/RE-Framework",
+    "language": "Python",
+    "name": "unknowbug/RE-Framework",
+    "stars": 7,
+    "updated_at": "2026-08-31T20:42:42Z",
+    "url": "https://github.com/unknowbug/RE-Framework"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-08-31T20:41:59Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 135,
+    "updated_at": "2026-08-31T20:39:09Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 2,
-    "updated_at": "2026-08-31T20:28:42Z",
+    "updated_at": "2026-08-31T20:44:21Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-08-31T20:34:21Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
+    "id": "Alexli18/binex",
+    "language": "Python",
+    "name": "Alexli18/binex",
+    "stars": 62,
+    "updated_at": "2026-08-31T20:33:17Z",
+    "url": "https://github.com/Alexli18/binex"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19621,
+    "updated_at": "2026-08-31T20:31:58Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 7,
+    "updated_at": "2026-08-31T20:31:44Z",
+    "url": "https://github.com/sageox/agent-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T20:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CLAF \u2014 Closed-Loop Agent Framework. Anthropic's skin, your brain. Off-grid by default; cloud convenience optional.",
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-31T20:27:45Z",
+    "updated_at": "2026-08-31T20:34:30Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
-    "id": "sageox/agent-toolkit",
-    "language": "TypeScript",
-    "name": "sageox/agent-toolkit",
-    "stars": 6,
-    "updated_at": "2026-08-31T20:21:23Z",
-    "url": "https://github.com/sageox/agent-toolkit"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -72,21 +144,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T20:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully off",
     "id": "Rahulsanecdote/Forge",
     "language": "TypeScript",
     "name": "Rahulsanecdote/Forge",
     "stars": 0,
-    "updated_at": "2026-08-31T20:24:13Z",
+    "updated_at": "2026-08-31T20:43:57Z",
     "url": "https://github.com/Rahulsanecdote/Forge"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T20:13:11Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-08-31T20:25:36Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
@@ -140,7 +194,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 105,
-    "updated_at": "2026-08-31T20:03:19Z",
+    "updated_at": "2026-08-31T20:40:58Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T20:29:21Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19619,
-    "updated_at": "2026-08-31T20:17:01Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
@@ -196,15 +241,6 @@
     "stars": 7,
     "updated_at": "2026-08-31T19:50:09Z",
     "url": "https://github.com/khangpqvn/SDDADD"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 135,
-    "updated_at": "2026-08-31T19:45:32Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "Cosight \u2014 A realtime multimodal AI agent runtime with composable roles and capabilities.",
@@ -247,27 +283,9 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13248,
+    "stars": 13250,
     "updated_at": "2026-08-31T19:31:56Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
-    "id": "Losina24/ARCH",
-    "language": "TypeScript",
-    "name": "Losina24/ARCH",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:29:35Z",
-    "url": "https://github.com/Losina24/ARCH"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-08-31T19:27:39Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -295,6 +313,15 @@
     "stars": 1323,
     "updated_at": "2026-08-31T19:17:18Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4897,
+    "updated_at": "2026-08-31T19:12:26Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Grok Build Web UI",
@@ -337,7 +364,7 @@
     "id": "NirDiamant/agents-towards-production",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/agents-towards-production",
-    "stars": 21359,
+    "stars": 21361,
     "updated_at": "2026-08-31T19:06:06Z",
     "url": "https://github.com/NirDiamant/agents-towards-production"
   },
@@ -373,8 +400,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7083,
-    "updated_at": "2026-08-31T18:40:19Z",
+    "stars": 7084,
+    "updated_at": "2026-08-31T20:41:20Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -382,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35294,
+    "stars": 35295,
     "updated_at": "2026-08-31T18:37:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-31T18:27:00Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "Framework for building continuous-loop autonomous AI agents.",
-    "id": "th0r3nt/JAWL",
-    "language": "Python",
-    "name": "th0r3nt/JAWL",
-    "stars": 38,
-    "updated_at": "2026-08-31T18:23:58Z",
-    "url": "https://github.com/th0r3nt/JAWL"
-  },
-  {
-    "description": "Team-shared Agent Harness Builder to configure MCP Servers, Skills and AGENTS.md / CLAUDE.md for your team with cross-ag",
-    "id": "shiftbloom-studio/myosotis",
-    "language": "TypeScript",
-    "name": "shiftbloom-studio/myosotis",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:20:47Z",
-    "url": "https://github.com/shiftbloom-studio/myosotis"
-  },
-  {
-    "description": "Lemmings clone demonstrating F# message-passing MailboxProcessors",
-    "id": "Thorium/FsLemming",
-    "language": "F#",
-    "name": "Thorium/FsLemming",
-    "stars": 6,
-    "updated_at": "2026-08-31T18:20:19Z",
-    "url": "https://github.com/Thorium/FsLemming"
   }
 ]
