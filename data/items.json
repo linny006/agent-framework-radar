@@ -1,12 +1,12 @@
 [
   {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5357,
-    "updated_at": "2026-08-31T03:00:13Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1322,
+    "updated_at": "2026-08-31T03:13:00Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +14,116 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9521,
-    "updated_at": "2026-08-31T02:58:58Z",
+    "updated_at": "2026-08-31T03:15:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-31T03:11:31Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
+    "id": "polymind-inc/agent-framework-js",
+    "language": "TypeScript",
+    "name": "polymind-inc/agent-framework-js",
+    "stars": 4,
+    "updated_at": "2026-08-31T03:08:39Z",
+    "url": "https://github.com/polymind-inc/agent-framework-js"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "TypeScript",
+    "name": "akyourowngames/friday",
+    "stars": 5,
+    "updated_at": "2026-08-31T03:08:36Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-31T03:07:11Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
+    "id": "Core-Mate/OpenGUI",
+    "language": "TypeScript",
+    "name": "Core-Mate/OpenGUI",
+    "stars": 1587,
+    "updated_at": "2026-08-31T03:03:58Z",
+    "url": "https://github.com/Core-Mate/OpenGUI"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 49,
+    "updated_at": "2026-08-31T03:03:56Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-08-31T03:03:46Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T03:02:54Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:02:05Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35276,
+    "updated_at": "2026-08-31T03:01:07Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5357,
+    "updated_at": "2026-08-31T03:02:17Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T03:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -45,24 +153,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:57:37Z",
-    "url": "https://github.com/sycdan/nosedive"
-  },
-  {
-    "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
-    "id": "polymind-inc/agent-framework-js",
-    "language": "TypeScript",
-    "name": "polymind-inc/agent-framework-js",
-    "stars": 4,
-    "updated_at": "2026-08-31T02:57:05Z",
-    "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -81,15 +171,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35276,
-    "updated_at": "2026-08-31T02:48:24Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -106,15 +187,6 @@
     "stars": 105,
     "updated_at": "2026-08-31T02:46:24Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T02:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 12,
-    "updated_at": "2026-08-31T02:38:59Z",
+    "updated_at": "2026-08-31T03:15:16Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -149,7 +221,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T02:38:15Z",
+    "updated_at": "2026-08-31T03:11:24Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -160,24 +232,6 @@
     "stars": 13,
     "updated_at": "2026-08-31T02:36:59Z",
     "url": "https://github.com/we-are-singular/aml"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-08-31T02:35:47Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1322,
-    "updated_at": "2026-08-31T02:48:48Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Open-source LangGraph agent framework and runtime for long-running AI agents. Build a ReAct loop with memory, context co",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:18:35Z",
     "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:18:28Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:17:28Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-08-31T02:17:01Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:16:27Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1601,
-    "updated_at": "2026-08-31T02:16:11Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:16:05Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
