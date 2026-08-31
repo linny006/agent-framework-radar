@@ -1,5 +1,86 @@
 [
   {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:51:09Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 24,
+    "updated_at": "2026-08-31T00:50:52Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 6,
+    "updated_at": "2026-08-31T00:50:17Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1322,
+    "updated_at": "2026-08-31T00:58:40Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 117,
+    "updated_at": "2026-08-31T00:47:49Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T00:47:11Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:45:41Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2277,
+    "updated_at": "2026-08-31T00:45:35Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T00:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -9,15 +90,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T00:42:09Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
     "id": "agentjido/jidoka",
     "language": "Elixir",
@@ -25,15 +97,6 @@
     "stars": 42,
     "updated_at": "2026-08-31T00:41:28Z",
     "url": "https://github.com/agentjido/jidoka"
-  },
-  {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:41:25Z",
-    "url": "https://github.com/sycdan/nosedive"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19594,
-    "updated_at": "2026-08-31T00:35:13Z",
+    "updated_at": "2026-08-31T00:58:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1322,
-    "updated_at": "2026-08-31T00:39:16Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-31T00:39:00Z",
+    "updated_at": "2026-08-31T00:58:30Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:03:03Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-30T23:53:43Z",
+    "updated_at": "2026-08-31T00:55:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 7,
     "updated_at": "2026-08-30T23:52:18Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-08-30T23:50:34Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 263,
-    "updated_at": "2026-08-31T00:31:08Z",
+    "updated_at": "2026-08-31T00:57:45Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-31T00:44:38Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-08-30T23:06:26Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:03:20Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-08-30T23:03:17Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
   }
 ]
