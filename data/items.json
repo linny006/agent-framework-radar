@@ -1,5 +1,32 @@
 [
   {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 1,
+    "updated_at": "2026-08-31T13:47:39Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:47:28Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "mybay-ai/mybay",
     "stars": 2,
-    "updated_at": "2026-08-31T13:45:20Z",
+    "updated_at": "2026-08-31T13:49:22Z",
     "url": "https://github.com/mybay-ai/mybay"
   },
   {
@@ -32,8 +59,17 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-08-31T13:36:30Z",
+    "updated_at": "2026-08-31T13:49:24Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19611,
+    "updated_at": "2026-08-31T13:50:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T13:33:47Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13244,
-    "updated_at": "2026-08-31T13:27:57Z",
+    "updated_at": "2026-08-31T13:47:45Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "AgentEra/Agently",
     "stars": 1644,
-    "updated_at": "2026-08-31T13:22:33Z",
+    "updated_at": "2026-08-31T13:50:39Z",
     "url": "https://github.com/AgentEra/Agently"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-31T13:39:03Z",
+    "updated_at": "2026-08-31T13:46:42Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19610,
-    "updated_at": "2026-08-31T13:35:35Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "A1m1ng777888/super-brain",
     "stars": 0,
-    "updated_at": "2026-08-31T12:47:06Z",
+    "updated_at": "2026-08-31T13:49:46Z",
     "url": "https://github.com/A1m1ng777888/super-brain"
   },
   {
@@ -319,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35285,
+    "stars": 35286,
     "updated_at": "2026-08-31T12:43:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T12:10:44Z",
     "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
-  },
-  {
-    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
-    "id": "ZJU-REAL/HugAgentOS",
-    "language": "Python",
-    "name": "ZJU-REAL/HugAgentOS",
-    "stars": 1052,
-    "updated_at": "2026-08-31T12:08:42Z",
-    "url": "https://github.com/ZJU-REAL/HugAgentOS"
-  },
-  {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/eyebrow",
-    "language": "Go",
-    "name": "alexverify/eyebrow",
-    "stars": 8,
-    "updated_at": "2026-08-31T12:02:12Z",
-    "url": "https://github.com/alexverify/eyebrow"
   }
 ]
