@@ -1,5 +1,59 @@
 [
   {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 263,
+    "updated_at": "2026-08-31T04:57:46Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9522,
+    "updated_at": "2026-08-31T04:56:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
+    "id": "Core-Mate/OpenGUI",
+    "language": "TypeScript",
+    "name": "Core-Mate/OpenGUI",
+    "stars": 1587,
+    "updated_at": "2026-08-31T04:53:01Z",
+    "url": "https://github.com/Core-Mate/OpenGUI"
+  },
+  {
+    "description": "The ultimate power-tools, guardrails, and runtime enhancement suite for OpenCode coding agents.",
+    "id": "amadshobi/oh-my-hook",
+    "language": "JavaScript",
+    "name": "amadshobi/oh-my-hook",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:52:04Z",
+    "url": "https://github.com/amadshobi/oh-my-hook"
+  },
+  {
+    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
+    "id": "solvent-labs-org/metaorcha",
+    "language": "Python",
+    "name": "solvent-labs-org/metaorcha",
+    "stars": 3,
+    "updated_at": "2026-08-31T04:49:34Z",
+    "url": "https://github.com/solvent-labs-org/metaorcha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T04:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -18,21 +72,12 @@
     "url": "https://github.com/yomorun/yomo"
   },
   {
-    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
-    "id": "solvent-labs-org/metaorcha",
-    "language": "Python",
-    "name": "solvent-labs-org/metaorcha",
-    "stars": 3,
-    "updated_at": "2026-08-31T04:44:36Z",
-    "url": "https://github.com/solvent-labs-org/metaorcha"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T04:44:39Z",
+    "updated_at": "2026-08-31T04:58:28Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 12,
-    "updated_at": "2026-08-31T04:40:50Z",
+    "updated_at": "2026-08-31T04:59:44Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 38,
     "updated_at": "2026-08-31T04:35:57Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
-    "id": "Core-Mate/OpenGUI",
-    "language": "TypeScript",
-    "name": "Core-Mate/OpenGUI",
-    "stars": 1587,
-    "updated_at": "2026-08-31T04:43:27Z",
-    "url": "https://github.com/Core-Mate/OpenGUI"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -112,8 +148,8 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1955,
-    "updated_at": "2026-08-31T04:31:34Z",
+    "stars": 1956,
+    "updated_at": "2026-08-31T05:00:13Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T04:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
     "id": "akyourowngames/friday",
     "language": "TypeScript",
@@ -157,7 +184,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35277,
+    "stars": 35279,
     "updated_at": "2026-08-31T04:27:03Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -225,15 +252,6 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9522,
-    "updated_at": "2026-08-31T04:39:41Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
     "id": "akimoto-akira/SiliconLifeCollective",
     "language": "C#",
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1322,
-    "updated_at": "2026-08-31T04:42:41Z",
+    "updated_at": "2026-08-31T04:45:28Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
     "stars": 4,
-    "updated_at": "2026-08-31T04:37:53Z",
+    "updated_at": "2026-08-31T04:55:05Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 219,
-    "updated_at": "2026-08-31T04:27:45Z",
+    "updated_at": "2026-08-31T04:52:28Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -364,7 +382,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47551,
+    "stars": 47552,
     "updated_at": "2026-08-31T03:49:08Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -430,23 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-31T04:43:25Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:26:50Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-31T03:26:47Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   }
 ]
