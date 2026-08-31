@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\ude80 SDD + ADD Starter Template \u2014 AI Coding Assistant Governance Framework. Turn your AI coding assistant into a discipline",
+    "id": "khangpqvn/SDDADD",
+    "language": "Shell",
+    "name": "khangpqvn/SDDADD",
+    "stars": 7,
+    "updated_at": "2026-08-31T11:41:08Z",
+    "url": "https://github.com/khangpqvn/SDDADD"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-08-31T11:38:29Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-31T11:42:53Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-08-31T11:36:49Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-08-31T11:36:13Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 9,
+    "updated_at": "2026-08-31T11:33:35Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 8,
+    "updated_at": "2026-08-31T11:43:07Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13241,
+    "updated_at": "2026-08-31T11:42:59Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26369,
+    "updated_at": "2026-08-31T11:31:25Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T11:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
+    "id": "joseym/salvor",
+    "language": "Rust",
+    "name": "joseym/salvor",
+    "stars": 2,
+    "updated_at": "2026-08-31T11:30:15Z",
+    "url": "https://github.com/joseym/salvor"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-08-31T11:27:20Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
@@ -16,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T11:24:25Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26369,
-    "updated_at": "2026-08-31T11:26:47Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Debuggable runtime for AI agent workflows. DAG pipelines, artifact lineage, and replayable runs.",
@@ -81,21 +180,12 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T11:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 264,
-    "updated_at": "2026-08-31T11:27:51Z",
+    "updated_at": "2026-08-31T11:37:53Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -104,17 +194,8 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 1,
-    "updated_at": "2026-08-31T11:12:18Z",
+    "updated_at": "2026-08-31T11:41:56Z",
     "url": "https://github.com/doeixd/effect-agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-31T11:27:57Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
@@ -142,33 +223,6 @@
     "stars": 5,
     "updated_at": "2026-08-31T11:02:16Z",
     "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-31T11:01:37Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-08-31T11:01:33Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-08-31T11:27:20Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -234,15 +288,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13240,
-    "updated_at": "2026-08-31T10:47:09Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
@@ -274,7 +319,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47566,
+    "stars": 47567,
     "updated_at": "2026-08-31T10:39:36Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -302,7 +347,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-08-31T10:32:26Z",
+    "updated_at": "2026-08-31T11:36:46Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 120,
     "updated_at": "2026-08-31T10:26:25Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-08-31T11:16:09Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-08-31T11:22:49Z",
+    "updated_at": "2026-08-31T11:42:46Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-31T09:49:26Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 29,
-    "updated_at": "2026-08-31T09:48:29Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 5,
-    "updated_at": "2026-08-31T09:47:53Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Multi-agent engineering framework: evidence packs, runtime validation, task decomposition, cross-window worker execution",
-    "id": "yueheng-rgb/codex-factory",
-    "language": "PowerShell",
-    "name": "yueheng-rgb/codex-factory",
-    "stars": 1,
-    "updated_at": "2026-08-31T09:41:57Z",
-    "url": "https://github.com/yueheng-rgb/codex-factory"
-  },
-  {
-    "description": "\u57fa\u4e8e DDD \u5206\u5c42\u67b6\u6784\u7684 AI Agent \u5e94\u7528\u811a\u624b\u67b6\uff0c\u96c6\u6210 Spring AI\u3001LangChain4j \u4e0e Google ADK\uff0c\u8986\u76d6 Chat / Tool Calling / Multi-Agent \u7f16\u6392\u80fd\u529b\uff0cJDK 17 + Spr",
-    "id": "ZQIUSU/Ai-agent-scaffold-zqiusu",
-    "language": "Java",
-    "name": "ZQIUSU/Ai-agent-scaffold-zqiusu",
-    "stars": 0,
-    "updated_at": "2026-08-31T09:39:04Z",
-    "url": "https://github.com/ZQIUSU/Ai-agent-scaffold-zqiusu"
   }
 ]
