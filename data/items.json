@@ -1,21 +1,30 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7081,
-    "updated_at": "2026-08-31T15:21:37Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
+    "id": "we-are-singular/aml",
+    "language": "TypeScript",
+    "name": "we-are-singular/aml",
+    "stars": 13,
+    "updated_at": "2026-08-31T15:33:44Z",
+    "url": "https://github.com/we-are-singular/aml"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4505,
-    "updated_at": "2026-08-31T15:28:17Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35287,
+    "updated_at": "2026-08-31T15:43:56Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-08-31T15:30:49Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T15:15:28Z",
+    "updated_at": "2026-08-31T15:30:26Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:29:46Z",
+    "url": "https://github.com/momang85/weavemind"
   },
   {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
@@ -32,8 +50,44 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-08-31T15:28:39Z",
+    "updated_at": "2026-08-31T15:39:42Z",
     "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7082,
+    "updated_at": "2026-08-31T15:43:40Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26371,
+    "updated_at": "2026-08-31T15:20:39Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4505,
+    "updated_at": "2026-08-31T15:38:56Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "A DeepSeek-native AI coding agent framework in Rust \u2014 22 crates, CLI/TUI/HTTP API, agentic tool loop + graph retrieval +",
+    "id": "W117C/DeepseekNova",
+    "language": "Rust",
+    "name": "W117C/DeepseekNova",
+    "stars": 3,
+    "updated_at": "2026-08-31T15:13:53Z",
+    "url": "https://github.com/W117C/DeepseekNova"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -72,6 +126,15 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
+    "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
+    "id": "Gald3r-Labs/gald3r",
+    "language": "Shell",
+    "name": "Gald3r-Labs/gald3r",
+    "stars": 25,
+    "updated_at": "2026-08-31T15:01:15Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-08-31T15:00:06Z",
+    "updated_at": "2026-08-31T15:44:02Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19613,
-    "updated_at": "2026-08-31T15:30:22Z",
+    "updated_at": "2026-08-31T15:40:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/T-80BVVD/kiri"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26371,
-    "updated_at": "2026-08-31T15:20:39Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:58:33Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:29:46Z",
-    "url": "https://github.com/momang85/weavemind"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -176,17 +221,17 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-08-31T15:25:48Z",
+    "updated_at": "2026-08-31T15:37:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35287,
-    "updated_at": "2026-08-31T15:30:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
+    "id": "ssevera1/Agent-Builder",
+    "language": "TypeScript",
+    "name": "ssevera1/Agent-Builder",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:48:57Z",
+    "url": "https://github.com/ssevera1/Agent-Builder"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-08-31T15:02:06Z",
+    "updated_at": "2026-08-31T15:41:32Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-08-31T14:45:20Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 13,
-    "updated_at": "2026-08-31T14:45:07Z",
-    "url": "https://github.com/we-are-singular/aml"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -293,7 +329,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-08-31T15:27:58Z",
+    "updated_at": "2026-08-31T15:40:25Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 264,
     "updated_at": "2026-08-31T15:22:37Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "A comprehensive, cross-platform AI agent builder \u2014 design, build, test, and deploy AI agents with any LLM provider. 6 pr",
-    "id": "ssevera1/Agent-Builder",
-    "language": "TypeScript",
-    "name": "ssevera1/Agent-Builder",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:48:57Z",
-    "url": "https://github.com/ssevera1/Agent-Builder"
   },
   {
     "description": "Declarative agent runtime in Go: define governable AI agents as YAML, not code \u2014 run them headless, as a service, or on ",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-08-31T14:41:44Z",
+    "updated_at": "2026-08-31T15:42:06Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 316,
     "updated_at": "2026-08-31T14:05:48Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
-    "id": "mybay-ai/mybay",
-    "language": "TypeScript",
-    "name": "mybay-ai/mybay",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:02:46Z",
-    "url": "https://github.com/mybay-ai/mybay"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-31T15:27:15Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "\ud83d\udd78\ufe0f Engineer the organization, not just the agent. 565 curated resources \u00b7 9 design layers \u00b7 11 sections \u00b7 255 papers & p",
-    "id": "ChaoYue0307/awesome-graph-engineering",
-    "language": "Python",
-    "name": "ChaoYue0307/awesome-graph-engineering",
-    "stars": 33,
-    "updated_at": "2026-08-31T13:55:40Z",
-    "url": "https://github.com/ChaoYue0307/awesome-graph-engineering"
   }
 ]
