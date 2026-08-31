@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 23:30 UTC
+> ⏰ Last updated: 2026-08-31 23:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1967 | TypeScript | 2026-08-31 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 2 | [W117C/DeepseekNova](https://github.com/W117C/DeepseekNova) | 3 | Rust | 2026-08-31 | A DeepSeek-native AI coding agent framework in Rust — 22 crates, CLI/TUI/HTTP API, agentic tool loop + graph retrieval + |
-| 3 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 52 | Python | 2026-08-31 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
-| 4 | [shimo4228/agent-knowledge-cycle](https://github.com/shimo4228/agent-knowledge-cycle) | 3 | — | 2026-08-31 | Agent Knowledge Cycle (AKC) — a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph |
-| 5 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19622 | Python | 2026-08-31 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
-| 6 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 9 | Python | 2026-08-31 | SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on |
-| 7 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9559 | Python | 2026-08-31 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-31 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 3 | Python | 2026-08-31 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 1967 | TypeScript | 2026-08-31 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 3 | [W117C/DeepseekNova](https://github.com/W117C/DeepseekNova) | 3 | Rust | 2026-08-31 | A DeepSeek-native AI coding agent framework in Rust — 22 crates, CLI/TUI/HTTP API, agentic tool loop + graph retrieval + |
+| 4 | [hertz-ai/HARTOS](https://github.com/hertz-ai/HARTOS) | 52 | Python | 2026-08-31 | An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp |
+| 5 | [shimo4228/agent-knowledge-cycle](https://github.com/shimo4228/agent-knowledge-cycle) | 3 | — | 2026-08-31 | Agent Knowledge Cycle (AKC) — a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph |
+| 6 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 19622 | Python | 2026-08-31 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
+| 7 | [Aureliolo/synthorg](https://github.com/Aureliolo/synthorg) | 9 | Python | 2026-08-31 | SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on |
+| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9559 | Python | 2026-08-31 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 9 | [agents-inc/agents-inc](https://github.com/agents-inc/agents-inc) | 8 | TypeScript | 2026-08-31 | An agent composition framework that builds stacks and compiles specialized subagents for Claude Code |
 | 10 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 53 | TypeScript | 2026-08-31 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
 | 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7086 | Python | 2026-08-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |

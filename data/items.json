@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -63,15 +72,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T23:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
     "id": "agents-inc/agents-inc",
     "language": "TypeScript",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-08-31T23:17:04Z",
+    "updated_at": "2026-08-31T23:31:46Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -320,7 +320,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-08-31T23:25:59Z",
+    "updated_at": "2026-08-31T23:31:46Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
