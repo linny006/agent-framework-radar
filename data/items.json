@@ -1,5 +1,122 @@
 [
   {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4933,
+    "updated_at": "2026-09-01T12:10:50Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Hive mind mechanics for agents. A step closer towards AGI",
+    "id": "tinyhumansai/tinyhivemind",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyhivemind",
+    "stars": 1,
+    "updated_at": "2026-09-01T12:10:05Z",
+    "url": "https://github.com/tinyhumansai/tinyhivemind"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-01T12:09:59Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Agentic framework for C#.",
+    "id": "superchar/SharpBond",
+    "language": "C#",
+    "name": "superchar/SharpBond",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:09:18Z",
+    "url": "https://github.com/superchar/SharpBond"
+  },
+  {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 352,
+    "updated_at": "2026-09-01T12:09:13Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:06:25Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
+    "id": "yuting-ai/asAgent",
+    "language": "Python",
+    "name": "yuting-ai/asAgent",
+    "stars": 26,
+    "updated_at": "2026-09-01T12:13:33Z",
+    "url": "https://github.com/yuting-ai/asAgent"
+  },
+  {
+    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
+    "id": "AgiMateIo/agimate-backend",
+    "language": "Java",
+    "name": "AgiMateIo/agimate-backend",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:15:18Z",
+    "url": "https://github.com/AgiMateIo/agimate-backend"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-01T12:06:23Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-09-01T12:02:18Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4507,
+    "updated_at": "2026-09-01T12:15:17Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:00:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
+    "id": "xynehq/jaf-py",
+    "language": "Python",
+    "name": "xynehq/jaf-py",
+    "stars": 9,
+    "updated_at": "2026-09-01T11:59:36Z",
+    "url": "https://github.com/xynehq/jaf-py"
+  },
+  {
     "description": "Autonomous multi-agent coordination for the JVM",
     "id": "mauro-mura/agenor",
     "language": "Java",
@@ -9,20 +126,20 @@
     "url": "https://github.com/mauro-mura/agenor"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-09-01T11:56:46Z",
-    "url": "https://github.com/Team-Commonly/commonly"
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5387,
+    "updated_at": "2026-09-01T11:55:33Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1976,
+    "stars": 1977,
     "updated_at": "2026-09-01T11:55:11Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -32,17 +149,8 @@
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1183,
-    "updated_at": "2026-09-01T11:52:34Z",
+    "updated_at": "2026-09-01T12:11:58Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4932,
-    "updated_at": "2026-09-01T12:00:01Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
@@ -52,15 +160,6 @@
     "stars": 266,
     "updated_at": "2026-09-01T12:00:14Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T11:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -79,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T11:38:17Z",
     "url": "https://github.com/llopresto87/Cypress"
-  },
-  {
-    "description": "Agentic framework for C#.",
-    "id": "superchar/SharpBond",
-    "language": "C#",
-    "name": "superchar/SharpBond",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:37:25Z",
-    "url": "https://github.com/superchar/SharpBond"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -184,7 +274,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19642,
+    "stars": 19643,
     "updated_at": "2026-09-01T11:25:55Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -196,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-09-01T11:41:03Z",
     "url": "https://github.com/sattyamjjain/ferrumdeck"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-01T11:21:24Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9572,
-    "updated_at": "2026-09-01T11:56:29Z",
+    "updated_at": "2026-09-01T12:14:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 18,
     "updated_at": "2026-09-01T11:12:39Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4507,
-    "updated_at": "2026-09-01T11:59:19Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Grok Build Web UI",
@@ -310,7 +382,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35316,
+    "stars": 35317,
     "updated_at": "2026-09-01T11:01:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -320,7 +392,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-01T11:55:14Z",
+    "updated_at": "2026-09-01T12:13:02Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -337,7 +409,7 @@
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
-    "stars": 135,
+    "stars": 136,
     "updated_at": "2026-09-01T10:48:59Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
   },
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-01T10:42:36Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:40:32Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Agentic LLM shell aimed at low cost GPUs",
-    "id": "chrisws/nitro",
-    "language": "C++",
-    "name": "chrisws/nitro",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:40:02Z",
-    "url": "https://github.com/chrisws/nitro"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:39:35Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "",
-    "id": "avdiam/nexus-framework",
-    "language": "Shell",
-    "name": "avdiam/nexus-framework",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:39:16Z",
-    "url": "https://github.com/avdiam/nexus-framework"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:39:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-09-01T10:38:23Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26384,
-    "updated_at": "2026-09-01T10:36:19Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-01T10:27:03Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
