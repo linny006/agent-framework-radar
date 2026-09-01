@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26385,
+    "updated_at": "2026-09-01T12:37:19Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
     "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
     "stars": 39275,
-    "updated_at": "2026-09-01T12:27:16Z",
+    "updated_at": "2026-09-01T12:36:53Z",
     "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9573,
+    "updated_at": "2026-09-01T12:42:44Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Autonomous multi-agent coordination for the JVM",
+    "id": "mauro-mura/agenor",
+    "language": "Java",
+    "name": "mauro-mura/agenor",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:35:10Z",
+    "url": "https://github.com/mauro-mura/agenor"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:33:53Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 267,
+    "updated_at": "2026-09-01T12:30:28Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-09-01T12:27:12Z",
+    "url": "https://github.com/Arasz/ai-badger"
   },
   {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T12:24:59Z",
     "url": "https://github.com/ludex-lab/ludex"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9573,
-    "updated_at": "2026-09-01T12:24:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -40,7 +94,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47605,
+    "stars": 47606,
     "updated_at": "2026-09-01T12:19:34Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -61,15 +115,6 @@
     "stars": 26,
     "updated_at": "2026-09-01T12:16:25Z",
     "url": "https://github.com/yuting-ai/asAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -95,7 +140,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4933,
-    "updated_at": "2026-09-01T12:22:22Z",
+    "updated_at": "2026-09-01T12:33:59Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-01T12:29:59Z",
+    "updated_at": "2026-09-01T12:43:48Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -167,17 +212,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T12:30:04Z",
+    "updated_at": "2026-09-01T12:42:49Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 267,
-    "updated_at": "2026-09-01T12:28:16Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
@@ -187,15 +223,6 @@
     "stars": 9,
     "updated_at": "2026-09-01T11:59:36Z",
     "url": "https://github.com/xynehq/jaf-py"
-  },
-  {
-    "description": "Autonomous multi-agent coordination for the JVM",
-    "id": "mauro-mura/agenor",
-    "language": "Java",
-    "name": "mauro-mura/agenor",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:59:17Z",
-    "url": "https://github.com/mauro-mura/agenor"
   },
   {
     "description": "Build distributed, production-grade, long-running agents.",
@@ -225,15 +252,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
-    "id": "llopresto87/Cypress",
-    "language": "Python",
-    "name": "llopresto87/Cypress",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:38:17Z",
-    "url": "https://github.com/llopresto87/Cypress"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13266,
-    "updated_at": "2026-09-01T11:35:54Z",
+    "updated_at": "2026-09-01T12:41:12Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-01T11:35:46Z",
+    "updated_at": "2026-09-01T12:38:27Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35317,
-    "updated_at": "2026-09-01T12:18:06Z",
+    "updated_at": "2026-09-01T12:43:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
-    "id": "mwb1219/mwb-ai-claw",
-    "language": "Java",
-    "name": "mwb1219/mwb-ai-claw",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:56:47Z",
-    "url": "https://github.com/mwb1219/mwb-ai-claw"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 136,
-    "updated_at": "2026-09-01T10:48:59Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   }
 ]
