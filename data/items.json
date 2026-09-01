@@ -1,12 +1,57 @@
 [
   {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "mystxcal/flourite",
+    "language": "Python",
+    "name": "mystxcal/flourite",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:11:19Z",
+    "url": "https://github.com/mystxcal/flourite"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-09-01T09:08:38Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-01T09:06:31Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 213,
+    "updated_at": "2026-09-01T09:05:17Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "UniEmployee \u662f\u4e00\u5957\u9762\u5411\u4f01\u4e1a\u7684\u6570\u5b57\u5458\u5de5\u6784\u5efa\u4e0e\u8fd0\u884c\u5e73\u53f0 | An enterprise platform for building and running AI digital employees \u2014 Employee \u2192 Work",
     "id": "zj-unicom-ai/UniEmployee",
     "language": "Python",
     "name": "zj-unicom-ai/UniEmployee",
     "stars": 26,
-    "updated_at": "2026-09-01T09:00:14Z",
+    "updated_at": "2026-09-01T09:00:36Z",
     "url": "https://github.com/zj-unicom-ai/UniEmployee"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T09:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
@@ -18,20 +63,20 @@
     "url": "https://github.com/xynehq/jaf-py"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-01T08:57:28Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 135,
+    "updated_at": "2026-09-01T09:00:01Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19632,
+    "stars": 19633,
     "updated_at": "2026-09-01T08:59:21Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -45,6 +90,15 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 50,
+    "updated_at": "2026-09-01T08:50:48Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T08:46:49Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T08:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9570,
-    "updated_at": "2026-09-01T09:00:11Z",
+    "updated_at": "2026-09-01T09:12:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -108,21 +153,12 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 135,
-    "updated_at": "2026-09-01T09:00:01Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-01T08:37:09Z",
+    "updated_at": "2026-09-01T09:15:04Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -130,8 +166,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13260,
-    "updated_at": "2026-09-01T08:36:41Z",
+    "stars": 13261,
+    "updated_at": "2026-09-01T09:14:18Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26381,
-    "updated_at": "2026-09-01T08:36:52Z",
+    "updated_at": "2026-09-01T09:11:39Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1973,
-    "updated_at": "2026-09-01T08:25:38Z",
+    "updated_at": "2026-09-01T09:12:52Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/gopact-ai/gopact"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-01T08:55:43Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Runnable examples for gopact",
     "id": "gopact-ai/gopact-examples",
     "language": "Go",
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-01T08:10:52Z",
+    "updated_at": "2026-09-01T09:03:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1181,
-    "updated_at": "2026-09-01T08:02:19Z",
+    "updated_at": "2026-09-01T09:12:13Z",
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
@@ -418,35 +445,8 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 15170,
+    "stars": 15171,
     "updated_at": "2026-09-01T07:28:57Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 280,
-    "updated_at": "2026-09-01T07:27:14Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4506,
-    "updated_at": "2026-09-01T09:00:23Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
-    "id": "sattyamjjain/ferrumdeck",
-    "language": "TypeScript",
-    "name": "sattyamjjain/ferrumdeck",
-    "stars": 7,
-    "updated_at": "2026-09-01T07:23:29Z",
-    "url": "https://github.com/sattyamjjain/ferrumdeck"
   }
 ]
