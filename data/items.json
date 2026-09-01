@@ -1,5 +1,59 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-09-01T07:56:24Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9571,
+    "updated_at": "2026-09-01T07:56:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Go SDK contracts for typed, observable, and resumable agent workflows",
+    "id": "gopact-ai/gopact",
+    "language": "Go",
+    "name": "gopact-ai/gopact",
+    "stars": 4,
+    "updated_at": "2026-09-01T07:54:01Z",
+    "url": "https://github.com/gopact-ai/gopact"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-09-01T07:51:18Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Runnable examples for gopact",
+    "id": "gopact-ai/gopact-examples",
+    "language": "Go",
+    "name": "gopact-ai/gopact-examples",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:47:08Z",
+    "url": "https://github.com/gopact-ai/gopact-examples"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T07:47:04Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -9,20 +63,11 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T07:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1973,
+    "stars": 1974,
     "updated_at": "2026-09-01T07:42:04Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1322,
-    "updated_at": "2026-09-01T07:39:30Z",
+    "updated_at": "2026-09-01T07:52:38Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -63,12 +108,21 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:35:58Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19630,
-    "updated_at": "2026-09-01T07:35:04Z",
+    "updated_at": "2026-09-01T07:55:45Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 105,
-    "updated_at": "2026-09-01T07:31:29Z",
+    "updated_at": "2026-09-01T07:57:56Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 279,
     "updated_at": "2026-09-01T07:27:14Z",
     "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9571,
-    "updated_at": "2026-09-01T07:45:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T07:36:55Z",
+    "updated_at": "2026-09-01T07:52:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-09-01T07:30:26Z",
+    "updated_at": "2026-09-01T07:52:39Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:05:38Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:05:38Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:05:34Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
-    "id": "mybay-ai/mybay",
-    "language": "TypeScript",
-    "name": "mybay-ai/mybay",
-    "stars": 2,
-    "updated_at": "2026-09-01T07:07:10Z",
-    "url": "https://github.com/mybay-ai/mybay"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 50,
-    "updated_at": "2026-09-01T07:04:29Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery",
-    "id": "malevrigns/atlas-agent-control-plane",
-    "language": "Python",
-    "name": "malevrigns/atlas-agent-control-plane",
-    "stars": 99,
-    "updated_at": "2026-09-01T07:03:01Z",
-    "url": "https://github.com/malevrigns/atlas-agent-control-plane"
   }
 ]
