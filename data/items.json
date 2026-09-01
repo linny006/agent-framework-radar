@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:55:58Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
     "id": "yuting-ai/asAgent",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 26,
     "updated_at": "2026-09-01T12:55:06Z",
     "url": "https://github.com/yuting-ai/asAgent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35318,
+    "updated_at": "2026-09-01T12:51:59Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Autonomous agent OS: multi-agent system that turns GitHub issues into shipped PRs \u2014 task routing, self-healing CI, sprin",
@@ -27,13 +45,13 @@
     "url": "https://github.com/ludex-lab/ludex"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-09-01T12:46:07Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13266,
-    "updated_at": "2026-09-01T12:55:25Z",
+    "updated_at": "2026-09-01T12:57:35Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26385,
-    "updated_at": "2026-09-01T12:37:19Z",
+    "updated_at": "2026-09-01T12:59:02Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
     "stars": 39274,
-    "updated_at": "2026-09-01T12:36:53Z",
+    "updated_at": "2026-09-01T12:57:06Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-01T12:53:37Z",
+    "updated_at": "2026-09-01T12:56:44Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -248,7 +266,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T12:53:04Z",
+    "updated_at": "2026-09-01T12:58:12Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 153,
-    "updated_at": "2026-09-01T12:01:46Z",
+    "updated_at": "2026-09-01T12:56:33Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-01T12:38:27Z",
+    "updated_at": "2026-09-01T12:57:23Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T11:07:49Z",
     "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "Grok Build Remote Web UI ACP Host",
-    "id": "AgentsHarness/capri-host",
-    "language": "Go",
-    "name": "AgentsHarness/capri-host",
-    "stars": 2,
-    "updated_at": "2026-09-01T11:08:13Z",
-    "url": "https://github.com/AgentsHarness/capri-host"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-01T11:04:09Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
