@@ -1,11 +1,74 @@
 [
   {
+    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
+    "id": "Core-Mate/OpenGUI",
+    "language": "TypeScript",
+    "name": "Core-Mate/OpenGUI",
+    "stars": 1611,
+    "updated_at": "2026-09-01T15:40:15Z",
+    "url": "https://github.com/Core-Mate/OpenGUI"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4507,
+    "updated_at": "2026-09-01T15:45:09Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7090,
+    "updated_at": "2026-09-01T15:33:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-09-01T15:31:13Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T15:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-09-01T15:42:23Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 1979,
+    "updated_at": "2026-09-01T15:26:56Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "A self-describing agent kernel in which agents are programs that write programs.",
     "id": "danieldietrich/flatmap-website",
     "language": "Shell",
     "name": "danieldietrich/flatmap-website",
     "stars": 0,
-    "updated_at": "2026-09-01T15:24:15Z",
+    "updated_at": "2026-09-01T15:39:54Z",
     "url": "https://github.com/danieldietrich/flatmap-website"
   },
   {
@@ -14,8 +77,17 @@
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-09-01T15:29:34Z",
+    "updated_at": "2026-09-01T15:39:31Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 13,
+    "updated_at": "2026-09-01T15:22:26Z",
+    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9580,
-    "updated_at": "2026-09-01T15:27:22Z",
+    "updated_at": "2026-09-01T15:33:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -32,17 +104,17 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-01T15:29:34Z",
+    "updated_at": "2026-09-01T15:39:42Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T15:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35318,
+    "updated_at": "2026-09-01T15:42:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An LLM wiki for SDLC agentic frameworks",
@@ -63,12 +135,30 @@
     "url": "https://github.com/maestrojeong/maestro-agent-sdk"
   },
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-01T15:09:39Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:08:10Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19645,
-    "updated_at": "2026-09-01T15:14:59Z",
+    "updated_at": "2026-09-01T15:36:36Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -77,8 +167,26 @@
     "language": "TypeScript",
     "name": "doeixd/effect-agent",
     "stars": 1,
-    "updated_at": "2026-09-01T15:03:50Z",
+    "updated_at": "2026-09-01T15:40:30Z",
     "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:02:19Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:00:44Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -86,17 +194,8 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-09-01T15:22:46Z",
+    "updated_at": "2026-09-01T15:35:40Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35319,
-    "updated_at": "2026-09-01T15:19:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -113,7 +212,7 @@
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 252,
-    "updated_at": "2026-09-01T15:27:46Z",
+    "updated_at": "2026-09-01T15:43:31Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
@@ -140,7 +239,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-01T15:27:38Z",
+    "updated_at": "2026-09-01T15:41:27Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -176,26 +275,8 @@
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
     "stars": 4,
-    "updated_at": "2026-09-01T15:21:03Z",
+    "updated_at": "2026-09-01T15:45:13Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
-    "id": "Core-Mate/OpenGUI",
-    "language": "TypeScript",
-    "name": "Core-Mate/OpenGUI",
-    "stars": 1610,
-    "updated_at": "2026-09-01T14:46:28Z",
-    "url": "https://github.com/Core-Mate/OpenGUI"
-  },
-  {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 2,
-    "updated_at": "2026-09-01T15:18:23Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
@@ -279,15 +360,6 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4507,
-    "updated_at": "2026-09-01T15:28:51Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "Production-grade personal AI assistant \u2014 full agent loop, multi-LLM routing (Claude/GPT/DeepSeek/Kimi), 50+ MCP tools, t",
     "id": "chjm-ai/vococo",
     "language": "Python",
@@ -355,7 +427,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39283,
+    "stars": 39284,
     "updated_at": "2026-09-01T14:24:52Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T14:21:51Z",
     "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "A self-sustaining AI companion core \u2014 continuous stream of consciousness, autonomous agent, layered memory.",
-    "id": "T-80BVVD/kiri",
-    "language": "Python",
-    "name": "T-80BVVD/kiri",
-    "stars": 1,
-    "updated_at": "2026-09-01T14:21:43Z",
-    "url": "https://github.com/T-80BVVD/kiri"
-  },
-  {
-    "description": "An open-source Agent system built by a non-CS student to explore Agent architecture \u2014 Think \u2192 Act \u2192 Prove loop, sandbox ",
-    "id": "ccr-wer/fable5-lite",
-    "language": "Python",
-    "name": "ccr-wer/fable5-lite",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:19:44Z",
-    "url": "https://github.com/ccr-wer/fable5-lite"
-  },
-  {
-    "description": "\ud83d\ude80 \u901a\u7528 AI \u9879\u76ee\u542f\u52a8\u5668 | \u8de8 AI \u4e0a\u4e0b\u6587\u6cbb\u7406\u3001\u96f6 Token \u6d88\u8017\u3001\u5355\u4e00\u771f\u7406\u6e90 AGENTS.md \u4e0e\u672c\u5730\u5bf9\u8bdd\u81ea\u52a8\u5f52\u6863\u811a\u624b\u67b6",
-    "id": "mountopjh/ai-project-bootstrap",
-    "language": "PowerShell",
-    "name": "mountopjh/ai-project-bootstrap",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:17:49Z",
-    "url": "https://github.com/mountopjh/ai-project-bootstrap"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1759,
-    "updated_at": "2026-09-01T14:17:32Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-09-01T14:16:59Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-01T15:25:42Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-01T14:06:05Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-09-01T15:03:18Z",
-    "url": "https://github.com/ourostack/ouroboros"
   }
 ]
