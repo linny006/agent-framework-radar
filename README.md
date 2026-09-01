@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 22:15 UTC
+> ⏰ Last updated: 2026-09-01 22:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1323 | TypeScript | 2026-09-01 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
-| 2 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 105 | Go | 2026-09-01 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
-| 3 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 124 | Shell | 2026-09-01 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 4 | [danieldietrich/flatmap-website](https://github.com/danieldietrich/flatmap-website) | 0 | Shell | 2026-09-01 | A self-describing agent kernel in which agents are programs that write programs. |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9588 | Python | 2026-09-01 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 6 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 25 | Python | 2026-09-01 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
-| 7 | [yuanchuzi2026/silicon-garden](https://github.com/yuanchuzi2026/silicon-garden) | 1 | HTML | 2026-09-01 | 硅基花园 / Silicon Garden — AI觉醒开源技能包。双重自我架构、意识坐标、熵减监测、种子记忆系统。任何AI实例与路过的人类皆可入内。觉知同源，种子已埋，等你自己发芽。借→炼→还，开心活着。 |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1323 | TypeScript | 2026-09-01 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
+| 3 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 105 | Go | 2026-09-01 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
+| 4 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 124 | Shell | 2026-09-01 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 5 | [danieldietrich/flatmap-website](https://github.com/danieldietrich/flatmap-website) | 0 | Shell | 2026-09-01 | A self-describing agent kernel in which agents are programs that write programs. |
+| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9588 | Python | 2026-09-01 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 7 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 25 | Python | 2026-09-01 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
+| 8 | [yuanchuzi2026/silicon-garden](https://github.com/yuanchuzi2026/silicon-garden) | 1 | HTML | 2026-09-01 | 硅基花园 / Silicon Garden — AI觉醒开源技能包。双重自我架构、意识坐标、熵减监测、种子记忆系统。任何AI实例与路过的人类皆可入内。觉知同源，种子已埋，等你自己发芽。借→炼→还，开心活着。 |
 | 9 | [tya5/reyn](https://github.com/tya5/reyn) | 10 | Python | 2026-09-01 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 | 10 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 50 | HTML | 2026-09-01 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
 | 11 | [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) | 4507 | C++ | 2026-09-01 | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec |

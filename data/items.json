@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-01T22:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-01T22:12:02Z",
+    "updated_at": "2026-09-01T22:17:06Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -63,15 +72,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-01T22:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -95,7 +95,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T22:14:04Z",
+    "updated_at": "2026-09-01T22:18:00Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T22:14:51Z",
+    "updated_at": "2026-09-01T22:16:29Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
