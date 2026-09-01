@@ -1,5 +1,50 @@
 [
   {
+    "description": "A self-describing agent kernel in which agents are programs that write programs.",
+    "id": "danieldietrich/flatmap-website",
+    "language": "Shell",
+    "name": "danieldietrich/flatmap-website",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:24:15Z",
+    "url": "https://github.com/danieldietrich/flatmap-website"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-09-01T15:29:34Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9580,
+    "updated_at": "2026-09-01T15:27:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-09-01T15:29:34Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T15:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An LLM wiki for SDLC agentic frameworks",
     "id": "pmackay/sdlc-wiki",
     "language": "\u2014",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "maestrojeong/maestro-agent-sdk",
     "stars": 11,
-    "updated_at": "2026-09-01T15:10:10Z",
+    "updated_at": "2026-09-01T15:29:09Z",
     "url": "https://github.com/maestrojeong/maestro-agent-sdk"
   },
   {
@@ -27,22 +72,22 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:03:50Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-09-01T15:00:42Z",
+    "updated_at": "2026-09-01T15:22:46Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T15:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -50,7 +95,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35319,
-    "updated_at": "2026-09-01T15:12:13Z",
+    "updated_at": "2026-09-01T15:19:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 252,
-    "updated_at": "2026-09-01T15:10:11Z",
+    "updated_at": "2026-09-01T15:27:46Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
@@ -86,7 +131,7 @@
     "language": "JavaScript",
     "name": "sycdan/nosedive",
     "stars": 1,
-    "updated_at": "2026-09-01T14:55:14Z",
+    "updated_at": "2026-09-01T15:27:02Z",
     "url": "https://github.com/sycdan/nosedive"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-01T15:14:46Z",
+    "updated_at": "2026-09-01T15:27:38Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -117,22 +162,22 @@
     "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1099,
+    "updated_at": "2026-09-01T14:50:34Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
     "id": "polymind-inc/agent-framework-js",
     "language": "TypeScript",
     "name": "polymind-inc/agent-framework-js",
     "stars": 4,
-    "updated_at": "2026-09-01T15:13:37Z",
+    "updated_at": "2026-09-01T15:21:03Z",
     "url": "https://github.com/polymind-inc/agent-framework-js"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:03:50Z",
-    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
@@ -144,30 +189,12 @@
     "url": "https://github.com/Core-Mate/OpenGUI"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9578,
-    "updated_at": "2026-09-01T15:13:59Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1099,
-    "updated_at": "2026-09-01T14:50:34Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-01T15:13:15Z",
+    "updated_at": "2026-09-01T15:18:23Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -178,6 +205,24 @@
     "stars": 2,
     "updated_at": "2026-09-01T14:41:54Z",
     "url": "https://github.com/derekhu0002/archgraph"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 136,
+    "updated_at": "2026-09-01T15:17:08Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:35:27Z",
+    "url": "https://github.com/LioRael/lenso-agent"
   },
   {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
@@ -239,7 +284,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T15:00:10Z",
+    "updated_at": "2026-09-01T15:28:51Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "loomtrace/loomtrace",
     "stars": 0,
-    "updated_at": "2026-09-01T14:30:21Z",
+    "updated_at": "2026-09-01T15:27:38Z",
     "url": "https://github.com/loomtrace/loomtrace"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T14:27:32Z",
     "url": "https://github.com/harshsinghmp/muse-agents"
-  },
-  {
-    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
-    "id": "Allura-Ecosystem/Allura_Memory",
-    "language": "TypeScript",
-    "name": "Allura-Ecosystem/Allura_Memory",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:25:11Z",
-    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
     "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
@@ -369,15 +405,6 @@
     "url": "https://github.com/mountopjh/ai-project-bootstrap"
   },
   {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 136,
-    "updated_at": "2026-09-01T14:36:55Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -401,7 +428,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-01T14:14:44Z",
+    "updated_at": "2026-09-01T15:25:42Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T15:03:18Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
-    "id": "jiabaobei/skills-constitution",
-    "language": "Python",
-    "name": "jiabaobei/skills-constitution",
-    "stars": 208,
-    "updated_at": "2026-09-01T14:00:33Z",
-    "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:59:27Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "An intent-gated motivational control kernel for AI agents.",
-    "id": "utsapoddar/dopa-kernel",
-    "language": "Python",
-    "name": "utsapoddar/dopa-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:58:58Z",
-    "url": "https://github.com/utsapoddar/dopa-kernel"
   }
 ]
