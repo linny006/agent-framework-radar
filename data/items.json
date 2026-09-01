@@ -1,5 +1,140 @@
 [
   {
+    "description": "A self-describing agent kernel in which agents are programs that write programs.",
+    "id": "danieldietrich/flatmap-website",
+    "language": "Shell",
+    "name": "danieldietrich/flatmap-website",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:59:51Z",
+    "url": "https://github.com/danieldietrich/flatmap-website"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-09-01T22:58:53Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-01T22:57:45Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-01T23:00:13Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-01T22:56:12Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 31,
+    "updated_at": "2026-09-01T22:56:07Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:55:52Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:55:47Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:53:00Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
+    "id": "pingpongballbouncingbetty737/embabel-agent",
+    "language": "\u2014",
+    "name": "pingpongballbouncingbetty737/embabel-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T22:51:42Z",
+    "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4507,
+    "updated_at": "2026-09-01T22:51:16Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
+    "id": "tripledoublev/v100",
+    "language": "Go",
+    "name": "tripledoublev/v100",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:47:13Z",
+    "url": "https://github.com/tripledoublev/v100"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-09-01T22:54:39Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-01T22:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 1,
+    "updated_at": "2026-09-01T22:45:20Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -9,21 +144,12 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
-    "id": "tripledoublev/v100",
-    "language": "Go",
-    "name": "tripledoublev/v100",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:45:00Z",
-    "url": "https://github.com/tripledoublev/v100"
-  },
-  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-01T22:44:35Z",
+    "updated_at": "2026-09-01T22:57:08Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -52,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:43:40Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-01T22:41:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-01T22:41:26Z",
-    "url": "https://github.com/kdcube/kdcube"
   },
   {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
@@ -113,17 +221,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9590,
-    "updated_at": "2026-09-01T22:34:19Z",
+    "updated_at": "2026-09-01T22:46:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-09-01T22:36:27Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
@@ -142,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:32:09Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-01T22:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:28:27Z",
     "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
-  },
-  {
-    "description": "A self-describing agent kernel in which agents are programs that write programs.",
-    "id": "danieldietrich/flatmap-website",
-    "language": "Shell",
-    "name": "danieldietrich/flatmap-website",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:28:23Z",
-    "url": "https://github.com/danieldietrich/flatmap-website"
   },
   {
     "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-01T22:18:14Z",
+    "updated_at": "2026-09-01T22:58:00Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -270,21 +351,12 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4507,
-    "updated_at": "2026-09-01T22:37:42Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-01T22:44:32Z",
+    "updated_at": "2026-09-01T22:58:26Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -356,7 +428,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19648,
-    "updated_at": "2026-09-01T22:43:49Z",
+    "updated_at": "2026-09-01T22:59:23Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T21:24:50Z",
     "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-01T21:15:54Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-01T21:09:33Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 68,
-    "updated_at": "2026-09-01T21:04:04Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Open Souls \u2014 independent third-party profile of a public API surface, by API Evangelist. Open Souls is an open-source fr",
-    "id": "api-evangelist/open-souls",
-    "language": "\u2014",
-    "name": "api-evangelist/open-souls",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:55:09Z",
-    "url": "https://github.com/api-evangelist/open-souls"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 1,
-    "updated_at": "2026-09-01T20:48:13Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:48:01Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:41:48Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 1983,
-    "updated_at": "2026-09-01T20:37:07Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
