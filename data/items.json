@@ -1,12 +1,93 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 50,
+    "updated_at": "2026-09-01T10:10:18Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:14:33Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "A lightweight A2A-first Python framework for pluggable agents and multi-agent systems. One runtime dependency, swappable",
+    "id": "AwsafOnom/Parley",
+    "language": "Python",
+    "name": "AwsafOnom/Parley",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:07:46Z",
+    "url": "https://github.com/AwsafOnom/Parley"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4933,
+    "updated_at": "2026-09-01T10:13:06Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Hive mind mechanics for agents. A step closer towards AGI",
+    "id": "tinyhumansai/tinyhivemind",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyhivemind",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:03:35Z",
+    "url": "https://github.com/tinyhumansai/tinyhivemind"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-01T10:00:17Z",
+    "updated_at": "2026-09-01T10:12:34Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
+    "id": "yuting-ai/asAgent",
+    "language": "Python",
+    "name": "yuting-ai/asAgent",
+    "stars": 26,
+    "updated_at": "2026-09-01T10:03:08Z",
+    "url": "https://github.com/yuting-ai/asAgent"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19637,
+    "updated_at": "2026-09-01T10:01:15Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-01T09:59:33Z",
+    "url": "https://github.com/kdcube/kdcube"
   },
   {
     "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13263,
-    "updated_at": "2026-09-01T09:57:25Z",
+    "updated_at": "2026-09-01T10:02:49Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T09:56:17Z",
+    "updated_at": "2026-09-01T10:09:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -50,17 +131,8 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-01T09:57:41Z",
+    "updated_at": "2026-09-01T10:14:51Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Hive mind mechanics for agents. A step closer towards AGI",
-    "id": "tinyhumansai/tinyhivemind",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyhivemind",
-    "stars": 1,
-    "updated_at": "2026-09-01T09:50:35Z",
-    "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -68,17 +140,8 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1975,
-    "updated_at": "2026-09-01T09:50:27Z",
+    "updated_at": "2026-09-01T10:12:24Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19635,
-    "updated_at": "2026-09-01T09:58:57Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Where agents build agents. An agentic build system for agentic systems \u2014 ontology-grounded, auditable, one Rust binary.",
@@ -97,15 +160,6 @@
     "stars": 13,
     "updated_at": "2026-09-01T09:47:01Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T09:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent friendly memory system ",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9571,
-    "updated_at": "2026-09-01T09:58:23Z",
+    "updated_at": "2026-09-01T10:14:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -149,7 +203,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T09:58:14Z",
+    "updated_at": "2026-09-01T10:14:04Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -207,24 +261,6 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-09-01T09:57:56Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "A lightweight A2A-first Python framework for pluggable agents and multi-agent systems. One runtime dependency, swappable",
-    "id": "AwsafOnom/Parley",
-    "language": "Python",
-    "name": "AwsafOnom/Parley",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:57:44Z",
-    "url": "https://github.com/AwsafOnom/Parley"
-  },
-  {
     "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
     "id": "Eclipseic1848/CoreMind",
     "language": "TypeScript",
@@ -270,15 +306,6 @@
     "url": "https://github.com/lzy1102/openaide"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4933,
-    "updated_at": "2026-09-01T09:53:59Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -310,7 +337,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 6168,
+    "stars": 6169,
     "updated_at": "2026-09-01T09:20:34Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -329,7 +356,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-01T09:08:38Z",
+    "updated_at": "2026-09-01T10:11:57Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-09-01T09:44:33Z",
+    "updated_at": "2026-09-01T10:07:00Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T08:34:38Z",
     "url": "https://github.com/Allura-Ecosystem/allura-plugins"
-  },
-  {
-    "description": "Spore Agent\u2014\u2014\u66f4\u52a0\u53cb\u597d\u7684\u4eba\u673a\u4ea4\u4e92Agent\u3002Spore Agent \u2014 An AI agent built for better human interaction.",
-    "id": "miunasu/Spore",
-    "language": "Python",
-    "name": "miunasu/Spore",
-    "stars": 52,
-    "updated_at": "2026-09-01T08:34:21Z",
-    "url": "https://github.com/miunasu/Spore"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:29:55Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3905,
-    "updated_at": "2026-09-01T08:29:06Z",
-    "url": "https://github.com/evalstate/fast-agent"
   }
 ]
