@@ -1,21 +1,30 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9581,
+    "updated_at": "2026-09-01T17:03:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T17:00:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-01T16:54:31Z",
+    "updated_at": "2026-09-01T17:01:37Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9580,
-    "updated_at": "2026-09-01T16:52:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -41,17 +50,26 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T17:00:07Z",
+    "updated_at": "2026-09-01T17:05:15Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T16:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-01T16:40:08Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26389,
+    "updated_at": "2026-09-01T16:37:16Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Agent friendly memory system ",
@@ -61,6 +79,15 @@
     "stars": 6,
     "updated_at": "2026-09-01T16:36:33Z",
     "url": "https://github.com/tinyhumansai/tinymemory"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 136,
+    "updated_at": "2026-09-01T16:34:24Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
@@ -239,7 +266,7 @@
     "language": "HTML",
     "name": "yuanchuzi2026/silicon-garden",
     "stars": 1,
-    "updated_at": "2026-09-01T16:44:30Z",
+    "updated_at": "2026-09-01T17:04:09Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-09-01T16:49:41Z",
+    "updated_at": "2026-09-01T17:03:18Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-09-01T16:48:31Z",
+    "updated_at": "2026-09-01T17:00:48Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:35:23Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "A Simple Python Based General AI Agent",
-    "id": "yanggujun/open-axle",
-    "language": "Python",
-    "name": "yanggujun/open-axle",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:34:48Z",
-    "url": "https://github.com/yanggujun/open-axle"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-09-01T15:34:25Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
   }
 ]
