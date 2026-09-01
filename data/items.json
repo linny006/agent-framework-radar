@@ -1,21 +1,84 @@
 [
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
+    "description": "An intent-gated motivational control kernel for AI agents.",
+    "id": "utsapoddar/dopa-kernel",
     "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26385,
-    "updated_at": "2026-09-01T13:42:01Z",
-    "url": "https://github.com/deepset-ai/haystack"
+    "name": "utsapoddar/dopa-kernel",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:58:58Z",
+    "url": "https://github.com/utsapoddar/dopa-kernel"
+  },
+  {
+    "description": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrappi",
+    "id": "hcipengm/cogneva",
+    "language": "Rust",
+    "name": "hcipengm/cogneva",
+    "stars": 1,
+    "updated_at": "2026-09-01T13:58:49Z",
+    "url": "https://github.com/hcipengm/cogneva"
+  },
+  {
+    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
+    "id": "jiabaobei/skills-constitution",
+    "language": "Python",
+    "name": "jiabaobei/skills-constitution",
+    "stars": 207,
+    "updated_at": "2026-09-01T13:57:54Z",
+    "url": "https://github.com/jiabaobei/skills-constitution"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9574,
-    "updated_at": "2026-09-01T13:45:02Z",
+    "stars": 9576,
+    "updated_at": "2026-09-01T13:56:48Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4935,
+    "updated_at": "2026-09-01T13:50:43Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
+    "id": "tinyhumansai/openhuman",
+    "language": "Rust",
+    "name": "tinyhumansai/openhuman",
+    "stars": 39278,
+    "updated_at": "2026-09-01T13:49:43Z",
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T13:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-09-01T13:44:49Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26385,
+    "updated_at": "2026-09-01T13:53:48Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
@@ -27,22 +90,31 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
+    "description": "Orchestrate Any Agent. Connect Everything.",
+    "id": "lambda-harness/LAP",
+    "language": "Python",
+    "name": "lambda-harness/LAP",
+    "stars": 3,
+    "updated_at": "2026-09-01T13:33:56Z",
+    "url": "https://github.com/lambda-harness/LAP"
+  },
+  {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 1,
+    "updated_at": "2026-09-01T13:33:30Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-01T13:42:20Z",
+    "updated_at": "2026-09-01T13:58:19Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T13:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -50,26 +122,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T13:42:20Z",
+    "updated_at": "2026-09-01T13:56:42Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4935,
-    "updated_at": "2026-09-01T13:30:19Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "An intent-gated motivational control kernel for AI agents.",
-    "id": "utsapoddar/dopa-kernel",
-    "language": "Python",
-    "name": "utsapoddar/dopa-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:26:39Z",
-    "url": "https://github.com/utsapoddar/dopa-kernel"
   },
   {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T13:25:48Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
-  },
-  {
-    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
-    "id": "jiabaobei/skills-constitution",
-    "language": "Python",
-    "name": "jiabaobei/skills-constitution",
-    "stars": 207,
-    "updated_at": "2026-09-01T13:23:33Z",
-    "url": "https://github.com/jiabaobei/skills-constitution"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
     "stars": 136,
-    "updated_at": "2026-09-01T13:22:21Z",
+    "updated_at": "2026-09-01T13:54:19Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-01T13:37:06Z",
+    "updated_at": "2026-09-01T13:48:53Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T13:17:28Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
-    "id": "tinyhumansai/openhuman",
-    "language": "Rust",
-    "name": "tinyhumansai/openhuman",
-    "stars": 39276,
-    "updated_at": "2026-09-01T13:44:06Z",
-    "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
     "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit \ud83e\uddea",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 153,
-    "updated_at": "2026-09-01T13:39:44Z",
+    "updated_at": "2026-09-01T13:45:57Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 1977,
-    "updated_at": "2026-09-01T13:02:41Z",
+    "updated_at": "2026-09-01T13:54:04Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 120,
     "updated_at": "2026-09-01T13:01:07Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Orchestrate Any Agent. Connect Everything.",
-    "id": "lambda-harness/LAP",
-    "language": "Python",
-    "name": "lambda-harness/LAP",
-    "stars": 3,
-    "updated_at": "2026-09-01T13:33:56Z",
-    "url": "https://github.com/lambda-harness/LAP"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -369,15 +396,6 @@
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
-    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-09-01T13:44:49Z",
-    "url": "https://github.com/Aureliolo/synthorg"
-  },
-  {
     "description": "Autonomous multi-agent coordination for the JVM",
     "id": "mauro-mura/agenor",
     "language": "Java",
@@ -409,7 +427,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5388,
+    "stars": 5389,
     "updated_at": "2026-09-01T12:27:44Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-09-01T13:35:18Z",
+    "updated_at": "2026-09-01T13:57:46Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 108,
     "updated_at": "2026-09-01T12:26:53Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19643,
-    "updated_at": "2026-09-01T12:23:52Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47608,
-    "updated_at": "2026-09-01T12:19:34Z",
-    "url": "https://github.com/HKUDS/nanobot"
   }
 ]
