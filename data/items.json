@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26385,
+    "updated_at": "2026-09-01T13:42:01Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9574,
+    "updated_at": "2026-09-01T13:45:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-09-01T13:34:05Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 2,
+    "updated_at": "2026-09-01T13:42:20Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T13:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4507,
+    "updated_at": "2026-09-01T13:42:20Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T13:26:39Z",
     "url": "https://github.com/utsapoddar/dopa-kernel"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9574,
-    "updated_at": "2026-09-01T13:28:23Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
@@ -54,13 +99,13 @@
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26385,
-    "updated_at": "2026-09-01T13:23:20Z",
-    "url": "https://github.com/deepset-ai/haystack"
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 136,
+    "updated_at": "2026-09-01T13:22:21Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
@@ -68,7 +113,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-01T13:21:20Z",
+    "updated_at": "2026-09-01T13:37:06Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -76,9 +121,27 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35319,
+    "stars": 35320,
     "updated_at": "2026-09-01T13:19:53Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:17:28Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
+    "id": "tinyhumansai/openhuman",
+    "language": "Rust",
+    "name": "tinyhumansai/openhuman",
+    "stars": 39276,
+    "updated_at": "2026-09-01T13:44:06Z",
+    "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
     "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit \ud83e\uddea",
@@ -90,22 +153,31 @@
     "url": "https://github.com/msoedov/agentic_security"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T13:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-09-01T13:15:29Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
     "id": "Core-Mate/OpenGUI",
     "language": "TypeScript",
     "name": "Core-Mate/OpenGUI",
-    "stars": 1607,
-    "updated_at": "2026-09-01T13:15:07Z",
+    "stars": 1608,
+    "updated_at": "2026-09-01T13:38:08Z",
     "url": "https://github.com/Core-Mate/OpenGUI"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2279,
+    "updated_at": "2026-09-01T13:11:59Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -122,17 +194,8 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 153,
-    "updated_at": "2026-09-01T13:10:44Z",
+    "updated_at": "2026-09-01T13:39:44Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 2,
-    "updated_at": "2026-09-01T13:26:30Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7089,
-    "updated_at": "2026-09-01T13:08:52Z",
+    "updated_at": "2026-09-01T13:41:39Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -180,6 +243,15 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13267,
+    "updated_at": "2026-09-01T13:02:01Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "lambda-harness/LAP",
     "stars": 3,
-    "updated_at": "2026-09-01T12:59:23Z",
+    "updated_at": "2026-09-01T13:33:56Z",
     "url": "https://github.com/lambda-harness/LAP"
   },
   {
@@ -214,15 +286,6 @@
     "stars": 13,
     "updated_at": "2026-09-01T12:58:30Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13267,
-    "updated_at": "2026-09-01T13:02:01Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -250,15 +313,6 @@
     "stars": 124,
     "updated_at": "2026-09-01T12:57:23Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
-    "id": "tinyhumansai/openhuman",
-    "language": "Rust",
-    "name": "tinyhumansai/openhuman",
-    "stars": 39276,
-    "updated_at": "2026-09-01T13:16:59Z",
-    "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
     "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "Aureliolo/synthorg",
     "stars": 9,
-    "updated_at": "2026-09-01T13:30:01Z",
+    "updated_at": "2026-09-01T13:44:49Z",
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-09-01T12:27:12Z",
+    "updated_at": "2026-09-01T13:35:18Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -378,75 +432,21 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19643,
+    "updated_at": "2026-09-01T12:23:52Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47607,
+    "stars": 47608,
     "updated_at": "2026-09-01T12:19:34Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 352,
-    "updated_at": "2026-09-01T12:18:26Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:13:02Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1183,
-    "updated_at": "2026-09-01T12:11:58Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-01T12:09:59Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Agentic framework for C#.",
-    "id": "superchar/SharpBond",
-    "language": "C#",
-    "name": "superchar/SharpBond",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:09:18Z",
-    "url": "https://github.com/superchar/SharpBond"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:06:25Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
-    "id": "AgiMateIo/agimate-backend",
-    "language": "Java",
-    "name": "AgiMateIo/agimate-backend",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:15:18Z",
-    "url": "https://github.com/AgiMateIo/agimate-backend"
   }
 ]
