@@ -1,5 +1,68 @@
 [
   {
+    "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
+    "id": "no-human-ai/no_human",
+    "language": "Python",
+    "name": "no-human-ai/no_human",
+    "stars": 216,
+    "updated_at": "2026-09-01T06:28:42Z",
+    "url": "https://github.com/no-human-ai/no_human"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26380,
+    "updated_at": "2026-09-01T06:27:33Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9568,
+    "updated_at": "2026-09-01T06:26:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T06:20:30Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35308,
+    "updated_at": "2026-09-01T06:18:54Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T06:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1181,
+    "updated_at": "2026-09-01T06:14:54Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
     "description": "A TypeScript implementation of the Microsoft Agent Framework programming model, with semantic parity to the official .NE",
     "id": "polymind-inc/agent-framework-js",
     "language": "TypeScript",
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T06:09:24Z",
     "url": "https://github.com/Inupedia/spotlight"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9568,
-    "updated_at": "2026-09-01T06:14:13Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The Perceptual Layer for AI \u2014 Machines Learned to Think. We're Teaching Them to Perceive.",
@@ -81,24 +135,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35307,
-    "updated_at": "2026-09-01T06:01:18Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T06:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -122,7 +158,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4505,
-    "updated_at": "2026-09-01T06:10:50Z",
+    "updated_at": "2026-09-01T06:28:08Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-01T06:12:03Z",
+    "updated_at": "2026-09-01T06:19:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T05:49:55Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26378,
-    "updated_at": "2026-09-01T05:46:00Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 77,
-    "updated_at": "2026-09-01T05:40:23Z",
+    "updated_at": "2026-09-01T06:19:48Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-01T05:17:05Z",
+    "updated_at": "2026-09-01T06:21:06Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -306,20 +333,11 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:00:30Z",
-    "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 270,
+    "stars": 271,
     "updated_at": "2026-09-01T05:09:08Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "synapse-ai-hub/synapseForge",
     "stars": 3,
-    "updated_at": "2026-09-01T05:34:11Z",
+    "updated_at": "2026-09-01T06:23:36Z",
     "url": "https://github.com/synapse-ai-hub/synapseForge"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-01T04:39:05Z",
     "url": "https://github.com/substructureai/subs"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-01T04:35:27Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.",
-    "id": "juanmanueldaza/n3rv",
-    "language": "Python",
-    "name": "juanmanueldaza/n3rv",
-    "stars": 9,
-    "updated_at": "2026-09-01T04:51:27Z",
-    "url": "https://github.com/juanmanueldaza/n3rv"
   }
 ]
