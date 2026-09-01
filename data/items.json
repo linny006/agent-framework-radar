@@ -1,5 +1,23 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:58:17Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-01T19:55:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
     "id": "api-evangelist/autogen-studio",
     "language": "\u2014",
@@ -25,15 +43,6 @@
     "stars": 20,
     "updated_at": "2026-09-01T19:52:29Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-01T19:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
@@ -104,7 +113,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-01T19:55:02Z",
+    "updated_at": "2026-09-01T19:57:12Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-01T19:49:11Z",
+    "updated_at": "2026-09-01T19:56:22Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19647,
-    "updated_at": "2026-09-01T19:48:34Z",
+    "updated_at": "2026-09-01T19:59:24Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T17:42:42Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
-    "id": "Yigtwxx/Maestro",
-    "language": "Python",
-    "name": "Yigtwxx/Maestro",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:41:52Z",
-    "url": "https://github.com/Yigtwxx/Maestro"
   }
 ]
