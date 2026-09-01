@@ -1,5 +1,59 @@
 [
   {
+    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
+    "id": "yuting-ai/asAgent",
+    "language": "Python",
+    "name": "yuting-ai/asAgent",
+    "stars": 26,
+    "updated_at": "2026-09-01T12:55:06Z",
+    "url": "https://github.com/yuting-ai/asAgent"
+  },
+  {
+    "description": "Autonomous agent OS: multi-agent system that turns GitHub issues into shipped PRs \u2014 task routing, self-healing CI, sprin",
+    "id": "kai-linux/agent-os",
+    "language": "Python",
+    "name": "kai-linux/agent-os",
+    "stars": 5,
+    "updated_at": "2026-09-01T12:49:24Z",
+    "url": "https://github.com/kai-linux/agent-os"
+  },
+  {
+    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
+    "id": "ludex-lab/ludex",
+    "language": "Python",
+    "name": "ludex-lab/ludex",
+    "stars": 1,
+    "updated_at": "2026-09-01T12:47:39Z",
+    "url": "https://github.com/ludex-lab/ludex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13266,
+    "updated_at": "2026-09-01T12:55:25Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
+    "id": "Aureliolo/synthorg",
+    "language": "Python",
+    "name": "Aureliolo/synthorg",
+    "stars": 9,
+    "updated_at": "2026-09-01T12:50:36Z",
+    "url": "https://github.com/Aureliolo/synthorg"
+  },
+  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
@@ -13,7 +67,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39275,
+    "stars": 39274,
     "updated_at": "2026-09-01T12:36:53Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9573,
-    "updated_at": "2026-09-01T12:42:44Z",
+    "updated_at": "2026-09-01T12:48:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -34,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T12:35:10Z",
     "url": "https://github.com/mauro-mura/agenor"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 4934,
+    "updated_at": "2026-09-01T12:49:20Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
@@ -54,15 +117,6 @@
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -72,13 +126,13 @@
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
-    "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
-    "id": "ludex-lab/ludex",
-    "language": "Python",
-    "name": "ludex-lab/ludex",
-    "stars": 1,
-    "updated_at": "2026-09-01T12:24:59Z",
-    "url": "https://github.com/ludex-lab/ludex"
+    "description": "Your own agentic working mate. For long horizon and complex task automation",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 108,
+    "updated_at": "2026-09-01T12:26:53Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -94,7 +148,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47606,
+    "stars": 47605,
     "updated_at": "2026-09-01T12:19:34Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -106,15 +160,6 @@
     "stars": 352,
     "updated_at": "2026-09-01T12:18:26Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "asAgent brings chat, browser assistance, scheduled tasks, and reversible file operations into one desktop app.",
-    "id": "yuting-ai/asAgent",
-    "language": "Python",
-    "name": "yuting-ai/asAgent",
-    "stars": 26,
-    "updated_at": "2026-09-01T12:16:25Z",
-    "url": "https://github.com/yuting-ai/asAgent"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -135,21 +180,12 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 4933,
-    "updated_at": "2026-09-01T12:33:59Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
     "id": "tinyhumansai/tinyhivemind",
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-01T12:43:48Z",
+    "updated_at": "2026-09-01T12:53:37Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-01T12:06:23Z",
+    "updated_at": "2026-09-01T12:54:34Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -212,8 +248,17 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4507,
-    "updated_at": "2026-09-01T12:42:49Z",
+    "updated_at": "2026-09-01T12:53:04Z",
     "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 153,
+    "updated_at": "2026-09-01T12:01:46Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
@@ -259,15 +304,6 @@
     "stars": 1758,
     "updated_at": "2026-09-01T11:37:18Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13266,
-    "updated_at": "2026-09-01T12:41:12Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -412,41 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-01T11:04:09Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:02:42Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-09-01T11:02:37Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-01T11:02:32Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35317,
-    "updated_at": "2026-09-01T12:43:23Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
