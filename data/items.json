@@ -1,21 +1,57 @@
 [
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-02T11:59:48Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
+    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
+    "id": "KybernesisAI/eve-studio",
+    "language": "TypeScript",
+    "name": "KybernesisAI/eve-studio",
+    "stars": 15,
+    "updated_at": "2026-09-02T12:11:47Z",
+    "url": "https://github.com/KybernesisAI/eve-studio"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9612,
-    "updated_at": "2026-09-02T11:59:12Z",
+    "stars": 9613,
+    "updated_at": "2026-09-02T12:10:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-02T12:06:49Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
+    "id": "sattyamjjain/ferrumdeck",
+    "language": "TypeScript",
+    "name": "sattyamjjain/ferrumdeck",
+    "stars": 7,
+    "updated_at": "2026-09-02T12:06:20Z",
+    "url": "https://github.com/sattyamjjain/ferrumdeck"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1184,
+    "updated_at": "2026-09-02T12:05:03Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T12:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-09-02T12:00:13Z",
+    "updated_at": "2026-09-02T12:00:45Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-02T11:53:29Z",
+    "updated_at": "2026-09-02T12:14:22Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -90,21 +126,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T11:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "subs is an agent harness for the cloud. It runs an unprivileged agent loop and uses MCP servers for executing tools. Use",
     "id": "substructureai/subs",
     "language": "Rust",
     "name": "substructureai/subs",
     "stars": 9,
-    "updated_at": "2026-09-02T11:44:57Z",
+    "updated_at": "2026-09-02T12:13:43Z",
     "url": "https://github.com/substructureai/subs"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T11:43:22Z",
+    "updated_at": "2026-09-02T12:07:23Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-02T11:39:55Z",
+    "updated_at": "2026-09-02T12:11:43Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T11:39:11Z",
+    "updated_at": "2026-09-02T12:12:42Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/jianchen08/Agent-os-open"
   },
   {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1184,
-    "updated_at": "2026-09-02T11:36:01Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-02T11:58:24Z",
+    "updated_at": "2026-09-02T12:14:25Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -230,17 +248,8 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-02T11:55:16Z",
+    "updated_at": "2026-09-02T12:15:07Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "A desktop control center for Eve agents \u2014 run, chat, build, wire, and deploy every Eve agent from one native app.",
-    "id": "KybernesisAI/eve-studio",
-    "language": "TypeScript",
-    "name": "KybernesisAI/eve-studio",
-    "stars": 15,
-    "updated_at": "2026-09-02T11:59:51Z",
-    "url": "https://github.com/KybernesisAI/eve-studio"
   },
   {
     "description": "\u26a1\ufe0f Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macO",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-02T11:59:17Z",
+    "updated_at": "2026-09-02T12:13:05Z",
     "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
@@ -283,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35338,
+    "stars": 35337,
     "updated_at": "2026-09-02T11:15:02Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -365,7 +374,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4958,
-    "updated_at": "2026-09-02T11:01:53Z",
+    "updated_at": "2026-09-02T12:03:57Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-02T10:46:45Z",
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-02T10:46:16Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   }
 ]
