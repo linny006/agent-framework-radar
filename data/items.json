@@ -1,11 +1,74 @@
 [
   {
+    "description": "Enterprise-grade accelerator for agentic RAG on Azure. Built on Microsoft Foundry with Foundry IQ as the default retriev",
+    "id": "Azure/GPT-RAG",
+    "language": "Python",
+    "name": "Azure/GPT-RAG",
+    "stars": 1169,
+    "updated_at": "2026-09-02T16:12:14Z",
+    "url": "https://github.com/Azure/GPT-RAG"
+  },
+  {
+    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-09-02T16:10:13Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7122,
+    "updated_at": "2026-09-02T16:06:52Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 307,
+    "updated_at": "2026-09-02T16:02:19Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47655,
+    "updated_at": "2026-09-02T16:01:41Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T16:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35351,
+    "updated_at": "2026-09-02T15:59:45Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
     "id": "sakibsadmanshajib/hive",
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T15:59:51Z",
+    "updated_at": "2026-09-02T16:13:11Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-02T15:58:34Z",
+    "updated_at": "2026-09-02T16:01:37Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/dougransom/prolog-agent-toolkit"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35350,
-    "updated_at": "2026-09-02T15:59:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
     "id": "parkerluxu/Awesome-agent-cases",
     "language": "JavaScript",
@@ -45,12 +99,21 @@
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
   {
+    "description": "Web dashboard for AgiMate: build agents, set what each one is allowed to touch, and watch the logs",
+    "id": "AgiMateIo/agimate-frontend",
+    "language": "TypeScript",
+    "name": "AgiMateIo/agimate-frontend",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:50:59Z",
+    "url": "https://github.com/AgiMateIo/agimate-frontend"
+  },
+  {
     "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
     "id": "Cobra-bit-prog/agent-guard",
     "language": "TypeScript",
     "name": "Cobra-bit-prog/agent-guard",
     "stars": 0,
-    "updated_at": "2026-09-02T16:00:18Z",
+    "updated_at": "2026-09-02T16:04:31Z",
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "hara-cli/hara",
     "stars": 3,
-    "updated_at": "2026-09-02T15:48:40Z",
+    "updated_at": "2026-09-02T16:07:03Z",
     "url": "https://github.com/hara-cli/hara"
   },
   {
@@ -67,18 +130,9 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5400,
-    "updated_at": "2026-09-02T15:46:29Z",
+    "stars": 5401,
+    "updated_at": "2026-09-02T16:14:51Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T15:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
@@ -86,17 +140,8 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-02T15:59:31Z",
+    "updated_at": "2026-09-02T16:02:54Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 306,
-    "updated_at": "2026-09-02T15:44:08Z",
-    "url": "https://github.com/Gnosil/semantix"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-02T15:48:08Z",
+    "updated_at": "2026-09-02T16:14:24Z",
     "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
@@ -131,7 +176,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4506,
-    "updated_at": "2026-09-02T15:58:28Z",
+    "updated_at": "2026-09-02T16:10:04Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19673,
-    "updated_at": "2026-09-02T15:40:33Z",
+    "updated_at": "2026-09-02T16:09:08Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 9044,
     "updated_at": "2026-09-02T15:12:53Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7121,
-    "updated_at": "2026-09-02T15:11:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9617,
-    "updated_at": "2026-09-02T15:39:08Z",
+    "updated_at": "2026-09-02T16:11:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T14:36:59Z",
     "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 5,
-    "updated_at": "2026-09-02T15:21:48Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 50,
-    "updated_at": "2026-09-02T14:33:47Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 25,
-    "updated_at": "2026-09-02T15:21:47Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 12,
-    "updated_at": "2026-09-02T14:30:13Z",
-    "url": "https://github.com/databricks-solutions/consort"
   }
 ]
