@@ -1,12 +1,120 @@
 [
   {
+    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 26,
+    "updated_at": "2026-09-02T22:29:39Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:28:26Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:27:23Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-02T22:27:03Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:26:46Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
     "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
     "stars": 138,
-    "updated_at": "2026-09-02T22:20:19Z",
+    "updated_at": "2026-09-02T22:26:24Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 12,
+    "updated_at": "2026-09-02T22:24:53Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9624,
+    "updated_at": "2026-09-02T22:24:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-09-02T22:22:53Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-09-02T22:22:18Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-09-02T22:21:32Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "\ud83e\udd80 The first autonomous hackathon agent stop assisting and start competing (\ud83c\udfc6 Hackathon Champion Project).",
+    "id": "0xclaw-ai/0xClaw",
+    "language": "Python",
+    "name": "0xclaw-ai/0xClaw",
+    "stars": 13,
+    "updated_at": "2026-09-02T22:21:10Z",
+    "url": "https://github.com/0xclaw-ai/0xClaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T22:20:39Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "First-party skill content for the multi-agent coordination framework",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T22:17:47Z",
     "url": "https://github.com/mythicalOS/mythical-skills"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T22:16:02Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -43,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T22:15:06Z",
     "url": "https://github.com/BrianV1981/aim-tmux-dashboard"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:14:24Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -79,15 +169,6 @@
     "stars": 39347,
     "updated_at": "2026-09-02T22:13:20Z",
     "url": "https://github.com/tinyhumansai/openhuman"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 26,
-    "updated_at": "2026-09-02T22:08:21Z",
-    "url": "https://github.com/ahwurm/localharness"
   },
   {
     "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
@@ -135,15 +216,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-02T22:18:17Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -151,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T21:59:01Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:17:50Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
@@ -198,15 +261,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9624,
-    "updated_at": "2026-09-02T22:09:13Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
@@ -223,15 +277,6 @@
     "stars": 273,
     "updated_at": "2026-09-02T21:42:45Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 12,
-    "updated_at": "2026-09-02T21:41:28Z",
-    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
@@ -301,7 +346,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35357,
+    "stars": 35358,
     "updated_at": "2026-09-02T21:29:39Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19679,
-    "updated_at": "2026-09-02T21:46:17Z",
+    "updated_at": "2026-09-02T22:27:08Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-02T21:51:13Z",
+    "updated_at": "2026-09-02T22:30:20Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-02T21:19:47Z",
+    "updated_at": "2026-09-02T22:26:05Z",
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 0,
-    "updated_at": "2026-09-02T22:09:37Z",
+    "updated_at": "2026-09-02T22:29:55Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-02T20:58:59Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
-    "id": "lottieepigastric889/lucky-block-script-hub",
-    "language": "HTML",
-    "name": "lottieepigastric889/lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:58:02Z",
-    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
-  },
-  {
-    "description": "Unlock automated targeting, instant item liquidation, and low-latency execution with this lightweight HTML script hub fo",
-    "id": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "language": "HTML",
-    "name": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:58:02Z",
-    "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
-    "id": "zerovia/be-a-lucky-block-hub",
-    "language": "HTML",
-    "name": "zerovia/be-a-lucky-block-hub",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:54:47Z",
-    "url": "https://github.com/zerovia/be-a-lucky-block-hub"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-09-02T20:52:56Z",
-    "url": "https://github.com/GEMISIS/leviath"
   }
 ]
