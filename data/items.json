@@ -5,17 +5,80 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T23:29:33Z",
+    "updated_at": "2026-09-02T23:43:47Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-02T23:42:26Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-02T23:29:07Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
+    "updated_at": "2026-09-02T23:41:34Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
+    "id": "ParsifalC/codex-flow",
+    "language": "Python",
+    "name": "ParsifalC/codex-flow",
+    "stars": 2,
+    "updated_at": "2026-09-02T23:43:51Z",
+    "url": "https://github.com/ParsifalC/codex-flow"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 14,
+    "updated_at": "2026-09-02T23:39:43Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 105,
+    "updated_at": "2026-09-02T23:37:42Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 9,
+    "updated_at": "2026-09-02T23:37:10Z",
+    "url": "https://github.com/sageox/agent-toolkit"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-02T23:36:22Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-09-02T23:36:26Z",
+    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
@@ -23,8 +86,35 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-09-02T23:28:56Z",
+    "updated_at": "2026-09-02T23:35:12Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
+    "id": "boundflow/charter",
+    "language": "Python",
+    "name": "boundflow/charter",
+    "stars": 1,
+    "updated_at": "2026-09-02T23:36:47Z",
+    "url": "https://github.com/boundflow/charter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T23:30:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 5,
+    "updated_at": "2026-09-02T23:38:05Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "Storage-backed file tools and Markdown knowledge-graph context for Microsoft Agent Framework",
@@ -54,22 +144,13 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T23:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
-    "id": "boundflow/charter",
-    "language": "Python",
-    "name": "boundflow/charter",
-    "stars": 1,
-    "updated_at": "2026-09-02T23:29:18Z",
-    "url": "https://github.com/boundflow/charter"
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 274,
+    "updated_at": "2026-09-02T23:18:20Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T23:13:28Z",
     "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 105,
-    "updated_at": "2026-09-02T23:11:29Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1324,
-    "updated_at": "2026-09-02T23:26:13Z",
+    "updated_at": "2026-09-02T23:40:02Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9625,
-    "updated_at": "2026-09-02T23:06:01Z",
+    "updated_at": "2026-09-02T23:43:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 13296,
     "updated_at": "2026-09-02T23:03:14Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-02T23:26:00Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -207,21 +270,12 @@
     "url": "https://github.com/Gnosil/semantix"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-09-02T23:21:30Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19679,
-    "updated_at": "2026-09-02T23:27:49Z",
+    "updated_at": "2026-09-02T23:41:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -256,7 +310,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39349,
+    "stars": 39351,
     "updated_at": "2026-09-02T22:44:03Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -310,7 +364,7 @@
     "id": "ahwurm/localharness",
     "language": "Python",
     "name": "ahwurm/localharness",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-09-02T22:29:39Z",
     "url": "https://github.com/ahwurm/localharness"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T22:17:47Z",
     "url": "https://github.com/mythicalOS/mythical-skills"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 25,
-    "updated_at": "2026-09-02T22:18:38Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "A modern, terminal-based dashboard for managing tmux workspaces. Built with Python Textual, it features a command palett",
-    "id": "BrianV1981/aim-tmux-dashboard",
-    "language": "Python",
-    "name": "BrianV1981/aim-tmux-dashboard",
-    "stars": 4,
-    "updated_at": "2026-09-02T22:15:06Z",
-    "url": "https://github.com/BrianV1981/aim-tmux-dashboard"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 13,
-    "updated_at": "2026-09-02T22:48:27Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
-    "id": "aequitas-labs/lobstah",
-    "language": "TypeScript",
-    "name": "aequitas-labs/lobstah",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:14:00Z",
-    "url": "https://github.com/aequitas-labs/lobstah"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-02T22:04:29Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-02T22:04:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
