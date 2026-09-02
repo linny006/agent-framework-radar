@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:59:05Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-09-02T23:00:07Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1324,
+    "updated_at": "2026-09-02T22:56:34Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-09-02T22:52:57Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Runnable governed-agent starter composed from Neuruh Public Commons primitives.",
+    "id": "NeuruhAI/neuruh-sovereign-agent-starter",
+    "language": "Python",
+    "name": "NeuruhAI/neuruh-sovereign-agent-starter",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:52:19Z",
+    "url": "https://github.com/NeuruhAI/neuruh-sovereign-agent-starter"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 310,
+    "updated_at": "2026-09-02T22:50:13Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-09-02T22:49:47Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-02T22:51:29Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19679,
+    "updated_at": "2026-09-02T22:53:38Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T22:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 6,
+    "updated_at": "2026-09-02T22:45:08Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
     "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
     "id": "thenaxon/somora_agent",
     "language": "TypeScript",
@@ -36,6 +135,15 @@
     "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:43:53Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -59,35 +167,8 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T22:41:18Z",
+    "updated_at": "2026-09-02T22:57:39Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1324,
-    "updated_at": "2026-09-02T22:44:37Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 310,
-    "updated_at": "2026-09-02T22:39:34Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19679,
-    "updated_at": "2026-09-02T22:41:46Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -113,17 +194,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9625,
-    "updated_at": "2026-09-02T22:42:39Z",
+    "updated_at": "2026-09-02T22:58:39Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Runnable governed-agent starter composed from Neuruh Public Commons primitives.",
-    "id": "NeuruhAI/neuruh-sovereign-agent-starter",
-    "language": "Python",
-    "name": "NeuruhAI/neuruh-sovereign-agent-starter",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:36:32Z",
-    "url": "https://github.com/NeuruhAI/neuruh-sovereign-agent-starter"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -133,15 +205,6 @@
     "stars": 105,
     "updated_at": "2026-09-02T22:34:46Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T22:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
@@ -171,15 +234,6 @@
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-02T22:38:37Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Autonomous Go daemon for AI software engineering. 18 specialist agents + 5 reviewers, constitution-bound AI Employees, e",
     "id": "bhodgens/meept",
     "language": "Go",
@@ -189,7 +243,7 @@
     "url": "https://github.com/bhodgens/meept"
   },
   {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 13,
-    "updated_at": "2026-09-02T22:14:13Z",
+    "updated_at": "2026-09-02T22:48:27Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-02T21:52:24Z",
+    "updated_at": "2026-09-02T22:56:59Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-09-02T22:15:32Z",
+    "updated_at": "2026-09-02T22:56:25Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 120,
     "updated_at": "2026-09-02T21:32:50Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-02T21:32:09Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-02T21:31:04Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:30:02Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-02T21:30:01Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35358,
-    "updated_at": "2026-09-02T21:29:39Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 3,
-    "updated_at": "2026-09-02T21:27:12Z",
-    "url": "https://github.com/openamer/openamer"
   }
 ]
