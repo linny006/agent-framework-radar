@@ -1,11 +1,119 @@
 [
   {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4506,
+    "updated_at": "2026-09-02T09:12:36Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 1,
+    "updated_at": "2026-09-02T09:10:43Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 51,
+    "updated_at": "2026-09-02T09:08:08Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9609,
+    "updated_at": "2026-09-02T09:11:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 9042,
+    "updated_at": "2026-09-02T09:05:05Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
+    "id": "bzdvdn/ctxloom",
+    "language": "Python",
+    "name": "bzdvdn/ctxloom",
+    "stars": 0,
+    "updated_at": "2026-09-02T09:04:24Z",
+    "url": "https://github.com/bzdvdn/ctxloom"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-02T09:03:35Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 9,
+    "updated_at": "2026-09-02T09:03:28Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-02T09:12:52Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 216,
+    "updated_at": "2026-09-02T09:02:10Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
+    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "language": "Python",
+    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "stars": 2,
+    "updated_at": "2026-09-02T09:01:42Z",
+    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T09:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u26a1\ufe0f Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macO",
     "id": "ParsifalC/codex-flow",
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-02T08:59:43Z",
+    "updated_at": "2026-09-02T09:06:08Z",
     "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
@@ -18,21 +126,12 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9609,
-    "updated_at": "2026-09-02T09:00:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
     "id": "Cobra-bit-prog/agent-guard",
     "language": "TypeScript",
     "name": "Cobra-bit-prog/agent-guard",
     "stars": 0,
-    "updated_at": "2026-09-02T08:57:38Z",
+    "updated_at": "2026-09-02T09:11:57Z",
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "dcluomax/coop",
     "stars": 2,
-    "updated_at": "2026-09-02T08:57:07Z",
+    "updated_at": "2026-09-02T09:11:30Z",
     "url": "https://github.com/dcluomax/coop"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T08:55:35Z",
+    "updated_at": "2026-09-02T09:07:54Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -90,21 +189,12 @@
     "url": "https://github.com/zkysar1/Claude-Mind"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 51,
-    "updated_at": "2026-09-02T09:00:20Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
     "id": "jianchen08/Agent-os-open",
     "language": "Python",
     "name": "jianchen08/Agent-os-open",
     "stars": 5,
-    "updated_at": "2026-09-02T08:53:29Z",
+    "updated_at": "2026-09-02T09:10:22Z",
     "url": "https://github.com/jianchen08/Agent-os-open"
   },
   {
@@ -113,7 +203,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-02T08:52:45Z",
+    "updated_at": "2026-09-02T09:12:46Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -126,15 +216,6 @@
     "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-09-02T08:47:19Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
@@ -142,15 +223,6 @@
     "stars": 415,
     "updated_at": "2026-09-02T08:46:38Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T08:45:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -167,26 +239,8 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 105,
-    "updated_at": "2026-09-02T08:40:03Z",
+    "updated_at": "2026-09-02T09:05:18Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-02T08:39:51Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 9,
-    "updated_at": "2026-09-02T08:39:44Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -212,7 +266,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1760,
-    "updated_at": "2026-09-02T08:35:19Z",
+    "updated_at": "2026-09-02T09:10:05Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T08:56:46Z",
+    "updated_at": "2026-09-02T09:06:31Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 253,
-    "updated_at": "2026-09-02T08:58:45Z",
+    "updated_at": "2026-09-02T09:12:23Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 4953,
-    "updated_at": "2026-09-02T08:30:37Z",
+    "updated_at": "2026-09-02T09:00:54Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -256,7 +310,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47640,
+    "stars": 47641,
     "updated_at": "2026-09-02T08:25:10Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -265,7 +319,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5399,
+    "stars": 5400,
     "updated_at": "2026-09-02T08:24:36Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -292,27 +346,9 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19660,
-    "updated_at": "2026-09-02T08:21:42Z",
+    "stars": 19661,
+    "updated_at": "2026-09-02T09:11:20Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
-    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "language": "Python",
-    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "stars": 2,
-    "updated_at": "2026-09-02T08:18:59Z",
-    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4506,
-    "updated_at": "2026-09-02T08:56:55Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T07:47:00Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Agent and workflow runtime built on Microsoft Agent Framework, with portable YAML/JSON agents, MCP, Skills, Plugins and ",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:45:25Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-09-02T07:44:11Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1184,
-    "updated_at": "2026-09-02T08:58:10Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-09-02T07:38:09Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
