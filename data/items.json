@@ -1,12 +1,102 @@
 [
   {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 105,
+    "updated_at": "2026-09-02T06:41:13Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-02T06:39:03Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
+    "id": "openma-ai/open-managed-agents",
+    "language": "TypeScript",
+    "name": "openma-ai/open-managed-agents",
+    "stars": 253,
+    "updated_at": "2026-09-02T06:36:49Z",
+    "url": "https://github.com/openma-ai/open-managed-agents"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-02T06:35:24Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-02T06:33:31Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-02T06:32:36Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9602,
-    "updated_at": "2026-09-02T06:29:08Z",
+    "stars": 9603,
+    "updated_at": "2026-09-02T06:41:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-02T06:32:11Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-09-02T06:40:38Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5396,
+    "updated_at": "2026-09-02T06:30:55Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T06:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agentic contact-center QA benchmarking and continuous improvement with Microsoft Foundry, FastAPI, SSE streaming, standa",
@@ -18,21 +108,12 @@
     "url": "https://github.com/msajid/contact-center-qa-agentic-poc"
   },
   {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5395,
-    "updated_at": "2026-09-02T06:28:30Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T06:26:03Z",
+    "updated_at": "2026-09-02T06:39:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -63,24 +144,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-02T06:21:18Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:21:17Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -90,15 +153,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T06:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Where agents build agents. An agentic build system for agentic systems \u2014 ontology-grounded, auditable, one Rust binary.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -106,24 +160,6 @@
     "stars": 12,
     "updated_at": "2026-09-02T06:15:13Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-09-02T06:20:44Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 105,
-    "updated_at": "2026-09-02T06:10:47Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "A minimal AI agent framework in ~700 lines of TypeScript. The agent loop is 159 lines. Tool calling, memory, OpenAI/Anth",
@@ -175,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35332,
+    "stars": 35330,
     "updated_at": "2026-09-02T06:02:45Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 51,
-    "updated_at": "2026-09-02T06:06:13Z",
+    "updated_at": "2026-09-02T06:43:59Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-02T05:57:28Z",
+    "updated_at": "2026-09-02T06:31:23Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-02T05:38:02Z",
+    "updated_at": "2026-09-02T06:41:06Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-02T05:32:52Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:30:59Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:30:29Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Lightweight one\u2011click launcher for DeepSeek Harness DeepSeek\u2011Harness(DSH)\u8f7b\u91cf\u4e00\u952e\u542f\u52a8\u5668",
-    "id": "rpvvn/EasyDSH",
-    "language": "C#",
-    "name": "rpvvn/EasyDSH",
-    "stars": 6,
-    "updated_at": "2026-09-02T05:29:28Z",
-    "url": "https://github.com/rpvvn/EasyDSH"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-09-02T05:28:21Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
   }
 ]
