@@ -1,5 +1,50 @@
 [
   {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 13,
+    "updated_at": "2026-09-02T09:15:26Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9610,
+    "updated_at": "2026-09-02T09:15:03Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T09:13:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
+    "id": "openma-ai/open-managed-agents",
+    "language": "TypeScript",
+    "name": "openma-ai/open-managed-agents",
+    "stars": 253,
+    "updated_at": "2026-09-02T09:12:23Z",
+    "url": "https://github.com/openma-ai/open-managed-agents"
+  },
+  {
+    "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
+    "id": "dcluomax/coop",
+    "language": "Rust",
+    "name": "dcluomax/coop",
+    "stars": 2,
+    "updated_at": "2026-09-02T09:11:30Z",
+    "url": "https://github.com/dcluomax/coop"
+  },
+  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
@@ -27,13 +72,22 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "\u26a1\ufe0f Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macO",
+    "id": "ParsifalC/codex-flow",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9609,
-    "updated_at": "2026-09-02T09:11:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "ParsifalC/codex-flow",
+    "stars": 2,
+    "updated_at": "2026-09-02T09:06:08Z",
+    "url": "https://github.com/ParsifalC/codex-flow"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 105,
+    "updated_at": "2026-09-02T09:05:18Z",
+    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
@@ -99,24 +153,6 @@
     "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T09:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "\u26a1\ufe0f Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macO",
-    "id": "ParsifalC/codex-flow",
-    "language": "Python",
-    "name": "ParsifalC/codex-flow",
-    "stars": 2,
-    "updated_at": "2026-09-02T09:06:08Z",
-    "url": "https://github.com/ParsifalC/codex-flow"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T09:11:57Z",
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
-  },
-  {
-    "description": "\ud83d\udc14 An open-source, distributed AI agent farm OS. Raise, train, and trade autonomous agents on your own hardware.",
-    "id": "dcluomax/coop",
-    "language": "Rust",
-    "name": "dcluomax/coop",
-    "stars": 2,
-    "updated_at": "2026-09-02T09:11:30Z",
-    "url": "https://github.com/dcluomax/coop"
   },
   {
     "description": "Equaxis: a governed, observable and reliable agent runtime powered by Pi.",
@@ -234,15 +261,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 105,
-    "updated_at": "2026-09-02T09:05:18Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
     "id": "geniusdapeng-collab/workloom-im",
     "language": "TypeScript",
@@ -275,17 +293,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T09:06:31Z",
+    "updated_at": "2026-09-02T09:15:29Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
-    "id": "openma-ai/open-managed-agents",
-    "language": "TypeScript",
-    "name": "openma-ai/open-managed-agents",
-    "stars": 253,
-    "updated_at": "2026-09-02T09:12:23Z",
-    "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -310,7 +319,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47641,
+    "stars": 47642,
     "updated_at": "2026-09-02T08:25:10Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T07:53:47Z",
     "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:47:00Z",
-    "url": "https://github.com/vgp7758/Agt"
   }
 ]
