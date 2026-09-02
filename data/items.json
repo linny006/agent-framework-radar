@@ -1,5 +1,104 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-02T00:13:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-09-02T00:13:24Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
+    "id": "sakibsadmanshajib/hive",
+    "language": "Go",
+    "name": "sakibsadmanshajib/hive",
+    "stars": 0,
+    "updated_at": "2026-09-02T00:11:39Z",
+    "url": "https://github.com/sakibsadmanshajib/hive"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-02T00:11:22Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 9,
+    "updated_at": "2026-09-02T00:10:40Z",
+    "url": "https://github.com/sageox/agent-toolkit"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-02T00:08:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-09-02T00:08:21Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4507,
+    "updated_at": "2026-09-02T00:05:40Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "A self-describing agent kernel in which agents are programs that write programs.",
+    "id": "danieldietrich/flatmap-website",
+    "language": "Shell",
+    "name": "danieldietrich/flatmap-website",
+    "stars": 0,
+    "updated_at": "2026-09-02T00:05:07Z",
+    "url": "https://github.com/danieldietrich/flatmap-website"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-02T00:02:59Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T00:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -18,13 +117,13 @@
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-01T23:59:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 5,
+    "updated_at": "2026-09-01T23:56:05Z",
+    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -32,17 +131,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9591,
-    "updated_at": "2026-09-01T23:56:04Z",
+    "updated_at": "2026-09-02T00:14:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "OpenAI-compatible AI gateway and agent workspace. Go control plane, prepaid credit billing, provider-agnostic routing, s",
-    "id": "sakibsadmanshajib/hive",
-    "language": "Go",
-    "name": "sakibsadmanshajib/hive",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:55:50Z",
-    "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
     "description": "Runnable governed-agent starter composed from Neuruh Public Commons primitives.",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "NeuruhAI/neuruh-sovereign-agent-starter",
     "stars": 0,
-    "updated_at": "2026-09-01T23:55:50Z",
+    "updated_at": "2026-09-02T00:02:32Z",
     "url": "https://github.com/NeuruhAI/neuruh-sovereign-agent-starter"
   },
   {
@@ -63,22 +153,13 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "A self-describing agent kernel in which agents are programs that write programs.",
-    "id": "danieldietrich/flatmap-website",
-    "language": "Shell",
-    "name": "danieldietrich/flatmap-website",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:54:03Z",
-    "url": "https://github.com/danieldietrich/flatmap-website"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-01T23:52:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35322,
+    "updated_at": "2026-09-02T00:10:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -86,7 +167,7 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 58,
-    "updated_at": "2026-09-01T23:59:03Z",
+    "updated_at": "2026-09-02T00:02:12Z",
     "url": "https://github.com/clawboo/clawboo"
   },
   {
@@ -108,33 +189,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
-    "id": "sageox/agent-toolkit",
-    "language": "TypeScript",
-    "name": "sageox/agent-toolkit",
-    "stars": 9,
-    "updated_at": "2026-09-01T23:58:54Z",
-    "url": "https://github.com/sageox/agent-toolkit"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-01T23:48:56Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-01T23:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -153,15 +207,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-01T23:43:17Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
     "id": "sycdan/nosedive",
     "language": "JavaScript",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "reda-baqechame/self-learning-24.7-agent",
     "stars": 1,
-    "updated_at": "2026-09-01T23:39:11Z",
+    "updated_at": "2026-09-02T00:14:53Z",
     "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
   },
   {
@@ -198,21 +243,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-09-01T23:54:34Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-01T23:32:10Z",
+    "updated_at": "2026-09-02T00:13:08Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1323,
-    "updated_at": "2026-09-01T23:21:31Z",
+    "updated_at": "2026-09-02T00:09:18Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4507,
-    "updated_at": "2026-09-01T23:46:57Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
     "id": "tripledoublev/v100",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:43:50Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:43:40Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Hive mind mechanics for agents. A step closer towards AGI",
-    "id": "tinyhumansai/tinyhivemind",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyhivemind",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:40:40Z",
-    "url": "https://github.com/tinyhumansai/tinyhivemind"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-01T22:35:53Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
