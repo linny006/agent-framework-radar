@@ -1,5 +1,41 @@
 [
   {
+    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 138,
+    "updated_at": "2026-09-02T22:20:19Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "First-party skill content for the multi-agent coordination framework",
+    "id": "mythicalOS/mythical-skills",
+    "language": "Python",
+    "name": "mythicalOS/mythical-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:17:47Z",
+    "url": "https://github.com/mythicalOS/mythical-skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T22:16:02Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 25,
+    "updated_at": "2026-09-02T22:18:38Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
     "description": "A modern, terminal-based dashboard for managing tmux workspaces. Built with Python Textual, it features a command palett",
     "id": "BrianV1981/aim-tmux-dashboard",
     "language": "Python",
@@ -27,15 +63,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
-    "id": "tinyhumansai/openhuman",
-    "language": "Rust",
-    "name": "tinyhumansai/openhuman",
-    "stars": 39347,
-    "updated_at": "2026-09-02T22:13:20Z",
-    "url": "https://github.com/tinyhumansai/openhuman"
-  },
-  {
     "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
     "id": "aequitas-labs/lobstah",
     "language": "TypeScript",
@@ -45,11 +72,20 @@
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
+    "id": "tinyhumansai/openhuman",
+    "language": "Rust",
+    "name": "tinyhumansai/openhuman",
+    "stars": 39347,
+    "updated_at": "2026-09-02T22:13:20Z",
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
     "id": "ahwurm/localharness",
     "language": "Python",
     "name": "ahwurm/localharness",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-09-02T22:08:21Z",
     "url": "https://github.com/ahwurm/localharness"
   },
@@ -61,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T22:07:43Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for concurrent AI agents",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 138,
-    "updated_at": "2026-09-02T22:05:18Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -113,17 +140,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T22:12:28Z",
+    "updated_at": "2026-09-02T22:18:17Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T22:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T22:14:18Z",
+    "updated_at": "2026-09-02T22:17:50Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 25,
-    "updated_at": "2026-09-02T22:15:38Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-02T20:52:56Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:51:52Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   }
 ]
