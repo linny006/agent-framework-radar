@@ -1,12 +1,21 @@
 [
   {
-    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
-    "id": "jianchen08/Agent-os-open",
-    "language": "Python",
-    "name": "jianchen08/Agent-os-open",
-    "stars": 5,
-    "updated_at": "2026-09-02T05:43:28Z",
-    "url": "https://github.com/jianchen08/Agent-os-open"
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1323,
+    "updated_at": "2026-09-02T05:57:17Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 51,
+    "updated_at": "2026-09-02T05:55:32Z",
+    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
@@ -14,8 +23,89 @@
     "language": "Python",
     "name": "jiabaobei/skills-constitution",
     "stars": 214,
-    "updated_at": "2026-09-02T05:43:17Z",
+    "updated_at": "2026-09-02T05:52:15Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-02T05:52:09Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 68,
+    "updated_at": "2026-09-02T05:51:12Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-02T05:49:37Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1603,
+    "updated_at": "2026-09-02T05:49:13Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
+    "id": "pingpongballbouncingbetty737/embabel-agent",
+    "language": "\u2014",
+    "name": "pingpongballbouncingbetty737/embabel-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T05:48:51Z",
+    "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 38,
+    "updated_at": "2026-09-02T05:48:11Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T05:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-02T05:44:41Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
+    "id": "jianchen08/Agent-os-open",
+    "language": "Python",
+    "name": "jianchen08/Agent-os-open",
+    "stars": 5,
+    "updated_at": "2026-09-02T05:43:28Z",
+    "url": "https://github.com/jianchen08/Agent-os-open"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -81,15 +171,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:41:34Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "Cross-platform AI agent desktop app and multi-agent workspace for Claude Code, Codex CLI, and Gemini CLI. Rust + React +",
     "id": "Laplace-bit/GT-Office",
     "language": "TypeScript",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T05:40:25Z",
+    "updated_at": "2026-09-02T05:57:23Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -122,17 +203,8 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 2,
-    "updated_at": "2026-09-02T05:39:58Z",
+    "updated_at": "2026-09-02T05:57:28Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1323,
-    "updated_at": "2026-09-02T05:39:54Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9602,
-    "updated_at": "2026-09-02T05:44:29Z",
+    "updated_at": "2026-09-02T05:55:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -193,7 +265,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35328,
+    "stars": 35330,
     "updated_at": "2026-09-02T05:32:04Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -214,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T05:30:29Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T05:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightweight one\u2011click launcher for DeepSeek Harness DeepSeek\u2011Harness(DSH)\u8f7b\u91cf\u4e00\u952e\u542f\u52a8\u5668",
@@ -356,7 +419,7 @@
     "language": "TypeScript",
     "name": "SparkElf/deepseek-harness-plus",
     "stars": 2,
-    "updated_at": "2026-09-02T05:16:33Z",
+    "updated_at": "2026-09-02T05:49:04Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
@@ -373,7 +436,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47627,
+    "stars": 47628,
     "updated_at": "2026-09-02T05:05:36Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:03:37Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 217,
-    "updated_at": "2026-09-02T05:02:03Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-02T05:01:42Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Local-first control plane for long-running and multi-agent AI systems. Observe, steer, recover and orchestrate agents.",
-    "id": "LunaticLegacy/angelus",
-    "language": "Python",
-    "name": "LunaticLegacy/angelus",
-    "stars": 12,
-    "updated_at": "2026-09-02T04:54:12Z",
-    "url": "https://github.com/LunaticLegacy/angelus"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-02T04:54:37Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 105,
-    "updated_at": "2026-09-02T04:46:33Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 50,
-    "updated_at": "2026-09-02T04:43:25Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 51,
-    "updated_at": "2026-09-02T04:35:32Z",
-    "url": "https://github.com/futuregene/future-os"
   }
 ]
