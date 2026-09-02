@@ -1,11 +1,65 @@
 [
   {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 9,
+    "updated_at": "2026-09-02T00:21:55Z",
+    "url": "https://github.com/sageox/agent-toolkit"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 50,
+    "updated_at": "2026-09-02T00:18:12Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "Python",
+    "name": "sycdan/nosedive",
+    "stars": 1,
+    "updated_at": "2026-09-02T00:17:42Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 1028,
+    "updated_at": "2026-09-02T00:15:47Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T00:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9591,
+    "updated_at": "2026-09-02T00:14:32Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-02T00:13:48Z",
+    "updated_at": "2026-09-02T00:19:16Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,17 +86,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-09-02T00:11:22Z",
+    "updated_at": "2026-09-02T00:21:58Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
-    "id": "sageox/agent-toolkit",
-    "language": "TypeScript",
-    "name": "sageox/agent-toolkit",
-    "stars": 9,
-    "updated_at": "2026-09-02T00:10:40Z",
-    "url": "https://github.com/sageox/agent-toolkit"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-02T00:08:21Z",
+    "updated_at": "2026-09-02T00:17:16Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T00:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -126,15 +162,6 @@
     "url": "https://github.com/doeixd/effect-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9591,
-    "updated_at": "2026-09-02T00:14:32Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Runnable governed-agent starter composed from Neuruh Public Commons primitives.",
     "id": "NeuruhAI/neuruh-sovereign-agent-starter",
     "language": "Python",
@@ -158,7 +185,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35322,
-    "updated_at": "2026-09-02T00:10:26Z",
+    "updated_at": "2026-09-02T00:21:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -207,15 +234,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:40:17Z",
-    "url": "https://github.com/sycdan/nosedive"
-  },
-  {
     "description": "Expert Fleet - a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, verified procedural",
     "id": "reda-baqechame/self-learning-24.7-agent",
     "language": "Python",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-02T00:13:08Z",
+    "updated_at": "2026-09-02T00:21:44Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19649,
-    "updated_at": "2026-09-01T23:56:49Z",
+    "updated_at": "2026-09-02T00:20:18Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-01T22:45:12Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:43:57Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:43:50Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
