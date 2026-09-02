@@ -1,5 +1,32 @@
 [
   {
+    "description": "Proactive agent runtime in Python: background goals that survive restarts, MQTT sensor agents with salience filtering, e",
+    "id": "salvatorebottiglieri/botti-agent",
+    "language": "Python",
+    "name": "salvatorebottiglieri/botti-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:59:41Z",
+    "url": "https://github.com/salvatorebottiglieri/botti-agent"
+  },
+  {
+    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-09-02T19:57:49Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T19:56:56Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "ECHO-CLAW is an AI Remote Viewing training framework built on a Monitor\u2013Viewer architecture, blind-target separation, st",
     "id": "lukeskytorep-bot/echo-claw",
     "language": "\u2014",
@@ -36,6 +63,15 @@
     "url": "https://github.com/AgentsHarness/capri-fe"
   },
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-02T19:59:05Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:47:03Z",
     "url": "https://github.com/NeuruhAI/neuruh-sovereign-agent-starter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T19:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -171,15 +198,6 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
-    "description": "Proactive agent runtime in Python: background goals that survive restarts, MQTT sensor agents with salience filtering, e",
-    "id": "salvatorebottiglieri/botti-agent",
-    "language": "Python",
-    "name": "salvatorebottiglieri/botti-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:56:39Z",
-    "url": "https://github.com/salvatorebottiglieri/botti-agent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -252,15 +270,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-09-02T19:14:35Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 6,
     "updated_at": "2026-09-02T19:08:09Z",
     "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-02T19:49:21Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
@@ -418,7 +418,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35356,
+    "stars": 35357,
     "updated_at": "2026-09-02T18:37:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
