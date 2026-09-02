@@ -1,5 +1,113 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 25,
+    "updated_at": "2026-09-02T18:59:49Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9623,
+    "updated_at": "2026-09-02T18:56:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:55:01Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 308,
+    "updated_at": "2026-09-02T18:52:37Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "Integrated AI Sales Assistant PoC - Azure AI Foundry Agent Service + React + Terraform",
+    "id": "briandenicola/agentic-trading-desk-demo",
+    "language": "C#",
+    "name": "briandenicola/agentic-trading-desk-demo",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:52:30Z",
+    "url": "https://github.com/briandenicola/agentic-trading-desk-demo"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19675,
+    "updated_at": "2026-09-02T18:59:48Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
+    "id": "tinyhumansai/openhuman",
+    "language": "Rust",
+    "name": "tinyhumansai/openhuman",
+    "stars": 39339,
+    "updated_at": "2026-09-02T18:50:20Z",
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 272,
+    "updated_at": "2026-09-02T18:50:20Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:51:16Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 50,
+    "updated_at": "2026-09-02T18:46:51Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-02T18:45:52Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-02T18:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Extending PROTAC design beyond current limitations or breaking the PROTAC design bottleneck",
     "id": "the-ahuja-lab/PROTACXtend",
     "language": "Python",
@@ -36,40 +144,13 @@
     "url": "https://github.com/merryshelly/openalpheus"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9621,
-    "updated_at": "2026-09-02T18:35:03Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
     "id": "mybay-ai/mybay",
     "language": "TypeScript",
     "name": "mybay-ai/mybay",
     "stars": 2,
-    "updated_at": "2026-09-02T18:34:27Z",
+    "updated_at": "2026-09-02T18:46:58Z",
     "url": "https://github.com/mybay-ai/mybay"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T18:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
-    "id": "tinyhumansai/openhuman",
-    "language": "Rust",
-    "name": "tinyhumansai/openhuman",
-    "stars": 39339,
-    "updated_at": "2026-09-02T18:30:17Z",
-    "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
     "description": "Proactive agent runtime in Python: background goals that survive restarts, MQTT sensor agents with salience filtering, e",
@@ -90,15 +171,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 25,
-    "updated_at": "2026-09-02T18:41:47Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
     "id": "agentdecksdk/agentdeck",
     "language": "Python",
@@ -115,15 +187,6 @@
     "stars": 120,
     "updated_at": "2026-09-02T18:25:06Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 308,
-    "updated_at": "2026-09-02T18:44:21Z",
-    "url": "https://github.com/Gnosil/semantix"
   },
   {
     "description": "",
@@ -149,7 +212,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4506,
-    "updated_at": "2026-09-02T18:17:40Z",
+    "updated_at": "2026-09-02T18:54:11Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T18:43:38Z",
+    "updated_at": "2026-09-02T18:57:16Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -166,7 +229,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7123,
+    "stars": 7124,
     "updated_at": "2026-09-02T18:16:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -180,21 +243,12 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-02T18:13:23Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
     "id": "sageox/agent-toolkit",
     "language": "TypeScript",
     "name": "sageox/agent-toolkit",
     "stars": 9,
-    "updated_at": "2026-09-02T18:13:06Z",
+    "updated_at": "2026-09-02T18:55:57Z",
     "url": "https://github.com/sageox/agent-toolkit"
   },
   {
@@ -257,7 +311,7 @@
     "language": "HTML",
     "name": "yuanchuzi2026/silicon-garden",
     "stars": 1,
-    "updated_at": "2026-09-02T18:03:49Z",
+    "updated_at": "2026-09-02T18:52:27Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
@@ -292,18 +346,9 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 1992,
+    "stars": 1993,
     "updated_at": "2026-09-02T17:59:42Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19674,
-    "updated_at": "2026-09-02T18:23:54Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-02T18:44:07Z",
+    "updated_at": "2026-09-02T18:54:54Z",
     "url": "https://github.com/ParsifalC/codex-flow"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 17,
-    "updated_at": "2026-09-02T17:19:13Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-02T17:19:11Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26396,
-    "updated_at": "2026-09-02T17:17:42Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 50,
-    "updated_at": "2026-09-02T17:15:44Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:04:34Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
   }
 ]
