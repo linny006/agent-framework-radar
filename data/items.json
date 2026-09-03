@@ -1,5 +1,23 @@
 [
   {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 8,
+    "updated_at": "2026-09-03T00:27:11Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T00:26:02Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
     "id": "geniusdapeng-collab/panda-cineforge",
     "language": "TypeScript",
@@ -77,17 +95,8 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-09-03T00:20:39Z",
+    "updated_at": "2026-09-03T00:28:14Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T00:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9626,
-    "updated_at": "2026-09-03T00:14:07Z",
+    "updated_at": "2026-09-03T00:27:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-03T00:13:09Z",
+    "updated_at": "2026-09-03T00:28:56Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 19679,
     "updated_at": "2026-09-03T00:22:20Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-09-02T22:45:08Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   }
 ]
