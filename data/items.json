@@ -1,11 +1,83 @@
 [
   {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-09-03T21:45:19Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2010,
+    "updated_at": "2026-09-03T21:40:58Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-09-03T21:40:47Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 5,
+    "updated_at": "2026-09-03T21:36:53Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Self-hosted hub for running independent AI agents as isolated processes \u2014 per-agent memory, model, tools, RAG and WhatsA",
+    "id": "r2aistente-cyber/AgentOS",
+    "language": "Python",
+    "name": "r2aistente-cyber/AgentOS",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:34:11Z",
+    "url": "https://github.com/r2aistente-cyber/AgentOS"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-09-03T21:33:31Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1325,
+    "updated_at": "2026-09-03T21:32:22Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T21:30:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-03T21:30:14Z",
+    "updated_at": "2026-09-03T21:33:03Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9660,
-    "updated_at": "2026-09-03T21:30:01Z",
+    "updated_at": "2026-09-03T21:42:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -72,33 +144,6 @@
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 5,
-    "updated_at": "2026-09-03T21:29:42Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2010,
-    "updated_at": "2026-09-03T21:17:03Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-09-03T21:22:15Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "The zero-trust framework for autonomous AI agents.",
     "id": "calebfaruki/sycophant",
     "language": "Rust",
@@ -106,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-09-03T21:16:12Z",
     "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T21:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 54,
-    "updated_at": "2026-09-03T21:19:12Z",
+    "updated_at": "2026-09-03T21:36:27Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -207,21 +243,12 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-03T20:44:39Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
     "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
     "id": "boundflow/charter",
     "language": "Python",
     "name": "boundflow/charter",
     "stars": 2,
-    "updated_at": "2026-09-03T21:26:05Z",
+    "updated_at": "2026-09-03T21:45:14Z",
     "url": "https://github.com/boundflow/charter"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "alpercodes/alms",
     "stars": 2,
-    "updated_at": "2026-09-03T20:54:31Z",
+    "updated_at": "2026-09-03T21:43:53Z",
     "url": "https://github.com/alpercodes/alms"
   },
   {
@@ -302,17 +329,8 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-03T21:24:55Z",
+    "updated_at": "2026-09-03T21:37:00Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Self-hosted hub for running independent AI agents as isolated processes \u2014 per-agent memory, model, tools, RAG and WhatsA",
-    "id": "r2aistente-cyber/AgentOS",
-    "language": "Python",
-    "name": "r2aistente-cyber/AgentOS",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:13:31Z",
-    "url": "https://github.com/r2aistente-cyber/AgentOS"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -374,7 +392,7 @@
     "language": "Go",
     "name": "Insajin/autopus-adk",
     "stars": 105,
-    "updated_at": "2026-09-03T20:00:48Z",
+    "updated_at": "2026-09-03T21:33:15Z",
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 510,
-    "updated_at": "2026-09-03T20:45:08Z",
+    "updated_at": "2026-09-03T21:41:42Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-03T19:35:43Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "semantic agent kernel which make agent efficient and self-evolve",
-    "id": "Gnosil/semantix",
-    "language": "Go",
-    "name": "Gnosil/semantix",
-    "stars": 329,
-    "updated_at": "2026-09-03T19:35:41Z",
-    "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-03T19:34:07Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
