@@ -1,12 +1,93 @@
 [
   {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 656,
+    "updated_at": "2026-09-03T16:42:52Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Cosight \u2014 A realtime multimodal AI agent runtime with composable roles and capabilities.",
+    "id": "MrGood4U/cosight",
+    "language": "JavaScript",
+    "name": "MrGood4U/cosight",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:41:49Z",
+    "url": "https://github.com/MrGood4U/cosight"
+  },
+  {
+    "description": "Expert Fleet - a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, verified procedural",
+    "id": "reda-baqechame/self-learning-24.7-agent",
+    "language": "Python",
+    "name": "reda-baqechame/self-learning-24.7-agent",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:40:50Z",
+    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-03T16:28:48Z",
+    "updated_at": "2026-09-03T16:41:11Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13307,
+    "updated_at": "2026-09-03T16:36:49Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9654,
+    "updated_at": "2026-09-03T16:41:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-03T16:35:38Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Agentic Operational Infrastructure",
+    "id": "Manu-Arrieta/AOI",
+    "language": "JavaScript",
+    "name": "Manu-Arrieta/AOI",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:34:58Z",
+    "url": "https://github.com/Manu-Arrieta/AOI"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 139,
+    "updated_at": "2026-09-03T16:34:00Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T16:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent and workflow runtime built on Microsoft Agent Framework, with portable YAML/JSON agents, MCP, Skills, Plugins and ",
@@ -63,15 +144,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T16:15:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
     "id": "ahwurm/localharness",
     "language": "Python",
@@ -94,7 +166,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47686,
+    "stars": 47688,
     "updated_at": "2026-09-03T16:08:56Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "Azure/GPT-RAG",
     "stars": 1170,
-    "updated_at": "2026-09-03T15:58:29Z",
+    "updated_at": "2026-09-03T16:37:38Z",
     "url": "https://github.com/Azure/GPT-RAG"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 3,
-    "updated_at": "2026-09-03T15:58:07Z",
+    "updated_at": "2026-09-03T16:44:38Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
@@ -171,39 +243,12 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13307,
-    "updated_at": "2026-09-03T15:57:14Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 139,
-    "updated_at": "2026-09-03T15:57:12Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9654,
-    "updated_at": "2026-09-03T16:22:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\u914d\u7f6e\u9a71\u52a8\u3001\u53ef\u6062\u590d\u7684 Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run \u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
     "id": "Eclipseic1848/CoreMind",
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-09-03T15:53:57Z",
+    "updated_at": "2026-09-03T16:34:10Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-03T15:40:12Z",
+    "updated_at": "2026-09-03T16:42:41Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35381,
-    "updated_at": "2026-09-03T15:33:49Z",
+    "updated_at": "2026-09-03T16:42:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T16:20:20Z",
+    "updated_at": "2026-09-03T16:44:34Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 119,
     "updated_at": "2026-09-03T14:51:36Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "MAF + GraphRAG Series: Knowledge Graphs, MCP, Agents, Workflows, and Evaluation using Azure AI and Microsoft Agent Frame",
-    "id": "cristofima/maf-graphrag-series",
-    "language": "Python",
-    "name": "cristofima/maf-graphrag-series",
-    "stars": 2,
-    "updated_at": "2026-09-03T15:19:56Z",
-    "url": "https://github.com/cristofima/maf-graphrag-series"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1617,
-    "updated_at": "2026-09-03T14:48:15Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:45:52Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-03T14:45:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-09-03T14:43:31Z",
-    "url": "https://github.com/daretodave/nexus"
   }
 ]
