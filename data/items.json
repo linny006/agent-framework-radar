@@ -1,5 +1,32 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 275,
+    "updated_at": "2026-09-03T21:12:08Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 54,
+    "updated_at": "2026-09-03T21:15:01Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T21:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
     "id": "amilworks/ultra",
     "language": "Python",
@@ -36,15 +63,6 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 54,
-    "updated_at": "2026-09-03T21:00:22Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
@@ -72,15 +90,6 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T20:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "boundflow/charter",
     "stars": 2,
-    "updated_at": "2026-09-03T21:00:28Z",
+    "updated_at": "2026-09-03T21:09:41Z",
     "url": "https://github.com/boundflow/charter"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-03T20:59:32Z",
+    "updated_at": "2026-09-03T21:14:43Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -203,7 +212,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-03T20:54:23Z",
+    "updated_at": "2026-09-03T21:07:13Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-03T20:19:14Z",
+    "updated_at": "2026-09-03T21:14:09Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 0,
-    "updated_at": "2026-09-03T20:58:16Z",
+    "updated_at": "2026-09-03T21:04:34Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T19:11:30Z",
     "url": "https://github.com/tinyhumansai/tinybus"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 551,
-    "updated_at": "2026-09-03T20:03:10Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
