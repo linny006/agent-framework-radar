@@ -1,5 +1,86 @@
 [
   {
+    "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
+    "id": "lorryjovens-hub/laap-AGI",
+    "language": "Python",
+    "name": "lorryjovens-hub/laap-AGI",
+    "stars": 7,
+    "updated_at": "2026-09-03T23:28:53Z",
+    "url": "https://github.com/lorryjovens-hub/laap-AGI"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 227,
+    "updated_at": "2026-09-03T23:28:51Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19704,
+    "updated_at": "2026-09-03T23:30:14Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1325,
+    "updated_at": "2026-09-03T23:26:21Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-09-03T23:23:40Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2010,
+    "updated_at": "2026-09-03T23:21:16Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-09-03T23:28:16Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9663,
+    "updated_at": "2026-09-03T23:23:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T23:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -9,13 +90,13 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
+    "description": "Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute",
+    "id": "YahyaHammad/Venastine-Research-Harness",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19704,
-    "updated_at": "2026-09-03T23:10:59Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "YahyaHammad/Venastine-Research-Harness",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:10:27Z",
+    "url": "https://github.com/YahyaHammad/Venastine-Research-Harness"
   },
   {
     "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
@@ -45,15 +126,6 @@
     "url": "https://github.com/boundflow/charter"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T23:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
     "id": "sageox/agent-toolkit",
     "language": "TypeScript",
@@ -72,30 +144,12 @@
     "url": "https://github.com/lafollett-labs/riff"
   },
   {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-09-03T22:55:13Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1325,
-    "updated_at": "2026-09-03T23:03:54Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-03T22:55:39Z",
+    "updated_at": "2026-09-03T23:27:45Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9663,
-    "updated_at": "2026-09-03T23:08:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -133,15 +178,6 @@
     "stars": 105,
     "updated_at": "2026-09-03T22:42:05Z",
     "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2010,
-    "updated_at": "2026-09-03T22:35:01Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -171,15 +207,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:59:19Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-09-03T22:23:10Z",
+    "updated_at": "2026-09-03T23:25:44Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-03T21:00:06Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
-    "id": "AgiMateIo/agimate-backend",
-    "language": "Java",
-    "name": "AgiMateIo/agimate-backend",
-    "stars": 5,
-    "updated_at": "2026-09-03T20:59:18Z",
-    "url": "https://github.com/AgiMateIo/agimate-backend"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 2,
-    "updated_at": "2026-09-03T20:56:52Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
-    "id": "tinyhumansai/openhuman",
-    "language": "Rust",
-    "name": "tinyhumansai/openhuman",
-    "stars": 39395,
-    "updated_at": "2026-09-03T20:50:08Z",
-    "url": "https://github.com/tinyhumansai/openhuman"
   }
 ]
