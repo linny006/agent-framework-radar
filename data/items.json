@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-03T00:14:40Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9626,
+    "updated_at": "2026-09-03T00:14:07Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:10:03Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-03T00:09:05Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 6,
+    "updated_at": "2026-09-03T00:05:50Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T00:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-09-03T00:06:51Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
     "description": "Shrimpy is a home-agent framework built on Pi. Keep it Shrimple.",
     "id": "zachmeador/shrimpy",
     "language": "TypeScript",
@@ -50,7 +113,7 @@
     "language": "Go",
     "name": "sakibsadmanshajib/hive",
     "stars": 0,
-    "updated_at": "2026-09-02T23:54:43Z",
+    "updated_at": "2026-09-03T00:13:09Z",
     "url": "https://github.com/sakibsadmanshajib/hive"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 17,
     "updated_at": "2026-09-02T23:49:24Z",
     "url": "https://github.com/prime-vector/open-agent-spec"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-03T00:00:10Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -108,24 +162,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-02T23:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9626,
-    "updated_at": "2026-09-02T23:43:51Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A wallet of AI agents that use real tools and ask each other when a question isn't theirs. Runs on your computer; the mo",
     "id": "openvurp/openvurp",
     "language": "Python",
@@ -135,21 +171,12 @@
     "url": "https://github.com/openvurp/openvurp"
   },
   {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-09-02T23:58:38Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
     "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
     "id": "ParsifalC/codex-flow",
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-03T00:00:20Z",
+    "updated_at": "2026-09-03T00:02:10Z",
     "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19679,
-    "updated_at": "2026-09-02T23:57:37Z",
+    "updated_at": "2026-09-03T00:11:43Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -382,7 +409,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39351,
+    "stars": 39352,
     "updated_at": "2026-09-02T22:44:03Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -421,32 +448,5 @@
     "stars": 1996,
     "updated_at": "2026-09-02T22:36:47Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
-    "id": "agoradynamics/wick",
-    "language": "JavaScript",
-    "name": "agoradynamics/wick",
-    "stars": 3,
-    "updated_at": "2026-09-02T22:36:08Z",
-    "url": "https://github.com/agoradynamics/wick"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 27,
-    "updated_at": "2026-09-02T22:29:39Z",
-    "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Your own agentic working mate. For long horizon and complex task automation",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 122,
-    "updated_at": "2026-09-02T23:51:45Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   }
 ]
