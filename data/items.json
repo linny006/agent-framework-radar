@@ -1,12 +1,66 @@
 [
   {
+    "description": "An open, modular agent pipeline framework for building, orchestrating, and executing AI workflows.",
+    "id": "KawasakiKusako/open-agent-pipeline",
+    "language": "\u2014",
+    "name": "KawasakiKusako/open-agent-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:28:54Z",
+    "url": "https://github.com/KawasakiKusako/open-agent-pipeline"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-09-03T09:30:12Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:28:26Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9636,
-    "updated_at": "2026-09-03T09:19:31Z",
+    "stars": 9637,
+    "updated_at": "2026-09-03T09:27:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 477,
+    "updated_at": "2026-09-03T09:27:13Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35367,
+    "updated_at": "2026-09-03T09:25:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T09:21:13Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "the-ahuja-lab/PROTACXtend",
     "stars": 0,
-    "updated_at": "2026-09-03T09:18:45Z",
+    "updated_at": "2026-09-03T09:28:36Z",
     "url": "https://github.com/the-ahuja-lab/PROTACXtend"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 0,
-    "updated_at": "2026-09-03T09:16:41Z",
+    "updated_at": "2026-09-03T09:27:45Z",
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 1325,
     "updated_at": "2026-09-03T09:15:38Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T09:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "trpc-group/trpc-agent-go",
     "stars": 1761,
-    "updated_at": "2026-09-03T09:13:40Z",
+    "updated_at": "2026-09-03T09:21:56Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
   },
   {
@@ -115,24 +160,6 @@
     "stars": 16,
     "updated_at": "2026-09-03T09:13:35Z",
     "url": "https://github.com/chjm-ai/vococo"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35368,
-    "updated_at": "2026-09-03T09:12:10Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
-    "id": "Eclipseic1848/CoreMind",
-    "language": "TypeScript",
-    "name": "Eclipseic1848/CoreMind",
-    "stars": 5,
-    "updated_at": "2026-09-03T09:10:41Z",
-    "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -266,7 +293,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4506,
-    "updated_at": "2026-09-03T09:16:39Z",
+    "updated_at": "2026-09-03T09:27:01Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 51,
-    "updated_at": "2026-09-03T08:38:25Z",
+    "updated_at": "2026-09-03T09:21:46Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-03T08:59:19Z",
+    "updated_at": "2026-09-03T09:29:45Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-03T08:55:05Z",
+    "updated_at": "2026-09-03T09:27:27Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 184,
     "updated_at": "2026-09-03T08:02:29Z",
     "url": "https://github.com/techygarg/lattice"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7134,
-    "updated_at": "2026-09-03T08:01:10Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6184,
-    "updated_at": "2026-09-03T08:00:42Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
-    "id": "Aureliolo/synthorg",
-    "language": "Python",
-    "name": "Aureliolo/synthorg",
-    "stars": 9,
-    "updated_at": "2026-09-03T07:59:53Z",
-    "url": "https://github.com/Aureliolo/synthorg"
   }
 ]
