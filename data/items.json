@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 12,
+    "updated_at": "2026-09-03T15:28:42Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-03T15:30:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 3,
+    "updated_at": "2026-09-03T15:27:44Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 139,
+    "updated_at": "2026-09-03T15:26:00Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13307,
+    "updated_at": "2026-09-03T15:22:36Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 3,
+    "updated_at": "2026-09-03T15:22:08Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Practical Python examples for OpenRouter chatbots, structured outputs, email agents, and reusable action frameworks.",
+    "id": "FarhanCodeSpace/copilot_agent",
+    "language": "Python",
+    "name": "FarhanCodeSpace/copilot_agent",
+    "stars": 1,
+    "updated_at": "2026-09-03T15:21:45Z",
+    "url": "https://github.com/FarhanCodeSpace/copilot_agent"
+  },
+  {
+    "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
+    "id": "ParsifalC/codex-flow",
+    "language": "Python",
+    "name": "ParsifalC/codex-flow",
+    "stars": 2,
+    "updated_at": "2026-09-03T15:18:00Z",
+    "url": "https://github.com/ParsifalC/codex-flow"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9655,
+    "updated_at": "2026-09-03T15:17:23Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 51,
+    "updated_at": "2026-09-03T15:15:54Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T15:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
     "id": "rapidaai/voice-ai",
     "language": "Go",
@@ -16,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T15:11:13Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
-    "id": "ParsifalC/codex-flow",
-    "language": "Swift",
-    "name": "ParsifalC/codex-flow",
-    "stars": 2,
-    "updated_at": "2026-09-03T15:13:35Z",
-    "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
     "description": "Embeddable, dependency-light tracing for AI agent frameworks. Explicit instance + optional OpenTelemetry bridge, open ve",
@@ -54,24 +144,6 @@
     "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T15:00:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9653,
-    "updated_at": "2026-09-03T15:09:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
     "id": "junebuild/june",
     "language": "TypeScript",
@@ -79,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-03T14:52:50Z",
     "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 3,
-    "updated_at": "2026-09-03T15:06:29Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "cristofima/maf-graphrag-series",
     "stars": 2,
-    "updated_at": "2026-09-03T14:49:26Z",
+    "updated_at": "2026-09-03T15:19:56Z",
     "url": "https://github.com/cristofima/maf-graphrag-series"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T14:45:38Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 3,
-    "updated_at": "2026-09-03T14:43:42Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T14:36:41Z",
     "url": "https://github.com/the-ahuja-lab/PROTACXtend"
-  },
-  {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 12,
-    "updated_at": "2026-09-03T14:35:17Z",
-    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-03T14:29:44Z",
+    "updated_at": "2026-09-03T15:29:20Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-09-03T14:24:31Z",
+    "updated_at": "2026-09-03T15:25:26Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-03T13:42:29Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
-    "id": "lafollett-labs/riff",
-    "language": "TypeScript",
-    "name": "lafollett-labs/riff",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:36:25Z",
-    "url": "https://github.com/lafollett-labs/riff"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 139,
-    "updated_at": "2026-09-03T13:29:19Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:27:24Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 10,
-    "updated_at": "2026-09-03T13:27:17Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:23:58Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   }
 ]
