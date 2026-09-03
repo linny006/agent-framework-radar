@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 479,
+    "updated_at": "2026-09-03T13:43:37Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T13:42:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-09-03T13:42:29Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
     "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
     "id": "lafollett-labs/riff",
     "language": "TypeScript",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7141,
-    "updated_at": "2026-09-03T13:33:51Z",
+    "updated_at": "2026-09-03T13:43:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 9644,
     "updated_at": "2026-09-03T13:42:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T13:30:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
@@ -419,17 +437,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4506,
-    "updated_at": "2026-09-03T13:39:15Z",
+    "updated_at": "2026-09-03T13:44:23Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 479,
-    "updated_at": "2026-09-03T13:34:03Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T13:25:32Z",
     "url": "https://github.com/ParsifalC/codex-flow"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-03T13:06:12Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
