@@ -1,12 +1,102 @@
 [
   {
+    "description": "Declarative agent runtime in Go: define governable AI agents as YAML, not code \u2014 run them headless, as a service, or on ",
+    "id": "Federicoand98/mani",
+    "language": "Go",
+    "name": "Federicoand98/mani",
+    "stars": 8,
+    "updated_at": "2026-09-03T12:44:25Z",
+    "url": "https://github.com/Federicoand98/mani"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 15,
+    "updated_at": "2026-09-03T12:43:10Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1184,
+    "updated_at": "2026-09-03T12:45:01Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7139,
+    "updated_at": "2026-09-03T12:36:50Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T12:36:12Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-03T12:29:24Z",
+    "updated_at": "2026-09-03T12:44:56Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-03T12:44:56Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-03T12:32:17Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T12:30:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An architecture-graph driven framework for Agentic Engineering.",
+    "id": "derekhu0002/archgraph",
+    "language": "JavaScript",
+    "name": "derekhu0002/archgraph",
+    "stars": 2,
+    "updated_at": "2026-09-03T12:29:52Z",
+    "url": "https://github.com/derekhu0002/archgraph"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-09-03T12:37:56Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -27,13 +117,22 @@
     "url": "https://github.com/birdqqq/mini-agent"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-03T12:27:31Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-03T12:28:15Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9643,
+    "updated_at": "2026-09-03T12:39:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -63,12 +162,21 @@
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
+    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
+    "id": "agenvoy/Agenvoy",
+    "language": "Go",
+    "name": "agenvoy/Agenvoy",
+    "stars": 479,
+    "updated_at": "2026-09-03T12:21:57Z",
+    "url": "https://github.com/agenvoy/Agenvoy"
+  },
+  {
     "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
     "id": "ParsifalC/codex-flow",
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-03T12:21:51Z",
+    "updated_at": "2026-09-03T12:45:17Z",
     "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
@@ -85,7 +193,7 @@
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
-    "stars": 138,
+    "stars": 139,
     "updated_at": "2026-09-03T12:20:37Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
   },
@@ -99,24 +207,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7139,
-    "updated_at": "2026-09-03T12:18:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9642,
-    "updated_at": "2026-09-03T12:24:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
     "id": "rundesk-ai/rundesk-cli",
     "language": "Python",
@@ -124,24 +214,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T12:24:26Z",
     "url": "https://github.com/rundesk-ai/rundesk-cli"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1184,
-    "updated_at": "2026-09-03T12:16:56Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T12:15:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
@@ -157,7 +229,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39371,
+    "stars": 39374,
     "updated_at": "2026-09-03T12:11:14Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -185,35 +257,8 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-09-03T12:15:21Z",
+    "updated_at": "2026-09-03T12:43:28Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "A durable, long-running AI engineering partner.",
-    "id": "damonleelcx/J.A.R.V.I.S.-agent",
-    "language": "Go",
-    "name": "damonleelcx/J.A.R.V.I.S.-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:09:29Z",
-    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 15,
-    "updated_at": "2026-09-03T12:09:20Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-09-03T12:29:40Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -232,15 +277,6 @@
     "stars": 1763,
     "updated_at": "2026-09-03T12:05:36Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Self-hosted AI agent harness in a single Go binary \u2014 writes, sandbox-tests and repairs its own tools, and lets Claude Co",
-    "id": "agenvoy/Agenvoy",
-    "language": "Go",
-    "name": "agenvoy/Agenvoy",
-    "stars": 480,
-    "updated_at": "2026-09-03T12:21:57Z",
-    "url": "https://github.com/agenvoy/Agenvoy"
   },
   {
     "description": "Industrial-grade C++20 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming, tool registry,",
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35373,
-    "updated_at": "2026-09-03T12:04:35Z",
+    "updated_at": "2026-09-03T12:44:08Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1325,
-    "updated_at": "2026-09-03T11:57:15Z",
+    "updated_at": "2026-09-03T12:37:58Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1410,
     "updated_at": "2026-09-03T11:07:04Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
-    "id": "Marssssss/OneAI",
-    "language": "Rust",
-    "name": "Marssssss/OneAI",
-    "stars": 38,
-    "updated_at": "2026-09-03T11:01:04Z",
-    "url": "https://github.com/Marssssss/OneAI"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:59:51Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
-  },
-  {
-    "description": "\u53d1\u73b0\u3001\u5b89\u88c5 DeepSeek Harness \u751f\u6001\u4e2d\u7684\u793e\u533a\u63d2\u4ef6\u3001\u5de5\u5177\u4e0e\u6269\u5c55\uff0c\u63a2\u7d22 1493+ \u7cbe\u9009\u4e3b\u9898\u63d2\u4ef6\u5e76\u5b9e\u65f6\u66f4\u65b0\u76ee\u5f55\u3002",
-    "id": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "language": "\u2014",
-    "name": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:59:41Z",
-    "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-09-03T11:00:36Z",
-    "url": "https://github.com/KPO-Tech/seshat"
   }
 ]
