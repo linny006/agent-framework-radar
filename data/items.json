@@ -1,11 +1,56 @@
 [
   {
+    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
+    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "language": "Python",
+    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-03T18:45:13Z",
+    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 50,
+    "updated_at": "2026-09-03T18:43:18Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19702,
+    "updated_at": "2026-09-03T18:41:20Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Agentic Operational Infrastructure",
+    "id": "Manu-Arrieta/AOI",
+    "language": "JavaScript",
+    "name": "Manu-Arrieta/AOI",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:42:22Z",
+    "url": "https://github.com/Manu-Arrieta/AOI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T18:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI teammates you can hand real work to, on hardware you own. Each bot gets its own sandboxed workspace, its own browser ",
     "id": "Galactic717/halo-bot",
     "language": "TypeScript",
     "name": "Galactic717/halo-bot",
     "stars": 0,
-    "updated_at": "2026-09-03T18:28:10Z",
+    "updated_at": "2026-09-03T18:45:15Z",
     "url": "https://github.com/Galactic717/halo-bot"
   },
   {
@@ -23,7 +68,7 @@
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-09-03T18:28:29Z",
+    "updated_at": "2026-09-03T18:37:30Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -50,7 +95,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-03T18:28:11Z",
+    "updated_at": "2026-09-03T18:33:23Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-03T18:22:05Z",
+    "updated_at": "2026-09-03T18:33:42Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 68,
-    "updated_at": "2026-09-03T18:20:35Z",
+    "updated_at": "2026-09-03T18:43:52Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-03T18:20:14Z",
+    "updated_at": "2026-09-03T18:45:05Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/lafollett-labs/riff"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T18:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Extending PROTAC design beyond current limitations or breaking the PROTAC design bottleneck",
     "id": "the-ahuja-lab/PROTACXtend",
     "language": "Python",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T18:15:17Z",
     "url": "https://github.com/the-ahuja-lab/PROTACXtend"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19702,
-    "updated_at": "2026-09-03T18:20:15Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A compact, SDK-only agent harness: maximum performance, minimum framework code",
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-09-03T18:20:09Z",
+    "updated_at": "2026-09-03T18:32:47Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
@@ -319,7 +346,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39388,
+    "stars": 39389,
     "updated_at": "2026-09-03T17:48:36Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T17:39:55Z",
     "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:39:47Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47689,
-    "updated_at": "2026-09-03T17:39:42Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:39:36Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
   }
 ]
