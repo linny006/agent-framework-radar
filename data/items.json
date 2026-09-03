@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI research agents + scientific image viewer for bioimaging & neuroimaging \u2014 LangGraph agents, GPU inference, and native",
+    "id": "amilworks/ultra",
+    "language": "Python",
+    "name": "amilworks/ultra",
+    "stars": 6,
+    "updated_at": "2026-09-03T21:00:06Z",
+    "url": "https://github.com/amilworks/ultra"
+  },
+  {
+    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
+    "id": "AgiMateIo/agimate-backend",
+    "language": "Java",
+    "name": "AgiMateIo/agimate-backend",
+    "stars": 5,
+    "updated_at": "2026-09-03T20:59:18Z",
+    "url": "https://github.com/AgiMateIo/agimate-backend"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-03T20:57:40Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-09-03T20:56:52Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 54,
+    "updated_at": "2026-09-03T21:00:22Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
+    "id": "tinyhumansai/openhuman",
+    "language": "Rust",
+    "name": "tinyhumansai/openhuman",
+    "stars": 39392,
+    "updated_at": "2026-09-03T20:50:08Z",
+    "url": "https://github.com/tinyhumansai/openhuman"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-03T20:49:32Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
+    "id": "rundesk-ai/rundesk-cli",
+    "language": "Python",
+    "name": "rundesk-ai/rundesk-cli",
+    "stars": 5,
+    "updated_at": "2026-09-03T20:47:26Z",
+    "url": "https://github.com/rundesk-ai/rundesk-cli"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T20:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -9,13 +90,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
+    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
+    "id": "Lykhoyda/rn-dev-agent",
     "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 54,
-    "updated_at": "2026-09-03T20:44:21Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-09-03T20:44:39Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
     "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "boundflow/charter",
     "stars": 2,
-    "updated_at": "2026-09-03T20:44:14Z",
+    "updated_at": "2026-09-03T21:00:28Z",
     "url": "https://github.com/boundflow/charter"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "alpercodes/alms",
     "stars": 2,
-    "updated_at": "2026-09-03T20:33:50Z",
+    "updated_at": "2026-09-03T20:54:31Z",
     "url": "https://github.com/alpercodes/alms"
   },
   {
@@ -63,30 +144,12 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T20:30:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-03T20:44:39Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-03T20:39:52Z",
+    "updated_at": "2026-09-03T20:59:32Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -113,17 +176,8 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-03T20:25:12Z",
+    "updated_at": "2026-09-03T20:54:53Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Persistent proactive self-improving AI teammates with memory, skills, and schedules.",
-    "id": "rundesk-ai/rundesk-cli",
-    "language": "Python",
-    "name": "rundesk-ai/rundesk-cli",
-    "stars": 5,
-    "updated_at": "2026-09-03T20:21:12Z",
-    "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
     "description": "AI agent execution engine that turns successful tool-use traces into reusable Skills with deterministic replay, cost-awa",
@@ -149,7 +203,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-03T20:42:28Z",
+    "updated_at": "2026-09-03T20:54:23Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 0,
-    "updated_at": "2026-09-03T20:26:55Z",
+    "updated_at": "2026-09-03T20:58:16Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/MrGood4U/cosight"
   },
   {
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of ",
-    "id": "tinyhumansai/openhuman",
-    "language": "Rust",
-    "name": "tinyhumansai/openhuman",
-    "stars": 39392,
-    "updated_at": "2026-09-03T19:21:44Z",
-    "url": "https://github.com/tinyhumansai/openhuman"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 551,
     "updated_at": "2026-09-03T20:03:10Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 13,
-    "updated_at": "2026-09-03T20:00:09Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Microwave Method: agent factory + governed LLM wiki. Heavy pass once per agent, light pass per feature. Context is cooke",
-    "id": "microphage-create/microwave-method",
-    "language": "Python",
-    "name": "microphage-create/microwave-method",
-    "stars": 1,
-    "updated_at": "2026-09-03T19:06:15Z",
-    "url": "https://github.com/microphage-create/microwave-method"
-  },
-  {
-    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
-    "id": "merryshelly/openalpheus",
-    "language": "Python",
-    "name": "merryshelly/openalpheus",
-    "stars": 3,
-    "updated_at": "2026-09-03T19:05:51Z",
-    "url": "https://github.com/merryshelly/openalpheus"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 68,
-    "updated_at": "2026-09-03T19:03:54Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13307,
-    "updated_at": "2026-09-03T19:01:48Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
