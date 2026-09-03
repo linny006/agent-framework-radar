@@ -1,12 +1,84 @@
 [
   {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 12,
+    "updated_at": "2026-09-03T08:42:54Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Reference implementation of the Universal Engineering Agent operating-kernel contract \u2014 profile-agnostic, runnable, MIT-",
+    "id": "MajidAsghariTabrizi/universal-engineering-agent",
+    "language": "JavaScript",
+    "name": "MajidAsghariTabrizi/universal-engineering-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:41:15Z",
+    "url": "https://github.com/MajidAsghariTabrizi/universal-engineering-agent"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 2,
+    "updated_at": "2026-09-03T08:40:38Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Community starter data pack for TAUT: a generic dev flow (analyze/implement/review), workspace-init & workspace-check sk",
+    "id": "yurgeno/taut-data-community",
+    "language": "Shell",
+    "name": "yurgeno/taut-data-community",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:39:20Z",
+    "url": "https://github.com/yurgeno/taut-data-community"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-03T08:41:31Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 51,
+    "updated_at": "2026-09-03T08:38:25Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-03T08:39:55Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
     "description": "\u914d\u7f6e\u9a71\u52a8\u7684\u53ef\u6062\u590d Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run\uff08\u672a\u53d1\u5e03\u5019\u9009\uff09\u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
     "id": "Eclipseic1848/CoreMind",
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 5,
-    "updated_at": "2026-09-03T08:30:08Z",
+    "updated_at": "2026-09-03T08:45:24Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T08:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -16,15 +88,6 @@
     "stars": 10,
     "updated_at": "2026-09-03T08:26:19Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-03T08:26:12Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -58,7 +121,7 @@
     "id": "tinyhumansai/openhuman",
     "language": "Rust",
     "name": "tinyhumansai/openhuman",
-    "stars": 39364,
+    "stars": 39365,
     "updated_at": "2026-09-03T08:21:06Z",
     "url": "https://github.com/tinyhumansai/openhuman"
   },
@@ -72,21 +135,12 @@
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T08:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9636,
-    "updated_at": "2026-09-03T08:14:24Z",
+    "updated_at": "2026-09-03T08:45:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13301,
-    "updated_at": "2026-09-03T08:14:15Z",
+    "updated_at": "2026-09-03T08:42:02Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "shibing624/agentica",
     "stars": 351,
-    "updated_at": "2026-09-03T08:12:59Z",
+    "updated_at": "2026-09-03T08:45:28Z",
     "url": "https://github.com/shibing624/agentica"
   },
   {
@@ -121,7 +175,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47671,
+    "stars": 47673,
     "updated_at": "2026-09-03T08:09:51Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -157,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35364,
+    "stars": 35365,
     "updated_at": "2026-09-03T08:08:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -225,15 +279,6 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:58:35Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
     "description": "SynthOrg is a synthetic organisation: it staffs the roles, splits the work into jobs that stand alone, and sends each on",
     "id": "Aureliolo/synthorg",
     "language": "Python",
@@ -243,22 +288,22 @@
     "url": "https://github.com/Aureliolo/synthorg"
   },
   {
+    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
+    "id": "damonleelcx/Opportunity-Bridge-Agent",
+    "language": "Go",
+    "name": "damonleelcx/Opportunity-Bridge-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:58:35Z",
+    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
+  },
+  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19689,
+    "stars": 19691,
     "updated_at": "2026-09-03T07:54:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-03T08:26:00Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Industrial-grade C++20 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming, tool registry,",
@@ -277,24 +322,6 @@
     "stars": 6,
     "updated_at": "2026-09-03T08:24:07Z",
     "url": "https://github.com/amilworks/ultra"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 12,
-    "updated_at": "2026-09-03T07:46:48Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 51,
-    "updated_at": "2026-09-03T07:44:17Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -401,7 +428,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4506,
-    "updated_at": "2026-09-03T08:25:41Z",
+    "updated_at": "2026-09-03T08:44:07Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 20,
     "updated_at": "2026-09-03T07:19:38Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:03:28Z",
-    "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
-    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-    "id": "Cobra-bit-prog/agent-guard",
-    "language": "TypeScript",
-    "name": "Cobra-bit-prog/agent-guard",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:02:13Z",
-    "url": "https://github.com/Cobra-bit-prog/agent-guard"
-  },
-  {
-    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
-    "id": "franktsaodev/Frank-AI-Agent",
-    "language": "Python",
-    "name": "franktsaodev/Frank-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:01:28Z",
-    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
   }
 ]
