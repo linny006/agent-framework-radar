@@ -1,5 +1,95 @@
 [
   {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-09-04T06:44:40Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1763,
+    "updated_at": "2026-09-04T06:44:54Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 4,
+    "updated_at": "2026-09-04T06:44:08Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2015,
+    "updated_at": "2026-09-04T06:39:24Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:39:14Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-04T06:38:58Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
+    "id": "boundflow/charter",
+    "language": "Python",
+    "name": "boundflow/charter",
+    "stars": 8,
+    "updated_at": "2026-09-04T06:40:03Z",
+    "url": "https://github.com/boundflow/charter"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13315,
+    "updated_at": "2026-09-04T06:36:22Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26410,
+    "updated_at": "2026-09-04T06:37:20Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T06:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "oh-my-fable \u2014 Fable 5's way of working a long task (plan first, self-correct, never lose the thread), as a model-agnosti",
     "id": "didrod205/oh-my-fable",
     "language": "TypeScript",
@@ -9,15 +99,6 @@
     "url": "https://github.com/didrod205/oh-my-fable"
   },
   {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:29:51Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
     "id": "techygarg/lattice",
     "language": "Shell",
@@ -25,15 +106,6 @@
     "stars": 184,
     "updated_at": "2026-09-04T06:29:03Z",
     "url": "https://github.com/techygarg/lattice"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13314,
-    "updated_at": "2026-09-04T06:30:01Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
@@ -52,24 +124,6 @@
     "stars": 272,
     "updated_at": "2026-09-04T06:22:36Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
-    "id": "boundflow/charter",
-    "language": "Python",
-    "name": "boundflow/charter",
-    "stars": 8,
-    "updated_at": "2026-09-04T06:28:54Z",
-    "url": "https://github.com/boundflow/charter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T06:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19710,
-    "updated_at": "2026-09-04T06:27:47Z",
+    "updated_at": "2026-09-04T06:44:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15182,
-    "updated_at": "2026-09-04T06:18:06Z",
+    "updated_at": "2026-09-04T06:37:27Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -238,7 +292,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35397,
+    "stars": 35398,
     "updated_at": "2026-09-04T05:34:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T04:49:39Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "An event-sourced runtime for AI agents that survives kill -9, written in Rust.",
-    "id": "joseym/salvor",
-    "language": "Rust",
-    "name": "joseym/salvor",
-    "stars": 2,
-    "updated_at": "2026-09-04T04:45:39Z",
-    "url": "https://github.com/joseym/salvor"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 662,
-    "updated_at": "2026-09-04T04:43:25Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:42:12Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-04T04:41:10Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 50,
-    "updated_at": "2026-09-04T04:37:41Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2015,
-    "updated_at": "2026-09-04T04:37:27Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
