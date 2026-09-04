@@ -1,21 +1,12 @@
 [
   {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 2,
-    "updated_at": "2026-09-04T19:31:33Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T19:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "openamer/openamer",
+    "stars": 4,
+    "updated_at": "2026-09-04T19:45:04Z",
+    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -23,17 +14,71 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-04T19:32:44Z",
+    "updated_at": "2026-09-04T19:44:54Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-04T19:42:15Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19726,
+    "updated_at": "2026-09-04T19:45:09Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "\u9762\u5411\u5f00\u6e90\u793e\u533a\u7684 Agent/Skill \u5de5\u5177\u7bb1 + \u793e\u533a agent \u5316\u6539\u9020\u65b9\u6cd5\u8bba\u30025 \u4e2a\u5f00\u7bb1\u5373\u7528\u793e\u7fa4 Skill\uff0c\u517c\u5bb9 Skills 1.0 + MCP 0.4\uff0c\u8de8\u5bbf\u4e3b\u8fd0\u884c\uff0cMIT\u3002",
     "id": "yaoteng/chaoyi_agent",
-    "language": "Shell",
+    "language": "Python",
     "name": "yaoteng/chaoyi_agent",
     "stars": 0,
-    "updated_at": "2026-09-04T19:28:57Z",
+    "updated_at": "2026-09-04T19:39:41Z",
     "url": "https://github.com/yaoteng/chaoyi_agent"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 54,
+    "updated_at": "2026-09-04T19:39:26Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-04T19:42:13Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-04T19:45:11Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 9,
+    "updated_at": "2026-09-04T19:43:28Z",
+    "url": "https://github.com/sageox/agent-toolkit"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -41,8 +86,44 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7153,
-    "updated_at": "2026-09-04T19:28:19Z",
+    "updated_at": "2026-09-04T19:37:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka",
+    "language": "Elixir",
+    "name": "agentjido/jidoka",
+    "stars": 42,
+    "updated_at": "2026-09-04T19:37:47Z",
+    "url": "https://github.com/agentjido/jidoka"
+  },
+  {
+    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
+    "id": "merryshelly/openalpheus",
+    "language": "Python",
+    "name": "merryshelly/openalpheus",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:35:51Z",
+    "url": "https://github.com/merryshelly/openalpheus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T19:32:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-09-04T19:35:39Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-04T19:31:49Z",
+    "updated_at": "2026-09-04T19:44:04Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 4,
-    "updated_at": "2026-09-04T19:12:03Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
     "id": "sandeepyadav1478/touchstone",
     "language": "Python",
@@ -142,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T19:11:14Z",
     "url": "https://github.com/sandeepyadav1478/touchstone"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-04T19:12:03Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 54,
-    "updated_at": "2026-09-04T19:09:22Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -176,24 +230,15 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-04T19:03:34Z",
+    "updated_at": "2026-09-04T19:41:41Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19726,
-    "updated_at": "2026-09-04T19:31:09Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9690,
+    "stars": 9691,
     "updated_at": "2026-09-04T18:58:39Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -288,15 +333,6 @@
     "url": "https://github.com/AgentsHarness/capri-fe"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-04T19:30:15Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -322,6 +358,15 @@
     "stars": 141,
     "updated_at": "2026-09-04T18:18:39Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Your own agentic working mate. For long horizon and complex task automation",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 140,
+    "updated_at": "2026-09-04T18:11:24Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T17:47:13Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Your own agentic working mate. For long horizon and complex task automation",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 139,
-    "updated_at": "2026-09-04T18:11:24Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 109,
-    "updated_at": "2026-09-04T18:42:50Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4508,
-    "updated_at": "2026-09-04T17:43:24Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-04T17:38:11Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
-    "id": "wanxingai/LightAgent",
-    "language": "Python",
-    "name": "wanxingai/LightAgent",
-    "stars": 1214,
-    "updated_at": "2026-09-04T17:33:11Z",
-    "url": "https://github.com/wanxingai/LightAgent"
   }
 ]
