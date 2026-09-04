@@ -1,5 +1,104 @@
 [
   {
+    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
+    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "language": "Python",
+    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:57:22Z",
+    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
+  },
+  {
+    "description": "An architecture-graph driven framework for Agentic Engineering.",
+    "id": "derekhu0002/archgraph",
+    "language": "JavaScript",
+    "name": "derekhu0002/archgraph",
+    "stars": 3,
+    "updated_at": "2026-09-04T13:55:27Z",
+    "url": "https://github.com/derekhu0002/archgraph"
+  },
+  {
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "id": "WhitzardAgent/WhitzardOS",
+    "language": "Python",
+    "name": "WhitzardAgent/WhitzardOS",
+    "stars": 41,
+    "updated_at": "2026-09-04T13:54:44Z",
+    "url": "https://github.com/WhitzardAgent/WhitzardOS"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 22,
+    "updated_at": "2026-09-04T13:53:49Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:53:24Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26415,
+    "updated_at": "2026-09-04T13:48:36Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:48:21Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 10,
+    "updated_at": "2026-09-04T13:48:12Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:48:07Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 276,
+    "updated_at": "2026-09-04T13:47:55Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T13:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A tiny, readable production-grade LLM agent kernel \u2014 graph, channels/reducer state, BSP scheduler, event-sourced recover",
     "id": "limenagent/prodagent",
     "language": "Python",
@@ -7,15 +106,6 @@
     "stars": 67,
     "updated_at": "2026-09-04T13:43:47Z",
     "url": "https://github.com/limenagent/prodagent"
-  },
-  {
-    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
-    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "language": "Python",
-    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-04T13:37:32Z",
-    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -36,40 +126,13 @@
     "url": "https://github.com/Carrara-Labs/delta-harness"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T13:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-04T13:29:37Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 10,
-    "updated_at": "2026-09-04T13:29:30Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-04T13:29:24Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+    "name": "omnigent-ai/omnigent",
+    "stars": 9683,
+    "updated_at": "2026-09-04T13:28:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -79,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T13:26:41Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
-    "id": "WhitzardAgent/WhitzardOS",
-    "language": "Python",
-    "name": "WhitzardAgent/WhitzardOS",
-    "stars": 41,
-    "updated_at": "2026-09-04T13:25:53Z",
-    "url": "https://github.com/WhitzardAgent/WhitzardOS"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9682,
-    "updated_at": "2026-09-04T13:28:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13328,
-    "updated_at": "2026-09-04T13:44:08Z",
+    "updated_at": "2026-09-04T14:00:20Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T13:39:34Z",
+    "updated_at": "2026-09-04T13:54:13Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -167,7 +212,7 @@
     "language": "HTML",
     "name": "SunrisesIllNeverSee/agent-universe",
     "stars": 1,
-    "updated_at": "2026-09-04T13:17:58Z",
+    "updated_at": "2026-09-04T13:56:42Z",
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "agentailor/fullstack-langgraph-nextjs-agent",
     "stars": 131,
-    "updated_at": "2026-09-04T13:07:27Z",
+    "updated_at": "2026-09-04T13:55:12Z",
     "url": "https://github.com/agentailor/fullstack-langgraph-nextjs-agent"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 4,
-    "updated_at": "2026-09-04T13:43:50Z",
+    "updated_at": "2026-09-04T13:49:52Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 221,
     "updated_at": "2026-09-04T13:04:30Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-04T13:02:53Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -252,21 +288,12 @@
     "url": "https://github.com/yuting-ai/asAgent"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26415,
-    "updated_at": "2026-09-04T13:33:33Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
     "id": "Bande-a-Bonnot/Boucle-framework",
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-04T12:51:43Z",
+    "updated_at": "2026-09-04T13:58:29Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-04T12:50:38Z",
+    "updated_at": "2026-09-04T13:48:00Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 138,
-    "updated_at": "2026-09-04T12:49:10Z",
+    "updated_at": "2026-09-04T13:53:33Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T12:48:11Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
-    "id": "AndersonBY/vv-agent",
-    "language": "Python",
-    "name": "AndersonBY/vv-agent",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:47:47Z",
-    "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
     "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-04T13:32:13Z",
+    "updated_at": "2026-09-04T14:00:11Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -412,15 +430,6 @@
     "stars": 3,
     "updated_at": "2026-09-04T12:23:26Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-09-04T12:21:46Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19720,
-    "updated_at": "2026-09-04T13:32:22Z",
+    "updated_at": "2026-09-04T13:52:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
-    "id": "NinjaSln-labs/fuyao-nomad",
-    "language": "JavaScript",
-    "name": "NinjaSln-labs/fuyao-nomad",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:13:16Z",
-    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
   }
 ]
