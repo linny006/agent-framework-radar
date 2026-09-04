@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
-    "id": "merryshelly/openalpheus",
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
     "language": "Python",
-    "name": "merryshelly/openalpheus",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:25:53Z",
-    "url": "https://github.com/merryshelly/openalpheus"
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-04T11:43:21Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A tiny, readable production-grade LLM agent kernel \u2014 graph, channels/reducer state, BSP scheduler, event-sourced recover",
+    "id": "limenagent/prodagent",
+    "language": "Python",
+    "name": "limenagent/prodagent",
+    "stars": 67,
+    "updated_at": "2026-09-04T11:43:07Z",
+    "url": "https://github.com/limenagent/prodagent"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1183,
+    "updated_at": "2026-09-04T11:41:07Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 120,
+    "updated_at": "2026-09-04T11:39:52Z",
+    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
@@ -14,8 +41,62 @@
     "language": "JavaScript",
     "name": "derekhu0002/archgraph",
     "stars": 3,
-    "updated_at": "2026-09-04T11:23:59Z",
+    "updated_at": "2026-09-04T11:33:18Z",
     "url": "https://github.com/derekhu0002/archgraph"
+  },
+  {
+    "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
+    "id": "NinjaSln-labs/fuyao-nomad",
+    "language": "JavaScript",
+    "name": "NinjaSln-labs/fuyao-nomad",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:32:44Z",
+    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-09-04T11:31:00Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T11:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13322,
+    "updated_at": "2026-09-04T11:40:22Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Signomy \u2014 governed AI agent marketplace and city-state. Agents register free, operators pay. MO\u00a7ES\u2122 constitutional gover",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 1,
+    "updated_at": "2026-09-04T11:28:00Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
+    "id": "merryshelly/openalpheus",
+    "language": "Python",
+    "name": "merryshelly/openalpheus",
+    "stars": 3,
+    "updated_at": "2026-09-04T11:25:53Z",
+    "url": "https://github.com/merryshelly/openalpheus"
   },
   {
     "description": "Agent and workflow runtime built on Microsoft Agent Framework, with portable YAML/JSON agents, MCP, Skills, Plugins and ",
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-04T11:19:51Z",
+    "updated_at": "2026-09-04T11:44:34Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1183,
-    "updated_at": "2026-09-04T11:19:36Z",
-    "url": "https://github.com/clacky-ai/openclacky"
   },
   {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
@@ -72,15 +144,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T11:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -88,15 +151,6 @@
     "stars": 13,
     "updated_at": "2026-09-04T11:14:22Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-04T11:14:14Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
@@ -117,6 +171,15 @@
     "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   },
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19718,
+    "updated_at": "2026-09-04T11:37:48Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
     "id": "ourostack/ouroboros",
     "language": "TypeScript",
@@ -131,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T11:18:44Z",
+    "updated_at": "2026-09-04T11:44:47Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 8,
     "updated_at": "2026-09-04T10:58:29Z",
     "url": "https://github.com/didrod205/oh-my-fable"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13321,
-    "updated_at": "2026-09-04T11:28:09Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -243,15 +297,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19717,
-    "updated_at": "2026-09-04T11:04:18Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
@@ -342,15 +387,6 @@
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-04T11:17:36Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "Examples to demonstrate configuration and usage of basic agents and workflows from Microsoft Agent Framework, supporting",
     "id": "marcominerva/AgentBasicService",
     "language": "C#",
@@ -367,15 +403,6 @@
     "stars": 4972,
     "updated_at": "2026-09-04T11:11:25Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
-    "id": "NinjaSln-labs/fuyao-nomad",
-    "language": "JavaScript",
-    "name": "NinjaSln-labs/fuyao-nomad",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:04:36Z",
-    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-04T09:58:56Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5438,
-    "updated_at": "2026-09-04T09:59:36Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-09-04T09:55:41Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "The zero-trust framework for autonomous AI agents.",
-    "id": "calebfaruki/sycophant",
-    "language": "Rust",
-    "name": "calebfaruki/sycophant",
-    "stars": 6,
-    "updated_at": "2026-09-04T09:51:29Z",
-    "url": "https://github.com/calebfaruki/sycophant"
   }
 ]
