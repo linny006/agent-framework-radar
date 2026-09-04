@@ -1,21 +1,102 @@
 [
   {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/effect-agent",
+    "language": "TypeScript",
+    "name": "doeixd/effect-agent",
+    "stars": 7,
+    "updated_at": "2026-09-04T16:44:45Z",
+    "url": "https://github.com/doeixd/effect-agent"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 22,
+    "updated_at": "2026-09-04T16:44:25Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13329,
-    "updated_at": "2026-09-04T16:29:11Z",
+    "updated_at": "2026-09-04T16:43:35Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 120,
+    "updated_at": "2026-09-04T16:43:16Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 4,
+    "updated_at": "2026-09-04T16:43:17Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-04T16:45:22Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35395,
-    "updated_at": "2026-09-04T16:29:05Z",
+    "stars": 35396,
+    "updated_at": "2026-09-04T16:44:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-04T16:35:36Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47707,
+    "updated_at": "2026-09-04T16:32:29Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 24,
+    "updated_at": "2026-09-04T16:32:13Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T16:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
@@ -54,15 +135,6 @@
     "url": "https://github.com/we-are-singular/aml"
   },
   {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 4,
-    "updated_at": "2026-09-04T16:30:10Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
@@ -77,7 +149,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-04T16:19:26Z",
+    "updated_at": "2026-09-04T16:45:21Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -90,21 +162,12 @@
     "url": "https://github.com/inkeep/agents"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T16:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9686,
-    "updated_at": "2026-09-04T16:17:59Z",
+    "updated_at": "2026-09-04T16:44:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T16:20:36Z",
+    "updated_at": "2026-09-04T16:36:18Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/trbearth/fieldwork-agent-os"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-04T16:29:52Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-09-04T16:03:15Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-04T15:59:48Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Full-stack AI Agent development framework based on Spring AI Alibaba (DashScope), featuring ReAct Agent, PSE collaborati",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6874,
-    "updated_at": "2026-09-04T15:58:15Z",
+    "updated_at": "2026-09-04T16:34:32Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 481,
     "updated_at": "2026-09-04T16:05:08Z",
     "url": "https://github.com/agenvoy/Agenvoy"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/effect-agent",
-    "language": "TypeScript",
-    "name": "doeixd/effect-agent",
-    "stars": 7,
-    "updated_at": "2026-09-04T15:43:29Z",
-    "url": "https://github.com/doeixd/effect-agent"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T15:23:26Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-09-04T15:22:53Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 3,
-    "updated_at": "2026-09-04T15:21:56Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-09-04T15:20:48Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
-    "id": "Maroo1121/Agent-Driven-Development",
-    "language": "Shell",
-    "name": "Maroo1121/Agent-Driven-Development",
-    "stars": 1,
-    "updated_at": "2026-09-04T15:20:05Z",
-    "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   }
 ]
