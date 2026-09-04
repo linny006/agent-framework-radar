@@ -1,12 +1,93 @@
 [
   {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-04T04:29:37Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T04:29:06Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-04T04:28:16Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
+    "id": "sycdan/nosedive",
+    "language": "JavaScript",
+    "name": "sycdan/nosedive",
+    "stars": 1,
+    "updated_at": "2026-09-04T04:27:01Z",
+    "url": "https://github.com/sycdan/nosedive"
+  },
+  {
+    "description": "The ultimate power-tools, guardrails, and runtime enhancement suite for OpenCode coding agents.",
+    "id": "amadshobi/oh-my-hook",
+    "language": "JavaScript",
+    "name": "amadshobi/oh-my-hook",
+    "stars": 0,
+    "updated_at": "2026-09-04T04:25:29Z",
+    "url": "https://github.com/amadshobi/oh-my-hook"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-04T04:22:18Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 275,
+    "updated_at": "2026-09-04T04:20:29Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19709,
+    "updated_at": "2026-09-04T04:18:52Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
     "id": "kungfu-systems/kungfu",
     "language": "C++",
     "name": "kungfu-systems/kungfu",
-    "stars": 4507,
-    "updated_at": "2026-09-04T04:15:11Z",
+    "stars": 4508,
+    "updated_at": "2026-09-04T04:15:41Z",
     "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T04:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent harness monorepo: a Cordis-powered plugin runtime hosting a PSE (Planner-Specialist-Evaluator) multi-agent system ",
@@ -18,39 +99,12 @@
     "url": "https://github.com/erishen/resolve-studio"
   },
   {
-    "description": "The ultimate power-tools, guardrails, and runtime enhancement suite for OpenCode coding agents.",
-    "id": "amadshobi/oh-my-hook",
-    "language": "JavaScript",
-    "name": "amadshobi/oh-my-hook",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:14:07Z",
-    "url": "https://github.com/amadshobi/oh-my-hook"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:05:36Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "A durable, long-running AI engineering partner.",
-    "id": "damonleelcx/J.A.R.V.I.S.-agent",
-    "language": "Go",
-    "name": "damonleelcx/J.A.R.V.I.S.-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:04:44Z",
-    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 108,
-    "updated_at": "2026-09-04T04:04:36Z",
+    "updated_at": "2026-09-04T04:25:12Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -59,35 +113,17 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-04T04:09:59Z",
+    "updated_at": "2026-09-04T04:17:51Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:02:35Z",
-    "url": "https://github.com/sycdan/nosedive"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35393,
-    "updated_at": "2026-09-04T04:02:09Z",
+    "stars": 35394,
+    "updated_at": "2026-09-04T04:26:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T04:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9671,
-    "updated_at": "2026-09-04T03:56:36Z",
+    "updated_at": "2026-09-04T04:25:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -216,21 +252,12 @@
     "url": "https://github.com/Eclipseic1848/CoreMind"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19709,
-    "updated_at": "2026-09-04T03:54:43Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 52,
-    "updated_at": "2026-09-04T03:59:03Z",
+    "updated_at": "2026-09-04T04:19:03Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "ParsifalC/codex-flow",
     "stars": 2,
-    "updated_at": "2026-09-04T03:17:56Z",
+    "updated_at": "2026-09-04T04:18:38Z",
     "url": "https://github.com/ParsifalC/codex-flow"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15184,
-    "updated_at": "2026-09-04T02:21:33Z",
+    "updated_at": "2026-09-04T04:29:36Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 714,
     "updated_at": "2026-09-04T02:06:29Z",
     "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 17,
-    "updated_at": "2026-09-04T02:04:52Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 272,
-    "updated_at": "2026-09-04T01:54:14Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-04T04:05:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
