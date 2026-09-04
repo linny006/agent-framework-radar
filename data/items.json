@@ -1,5 +1,32 @@
 [
   {
+    "description": "Vendor-agnostic agent kit \u2014 author once in .agent/, generate per-vendor, drift-check via lockfile",
+    "id": "DaveCThompson/agentkit",
+    "language": "JavaScript",
+    "name": "DaveCThompson/agentkit",
+    "stars": 0,
+    "updated_at": "2026-09-04T21:47:27Z",
+    "url": "https://github.com/DaveCThompson/agentkit"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2027,
+    "updated_at": "2026-09-04T21:46:51Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T21:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
     "id": "bestdeejay-design/agent-skills",
     "language": "Python",
@@ -135,20 +162,11 @@
     "url": "https://github.com/derekhu0002/archgraph"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T21:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9693,
+    "stars": 9694,
     "updated_at": "2026-09-04T21:28:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 3,
-    "updated_at": "2026-09-04T21:25:20Z",
+    "updated_at": "2026-09-04T21:48:12Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/doeixd/affe-agent"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2027,
-    "updated_at": "2026-09-04T21:11:39Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -373,7 +382,7 @@
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
-    "stars": 141,
+    "stars": 142,
     "updated_at": "2026-09-04T21:01:20Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-04T21:24:23Z",
+    "updated_at": "2026-09-04T21:47:24Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7154,
-    "updated_at": "2026-09-04T21:09:40Z",
+    "updated_at": "2026-09-04T21:46:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T20:32:23Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-04T20:32:18Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
