@@ -1,5 +1,104 @@
 [
   {
+    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
+    "id": "vamsiramakrishnan/gemini-rs",
+    "language": "Rust",
+    "name": "vamsiramakrishnan/gemini-rs",
+    "stars": 3,
+    "updated_at": "2026-09-04T22:15:15Z",
+    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9695,
+    "updated_at": "2026-09-04T22:15:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DSPy Go implementation",
+    "id": "XiaoConstantine/dspy-go",
+    "language": "Go",
+    "name": "XiaoConstantine/dspy-go",
+    "stars": 195,
+    "updated_at": "2026-09-04T22:12:44Z",
+    "url": "https://github.com/XiaoConstantine/dspy-go"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 297,
+    "updated_at": "2026-09-04T22:07:59Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-09-04T22:07:01Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-09-04T22:06:45Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 120,
+    "updated_at": "2026-09-04T22:06:22Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2027,
+    "updated_at": "2026-09-04T22:04:06Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 7,
+    "updated_at": "2026-09-04T22:03:39Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "Storage-backed file tools and Markdown knowledge-graph context for Microsoft Agent Framework",
+    "id": "managedcode/FileContext",
+    "language": "C#",
+    "name": "managedcode/FileContext",
+    "stars": 1,
+    "updated_at": "2026-09-04T22:00:59Z",
+    "url": "https://github.com/managedcode/FileContext"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T22:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -14,17 +113,8 @@
     "language": "TypeScript",
     "name": "Spitfire-Products/nexus-cortex",
     "stars": 1,
-    "updated_at": "2026-09-04T21:59:10Z",
+    "updated_at": "2026-09-04T22:00:38Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-04T21:59:32Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -45,42 +135,6 @@
     "url": "https://github.com/DaveCThompson/agentkit"
   },
   {
-    "description": "Storage-backed file tools and Markdown knowledge-graph context for Microsoft Agent Framework",
-    "id": "managedcode/FileContext",
-    "language": "C#",
-    "name": "managedcode/FileContext",
-    "stars": 1,
-    "updated_at": "2026-09-04T21:53:23Z",
-    "url": "https://github.com/managedcode/FileContext"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 7,
-    "updated_at": "2026-09-04T21:52:10Z",
-    "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2027,
-    "updated_at": "2026-09-04T21:51:58Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 3,
-    "updated_at": "2026-09-04T21:55:09Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -88,33 +142,6 @@
     "stars": 10,
     "updated_at": "2026-09-04T21:50:31Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "DSPy Go implementation",
-    "id": "XiaoConstantine/dspy-go",
-    "language": "Go",
-    "name": "XiaoConstantine/dspy-go",
-    "stars": 195,
-    "updated_at": "2026-09-04T21:51:46Z",
-    "url": "https://github.com/XiaoConstantine/dspy-go"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9694,
-    "updated_at": "2026-09-04T21:55:00Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T21:49:01Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T21:50:19Z",
+    "updated_at": "2026-09-04T22:07:55Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 3,
-    "updated_at": "2026-09-04T21:59:45Z",
+    "updated_at": "2026-09-04T22:11:41Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-04T21:59:09Z",
+    "updated_at": "2026-09-04T22:15:15Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19728,
-    "updated_at": "2026-09-04T21:59:49Z",
+    "updated_at": "2026-09-04T22:13:29Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T21:02:05Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 13,
-    "updated_at": "2026-09-04T21:01:37Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Your own agentic working mate. For long horizon and complex task automation",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 142,
-    "updated_at": "2026-09-04T21:01:20Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 297,
-    "updated_at": "2026-09-04T20:54:21Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   }
 ]
