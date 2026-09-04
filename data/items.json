@@ -1,12 +1,39 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-04T04:36:00Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-09-04T04:29:37Z",
+    "updated_at": "2026-09-04T04:35:13Z",
     "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 275,
+    "updated_at": "2026-09-04T04:31:11Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T04:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A durable, long-running AI engineering partner.",
@@ -54,15 +81,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 275,
-    "updated_at": "2026-09-04T04:20:29Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 4508,
     "updated_at": "2026-09-04T04:15:41Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T04:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent harness monorepo: a Cordis-powered plugin runtime hosting a PSE (Planner-Specialist-Evaluator) multi-agent system ",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9671,
-    "updated_at": "2026-09-04T04:25:06Z",
+    "updated_at": "2026-09-04T04:30:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 52,
-    "updated_at": "2026-09-04T04:19:03Z",
+    "updated_at": "2026-09-04T04:30:49Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-04T03:24:38Z",
+    "updated_at": "2026-09-04T04:33:25Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T02:10:05Z",
     "url": "https://github.com/yanggujun/open-axle"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 714,
-    "updated_at": "2026-09-04T02:06:29Z",
-    "url": "https://github.com/aeonfun/aeon"
   }
 ]
