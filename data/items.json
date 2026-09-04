@@ -1,12 +1,75 @@
 [
   {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 120,
+    "updated_at": "2026-09-04T00:12:55Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute",
+    "id": "YahyaHammad/Venastine-Research-Harness",
+    "language": "Python",
+    "name": "YahyaHammad/Venastine-Research-Harness",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:12:55Z",
+    "url": "https://github.com/YahyaHammad/Venastine-Research-Harness"
+  },
+  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
     "name": "DavidCompute/AG-UI_Multi-Party",
     "stars": 0,
-    "updated_at": "2026-09-03T23:59:43Z",
+    "updated_at": "2026-09-04T00:12:20Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 54,
+    "updated_at": "2026-09-04T00:11:39Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 50,
+    "updated_at": "2026-09-04T00:10:18Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-04T00:05:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 660,
+    "updated_at": "2026-09-04T00:02:31Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-04T00:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "SuperagenticAI/turboagents",
     "stars": 11,
-    "updated_at": "2026-09-03T23:50:01Z",
+    "updated_at": "2026-09-04T00:00:36Z",
     "url": "https://github.com/SuperagenticAI/turboagents"
   },
   {
@@ -81,21 +144,12 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T23:46:00Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19703,
-    "updated_at": "2026-09-03T23:59:58Z",
+    "updated_at": "2026-09-04T00:12:04Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 1325,
     "updated_at": "2026-09-03T23:56:46Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute",
-    "id": "YahyaHammad/Venastine-Research-Harness",
-    "language": "Python",
-    "name": "YahyaHammad/Venastine-Research-Harness",
-    "stars": 0,
-    "updated_at": "2026-09-03T23:45:03Z",
-    "url": "https://github.com/YahyaHammad/Venastine-Research-Harness"
   },
   {
     "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
@@ -151,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T23:37:29Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-03T23:49:43Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
@@ -220,7 +256,7 @@
     "id": "boundflow/charter",
     "language": "Python",
     "name": "boundflow/charter",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-09-03T23:04:06Z",
     "url": "https://github.com/boundflow/charter"
   },
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-03T23:38:02Z",
+    "updated_at": "2026-09-04T00:09:00Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-09-03T23:57:53Z",
+    "updated_at": "2026-09-04T00:09:03Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 3,
-    "updated_at": "2026-09-03T22:16:57Z",
+    "updated_at": "2026-09-04T00:10:24Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T21:52:39Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 50,
-    "updated_at": "2026-09-03T21:46:29Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-03T21:40:47Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "Self-hosted hub for running independent AI agents as isolated processes \u2014 per-agent memory, model, tools, RAG and WhatsA",
-    "id": "r2aistente-cyber/AgentOS",
-    "language": "Python",
-    "name": "r2aistente-cyber/AgentOS",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:34:11Z",
-    "url": "https://github.com/r2aistente-cyber/AgentOS"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-03T23:12:06Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   }
 ]
