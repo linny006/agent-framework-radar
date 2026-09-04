@@ -1,5 +1,77 @@
 [
   {
+    "description": "oh-my-fable \u2014 Fable 5's way of working a long task (plan first, self-correct, never lose the thread), as a model-agnosti",
+    "id": "didrod205/oh-my-fable",
+    "language": "TypeScript",
+    "name": "didrod205/oh-my-fable",
+    "stars": 8,
+    "updated_at": "2026-09-04T06:30:07Z",
+    "url": "https://github.com/didrod205/oh-my-fable"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:29:51Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
+    "id": "techygarg/lattice",
+    "language": "Shell",
+    "name": "techygarg/lattice",
+    "stars": 184,
+    "updated_at": "2026-09-04T06:29:03Z",
+    "url": "https://github.com/techygarg/lattice"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13314,
+    "updated_at": "2026-09-04T06:30:01Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
+    "id": "ParsifalC/codex-flow",
+    "language": "Python",
+    "name": "ParsifalC/codex-flow",
+    "stars": 2,
+    "updated_at": "2026-09-04T06:23:38Z",
+    "url": "https://github.com/ParsifalC/codex-flow"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 272,
+    "updated_at": "2026-09-04T06:22:36Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
+    "id": "boundflow/charter",
+    "language": "Python",
+    "name": "boundflow/charter",
+    "stars": 8,
+    "updated_at": "2026-09-04T06:28:54Z",
+    "url": "https://github.com/boundflow/charter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T06:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1325,
-    "updated_at": "2026-09-04T06:14:56Z",
+    "updated_at": "2026-09-04T06:21:22Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-04T06:12:56Z",
+    "updated_at": "2026-09-04T06:26:37Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9674,
-    "updated_at": "2026-09-04T06:11:04Z",
+    "updated_at": "2026-09-04T06:26:40Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -72,31 +144,13 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:09:44Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19710,
-    "updated_at": "2026-09-04T06:01:32Z",
+    "updated_at": "2026-09-04T06:27:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T06:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Marssssss/OneAI"
   },
   {
-    "description": "Define, deploy, and govern production AI agents using YAML. Built on Boundflow.",
-    "id": "boundflow/charter",
-    "language": "Python",
-    "name": "boundflow/charter",
-    "stars": 8,
-    "updated_at": "2026-09-04T06:07:17Z",
-    "url": "https://github.com/boundflow/charter"
-  },
-  {
     "description": "MCP server providing coding standards, skills, and workflows for AI agents",
     "id": "JunMystery/Agent-Guidance-Rust",
     "language": "Rust",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T05:52:47Z",
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13315,
-    "updated_at": "2026-09-04T05:52:00Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15182,
-    "updated_at": "2026-09-04T06:04:41Z",
+    "updated_at": "2026-09-04T06:18:06Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -202,7 +238,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35396,
+    "stars": 35397,
     "updated_at": "2026-09-04T05:34:49Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T05:31:58Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 272,
-    "updated_at": "2026-09-04T05:31:19Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -400,7 +427,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 275,
+    "stars": 276,
     "updated_at": "2026-09-04T04:41:10Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -418,35 +445,8 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 2014,
+    "stars": 2015,
     "updated_at": "2026-09-04T04:37:27Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Turns a plain notes repo into a bridge: one repo that holds the plan and drives agentic work across your other repos.",
-    "id": "sycdan/nosedive",
-    "language": "JavaScript",
-    "name": "sycdan/nosedive",
-    "stars": 1,
-    "updated_at": "2026-09-04T04:27:01Z",
-    "url": "https://github.com/sycdan/nosedive"
-  },
-  {
-    "description": "The ultimate power-tools, guardrails, and runtime enhancement suite for OpenCode coding agents.",
-    "id": "amadshobi/oh-my-hook",
-    "language": "JavaScript",
-    "name": "amadshobi/oh-my-hook",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:25:29Z",
-    "url": "https://github.com/amadshobi/oh-my-hook"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-04T04:22:18Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   }
 ]
