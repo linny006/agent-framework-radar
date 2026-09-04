@@ -1,21 +1,12 @@
 [
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
+    "description": "An architecture-graph driven framework for Agentic Engineering.",
+    "id": "derekhu0002/archgraph",
+    "language": "JavaScript",
+    "name": "derekhu0002/archgraph",
     "stars": 2,
-    "updated_at": "2026-09-04T00:55:25Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9664,
-    "updated_at": "2026-09-04T00:54:57Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "updated_at": "2026-09-04T01:11:06Z",
+    "url": "https://github.com/derekhu0002/archgraph"
   },
   {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
@@ -23,8 +14,98 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-09-04T00:55:33Z",
+    "updated_at": "2026-09-04T01:09:47Z",
     "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-04T01:07:14Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19704,
+    "updated_at": "2026-09-04T01:12:30Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-04T01:04:09Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9664,
+    "updated_at": "2026-09-04T01:03:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 220,
+    "updated_at": "2026-09-04T01:02:28Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-04T01:02:12Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-04T01:01:08Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "SentraBot is an artificial intelligence-powered digital assistant designed specifically to help you find answers, soluti",
+    "id": "drferdi/Sentrabot",
+    "language": "TypeScript",
+    "name": "drferdi/Sentrabot",
+    "stars": 1,
+    "updated_at": "2026-09-04T01:15:22Z",
+    "url": "https://github.com/drferdi/Sentrabot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-04T01:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-04T00:55:25Z",
+    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "Samasse AI \u2014 fabrique d'agents IA d'entreprise pilotes par Telegram. Entretien des 4 C, generation d'agents testes avec ",
@@ -54,15 +135,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19704,
-    "updated_at": "2026-09-04T00:54:59Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-04T00:45:37Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-04T00:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13310,
-    "updated_at": "2026-09-04T00:44:51Z",
+    "updated_at": "2026-09-04T01:13:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 5,
-    "updated_at": "2026-09-04T00:39:09Z",
+    "updated_at": "2026-09-04T01:12:26Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-04T00:58:39Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute",
     "id": "YahyaHammad/Venastine-Research-Harness",
     "language": "Python",
@@ -248,17 +302,8 @@
     "language": "Python",
     "name": "reda-baqechame/self-learning-24.7-agent",
     "stars": 1,
-    "updated_at": "2026-09-04T00:26:04Z",
+    "updated_at": "2026-09-04T01:14:01Z",
     "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
-  },
-  {
-    "description": "SentraBot is an artificial intelligence-powered digital assistant designed specifically to help you find answers, soluti",
-    "id": "drferdi/Sentrabot",
-    "language": "TypeScript",
-    "name": "drferdi/Sentrabot",
-    "stars": 1,
-    "updated_at": "2026-09-04T00:58:58Z",
-    "url": "https://github.com/drferdi/Sentrabot"
   },
   {
     "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T23:37:35Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-03T23:37:29Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
-    "id": "lorryjovens-hub/laap-AGI",
-    "language": "Python",
-    "name": "lorryjovens-hub/laap-AGI",
-    "stars": 7,
-    "updated_at": "2026-09-03T23:28:53Z",
-    "url": "https://github.com/lorryjovens-hub/laap-AGI"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-03T23:23:40Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-03T23:12:03Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
-    "id": "bzdvdn/ctxloom",
-    "language": "Python",
-    "name": "bzdvdn/ctxloom",
-    "stars": 0,
-    "updated_at": "2026-09-03T23:10:12Z",
-    "url": "https://github.com/bzdvdn/ctxloom"
   }
 ]
