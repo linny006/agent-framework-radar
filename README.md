@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 00:14 UTC
+> ⏰ Last updated: 2026-09-04 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pqpo/pragma](https://github.com/pqpo/pragma) | 120 | TypeScript | 2026-09-04 | Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows — then bring th |
-| 2 | [YahyaHammad/Venastine-Research-Harness](https://github.com/YahyaHammad/Venastine-Research-Harness) | 0 | Python | 2026-09-04 | Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute |
-| 3 | [DavidCompute/AG-UI_Multi-Party](https://github.com/DavidCompute/AG-UI_Multi-Party) | 0 | C# | 2026-09-04 | A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C |
-| 4 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 54 | TypeScript | 2026-09-04 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 5 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 50 | HTML | 2026-09-04 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 6 | [tya5/reyn](https://github.com/tya5/reyn) | 10 | Python | 2026-09-04 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 7 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 660 | Python | 2026-09-04 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-04 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-04 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [pqpo/pragma](https://github.com/pqpo/pragma) | 120 | TypeScript | 2026-09-04 | Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows — then bring th |
+| 3 | [YahyaHammad/Venastine-Research-Harness](https://github.com/YahyaHammad/Venastine-Research-Harness) | 0 | Python | 2026-09-04 | Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute |
+| 4 | [DavidCompute/AG-UI_Multi-Party](https://github.com/DavidCompute/AG-UI_Multi-Party) | 0 | C# | 2026-09-04 | A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C |
+| 5 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 54 | TypeScript | 2026-09-04 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
+| 6 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 50 | HTML | 2026-09-04 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 7 | [tya5/reyn](https://github.com/tya5/reyn) | 10 | Python | 2026-09-04 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 8 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 660 | Python | 2026-09-04 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
 | 9 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-09-03 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
 | 10 | [lafollett-labs/riff](https://github.com/lafollett-labs/riff) | 0 | TypeScript | 2026-09-03 | Give it a company name and a CEO. It founds the company, and the CEO hires the rest — autonomous agents with a real shel |
 | 11 | [KrakenNet/stargraph](https://github.com/KrakenNet/stargraph) | 4 | Python | 2026-09-03 | Stateful agent-graph framework with deterministic governance — rules route transitions, not the LLM. Auditable, replayab |
