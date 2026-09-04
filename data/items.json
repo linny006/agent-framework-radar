@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26417,
-    "updated_at": "2026-09-04T16:59:34Z",
+    "updated_at": "2026-09-04T17:03:42Z",
     "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Signomy \u2014 governed AI agent marketplace and city-state. Agents register free, operators pay. MO\u00a7ES\u2122 constitutional gover",
+    "id": "SunrisesIllNeverSee/agent-universe",
+    "language": "HTML",
+    "name": "SunrisesIllNeverSee/agent-universe",
+    "stars": 1,
+    "updated_at": "2026-09-04T17:03:41Z",
+    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-04T17:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-04T16:58:12Z",
+    "updated_at": "2026-09-04T17:03:48Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6874,
-    "updated_at": "2026-09-04T16:48:53Z",
+    "updated_at": "2026-09-04T17:02:21Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 185,
     "updated_at": "2026-09-04T16:45:55Z",
     "url": "https://github.com/techygarg/lattice"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-04T16:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19724,
-    "updated_at": "2026-09-04T16:26:31Z",
+    "updated_at": "2026-09-04T17:03:20Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9686,
-    "updated_at": "2026-09-04T16:44:08Z",
+    "updated_at": "2026-09-04T17:00:48Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2025,
     "updated_at": "2026-09-04T15:38:30Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
-    "id": "Asceticrefractoryperiod28/Foundry",
-    "language": "TypeScript",
-    "name": "Asceticrefractoryperiod28/Foundry",
-    "stars": 1,
-    "updated_at": "2026-09-04T15:35:35Z",
-    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
   }
 ]
