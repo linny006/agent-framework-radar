@@ -1,11 +1,101 @@
 [
   {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:59:43Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-03T23:56:33Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
+    "id": "lafollett-labs/riff",
+    "language": "TypeScript",
+    "name": "lafollett-labs/riff",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:54:08Z",
+    "url": "https://github.com/lafollett-labs/riff"
+  },
+  {
+    "description": "Stateful agent-graph framework with deterministic governance \u2014 rules route transitions, not the LLM. Auditable, replayab",
+    "id": "KrakenNet/stargraph",
+    "language": "Python",
+    "name": "KrakenNet/stargraph",
+    "stars": 4,
+    "updated_at": "2026-09-03T23:53:36Z",
+    "url": "https://github.com/KrakenNet/stargraph"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 5,
+    "updated_at": "2026-09-03T23:55:31Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2010,
+    "updated_at": "2026-09-03T23:53:00Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Turbocharge your AI Agents with TurboQuant",
+    "id": "SuperagenticAI/turboagents",
+    "language": "Python",
+    "name": "SuperagenticAI/turboagents",
+    "stars": 11,
+    "updated_at": "2026-09-03T23:50:01Z",
+    "url": "https://github.com/SuperagenticAI/turboagents"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9665,
+    "updated_at": "2026-09-03T23:47:36Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 119,
+    "updated_at": "2026-09-03T23:46:32Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-03T23:46:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19703,
-    "updated_at": "2026-09-03T23:45:54Z",
+    "updated_at": "2026-09-03T23:59:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1325,
-    "updated_at": "2026-09-03T23:45:38Z",
+    "updated_at": "2026-09-03T23:56:46Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -68,26 +158,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-03T23:45:03Z",
+    "updated_at": "2026-09-03T23:49:43Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9663,
-    "updated_at": "2026-09-03T23:35:07Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-03T23:30:40Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LAAP AGI - Zero-LLM Cognitive Architecture for Digital Lifeforms. Rust PSI core at 2000Hz, QRE quantum reasoning, Episod",
@@ -115,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T23:23:40Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2010,
-    "updated_at": "2026-09-03T23:21:16Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 5,
-    "updated_at": "2026-09-03T23:28:16Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -166,7 +220,7 @@
     "id": "boundflow/charter",
     "language": "Python",
     "name": "boundflow/charter",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-03T23:04:06Z",
     "url": "https://github.com/boundflow/charter"
   },
@@ -178,15 +232,6 @@
     "stars": 9,
     "updated_at": "2026-09-03T22:56:52Z",
     "url": "https://github.com/sageox/agent-toolkit"
-  },
-  {
-    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
-    "id": "lafollett-labs/riff",
-    "language": "TypeScript",
-    "name": "lafollett-labs/riff",
-    "stars": 0,
-    "updated_at": "2026-09-03T23:45:55Z",
-    "url": "https://github.com/lafollett-labs/riff"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-09-03T23:06:22Z",
+    "updated_at": "2026-09-03T23:57:53Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/r2aistente-cyber/AgentOS"
   },
   {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 119,
-    "updated_at": "2026-09-03T21:33:31Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-03T23:12:06Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35385,
-    "updated_at": "2026-09-03T21:29:39Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
-    "id": "plaited/plaited",
-    "language": "TypeScript",
-    "name": "plaited/plaited",
-    "stars": 10,
-    "updated_at": "2026-09-03T21:21:24Z",
-    "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-09-03T21:20:04Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
-    "id": "aequitas-labs/lobstah",
-    "language": "TypeScript",
-    "name": "aequitas-labs/lobstah",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:18:24Z",
-    "url": "https://github.com/aequitas-labs/lobstah"
   }
 ]
