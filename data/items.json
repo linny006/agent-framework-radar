@@ -1,11 +1,173 @@
 [
   {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-09-05T06:14:26Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-05T06:14:10Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-05T06:14:08Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 6,
+    "updated_at": "2026-09-05T06:13:29Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
+    "id": "sandeepyadav1478/touchstone",
+    "language": "Python",
+    "name": "sandeepyadav1478/touchstone",
+    "stars": 1,
+    "updated_at": "2026-09-05T06:15:19Z",
+    "url": "https://github.com/sandeepyadav1478/touchstone"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-09-05T06:12:43Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-09-05T06:11:05Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T06:11:10Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-05T06:10:49Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-05T06:09:46Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 10,
+    "updated_at": "2026-09-05T06:09:40Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-05T06:09:34Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-09-05T06:09:10Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 58,
+    "updated_at": "2026-09-05T06:08:43Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 351,
+    "updated_at": "2026-09-05T06:04:48Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
+    "id": "telus-labs/stagecraft",
+    "language": "JavaScript",
+    "name": "telus-labs/stagecraft",
+    "stars": 6,
+    "updated_at": "2026-09-05T06:04:21Z",
+    "url": "https://github.com/telus-labs/stagecraft"
+  },
+  {
+    "description": "Ultra-efficient personal AI assistant powered by Crystal",
+    "id": "crystal-autobot/autobot",
+    "language": "Crystal",
+    "name": "crystal-autobot/autobot",
+    "stars": 45,
+    "updated_at": "2026-09-05T06:03:47Z",
+    "url": "https://github.com/crystal-autobot/autobot"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2028,
+    "updated_at": "2026-09-05T06:13:24Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 6,
-    "updated_at": "2026-09-05T05:59:23Z",
+    "updated_at": "2026-09-05T06:00:21Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -14,17 +176,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-05T05:58:40Z",
+    "updated_at": "2026-09-05T06:08:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-05T05:57:01Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
@@ -72,24 +225,6 @@
     "url": "https://github.com/kbipul/kb-agent-framework"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T05:54:28Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 58,
-    "updated_at": "2026-09-05T05:52:01Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
     "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
     "id": "ParsifalC/codex-flow",
     "language": "Python",
@@ -113,7 +248,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9709,
-    "updated_at": "2026-09-05T05:59:51Z",
+    "updated_at": "2026-09-05T06:10:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -121,27 +256,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35396,
+    "stars": 35395,
     "updated_at": "2026-09-05T05:47:20Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:46:16Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 3,
-    "updated_at": "2026-09-05T05:58:30Z",
-    "url": "https://github.com/fworks-tech/agenthood"
   },
   {
     "description": "An agent-builder for Claude Code: three agents (Sensei, Method, Mneme) that build, test, install, and remember specializ",
@@ -167,7 +284,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 144,
-    "updated_at": "2026-09-05T05:38:31Z",
+    "updated_at": "2026-09-05T06:05:05Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -180,31 +297,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 351,
-    "updated_at": "2026-09-05T05:33:14Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-05T05:38:38Z",
+    "updated_at": "2026-09-05T06:02:34Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
-    "id": "sandeepyadav1478/touchstone",
-    "language": "Python",
-    "name": "sandeepyadav1478/touchstone",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:30:57Z",
-    "url": "https://github.com/sandeepyadav1478/touchstone"
   },
   {
     "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
@@ -212,7 +311,7 @@
     "language": "TypeScript",
     "name": "mybay-ai/mybay",
     "stars": 2,
-    "updated_at": "2026-09-05T05:26:19Z",
+    "updated_at": "2026-09-05T06:13:09Z",
     "url": "https://github.com/mybay-ai/mybay"
   },
   {
@@ -232,24 +331,6 @@
     "stars": 6877,
     "updated_at": "2026-09-05T05:20:56Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2028,
-    "updated_at": "2026-09-05T05:19:22Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-05T05:17:07Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -277,24 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T05:13:46Z",
     "url": "https://github.com/zaxardery8011-design/aiwff-mini"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:12:40Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 10,
-    "updated_at": "2026-09-05T05:12:33Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   },
   {
     "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
@@ -369,15 +432,6 @@
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-05T05:00:06Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-05T04:58:11Z",
     "url": "https://github.com/plmbr/nui"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 20,
-    "updated_at": "2026-09-05T04:53:29Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:48:44Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1101,
-    "updated_at": "2026-09-05T04:48:35Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "PurrCat Agent",
-    "id": "PurrPod/purrcat",
-    "language": "Python",
-    "name": "PurrPod/purrcat",
-    "stars": 22,
-    "updated_at": "2026-09-05T04:47:44Z",
-    "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 3,
-    "updated_at": "2026-09-05T04:47:22Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-09-05T05:23:39Z",
-    "url": "https://github.com/sytone/botnexus"
   }
 ]
