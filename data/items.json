@@ -1,5 +1,68 @@
 [
   {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-09-05T23:00:16Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 51,
+    "updated_at": "2026-09-05T23:00:00Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 715,
+    "updated_at": "2026-09-05T22:57:58Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 276,
+    "updated_at": "2026-09-05T22:52:03Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-05T22:51:49Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-05T22:48:54Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T22:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
     "id": "Zhivex/zhivex-ai-sdk-py",
     "language": "Python",
@@ -81,21 +144,12 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T22:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
     "id": "tuliplabs-ai/tulip-agents",
     "language": "Python",
     "name": "tuliplabs-ai/tulip-agents",
     "stars": 1,
-    "updated_at": "2026-09-05T22:40:24Z",
+    "updated_at": "2026-09-05T22:46:34Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
   },
   {
@@ -104,7 +158,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-05T22:26:03Z",
+    "updated_at": "2026-09-05T22:47:46Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-09-05T22:25:48Z",
+    "updated_at": "2026-09-05T22:58:09Z",
     "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 664,
-    "updated_at": "2026-09-05T22:44:42Z",
+    "updated_at": "2026-09-05T22:59:56Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T22:22:52Z",
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-09-05T22:34:51Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-05T21:56:53Z",
+    "updated_at": "2026-09-05T22:55:39Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 39,
     "updated_at": "2026-09-05T21:54:08Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-09-05T22:15:02Z",
-    "url": "https://github.com/Arasz/ai-badger"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -266,17 +302,8 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4510,
-    "updated_at": "2026-09-05T22:41:53Z",
+    "updated_at": "2026-09-05T22:52:36Z",
     "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-05T21:48:08Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Multi-Agent Harness for Production AI",
@@ -310,7 +337,7 @@
     "id": "openamer/openamer",
     "language": "Python",
     "name": "openamer/openamer",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-09-05T21:30:00Z",
     "url": "https://github.com/openamer/openamer"
   },
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-05T21:23:02Z",
+    "updated_at": "2026-09-05T22:49:04Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 51,
-    "updated_at": "2026-09-05T21:18:40Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
     "id": "floccose-burner9185/wow-harness",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:17:54Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:17:49Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:17:12Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
   }
 ]
