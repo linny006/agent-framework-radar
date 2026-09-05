@@ -1,5 +1,122 @@
 [
   {
+    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
+    "id": "TW-Market-Data/twmd-agent-committee",
+    "language": "JavaScript",
+    "name": "TW-Market-Data/twmd-agent-committee",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:11:36Z",
+    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9719,
+    "updated_at": "2026-09-05T17:11:14Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 7,
+    "updated_at": "2026-09-05T17:10:45Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
+    "id": "hustfreefly/deepflow",
+    "language": "Python",
+    "name": "hustfreefly/deepflow",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:10:12Z",
+    "url": "https://github.com/hustfreefly/deepflow"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-05T17:07:28Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 276,
+    "updated_at": "2026-09-05T17:06:29Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-05T17:05:42Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 71,
+    "updated_at": "2026-09-05T17:05:41Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Peers is an open platform for running long-lived AI agents with independent responsibilities, memory, tools, and autonom",
+    "id": "kdpa-llc/peers",
+    "language": "TypeScript",
+    "name": "kdpa-llc/peers",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:05:04Z",
+    "url": "https://github.com/kdpa-llc/peers"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-05T17:04:42Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:14:01Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 42,
+    "updated_at": "2026-09-05T17:02:26Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T17:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "Insajin/autopus-adk",
     "language": "Go",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-09-05T16:58:03Z",
+    "updated_at": "2026-09-05T17:09:36Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -27,15 +144,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 71,
-    "updated_at": "2026-09-05T16:56:51Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
     "id": "yuanchuzi2026/silicon-garden",
     "language": "HTML",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T16:56:16Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
-    "id": "TW-Market-Data/twmd-agent-committee",
-    "language": "JavaScript",
-    "name": "TW-Market-Data/twmd-agent-committee",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:56:10Z",
-    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
@@ -72,33 +171,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 42,
-    "updated_at": "2026-09-05T16:48:21Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 7,
-    "updated_at": "2026-09-05T16:47:32Z",
-    "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T16:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -106,15 +178,6 @@
     "stars": 2033,
     "updated_at": "2026-09-05T16:43:37Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9718,
-    "updated_at": "2026-09-05T16:56:54Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A multi-agent & multi-harness AI agent management and orchestration system",
@@ -142,15 +205,6 @@
     "stars": 10,
     "updated_at": "2026-09-05T16:40:24Z",
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-09-05T16:58:24Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -225,15 +279,6 @@
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-05T16:23:37Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
     "id": "exha1078/agentic-workflow-orchestrator",
     "language": "HTML",
@@ -302,7 +347,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-05T16:07:40Z",
+    "updated_at": "2026-09-05T17:08:18Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 53,
     "updated_at": "2026-09-05T16:57:03Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-05T16:57:57Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-05T15:49:03Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4510,
-    "updated_at": "2026-09-05T16:56:20Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-05T15:39:03Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 1,
-    "updated_at": "2026-09-05T15:33:56Z",
-    "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-05T15:27:15Z",
-    "url": "https://github.com/vgp7758/Agt"
   }
 ]
