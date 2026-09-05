@@ -1,12 +1,129 @@
 [
   {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/nitro",
+    "language": "C++",
+    "name": "chrisws/nitro",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:29:54Z",
+    "url": "https://github.com/chrisws/nitro"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-09-05T10:29:12Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 15,
+    "updated_at": "2026-09-05T10:28:32Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Many Agents, one objective... yours ",
+    "id": "brandonkindred/Khala-Agentic-AI-Teams",
+    "language": "Python",
+    "name": "brandonkindred/Khala-Agentic-AI-Teams",
+    "stars": 5,
+    "updated_at": "2026-09-05T10:28:52Z",
+    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
+    "id": "TW-Market-Data/twmd-agent-committee",
+    "language": "JavaScript",
+    "name": "TW-Market-Data/twmd-agent-committee",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:26:04Z",
+    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 58,
+    "updated_at": "2026-09-05T10:24:12Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:20:26Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/affe-agent",
     "language": "TypeScript",
     "name": "doeixd/affe-agent",
     "stars": 7,
-    "updated_at": "2026-09-05T10:16:18Z",
+    "updated_at": "2026-09-05T10:19:36Z",
     "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 91,
+    "updated_at": "2026-09-05T10:19:33Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "Ultra-efficient personal AI assistant powered by Crystal",
+    "id": "crystal-autobot/autobot",
+    "language": "Crystal",
+    "name": "crystal-autobot/autobot",
+    "stars": 45,
+    "updated_at": "2026-09-05T10:18:21Z",
+    "url": "https://github.com/crystal-autobot/autobot"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-05T10:17:38Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:17:14Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 10,
+    "updated_at": "2026-09-05T10:17:12Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T10:17:02Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -27,13 +144,13 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T10:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "omnigent-ai/omnigent",
+    "stars": 9712,
+    "updated_at": "2026-09-05T10:15:12Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -43,15 +160,6 @@
     "stars": 26,
     "updated_at": "2026-09-05T10:14:03Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Ultra-efficient personal AI assistant powered by Crystal",
-    "id": "crystal-autobot/autobot",
-    "language": "Crystal",
-    "name": "crystal-autobot/autobot",
-    "stars": 45,
-    "updated_at": "2026-09-05T10:14:16Z",
-    "url": "https://github.com/crystal-autobot/autobot"
   },
   {
     "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-05T10:16:43Z",
+    "updated_at": "2026-09-05T10:28:36Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -79,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T10:04:09Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-05T10:00:01Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
@@ -180,30 +279,12 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
-    "id": "TW-Market-Data/twmd-agent-committee",
-    "language": "JavaScript",
-    "name": "TW-Market-Data/twmd-agent-committee",
-    "stars": 1,
-    "updated_at": "2026-09-05T09:44:59Z",
-    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 58,
-    "updated_at": "2026-09-05T10:04:39Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
     "id": "rhein1/agoragentic-integrations",
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 35,
-    "updated_at": "2026-09-05T10:14:06Z",
+    "updated_at": "2026-09-05T10:24:23Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -284,7 +365,7 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-09-05T09:27:44Z",
+    "updated_at": "2026-09-05T10:19:33Z",
     "url": "https://github.com/jiayan-xu/agent-core"
   },
   {
@@ -302,7 +383,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T09:58:47Z",
+    "updated_at": "2026-09-05T10:17:34Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -333,15 +414,6 @@
     "url": "https://github.com/lokomotifai/pactmark"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9711,
-    "updated_at": "2026-09-05T10:15:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -369,33 +441,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:07:51Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 10,
-    "updated_at": "2026-09-05T09:07:48Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-05T09:07:28Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 221,
     "updated_at": "2026-09-05T09:06:21Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 297,
-    "updated_at": "2026-09-05T09:09:46Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
-    "id": "plaited/plaited",
-    "language": "TypeScript",
-    "name": "plaited/plaited",
-    "stars": 10,
-    "updated_at": "2026-09-05T08:46:01Z",
-    "url": "https://github.com/plaited/plaited"
-  },
-  {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-09-05T08:44:50Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-09-05T08:44:24Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Semantic completion controller for AI agents: keeps the objective stable, allocates the next action from explicit progre",
-    "id": "utsapoddar/dopa-kernel",
-    "language": "Python",
-    "name": "utsapoddar/dopa-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:41:13Z",
-    "url": "https://github.com/utsapoddar/dopa-kernel"
   }
 ]
