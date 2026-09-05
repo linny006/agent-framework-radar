@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 23:15 UTC
+> ⏰ Last updated: 2026-09-05 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-09-05 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 2 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 297 | TypeScript | 2026-09-05 | Remote approvals, policy checks, and execution evidence for unattended AI agents. |
-| 3 | [cortexkit/aft](https://github.com/cortexkit/aft) | 276 | Rust | 2026-09-05 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 4 | [vamsiramakrishnan/gemini-rs](https://github.com/vamsiramakrishnan/gemini-rs) | 3 | Rust | 2026-09-05 | Full Rust SDK for the Gemini Multimodal Live API — wire protocol, agent runtime, and fluent DX in three layered crates. |
-| 5 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9725 | Python | 2026-09-05 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 6 | [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) | 4510 | C++ | 2026-09-05 | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec |
-| 7 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-09-05 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
-| 8 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 664 | Python | 2026-09-05 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 9 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-05 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 664 | Python | 2026-09-05 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-05 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-09-05 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
+| 4 | [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) | 297 | TypeScript | 2026-09-05 | Remote approvals, policy checks, and execution evidence for unattended AI agents. |
+| 5 | [cortexkit/aft](https://github.com/cortexkit/aft) | 276 | Rust | 2026-09-05 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 6 | [vamsiramakrishnan/gemini-rs](https://github.com/vamsiramakrishnan/gemini-rs) | 3 | Rust | 2026-09-05 | Full Rust SDK for the Gemini Multimodal Live API — wire protocol, agent runtime, and fluent DX in three layered crates. |
+| 7 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9725 | Python | 2026-09-05 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 8 | [kungfu-systems/kungfu](https://github.com/kungfu-systems/kungfu) | 4510 | C++ | 2026-09-05 | Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec |
+| 9 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-09-05 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
 | 10 | [Arasz/ai-badger](https://github.com/Arasz/ai-badger) | 2 | Python | 2026-09-05 | Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a |
 | 11 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 51 | HTML | 2026-09-05 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
 | 12 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 715 | TypeScript | 2026-09-05 | The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok |
