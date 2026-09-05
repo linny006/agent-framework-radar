@@ -1,11 +1,92 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-05T23:15:04Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Remote approvals, policy checks, and execution evidence for unattended AI agents.",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 297,
+    "updated_at": "2026-09-05T23:12:36Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 276,
+    "updated_at": "2026-09-05T23:12:24Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
+    "id": "vamsiramakrishnan/gemini-rs",
+    "language": "Rust",
+    "name": "vamsiramakrishnan/gemini-rs",
+    "stars": 3,
+    "updated_at": "2026-09-05T23:12:53Z",
+    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9725,
+    "updated_at": "2026-09-05T23:09:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4510,
+    "updated_at": "2026-09-05T23:08:30Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-09-05T23:04:06Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 664,
+    "updated_at": "2026-09-05T23:03:47Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T23:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-09-05T23:00:16Z",
+    "updated_at": "2026-09-05T23:01:34Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-05T22:52:03Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -54,15 +126,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T22:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
     "id": "Zhivex/zhivex-ai-sdk-py",
     "language": "Python",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 109,
-    "updated_at": "2026-09-05T22:44:43Z",
+    "updated_at": "2026-09-05T23:12:04Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 22,
     "updated_at": "2026-09-05T22:38:47Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9725,
-    "updated_at": "2026-09-05T22:36:46Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "tuliplabs-ai/tulip-agents",
     "stars": 1,
-    "updated_at": "2026-09-05T22:46:34Z",
+    "updated_at": "2026-09-05T23:09:06Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
   },
   {
@@ -158,7 +212,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-05T22:47:46Z",
+    "updated_at": "2026-09-05T23:14:00Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 664,
-    "updated_at": "2026-09-05T22:59:56Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -196,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T22:25:35Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Remote approvals, policy checks, and execution evidence for unattended AI agents.",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 297,
-    "updated_at": "2026-09-05T22:28:29Z",
-    "url": "https://github.com/ucsandman/DashClaw"
   },
   {
     "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 DDD \u9a71\u52a8\u53ef\u7ec4\u5408 Agent \u56e2\u961f\u6846\u67b6 \u00b7 npm i fuyao-nomad",
@@ -241,15 +277,6 @@
     "stars": 18,
     "updated_at": "2026-09-05T21:56:54Z",
     "url": "https://github.com/mcheemaa/mistri"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-05T22:55:39Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -297,15 +324,6 @@
     "url": "https://github.com/rameswaran-mohan/project-systemu"
   },
   {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4510,
-    "updated_at": "2026-09-05T22:52:36Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
-  },
-  {
     "description": "Multi-Agent Harness for Production AI",
     "id": "aden-hive/hive",
     "language": "Python",
@@ -324,15 +342,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-05T21:36:08Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -349,6 +358,15 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:29:43Z",
     "url": "https://github.com/leanneexperimental3016/Models-Cowork"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35410,
+    "updated_at": "2026-09-05T21:28:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:19:09Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:18:26Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:17:54Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
