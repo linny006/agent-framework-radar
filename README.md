@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 22:15 UTC
+> ⏰ Last updated: 2026-09-05 22:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tuliplabs-ai/tulip-agents](https://github.com/tuliplabs-ai/tulip-agents) | 1 | Python | 2026-09-05 | The agent framework where the model never holds the trigger — every consequential action clears your policy first, waits |
-| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-05 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 3 | [NinjaSln-labs/fuyao-nomad](https://github.com/NinjaSln-labs/fuyao-nomad) | 0 | JavaScript | 2026-09-05 | 扶摇 · Nomad — 开源 DDD 驱动可组合 Agent 团队框架 · npm i fuyao-nomad |
-| 4 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-09-05 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-05 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-05 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [tuliplabs-ai/tulip-agents](https://github.com/tuliplabs-ai/tulip-agents) | 1 | Python | 2026-09-05 | The agent framework where the model never holds the trigger — every consequential action clears your policy first, waits |
+| 3 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-05 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 4 | [NinjaSln-labs/fuyao-nomad](https://github.com/NinjaSln-labs/fuyao-nomad) | 0 | JavaScript | 2026-09-05 | 扶摇 · Nomad — 开源 DDD 驱动可组合 Agent 团队框架 · npm i fuyao-nomad |
+| 5 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 1 | HTML | 2026-09-05 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 6 | [daretodave/nexus](https://github.com/daretodave/nexus) | 4 | JavaScript | 2026-09-05 | a methodology for autonomous projects that ship themselves (hands off) |
 | 7 | [mcheemaa/mistri](https://github.com/mcheemaa/mistri) | 18 | Ruby | 2026-09-05 | The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured |
 | 8 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-09-05 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |

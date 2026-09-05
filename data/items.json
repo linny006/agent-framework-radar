@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T22:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
     "id": "tuliplabs-ai/tulip-agents",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-05T22:08:32Z",
+    "updated_at": "2026-09-05T22:16:12Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T22:01:25Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T22:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
