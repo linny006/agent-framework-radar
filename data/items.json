@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-09-05T17:45:01Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
+    "id": "sandeepyadav1478/touchstone",
+    "language": "Python",
+    "name": "sandeepyadav1478/touchstone",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:44:30Z",
+    "url": "https://github.com/sandeepyadav1478/touchstone"
+  },
+  {
+    "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
+    "id": "hustfreefly/deepflow",
+    "language": "Python",
+    "name": "hustfreefly/deepflow",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:44:29Z",
+    "url": "https://github.com/hustfreefly/deepflow"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9720,
+    "updated_at": "2026-09-05T17:43:02Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Pi agent skills for specialized workflows and automation",
+    "id": "shalomb/agent-skills",
+    "language": "Python",
+    "name": "shalomb/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:40:00Z",
+    "url": "https://github.com/shalomb/agent-skills"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-05T17:39:59Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 71,
+    "updated_at": "2026-09-05T17:39:31Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:38:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "Insajin/autopus-adk",
+    "language": "Go",
+    "name": "Insajin/autopus-adk",
+    "stars": 109,
+    "updated_at": "2026-09-05T17:36:49Z",
+    "url": "https://github.com/Insajin/autopus-adk"
+  },
+  {
+    "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
+    "id": "NinjaSln-labs/fuyao-nomad",
+    "language": "JavaScript",
+    "name": "NinjaSln-labs/fuyao-nomad",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:35:58Z",
+    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:30:29Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T17:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -43,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T17:24:32Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
-    "id": "hustfreefly/deepflow",
-    "language": "Python",
-    "name": "hustfreefly/deepflow",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:24:20Z",
-    "url": "https://github.com/hustfreefly/deepflow"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9720,
-    "updated_at": "2026-09-05T17:24:07Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -113,7 +203,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35405,
-    "updated_at": "2026-09-05T17:16:58Z",
+    "updated_at": "2026-09-05T17:31:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -135,15 +225,6 @@
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T17:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -160,15 +241,6 @@
     "stars": 120,
     "updated_at": "2026-09-05T17:05:42Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 71,
-    "updated_at": "2026-09-05T17:23:44Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "Peers is an open platform for running long-lived AI agents with independent responsibilities, memory, tools, and autonom",
@@ -194,7 +266,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-05T17:19:48Z",
+    "updated_at": "2026-09-05T17:38:44Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 42,
     "updated_at": "2026-09-05T17:02:26Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 109,
-    "updated_at": "2026-09-05T16:58:47Z",
-    "url": "https://github.com/Insajin/autopus-adk"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -360,15 +423,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-09-05T16:17:02Z",
-    "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -376,15 +430,6 @@
     "stars": 51,
     "updated_at": "2026-09-05T16:11:28Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "\u6276\u6447 \u00b7 Nomad \u2014 \u5f00\u6e90 Agent \u56e2\u961f\u6846\u67b6\uff1a\u56e2\u961f\u4f18\u5148\u3001DDD \u9a71\u52a8\u3001\u8f7b-\u91cd\u6d41\u7a0b\u91cd\u91cf\u53ef\u8c03\uff1b\u8584\u9002\u914d harness\uff08\u4e0d\u505a harness\uff09\u3002Open-source agent team framework.",
-    "id": "NinjaSln-labs/fuyao-nomad",
-    "language": "JavaScript",
-    "name": "NinjaSln-labs/fuyao-nomad",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:08:58Z",
-    "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
   },
   {
     "description": "AIOS - experimental open-source agent operating system for planning, tool execution, verification and workflow orchestra",
@@ -396,15 +441,6 @@
     "url": "https://github.com/e71398/AIOS"
   },
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-05T16:57:03Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
     "id": "acnlabs/ACN",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-05T16:01:05Z",
     "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47732,
-    "updated_at": "2026-09-05T15:58:38Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1619,
-    "updated_at": "2026-09-05T15:56:20Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 351,
-    "updated_at": "2026-09-05T15:53:44Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-05T15:53:24Z",
-    "url": "https://github.com/kdcube/kdcube"
   }
 ]
