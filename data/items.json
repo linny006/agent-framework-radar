@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1101,
+    "updated_at": "2026-09-05T07:59:20Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "An intent-gated motivational control kernel for AI agents.",
+    "id": "utsapoddar/dopa-kernel",
+    "language": "Python",
+    "name": "utsapoddar/dopa-kernel",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:59:04Z",
+    "url": "https://github.com/utsapoddar/dopa-kernel"
+  },
+  {
+    "description": "A Simple Python Based General AI Agent",
+    "id": "yanggujun/open-axle",
+    "language": "Python",
+    "name": "yanggujun/open-axle",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:56:48Z",
+    "url": "https://github.com/yanggujun/open-axle"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T07:50:59Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 35,
+    "updated_at": "2026-09-05T07:49:57Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 273,
+    "updated_at": "2026-09-05T07:50:00Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-05T07:48:41Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T07:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
     "id": "fastagent-sh/fastagent",
     "language": "TypeScript",
@@ -27,15 +99,6 @@
     "url": "https://github.com/colmugx/posoco-extension"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T07:39:28Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Assemble living AI creatures from biological organ blocks \u2014 an AI ethology research platform. Code MIT \u00b7 sample creature",
     "id": "ludex-lab/ludex",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-05T07:35:11Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -70,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-09-05T07:33:52Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T07:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your own agentic working mate. For long horizon and complex task automation",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "plaited/plaited",
     "stars": 10,
-    "updated_at": "2026-09-05T07:28:28Z",
+    "updated_at": "2026-09-05T08:00:15Z",
     "url": "https://github.com/plaited/plaited"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/erishen/resolve-studio"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 273,
-    "updated_at": "2026-09-05T07:22:45Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-05T07:06:46Z",
+    "updated_at": "2026-09-05T07:46:14Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-05T07:35:22Z",
+    "updated_at": "2026-09-05T07:46:02Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -319,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35396,
+    "stars": 35395,
     "updated_at": "2026-09-05T06:49:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -387,15 +423,6 @@
     "url": "https://github.com/autocatalytic-quartette9513/agent-git"
   },
   {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 35,
-    "updated_at": "2026-09-05T07:43:11Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
     "id": "pingpongballbouncingbetty737/embabel-agent",
     "language": "\u2014",
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9710,
-    "updated_at": "2026-09-05T07:32:02Z",
+    "updated_at": "2026-09-05T07:54:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
-    "id": "Asceticrefractoryperiod28/Foundry",
-    "language": "TypeScript",
-    "name": "Asceticrefractoryperiod28/Foundry",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:32:00Z",
-    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-09-05T07:22:15Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:30:40Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
