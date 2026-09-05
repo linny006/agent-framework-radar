@@ -1,5 +1,122 @@
 [
   {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 715,
+    "updated_at": "2026-09-05T15:43:50Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-05T15:43:39Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:43:34Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-05T15:43:26Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4510,
+    "updated_at": "2026-09-05T15:42:32Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 7,
+    "updated_at": "2026-09-05T15:39:26Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:39:03Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
+    "id": "TW-Market-Data/twmd-agent-committee",
+    "language": "JavaScript",
+    "name": "TW-Market-Data/twmd-agent-committee",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:38:05Z",
+    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 42,
+    "updated_at": "2026-09-05T15:35:46Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 4,
+    "updated_at": "2026-09-05T15:35:10Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:33:56Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T15:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35403,
+    "updated_at": "2026-09-05T15:28:52Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -27,24 +144,6 @@
     "url": "https://github.com/derekhu0002/archgraph"
   },
   {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 7,
-    "updated_at": "2026-09-05T15:22:56Z",
-    "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
-    "id": "TW-Market-Data/twmd-agent-committee",
-    "language": "JavaScript",
-    "name": "TW-Market-Data/twmd-agent-committee",
-    "stars": 1,
-    "updated_at": "2026-09-05T15:18:45Z",
-    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
-  },
-  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
@@ -61,15 +160,6 @@
     "stars": 2033,
     "updated_at": "2026-09-05T15:16:19Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T15:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A Simple Python Based General AI Agent",
@@ -104,7 +194,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-05T15:28:17Z",
+    "updated_at": "2026-09-05T15:34:47Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T15:09:49Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
-    "id": "kungfu-systems/kungfu",
-    "language": "C++",
-    "name": "kungfu-systems/kungfu",
-    "stars": 4510,
-    "updated_at": "2026-09-05T15:30:08Z",
-    "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -297,24 +378,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 42,
-    "updated_at": "2026-09-05T14:43:53Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-05T15:22:38Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -322,24 +385,6 @@
     "stars": 47731,
     "updated_at": "2026-09-05T14:40:04Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35402,
-    "updated_at": "2026-09-05T15:28:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:24:21Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Production-ready FastAPI + React + TypeScript + PostgreSQL full-stack starter kit with an AI agent generator:6 orchestra",
@@ -403,50 +448,5 @@
     "stars": 351,
     "updated_at": "2026-09-05T14:23:11Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 109,
-    "updated_at": "2026-09-05T14:23:06Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1763,
-    "updated_at": "2026-09-05T14:15:48Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 157,
-    "updated_at": "2026-09-05T14:14:07Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Expert Fleet - a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, verified procedural",
-    "id": "reda-baqechame/self-learning-24.7-agent",
-    "language": "Python",
-    "name": "reda-baqechame/self-learning-24.7-agent",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:08:58Z",
-    "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:55:21Z",
-    "url": "https://github.com/momang85/weavemind"
   }
 ]
