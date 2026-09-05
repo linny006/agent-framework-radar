@@ -1,12 +1,120 @@
 [
   {
+    "description": "A Simple Python Based General AI Agent",
+    "id": "yanggujun/open-axle",
+    "language": "Python",
+    "name": "yanggujun/open-axle",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:14:13Z",
+    "url": "https://github.com/yanggujun/open-axle"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:13:57Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 10,
+    "updated_at": "2026-09-05T15:13:49Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:13:36Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:09:49Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4510,
+    "updated_at": "2026-09-05T15:10:13Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2033,
+    "updated_at": "2026-09-05T15:09:05Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 202,
+    "updated_at": "2026-09-05T15:08:50Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
+    "id": "AgiMateIo/agimate-backend",
+    "language": "Java",
+    "name": "AgiMateIo/agimate-backend",
+    "stars": 5,
+    "updated_at": "2026-09-05T15:07:08Z",
+    "url": "https://github.com/AgiMateIo/agimate-backend"
+  },
+  {
     "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
     "id": "vstorm-co/agenticos",
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 17,
-    "updated_at": "2026-09-05T15:00:20Z",
+    "updated_at": "2026-09-05T15:05:10Z",
     "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "An architecture-graph driven framework for Agentic Engineering.",
+    "id": "derekhu0002/archgraph",
+    "language": "JavaScript",
+    "name": "derekhu0002/archgraph",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:04:07Z",
+    "url": "https://github.com/derekhu0002/archgraph"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9716,
+    "updated_at": "2026-09-05T15:06:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T15:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
@@ -126,15 +234,6 @@
     "url": "https://github.com/doeixd/affe-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9716,
-    "updated_at": "2026-09-05T14:52:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
     "id": "jiayan-xu/agent-core",
     "language": "Rust",
@@ -142,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T14:45:38Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T14:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Web dashboard for AgiMate: build agents, set what each one is allowed to touch, and watch the logs",
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-05T14:42:01Z",
+    "updated_at": "2026-09-05T15:06:14Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -203,7 +293,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-09-05T14:36:44Z",
+    "updated_at": "2026-09-05T15:08:14Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -221,7 +311,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35402,
-    "updated_at": "2026-09-05T14:33:50Z",
+    "updated_at": "2026-09-05T15:11:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -306,15 +396,6 @@
     "url": "https://github.com/Insajin/autopus-adk"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 202,
-    "updated_at": "2026-09-05T14:46:20Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
     "id": "trpc-group/trpc-agent-go",
     "language": "Go",
@@ -331,15 +412,6 @@
     "stars": 157,
     "updated_at": "2026-09-05T14:14:07Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:10:27Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "Expert Fleet - a stdlib-only, file-backed platform for 24/7 expert AI agents: frozen goal contracts, verified procedural",
@@ -360,24 +432,6 @@
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:54:37Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 10,
-    "updated_at": "2026-09-05T13:54:24Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
     "id": "conn-castle/agent-outbox",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:45:50Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T13:45:10Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:40:59Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-05T13:40:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:40:16Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-05T14:20:16Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-05T13:37:09Z",
-    "url": "https://github.com/ggui-ai/ggui"
   }
 ]
