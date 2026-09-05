@@ -1,5 +1,68 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-05T10:14:03Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Ultra-efficient personal AI assistant powered by Crystal",
+    "id": "crystal-autobot/autobot",
+    "language": "Crystal",
+    "name": "crystal-autobot/autobot",
+    "stars": 45,
+    "updated_at": "2026-09-05T10:14:16Z",
+    "url": "https://github.com/crystal-autobot/autobot"
+  },
+  {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-09-05T10:12:04Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 7,
+    "updated_at": "2026-09-05T10:11:58Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-05T10:11:39Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
+    "id": "vamsiramakrishnan/gemini-rs",
+    "language": "Rust",
+    "name": "vamsiramakrishnan/gemini-rs",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:04:09Z",
+    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T10:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -50,17 +113,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-05T09:55:07Z",
+    "updated_at": "2026-09-05T10:04:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
-    "updated_at": "2026-09-05T09:54:09Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -117,24 +171,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T09:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Ultra-efficient personal AI assistant powered by Crystal",
-    "id": "crystal-autobot/autobot",
-    "language": "Crystal",
-    "name": "crystal-autobot/autobot",
-    "stars": 45,
-    "updated_at": "2026-09-05T09:54:54Z",
-    "url": "https://github.com/crystal-autobot/autobot"
-  },
-  {
     "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
     "id": "TW-Market-Data/twmd-agent-committee",
     "language": "JavaScript",
@@ -149,17 +185,8 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 58,
-    "updated_at": "2026-09-05T09:44:36Z",
+    "updated_at": "2026-09-05T10:04:39Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
-    "id": "zkysar1/Claude-Mind",
-    "language": "Python",
-    "name": "zkysar1/Claude-Mind",
-    "stars": 5,
-    "updated_at": "2026-09-05T09:44:14Z",
-    "url": "https://github.com/zkysar1/Claude-Mind"
   },
   {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
@@ -167,7 +194,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 35,
-    "updated_at": "2026-09-05T09:51:50Z",
+    "updated_at": "2026-09-05T10:14:06Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -203,17 +230,8 @@
     "language": "Go",
     "name": "Luo-root/pulse",
     "stars": 5,
-    "updated_at": "2026-09-05T09:33:24Z",
+    "updated_at": "2026-09-05T10:00:44Z",
     "url": "https://github.com/Luo-root/pulse"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-05T09:55:52Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 6877,
-    "updated_at": "2026-09-05T09:28:20Z",
+    "updated_at": "2026-09-05T10:06:15Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9711,
-    "updated_at": "2026-09-05T09:31:40Z",
+    "updated_at": "2026-09-05T10:15:12Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-05T08:34:56Z",
     "url": "https://github.com/AgiMateIo/agimate-backend"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:32:51Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-05T08:23:11Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
