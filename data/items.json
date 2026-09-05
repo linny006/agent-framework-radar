@@ -1,12 +1,84 @@
 [
   {
+    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
+    "id": "sandeepyadav1478/touchstone",
+    "language": "Python",
+    "name": "sandeepyadav1478/touchstone",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:14:05Z",
+    "url": "https://github.com/sandeepyadav1478/touchstone"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-09-05T19:13:31Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
+    "id": "Zhivex/zhivex-ai-sdk-py",
+    "language": "Python",
+    "name": "Zhivex/zhivex-ai-sdk-py",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:12:24Z",
+    "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-05T19:12:38Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:07:30Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/affe-agent",
     "language": "TypeScript",
     "name": "doeixd/affe-agent",
     "stars": 7,
-    "updated_at": "2026-09-05T18:59:27Z",
+    "updated_at": "2026-09-05T19:15:58Z",
     "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4510,
+    "updated_at": "2026-09-05T19:15:57Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:01:11Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T19:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-05T18:57:39Z",
+    "updated_at": "2026-09-05T19:10:57Z",
     "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Improves a production agent system by repairing the evals that judge it. Failures are mined into new eval cases, and gat",
-    "id": "sandeepyadav1478/touchstone",
-    "language": "Python",
-    "name": "sandeepyadav1478/touchstone",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:57:04Z",
-    "url": "https://github.com/sandeepyadav1478/touchstone"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -34,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T18:57:01Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:56:50Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -77,7 +131,7 @@
     "language": "JavaScript",
     "name": "wrg32786/aigent-os",
     "stars": 18,
-    "updated_at": "2026-09-05T18:50:05Z",
+    "updated_at": "2026-09-05T19:11:08Z",
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-05T18:49:20Z",
+    "updated_at": "2026-09-05T19:11:26Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T18:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
     "id": "shibing624/agentica",
     "language": "Python",
@@ -151,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-09-05T18:44:21Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Open-source alternative to Claude Cowork \u2014 a local-first AI agent desktop app \u00b7 multi-model \u00b7 self-evolving skills \u00b7 pri",
+    "id": "PM-Shawn/Abu-Cowork",
+    "language": "TypeScript",
+    "name": "PM-Shawn/Abu-Cowork",
+    "stars": 367,
+    "updated_at": "2026-09-05T18:43:55Z",
+    "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -252,6 +306,15 @@
     "url": "https://github.com/cristofima/maf-graphrag-series"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9720,
+    "updated_at": "2026-09-05T18:29:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "synapse-ai-hub/synapseForge",
     "stars": 3,
-    "updated_at": "2026-09-05T18:58:20Z",
+    "updated_at": "2026-09-05T19:15:40Z",
     "url": "https://github.com/synapse-ai-hub/synapseForge"
   },
   {
@@ -313,15 +376,6 @@
     "stars": 47735,
     "updated_at": "2026-09-05T18:11:19Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
-    "id": "Zhivex/zhivex-ai-sdk-py",
-    "language": "Python",
-    "name": "Zhivex/zhivex-ai-sdk-py",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:12:17Z",
-    "url": "https://github.com/Zhivex/zhivex-ai-sdk-py"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -360,33 +414,6 @@
     "url": "https://github.com/thenaxon/somora_agent"
   },
   {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-09-05T17:45:01Z",
-    "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9720,
-    "updated_at": "2026-09-05T18:29:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-05T18:56:14Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T17:53:06Z",
     "url": "https://github.com/abubakarsiddik31/golem"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind V1.0 \u2014 \u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u591a\u667a\u80fd\u4f53 AI \u56e2\u961f\u3002\u591a\u7528\u6237\u9274\u6743\u3001\u7ed3\u6784\u5316\u6570\u636e\u9002\u914d\u5668\u3001\u9a8c\u6536\u6eaf\u6e90\u3001\u62a5\u544a\u5206\u4eab/PDF/\u901a\u77e5\uff0c\u672c\u5730\u8fd0\u884c\u6570\u636e\u79c1\u6709\u3002",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:25:24Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-09-05T18:50:11Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "\u53ef\u9a57\u8b49\u7684\u53f0\u80a1\u8cc7\u6599\u5730\u57fa \u00d7 MCP \u00d7 AI \u6295\u7814\u59d4\u54e1\u6703\u2014\u2014\u6bcf\u500b\u6578\u5b57\u90fd\u80fd\u7576\u5834\u9a57\u3001AI \u4e0d\u6703\u5e7b\u89ba\u3001\u4e5f\u4e0d\u80fd\u5077\u770b\u672a\u4f86\u3002",
-    "id": "TW-Market-Data/twmd-agent-committee",
-    "language": "JavaScript",
-    "name": "TW-Market-Data/twmd-agent-committee",
-    "stars": 1,
-    "updated_at": "2026-09-05T17:18:39Z",
-    "url": "https://github.com/TW-Market-Data/twmd-agent-committee"
   }
 ]
