@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T00:59:48Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:58:04Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-09-05T00:55:25Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
+    "id": "DevMando/MandoCode",
+    "language": "C#",
+    "name": "DevMando/MandoCode",
+    "stars": 14,
+    "updated_at": "2026-09-05T00:55:40Z",
+    "url": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "description": "Self-evolving agent framework for the full HarmonyOS development lifecycle - zero-dependency kernel, MCP ecosystem, head",
+    "id": "swsgbl/hmharness",
+    "language": "TypeScript",
+    "name": "swsgbl/hmharness",
+    "stars": 0,
+    "updated_at": "2026-09-05T00:52:50Z",
+    "url": "https://github.com/swsgbl/hmharness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T00:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 4,
-    "updated_at": "2026-09-05T00:41:33Z",
+    "updated_at": "2026-09-05T00:57:01Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-09-05T00:43:37Z",
+    "updated_at": "2026-09-05T00:59:42Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 120,
     "updated_at": "2026-09-05T00:36:20Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-05T00:36:16Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "A selective learning and memory substrate for agentic systems \u2014 typed, revisable, decayable memory with competence learn",
@@ -108,15 +153,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-05T00:32:01Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 9699,
     "updated_at": "2026-09-05T00:30:50Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T00:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -153,21 +180,12 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "Self-evolving agent framework for the full HarmonyOS development lifecycle - zero-dependency kernel, MCP ecosystem, head",
-    "id": "swsgbl/hmharness",
-    "language": "TypeScript",
-    "name": "swsgbl/hmharness",
-    "stars": 0,
-    "updated_at": "2026-09-05T00:28:32Z",
-    "url": "https://github.com/swsgbl/hmharness"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-05T00:42:55Z",
+    "updated_at": "2026-09-05T00:50:43Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-05T00:24:10Z",
+    "updated_at": "2026-09-05T00:54:47Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 3,
-    "updated_at": "2026-09-05T00:42:28Z",
+    "updated_at": "2026-09-05T00:58:36Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 143,
-    "updated_at": "2026-09-04T23:59:42Z",
+    "updated_at": "2026-09-05T00:59:46Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -310,7 +328,7 @@
     "id": "zj-unicom-ai/UniEmployee",
     "language": "Python",
     "name": "zj-unicom-ai/UniEmployee",
-    "stars": 32,
+    "stars": 33,
     "updated_at": "2026-09-04T23:45:03Z",
     "url": "https://github.com/zj-unicom-ai/UniEmployee"
   },
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-05T00:11:46Z",
+    "updated_at": "2026-09-05T00:48:49Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T23:27:59Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:27:30Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:25:42Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
   }
 ]
