@@ -1,5 +1,113 @@
 [
   {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:41:23Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
+    "id": "geniusdapeng-collab/hyperreality-system",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/hyperreality-system",
+    "stars": 10,
+    "updated_at": "2026-09-05T04:41:17Z",
+    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-05T04:41:10Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6876,
+    "updated_at": "2026-09-05T04:40:56Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-05T04:40:29Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-05T04:39:30Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:38:56Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
+    "id": "plmbr/nui",
+    "language": "Go",
+    "name": "plmbr/nui",
+    "stars": 7,
+    "updated_at": "2026-09-05T04:37:59Z",
+    "url": "https://github.com/plmbr/nui"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 35,
+    "updated_at": "2026-09-05T04:37:57Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 50,
+    "updated_at": "2026-09-05T04:33:03Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-05T04:41:01Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-05T04:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -18,15 +126,6 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:28:01Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
     "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
     "id": "rapidaai/voice-ai",
     "language": "Go",
@@ -34,15 +133,6 @@
     "stars": 720,
     "updated_at": "2026-09-05T04:27:50Z",
     "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6876,
-    "updated_at": "2026-09-05T04:28:07Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9704,
-    "updated_at": "2026-09-05T04:24:55Z",
+    "updated_at": "2026-09-05T04:42:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -68,17 +158,8 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-05T04:21:16Z",
+    "updated_at": "2026-09-05T04:36:11Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 35,
-    "updated_at": "2026-09-05T04:19:34Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -108,15 +189,6 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T04:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them rem",
     "id": "ucsandman/DashClaw",
     "language": "TypeScript",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 3,
-    "updated_at": "2026-09-05T04:12:37Z",
+    "updated_at": "2026-09-05T04:38:02Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -149,17 +221,8 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-05T04:16:34Z",
+    "updated_at": "2026-09-05T04:38:13Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-05T04:19:35Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 109,
-    "updated_at": "2026-09-05T04:27:51Z",
+    "updated_at": "2026-09-05T04:42:18Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -311,17 +374,8 @@
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 0,
-    "updated_at": "2026-09-05T03:19:45Z",
+    "updated_at": "2026-09-05T04:38:36Z",
     "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-05T03:19:29Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "A personal brain that runs on your own machine: soul, memory, integrity guards, and honesty discipline.",
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 58,
-    "updated_at": "2026-09-05T04:05:42Z",
+    "updated_at": "2026-09-05T04:38:04Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 368,
     "updated_at": "2026-09-05T03:45:04Z",
     "url": "https://github.com/DougTrajano/pydantic-ai-skills"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19731,
-    "updated_at": "2026-09-05T02:59:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-05T02:54:45Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-09-05T02:51:38Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 557,
-    "updated_at": "2026-09-05T02:54:12Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-09-05T02:44:39Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-05T02:42:43Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
