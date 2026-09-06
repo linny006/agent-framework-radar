@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-06T22:41:33Z",
-    "url": "https://github.com/tya5/reyn"
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-09-06T23:00:05Z",
+    "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
     "stars": 2,
-    "updated_at": "2026-09-06T22:41:31Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
+    "updated_at": "2026-09-06T22:59:37Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -23,8 +23,89 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 7,
-    "updated_at": "2026-09-06T22:37:09Z",
+    "updated_at": "2026-09-06T22:58:54Z",
     "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-06T22:56:36Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
+    "id": "DevMando/MandoCode",
+    "language": "C#",
+    "name": "DevMando/MandoCode",
+    "stars": 14,
+    "updated_at": "2026-09-06T22:55:36Z",
+    "url": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
+    "id": "Craigtut/cortex-mono",
+    "language": "TypeScript",
+    "name": "Craigtut/cortex-mono",
+    "stars": 0,
+    "updated_at": "2026-09-06T22:54:02Z",
+    "url": "https://github.com/Craigtut/cortex-mono"
+  },
+  {
+    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 1,
+    "updated_at": "2026-09-06T22:53:39Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 1,
+    "updated_at": "2026-09-06T22:55:07Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-09-06T22:51:07Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-06T22:50:34Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-06T22:50:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T22:45:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
@@ -43,15 +124,6 @@
     "stars": 666,
     "updated_at": "2026-09-06T22:32:11Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-06T22:30:55Z",
-    "url": "https://github.com/go-steer/mast"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -79,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T22:30:40Z",
     "url": "https://github.com/AgiMateIo/agimate-frontend"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T22:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-06T22:08:13Z",
+    "updated_at": "2026-09-06T22:49:25Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 109,
-    "updated_at": "2026-09-06T21:27:10Z",
+    "updated_at": "2026-09-06T22:56:59Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -378,24 +441,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T20:59:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:59:52Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-06T21:48:49Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
-  },
-  {
-    "description": "Cortavyn is a Java framework for building durable, stateful AI applications \u2014 from conversational agents to graph-based ",
-    "id": "Cortavyn/Cortavyn",
-    "language": "Java",
-    "name": "Cortavyn/Cortavyn",
-    "stars": 0,
-    "updated_at": "2026-09-06T20:57:06Z",
-    "url": "https://github.com/Cortavyn/Cortavyn"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 274,
-    "updated_at": "2026-09-06T20:54:26Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
-    "id": "sageox/agent-toolkit",
-    "language": "TypeScript",
-    "name": "sageox/agent-toolkit",
-    "stars": 9,
-    "updated_at": "2026-09-06T20:43:51Z",
-    "url": "https://github.com/sageox/agent-toolkit"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4908,
-    "updated_at": "2026-09-06T20:24:31Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
-    "id": "macanderson/context-graph-protocol",
-    "language": "Rust",
-    "name": "macanderson/context-graph-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:08:48Z",
-    "url": "https://github.com/macanderson/context-graph-protocol"
   }
 ]
