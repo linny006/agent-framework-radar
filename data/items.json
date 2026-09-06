@@ -1,12 +1,57 @@
 [
   {
-    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
-    "id": "abubakarsiddik31/golem",
-    "language": "Go",
-    "name": "abubakarsiddik31/golem",
-    "stars": 2,
-    "updated_at": "2026-09-06T04:32:33Z",
-    "url": "https://github.com/abubakarsiddik31/golem"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9727,
+    "updated_at": "2026-09-06T04:42:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
+    "id": "bugsyhewitt/AlienClaw",
+    "language": "TypeScript",
+    "name": "bugsyhewitt/AlienClaw",
+    "stars": 7,
+    "updated_at": "2026-09-06T04:41:24Z",
+    "url": "https://github.com/bugsyhewitt/AlienClaw"
+  },
+  {
+    "description": "Independent self-improving agent runtime - event-kernel architecture, autonomous tool use, learns from own traffic. 100%",
+    "id": "openamer/openvid",
+    "language": "Python",
+    "name": "openamer/openvid",
+    "stars": 0,
+    "updated_at": "2026-09-06T04:36:39Z",
+    "url": "https://github.com/openamer/openvid"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-06T04:39:13Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-06T04:34:27Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-06T04:39:25Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 6,
-    "updated_at": "2026-09-06T04:30:22Z",
+    "updated_at": "2026-09-06T04:33:58Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
+    "id": "abubakarsiddik31/golem",
+    "language": "Go",
+    "name": "abubakarsiddik31/golem",
+    "stars": 2,
+    "updated_at": "2026-09-06T04:37:14Z",
+    "url": "https://github.com/abubakarsiddik31/golem"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "synapse-ai-hub/synapseForge",
     "stars": 3,
-    "updated_at": "2026-09-06T04:29:24Z",
+    "updated_at": "2026-09-06T04:40:21Z",
     "url": "https://github.com/synapse-ai-hub/synapseForge"
   },
   {
@@ -43,24 +97,6 @@
     "stars": 35410,
     "updated_at": "2026-09-06T04:29:09Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Independent self-improving agent runtime - event-kernel architecture, autonomous tool use, learns from own traffic. 100%",
-    "id": "openamer/openvid",
-    "language": "Python",
-    "name": "openamer/openvid",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:28:15Z",
-    "url": "https://github.com/openamer/openvid"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-06T04:27:23Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "PurrPod/purrcat",
     "stars": 28,
-    "updated_at": "2026-09-06T04:12:39Z",
+    "updated_at": "2026-09-06T04:44:48Z",
     "url": "https://github.com/PurrPod/purrcat"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-06T04:30:23Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
     "id": "Bohra-Nitin/AgentManager",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T03:59:40Z",
     "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
-    "id": "mcheemaa/mistri",
-    "language": "Ruby",
-    "name": "mcheemaa/mistri",
-    "stars": 18,
-    "updated_at": "2026-09-06T04:16:10Z",
-    "url": "https://github.com/mcheemaa/mistri"
-  },
-  {
-    "description": "Your own agentic working mate. For long horizon and complex task automation",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 155,
-    "updated_at": "2026-09-06T03:58:16Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-09-06T03:54:51Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
   }
 ]
