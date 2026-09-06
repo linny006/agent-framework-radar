@@ -1,12 +1,48 @@
 [
   {
-    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
-    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:24:18Z",
-    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-06T12:44:55Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 14,
+    "updated_at": "2026-09-06T12:43:09Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:43:01Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Local-first, Codex-native agent foundry and knowledge OS for creating reviewed, testable specialist AI agents.",
+    "id": "NumericalArt/Pritha",
+    "language": "JavaScript",
+    "name": "NumericalArt/Pritha",
+    "stars": 4,
+    "updated_at": "2026-09-06T12:40:43Z",
+    "url": "https://github.com/NumericalArt/Pritha"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2039,
+    "updated_at": "2026-09-06T12:38:44Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -14,8 +50,26 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-06T12:23:52Z",
+    "updated_at": "2026-09-06T12:36:45Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-06T12:34:45Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:34:37Z",
+    "url": "https://github.com/qyiun666/meowire"
   },
   {
     "description": "AI-native desktop command center built on top of DeepSeek Harness",
@@ -23,8 +77,71 @@
     "language": "JavaScript",
     "name": "zhihaochen67/harness-core",
     "stars": 3,
-    "updated_at": "2026-09-06T12:22:47Z",
+    "updated_at": "2026-09-06T12:34:19Z",
     "url": "https://github.com/zhihaochen67/harness-core"
+  },
+  {
+    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
+    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "language": "Python",
+    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:33:35Z",
+    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-06T12:35:47Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "\ud83d\ude80 \u901a\u7528 AI \u9879\u76ee\u542f\u52a8\u5668 | \u8de8 AI \u4e0a\u4e0b\u6587\u6cbb\u7406\u3001\u96f6 Token \u6d88\u8017\u3001\u5355\u4e00\u771f\u7406\u6e90 AGENTS.md \u4e0e\u672c\u5730\u5bf9\u8bdd\u81ea\u52a8\u5f52\u6863\u811a\u624b\u67b6",
+    "id": "mountopjh/ai-project-bootstrap",
+    "language": "PowerShell",
+    "name": "mountopjh/ai-project-bootstrap",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:32:46Z",
+    "url": "https://github.com/mountopjh/ai-project-bootstrap"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-06T12:32:24Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:30:35Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T12:30:15Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 5033,
+    "updated_at": "2026-09-06T12:27:13Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
@@ -54,15 +171,6 @@
     "url": "https://github.com/NinjaSln-labs/fuyao-nomad"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-06T12:26:37Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
     "id": "bugsyhewitt/AlienClaw",
     "language": "TypeScript",
@@ -72,21 +180,12 @@
     "url": "https://github.com/bugsyhewitt/AlienClaw"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-06T12:17:55Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
     "id": "usetheokit/theokit",
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-09-06T12:23:34Z",
+    "updated_at": "2026-09-06T12:34:31Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -108,15 +207,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T12:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -133,24 +223,6 @@
     "stars": 6,
     "updated_at": "2026-09-06T12:14:46Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Local-first, Codex-native agent foundry and knowledge OS for creating reviewed, testable specialist AI agents.",
-    "id": "NumericalArt/Pritha",
-    "language": "JavaScript",
-    "name": "NumericalArt/Pritha",
-    "stars": 4,
-    "updated_at": "2026-09-06T12:11:52Z",
-    "url": "https://github.com/NumericalArt/Pritha"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:07:03Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "A community driven directory of paseo.sh plugins",
@@ -171,30 +243,12 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "\ud83d\ude80 \u901a\u7528 AI \u9879\u76ee\u542f\u52a8\u5668 | \u8de8 AI \u4e0a\u4e0b\u6587\u6cbb\u7406\u3001\u96f6 Token \u6d88\u8017\u3001\u5355\u4e00\u771f\u7406\u6e90 AGENTS.md \u4e0e\u672c\u5730\u5bf9\u8bdd\u81ea\u52a8\u5f52\u6863\u811a\u624b\u67b6",
-    "id": "mountopjh/ai-project-bootstrap",
-    "language": "PowerShell",
-    "name": "mountopjh/ai-project-bootstrap",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:58:40Z",
-    "url": "https://github.com/mountopjh/ai-project-bootstrap"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-06T12:26:27Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35416,
-    "updated_at": "2026-09-06T11:56:18Z",
+    "updated_at": "2026-09-06T12:37:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -243,15 +297,6 @@
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2038,
-    "updated_at": "2026-09-06T12:11:05Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
     "id": "klarlabs-studio/nomi",
     "language": "Go",
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 11,
-    "updated_at": "2026-09-06T11:38:21Z",
+    "updated_at": "2026-09-06T12:38:32Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 20,
     "updated_at": "2026-09-06T11:33:56Z",
     "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 14,
-    "updated_at": "2026-09-06T11:31:30Z",
-    "url": "https://github.com/devoidfury/hotdog"
   },
   {
     "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-06T12:16:02Z",
+    "updated_at": "2026-09-06T12:40:47Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:03:35Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:03:35Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:02:41Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:02:18Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Signomy \u2014 governed AI agent marketplace and city-state. Agents register free, operators pay. MO\u00a7ES\u2122 constitutional gover",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:00:36Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   }
 ]
