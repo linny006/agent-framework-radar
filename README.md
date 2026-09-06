@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 00:00 UTC
+> ⏰ Last updated: 2026-09-06 00:04 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-09-05 | Many Agents, one objective... yours  |
-| 2 | [Birfy/agentdescent](https://github.com/Birfy/agentdescent) | 203 | Python | 2026-09-05 | Gradient descent, but the parameters are agents — a parallel, asynchronous framework for self-evolving agents (skills, p |
-| 3 | [cortexkit/aft](https://github.com/cortexkit/aft) | 276 | Rust | 2026-09-05 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 4 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 124 | Shell | 2026-09-05 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-05 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-05 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [brandonkindred/Khala-Agentic-AI-Teams](https://github.com/brandonkindred/Khala-Agentic-AI-Teams) | 5 | Python | 2026-09-06 | Many Agents, one objective... yours  |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [Birfy/agentdescent](https://github.com/Birfy/agentdescent) | 203 | Python | 2026-09-05 | Gradient descent, but the parameters are agents — a parallel, asynchronous framework for self-evolving agents (skills, p |
+| 4 | [cortexkit/aft](https://github.com/cortexkit/aft) | 276 | Rust | 2026-09-05 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 5 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 124 | Shell | 2026-09-05 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 6 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-09-05 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 7 | [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk) | 109 | Go | 2026-09-05 | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes |
 | 8 | [hibuka-labs/phi-agent](https://github.com/hibuka-labs/phi-agent) | 14 | Rust | 2026-09-05 | Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration |
 | 9 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-09-05 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |

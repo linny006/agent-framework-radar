@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-05T23:59:32Z",
+    "updated_at": "2026-09-06T00:01:42Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T00:00:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -43,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-09-05T23:49:34Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-05T23:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
