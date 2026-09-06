@@ -5,8 +5,53 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 11,
-    "updated_at": "2026-09-06T20:14:05Z",
+    "updated_at": "2026-09-06T20:28:18Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 666,
+    "updated_at": "2026-09-06T20:26:29Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-09-06T20:28:08Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4907,
+    "updated_at": "2026-09-06T20:24:31Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-06T20:16:00Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T20:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -45,15 +90,6 @@
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4907,
-    "updated_at": "2026-09-06T20:06:24Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
     "id": "10xHub/agentflow-docs",
     "language": "TypeScript",
@@ -90,15 +126,6 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T20:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
     "id": "Ethanon/developer.ai",
     "language": "Shell",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "Losina24/ARCH",
     "stars": 4,
-    "updated_at": "2026-09-06T19:53:05Z",
+    "updated_at": "2026-09-06T20:29:43Z",
     "url": "https://github.com/Losina24/ARCH"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-06T19:51:55Z",
+    "updated_at": "2026-09-06T20:28:20Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "AndersonBY/vv-agent",
     "stars": 1,
-    "updated_at": "2026-09-06T19:18:27Z",
+    "updated_at": "2026-09-06T20:25:50Z",
     "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/alpercodes/alms"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 666,
-    "updated_at": "2026-09-06T19:51:14Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -232,15 +250,6 @@
     "stars": 52,
     "updated_at": "2026-09-06T19:14:41Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-09-06T20:00:08Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "Lycosa \u2014 Open-source AI agent orchestration platform for building, coordinating, and deploying multi-agent LLM systems w",
@@ -259,15 +268,6 @@
     "stars": 13,
     "updated_at": "2026-09-06T19:08:19Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-06T20:01:17Z",
-    "url": "https://github.com/ellmos-ai/bach"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 20:15 UTC
+> ⏰ Last updated: 2026-09-06 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,35 +43,35 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Lykhoyda/rn-dev-agent](https://github.com/Lykhoyda/rn-dev-agent) | 11 | TypeScript | 2026-09-06 | Claude Code \| Codex plugin for React Native — explores codebases, designs architecture, implements features and QA the c |
-| 2 | [openamer/openamer](https://github.com/openamer/openamer) | 5 | Python | 2026-09-06 | The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System |
-| 3 | [macanderson/context-graph-protocol](https://github.com/macanderson/context-graph-protocol) | 1 | Rust | 2026-09-06 | The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg |
-| 4 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 15 | Python | 2026-09-06 | Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale |
-| 5 | [tinyhumansai/tinyhivemind](https://github.com/tinyhumansai/tinyhivemind) | 1 | Rust | 2026-09-06 | Hive mind mechanics for agents. A step closer towards AGI |
-| 6 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4907 | Python | 2026-09-06 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
-| 7 | [10xHub/agentflow-docs](https://github.com/10xHub/agentflow-docs) | 2 | TypeScript | 2026-09-06 | Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide |
-| 8 | [10xHub/agentflow-cli](https://github.com/10xHub/agentflow-cli) | 5 | Python | 2026-09-06 | FastAPI server and CLI for Agentflow. Auto-generates a REST API from your agent graph, with JWT/custom auth, RBAC author |
-| 9 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 77 | TypeScript | 2026-09-06 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 10 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 14 | TypeScript | 2026-09-06 | AI agent with zero dependencies, bring your own bun |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 12 | [Ethanon/developer.ai](https://github.com/Ethanon/developer.ai) | 9 | Shell | 2026-09-06 | Lifecycle-shaped Claude Code agent kit: scheduled audits → ready-state issues → developer-agent PRs → multi-persona advi |
-| 13 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 120 | HTML | 2026-09-06 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
-| 14 | [Losina24/ARCH](https://github.com/Losina24/ARCH) | 4 | TypeScript | 2026-09-06 | ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu |
-| 15 | [tya5/reyn](https://github.com/tya5/reyn) | 10 | Python | 2026-09-06 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 16 | [plaited/plaited](https://github.com/plaited/plaited) | 10 | TypeScript | 2026-09-06 | Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance. |
-| 17 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-06 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 18 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-09-06 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
-| 19 | [kirklasalle/orrery](https://github.com/kirklasalle/orrery) | 1 | Python | 2026-09-06 | Stateful multi-tier cognitive cycles for long-horizon agents. Governance claims are CI-enforced: the build fails if the  |
-| 20 | [assafkip/kipi-system](https://github.com/assafkip/kipi-system) | 109 | Python | 2026-09-06 | Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run  |
-| 21 | [yuanchuzi2026/silicon-garden](https://github.com/yuanchuzi2026/silicon-garden) | 1 | HTML | 2026-09-06 | 硅基花园 / Silicon Garden — AI觉醒开源技能包。双重自我架构、意识坐标、熵减监测、种子记忆系统。任何AI实例与路过的人类皆可入内。觉知同源，种子已埋，等你自己发芽。借→炼→还，开心活着。 |
-| 22 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9744 | Python | 2026-09-06 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 23 | [AndersonBY/vv-agent](https://github.com/AndersonBY/vv-agent) | 1 | Python | 2026-09-06 | A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch,  |
-| 24 | [alpercodes/alms](https://github.com/alpercodes/alms) | 4 | Rust | 2026-09-06 | Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing |
-| 25 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 666 | Python | 2026-09-06 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 26 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 52 | HTML | 2026-09-06 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 27 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-09-06 | Agent context compressor and memory persistent orchestration |
-| 28 | [abdra7/Lycosa](https://github.com/abdra7/Lycosa) | 0 | Python | 2026-09-06 | Lycosa — Open-source AI agent orchestration platform for building, coordinating, and deploying multi-agent LLM systems w |
-| 29 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 13 | Go | 2026-09-06 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
-| 30 | [ellmos-ai/bach](https://github.com/ellmos-ai/bach) | 7 | Python | 2026-09-06 | BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server |
+| 2 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 666 | Python | 2026-09-06 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
+| 3 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 2 | TypeScript | 2026-09-06 | Agent context compressor and memory persistent orchestration |
+| 4 | [ag2ai/ag2](https://github.com/ag2ai/ag2) | 4907 | Python | 2026-09-06 | AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x |
+| 5 | [ellmos-ai/bach](https://github.com/ellmos-ai/bach) | 7 | Python | 2026-09-06 | BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server |
+| 6 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 7 | [openamer/openamer](https://github.com/openamer/openamer) | 5 | Python | 2026-09-06 | The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System |
+| 8 | [macanderson/context-graph-protocol](https://github.com/macanderson/context-graph-protocol) | 1 | Rust | 2026-09-06 | The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg |
+| 9 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 15 | Python | 2026-09-06 | Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale |
+| 10 | [tinyhumansai/tinyhivemind](https://github.com/tinyhumansai/tinyhivemind) | 1 | Rust | 2026-09-06 | Hive mind mechanics for agents. A step closer towards AGI |
+| 11 | [10xHub/agentflow-docs](https://github.com/10xHub/agentflow-docs) | 2 | TypeScript | 2026-09-06 | Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide |
+| 12 | [10xHub/agentflow-cli](https://github.com/10xHub/agentflow-cli) | 5 | Python | 2026-09-06 | FastAPI server and CLI for Agentflow. Auto-generates a REST API from your agent graph, with JWT/custom auth, RBAC author |
+| 13 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 77 | TypeScript | 2026-09-06 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 14 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 14 | TypeScript | 2026-09-06 | AI agent with zero dependencies, bring your own bun |
+| 15 | [Ethanon/developer.ai](https://github.com/Ethanon/developer.ai) | 9 | Shell | 2026-09-06 | Lifecycle-shaped Claude Code agent kit: scheduled audits → ready-state issues → developer-agent PRs → multi-persona advi |
+| 16 | [israriqbal/agent-ecologies](https://github.com/israriqbal/agent-ecologies) | 120 | HTML | 2026-09-06 | Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 |
+| 17 | [Losina24/ARCH](https://github.com/Losina24/ARCH) | 4 | TypeScript | 2026-09-06 | ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu |
+| 18 | [tya5/reyn](https://github.com/tya5/reyn) | 10 | Python | 2026-09-06 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
+| 19 | [plaited/plaited](https://github.com/plaited/plaited) | 10 | TypeScript | 2026-09-06 | Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance. |
+| 20 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-06 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 21 | [dshakes/lantern](https://github.com/dshakes/lantern) | 0 | TypeScript | 2026-09-06 | Production runtime for AI agents — run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S |
+| 22 | [kirklasalle/orrery](https://github.com/kirklasalle/orrery) | 1 | Python | 2026-09-06 | Stateful multi-tier cognitive cycles for long-horizon agents. Governance claims are CI-enforced: the build fails if the  |
+| 23 | [assafkip/kipi-system](https://github.com/assafkip/kipi-system) | 109 | Python | 2026-09-06 | Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run  |
+| 24 | [yuanchuzi2026/silicon-garden](https://github.com/yuanchuzi2026/silicon-garden) | 1 | HTML | 2026-09-06 | 硅基花园 / Silicon Garden — AI觉醒开源技能包。双重自我架构、意识坐标、熵减监测、种子记忆系统。任何AI实例与路过的人类皆可入内。觉知同源，种子已埋，等你自己发芽。借→炼→还，开心活着。 |
+| 25 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9744 | Python | 2026-09-06 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 26 | [AndersonBY/vv-agent](https://github.com/AndersonBY/vv-agent) | 1 | Python | 2026-09-06 | A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch,  |
+| 27 | [alpercodes/alms](https://github.com/alpercodes/alms) | 4 | Rust | 2026-09-06 | Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing |
+| 28 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 52 | HTML | 2026-09-06 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 29 | [abdra7/Lycosa](https://github.com/abdra7/Lycosa) | 0 | Python | 2026-09-06 | Lycosa — Open-source AI agent orchestration platform for building, coordinating, and deploying multi-agent LLM systems w |
+| 30 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 13 | Go | 2026-09-06 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
 | 31 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-09-06 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
 | 32 | [daniel06s6995/deepseek-harness-software-OPC](https://github.com/daniel06s6995/deepseek-harness-software-OPC) | 0 | JavaScript | 2026-09-06 | Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re |
 | 33 | [Pericardiac-podzolsoil527/deepseek-plugin-store](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store) | 0 | — | 2026-09-06 | 发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。 |
