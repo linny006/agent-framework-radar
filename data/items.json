@@ -1,11 +1,38 @@
 [
   {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:59:06Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-06T17:55:47Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T17:55:02Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-09-06T17:53:01Z",
+    "updated_at": "2026-09-06T17:59:15Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T17:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
     "id": "fastagent-sh/fastagent",
     "language": "TypeScript",
@@ -61,15 +79,6 @@
     "stars": 58,
     "updated_at": "2026-09-06T17:43:37Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-09-06T17:39:49Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 11,
-    "updated_at": "2026-09-06T17:32:26Z",
+    "updated_at": "2026-09-06T17:57:44Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T17:20:36Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-06T17:14:08Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Many Agents, one objective... yours ",
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 666,
-    "updated_at": "2026-09-06T16:33:40Z",
+    "updated_at": "2026-09-06T17:55:47Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
