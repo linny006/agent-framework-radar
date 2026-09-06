@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 23:15 UTC
+> ⏰ Last updated: 2026-09-06 23:22 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 666 | Python | 2026-09-06 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-06 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 3 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-09-06 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 4 | [maref-org/maref](https://github.com/maref-org/maref) | 7 | Python | 2026-09-06 | MAREF: Multi-Agent Recursive Evolution Framework — Agent Governance Operating System |
-| 5 | [DevMando/MandoCode](https://github.com/DevMando/MandoCode) | 14 | C# | 2026-09-06 |  A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors |
-| 6 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 53 | TypeScript | 2026-09-06 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
-| 7 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 25 | Python | 2026-09-06 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
-| 8 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 9 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-09-06 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
-| 10 | [DevMando/MandoCode.Desktop](https://github.com/DevMando/MandoCode.Desktop) | 2 | C# | 2026-09-06 | The MandoCode AI coding agent as a native Windows app — WinUI 3 over the same open-weight-model engine as the CLI (Ollam |
+| 1 | [DevMando/MandoCode.Desktop](https://github.com/DevMando/MandoCode.Desktop) | 2 | C# | 2026-09-06 | The MandoCode AI coding agent as a native Windows app — WinUI 3 over the same open-weight-model engine as the CLI (Ollam |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-06 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 666 | Python | 2026-09-06 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
+| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-09-06 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 5 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-09-06 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 6 | [maref-org/maref](https://github.com/maref-org/maref) | 7 | Python | 2026-09-06 | MAREF: Multi-Agent Recursive Evolution Framework — Agent Governance Operating System |
+| 7 | [DevMando/MandoCode](https://github.com/DevMando/MandoCode) | 14 | C# | 2026-09-06 |  A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref |
+| 8 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 53 | TypeScript | 2026-09-06 | Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo |
+| 9 | [kdcube/kdcube](https://github.com/kdcube/kdcube) | 25 | Python | 2026-09-06 | Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w |
+| 10 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-09-06 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
 | 11 | [tya5/reyn](https://github.com/tya5/reyn) | 10 | Python | 2026-09-06 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 | 12 | [Craigtut/cortex-mono](https://github.com/Craigtut/cortex-mono) | 0 | TypeScript | 2026-09-06 | A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills |
 | 13 | [jamillazarev/opsinist](https://github.com/jamillazarev/opsinist) | 1 | Shell | 2026-09-06 | Run a company of AI agents out of one git repository — any craft, not just code. The team, the process, the history, the |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [BlocUnited-LLC/mozaiks](https://github.com/BlocUnited-LLC/mozaiks) | 25 | Python | 2026-09-06 | The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and  |
 | 25 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-09-06 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 26 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 1 | HTML | 2026-09-06 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
-| 27 | [mmeyerlein/meclaw](https://github.com/mmeyerlein/meclaw) | 27 | Rust | 2026-09-06 | Where agents build agents. An agentic build system for agentic systems — ontology-grounded, auditable, one Rust binary. |
+| 27 | [mmeyerlein/meclaw](https://github.com/mmeyerlein/meclaw) | 28 | Rust | 2026-09-06 | Where agents build agents. An agentic build system for agentic systems — ontology-grounded, auditable, one Rust binary. |
 | 28 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9745 | Python | 2026-09-06 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 29 | [tinyhumansai/tinyhivemind](https://github.com/tinyhumansai/tinyhivemind) | 1 | Rust | 2026-09-06 | Hive mind mechanics for agents. A step closer towards AGI |
 | 30 | [Losina24/ARCH](https://github.com/Losina24/ARCH) | 4 | TypeScript | 2026-09-06 | ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu |

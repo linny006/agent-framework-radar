@@ -1,5 +1,23 @@
 [
   {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-09-06T23:17:29Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T23:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -36,7 +54,7 @@
     "url": "https://github.com/maref-org/maref"
   },
   {
-    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref",
     "id": "DevMando/MandoCode",
     "language": "C#",
     "name": "DevMando/MandoCode",
@@ -63,31 +81,13 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T23:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
     "id": "go-steer/mast",
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-06T23:00:05Z",
+    "updated_at": "2026-09-06T23:21:52Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
-    "id": "DevMando/MandoCode.Desktop",
-    "language": "C#",
-    "name": "DevMando/MandoCode.Desktop",
-    "stars": 2,
-    "updated_at": "2026-09-06T23:14:54Z",
-    "url": "https://github.com/DevMando/MandoCode.Desktop"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-06T22:20:16Z",
+    "updated_at": "2026-09-06T23:22:11Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -238,7 +238,7 @@
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
     "name": "mmeyerlein/meclaw",
-    "stars": 27,
+    "stars": 28,
     "updated_at": "2026-09-06T22:15:32Z",
     "url": "https://github.com/mmeyerlein/meclaw"
   },
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-06T22:49:25Z",
+    "updated_at": "2026-09-06T23:22:31Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
