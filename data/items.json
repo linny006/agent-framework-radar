@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 77,
+    "updated_at": "2026-09-06T19:58:35Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
+    "id": "Ethanon/developer.ai",
+    "language": "Shell",
+    "name": "Ethanon/developer.ai",
+    "stars": 9,
+    "updated_at": "2026-09-06T19:58:01Z",
+    "url": "https://github.com/Ethanon/developer.ai"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-06T19:56:09Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-06T19:51:55Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T19:50:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
     "id": "plaited/plaited",
     "language": "TypeScript",
@@ -9,15 +54,6 @@
     "url": "https://github.com/plaited/plaited"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T19:45:39Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -25,6 +61,15 @@
     "stars": 32,
     "updated_at": "2026-09-06T19:44:10Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4907,
+    "updated_at": "2026-09-06T19:43:19Z",
+    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -81,15 +126,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4906,
-    "updated_at": "2026-09-06T19:43:19Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 666,
-    "updated_at": "2026-09-06T19:48:02Z",
+    "updated_at": "2026-09-06T19:51:14Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 2,
-    "updated_at": "2026-09-06T19:16:58Z",
+    "updated_at": "2026-09-06T20:00:08Z",
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-06T19:47:35Z",
+    "updated_at": "2026-09-06T19:55:33Z",
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2039,
     "updated_at": "2026-09-06T18:44:08Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-06T18:42:31Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:42:27Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:42:18Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:42:04Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
   }
 ]
