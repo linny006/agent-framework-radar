@@ -1,11 +1,56 @@
 [
   {
+    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
+    "id": "Yigtwxx/Maestro",
+    "language": "Python",
+    "name": "Yigtwxx/Maestro",
+    "stars": 1,
+    "updated_at": "2026-09-06T09:00:06Z",
+    "url": "https://github.com/Yigtwxx/Maestro"
+  },
+  {
+    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
+    "id": "mwb1219/mwb-ai-claw",
+    "language": "Java",
+    "name": "mwb1219/mwb-ai-claw",
+    "stars": 2,
+    "updated_at": "2026-09-06T08:59:28Z",
+    "url": "https://github.com/mwb1219/mwb-ai-claw"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 6 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 6,
+    "updated_at": "2026-09-06T08:58:22Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-06T08:58:21Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T08:54:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 664,
-    "updated_at": "2026-09-06T08:49:36Z",
+    "updated_at": "2026-09-06T09:00:03Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -16,15 +61,6 @@
     "stars": 35413,
     "updated_at": "2026-09-06T08:48:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T08:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -99,15 +135,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-06T08:35:26Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "DemonDamon/AgenticX",
     "stars": 228,
-    "updated_at": "2026-09-06T08:13:16Z",
+    "updated_at": "2026-09-06T08:59:25Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
@@ -401,7 +428,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4510,
-    "updated_at": "2026-09-06T08:50:52Z",
+    "updated_at": "2026-09-06T08:58:18Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 15,
     "updated_at": "2026-09-06T06:13:59Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Agent harness monorepo: a Cordis-powered plugin runtime hosting a PSE (Planner-Specialist-Evaluator) multi-agent system ",
-    "id": "erishen/resolve-studio",
-    "language": "TypeScript",
-    "name": "erishen/resolve-studio",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:08:51Z",
-    "url": "https://github.com/erishen/resolve-studio"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-09-06T06:07:57Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Democratizing Reinforcement Learning for LLMs",
-    "id": "rllm-org/rllm",
-    "language": "Python",
-    "name": "rllm-org/rllm",
-    "stars": 5813,
-    "updated_at": "2026-09-06T06:05:48Z",
-    "url": "https://github.com/rllm-org/rllm"
   }
 ]
