@@ -1,12 +1,102 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 51,
+    "updated_at": "2026-09-06T02:30:03Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-09-06T02:25:26Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1183,
+    "updated_at": "2026-09-06T02:24:15Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-06T02:24:12Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-06T02:28:00Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-09-06T02:22:18Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  },
+  {
     "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-09-06T02:15:04Z",
+    "updated_at": "2026-09-06T02:19:15Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-06T02:19:14Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 664,
+    "updated_at": "2026-09-06T02:22:01Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-06T02:28:51Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T02:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -16,15 +106,6 @@
     "stars": 14,
     "updated_at": "2026-09-06T02:13:31Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-06T02:12:48Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -45,15 +126,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 664,
-    "updated_at": "2026-09-06T02:14:39Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -63,21 +135,12 @@
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T02:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35411,
-    "updated_at": "2026-09-06T01:59:48Z",
+    "stars": 35410,
+    "updated_at": "2026-09-06T02:25:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-06T01:18:08Z",
+    "updated_at": "2026-09-06T02:26:47Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 77,
     "updated_at": "2026-09-06T01:05:00Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-06T02:11:42Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or",
@@ -279,15 +333,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 51,
-    "updated_at": "2026-09-06T01:01:36Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -295,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-09-06T00:59:03Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-06T00:56:20Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing",
@@ -331,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T00:35:17Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-06T01:54:00Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T00:19:50Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-09-06T00:16:20Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-09-06T00:15:37Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1619,
-    "updated_at": "2026-09-06T00:09:44Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   }
 ]
