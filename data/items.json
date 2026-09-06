@@ -1,5 +1,23 @@
 [
   {
+    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
+    "id": "abubakarsiddik31/golem",
+    "language": "Go",
+    "name": "abubakarsiddik31/golem",
+    "stars": 2,
+    "updated_at": "2026-09-06T04:32:33Z",
+    "url": "https://github.com/abubakarsiddik31/golem"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T04:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 1183,
     "updated_at": "2026-09-06T04:15:22Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T04:15:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-06T04:25:23Z",
+    "updated_at": "2026-09-06T04:30:23Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-06T03:54:51Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2034,
-    "updated_at": "2026-09-06T03:53:37Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
