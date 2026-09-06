@@ -1,12 +1,66 @@
 [
   {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
+    "description": "\u9762\u5411\u5f00\u6e90\u793e\u533a\u7684 Agent/Skill \u5de5\u5177\u7bb1 + \u793e\u533a agent \u5316\u6539\u9020\u65b9\u6cd5\u8bba\u30025 \u4e2a\u5f00\u7bb1\u5373\u7528\u793e\u7fa4 Skill\uff0c\u517c\u5bb9 Skills 1.0 + MCP 0.4\uff0c\u8de8\u5bbf\u4e3b\u8fd0\u884c\uff0cMIT\u3002",
+    "id": "yaoteng/chaoyi_agent",
+    "language": "HTML",
+    "name": "yaoteng/chaoyi_agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:29:25Z",
+    "url": "https://github.com/yaoteng/chaoyi_agent"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 2,
+    "updated_at": "2026-09-06T18:29:18Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:28:53Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
+    "id": "kungfu-systems/kungfu",
+    "language": "C++",
+    "name": "kungfu-systems/kungfu",
+    "stars": 4511,
+    "updated_at": "2026-09-06T18:29:16Z",
+    "url": "https://github.com/kungfu-systems/kungfu"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-06T18:28:26Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
     "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-09-06T18:14:50Z",
-    "url": "https://github.com/ellmos-ai/skills"
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-06T18:25:52Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:21:53Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-06T18:14:09Z",
+    "updated_at": "2026-09-06T18:21:29Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -23,8 +77,62 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 5,
-    "updated_at": "2026-09-06T18:12:40Z",
+    "updated_at": "2026-09-06T18:21:26Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 666,
+    "updated_at": "2026-09-06T18:19:52Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-06T18:17:42Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:16:47Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Production-ready Claude Code workspace \u2014 25 hooks, 28 commands, structured memory. Ships in 5 min.",
+    "id": "goksnair/claude-code-starter-kit",
+    "language": "Python",
+    "name": "goksnair/claude-code-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:16:01Z",
+    "url": "https://github.com/goksnair/claude-code-starter-kit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T18:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-06T18:14:50Z",
+    "url": "https://github.com/ellmos-ai/skills"
   },
   {
     "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
@@ -49,7 +157,7 @@
     "id": "tylerjrbuell/reactive-agents-ts",
     "language": "TypeScript",
     "name": "tylerjrbuell/reactive-agents-ts",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-09-06T18:08:24Z",
     "url": "https://github.com/tylerjrbuell/reactive-agents-ts"
   },
@@ -63,48 +171,12 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 666,
-    "updated_at": "2026-09-06T18:11:42Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T18:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-09-06T17:59:06Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-06T17:55:47Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-09-06T18:13:03Z",
+    "updated_at": "2026-09-06T18:17:40Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-09-06T17:50:16Z",
+    "updated_at": "2026-09-06T18:24:42Z",
     "url": "https://github.com/karvidsson/kbots"
   },
   {
@@ -185,7 +257,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 11,
-    "updated_at": "2026-09-06T17:57:44Z",
+    "updated_at": "2026-09-06T18:27:51Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -220,8 +292,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35423,
-    "updated_at": "2026-09-06T17:24:03Z",
+    "stars": 35424,
+    "updated_at": "2026-09-06T18:21:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-06T18:04:31Z",
+    "updated_at": "2026-09-06T18:17:50Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -297,20 +369,11 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "\u9762\u5411\u5f00\u6e90\u793e\u533a\u7684 Agent/Skill \u5de5\u5177\u7bb1 + \u793e\u533a agent \u5316\u6539\u9020\u65b9\u6cd5\u8bba\u30025 \u4e2a\u5f00\u7bb1\u5373\u7528\u793e\u7fa4 Skill\uff0c\u517c\u5bb9 Skills 1.0 + MCP 0.4\uff0c\u8de8\u5bbf\u4e3b\u8fd0\u884c\uff0cMIT\u3002",
-    "id": "yaoteng/chaoyi_agent",
-    "language": "Python",
-    "name": "yaoteng/chaoyi_agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:57:20Z",
-    "url": "https://github.com/yaoteng/chaoyi_agent"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9737,
+    "stars": 9740,
     "updated_at": "2026-09-06T16:54:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -385,68 +448,5 @@
     "stars": 801,
     "updated_at": "2026-09-06T16:43:31Z",
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47757,
-    "updated_at": "2026-09-06T16:42:54Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 120,
-    "updated_at": "2026-09-06T16:42:04Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19748,
-    "updated_at": "2026-09-06T16:39:56Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:39:09Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:39:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:34:20Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:31:48Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
   }
 ]
