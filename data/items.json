@@ -1,5 +1,77 @@
 [
   {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 666,
+    "updated_at": "2026-09-06T23:13:53Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-06T23:13:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-09-06T23:09:24Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-09-06T23:08:50Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
+    "id": "DevMando/MandoCode",
+    "language": "C#",
+    "name": "DevMando/MandoCode",
+    "stars": 14,
+    "updated_at": "2026-09-06T23:08:46Z",
+    "url": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-06T23:08:20Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-06T23:02:51Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T23:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
     "id": "go-steer/mast",
     "language": "Go",
@@ -14,17 +86,8 @@
     "language": "C#",
     "name": "DevMando/MandoCode.Desktop",
     "stars": 2,
-    "updated_at": "2026-09-06T22:59:37Z",
+    "updated_at": "2026-09-06T23:14:54Z",
     "url": "https://github.com/DevMando/MandoCode.Desktop"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-09-06T22:58:54Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -34,15 +97,6 @@
     "stars": 10,
     "updated_at": "2026-09-06T22:56:36Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": " A .NET C# CLI Coding Agent powered by Ollama + Semantic Kernel and RazorConsole. Run locally or in the cloud. Refactors",
-    "id": "DevMando/MandoCode",
-    "language": "C#",
-    "name": "DevMando/MandoCode",
-    "stars": 14,
-    "updated_at": "2026-09-06T22:55:36Z",
-    "url": "https://github.com/DevMando/MandoCode"
   },
   {
     "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
@@ -99,31 +153,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T22:45:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
     "id": "LioRael/lenso-agent",
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 0,
-    "updated_at": "2026-09-06T22:37:09Z",
+    "updated_at": "2026-09-06T23:07:55Z",
     "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 666,
-    "updated_at": "2026-09-06T22:32:11Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 109,
-    "updated_at": "2026-09-06T22:56:59Z",
+    "updated_at": "2026-09-06T23:12:42Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 52,
     "updated_at": "2026-09-06T21:24:33Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-09-06T21:22:57Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T21:03:12Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 2,
-    "updated_at": "2026-09-06T21:05:20Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 120,
-    "updated_at": "2026-09-06T21:01:55Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Many Agents, one objective... yours ",
-    "id": "brandonkindred/Khala-Agentic-AI-Teams",
-    "language": "Python",
-    "name": "brandonkindred/Khala-Agentic-AI-Teams",
-    "stars": 5,
-    "updated_at": "2026-09-06T21:48:49Z",
-    "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   }
 ]
