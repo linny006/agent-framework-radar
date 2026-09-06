@@ -1,12 +1,102 @@
 [
   {
+    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-09-06T20:14:05Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-06T20:12:34Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:08:48Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 15,
+    "updated_at": "2026-09-06T20:08:20Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Hive mind mechanics for agents. A step closer towards AGI",
+    "id": "tinyhumansai/tinyhivemind",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyhivemind",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:09:32Z",
+    "url": "https://github.com/tinyhumansai/tinyhivemind"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4907,
+    "updated_at": "2026-09-06T20:06:24Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Official documentation for Agentflow, built with Docusaurus and structured via the Divio system: tutorials, how-to guide",
+    "id": "10xHub/agentflow-docs",
+    "language": "TypeScript",
+    "name": "10xHub/agentflow-docs",
+    "stars": 2,
+    "updated_at": "2026-09-06T20:03:47Z",
+    "url": "https://github.com/10xHub/agentflow-docs"
+  },
+  {
+    "description": "FastAPI server and CLI for Agentflow. Auto-generates a REST API from your agent graph, with JWT/custom auth, RBAC author",
+    "id": "10xHub/agentflow-cli",
+    "language": "Python",
+    "name": "10xHub/agentflow-cli",
+    "stars": 5,
+    "updated_at": "2026-09-06T20:03:31Z",
+    "url": "https://github.com/10xHub/agentflow-cli"
+  },
+  {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
     "id": "JKHeadley/instar",
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 77,
-    "updated_at": "2026-09-06T19:58:35Z",
+    "updated_at": "2026-09-06T20:02:51Z",
     "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 14,
+    "updated_at": "2026-09-06T20:02:28Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T20:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lifecycle-shaped Claude Code agent kit: scheduled audits \u2192 ready-state issues \u2192 developer-agent PRs \u2192 multi-persona advi",
@@ -27,6 +117,15 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
+    "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
+    "id": "Losina24/ARCH",
+    "language": "TypeScript",
+    "name": "Losina24/ARCH",
+    "stars": 4,
+    "updated_at": "2026-09-06T19:53:05Z",
+    "url": "https://github.com/Losina24/ARCH"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 10,
     "updated_at": "2026-09-06T19:51:55Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T19:50:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
@@ -61,15 +151,6 @@
     "stars": 32,
     "updated_at": "2026-09-06T19:44:10Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4907,
-    "updated_at": "2026-09-06T19:43:19Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -97,15 +178,6 @@
     "stars": 109,
     "updated_at": "2026-09-06T19:30:30Z",
     "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 15,
-    "updated_at": "2026-09-06T19:34:53Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
@@ -171,15 +243,6 @@
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-06T19:38:26Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
     "description": "Lycosa \u2014 Open-source AI agent orchestration platform for building, coordinating, and deploying multi-agent LLM systems w",
     "id": "abdra7/Lycosa",
     "language": "Python",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-06T19:55:33Z",
+    "updated_at": "2026-09-06T20:01:17Z",
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
@@ -243,15 +306,6 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-06T18:59:32Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
     "id": "Aureliedumbfounding630/agent-governance-toolkit",
     "language": "\u2014",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-06T19:41:24Z",
+    "updated_at": "2026-09-06T20:13:12Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T18:47:59Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:47:08Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:47:01Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-09-06T18:46:54Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:46:25Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35426,
-    "updated_at": "2026-09-06T18:45:09Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2039,
-    "updated_at": "2026-09-06T18:44:08Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
