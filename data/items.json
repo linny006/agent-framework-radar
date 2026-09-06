@@ -1,5 +1,32 @@
 [
   {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1619,
+    "updated_at": "2026-09-06T00:09:44Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 276,
+    "updated_at": "2026-09-06T00:07:11Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T00:04:12Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
@@ -9,31 +36,13 @@
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T00:00:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 203,
-    "updated_at": "2026-09-05T23:58:12Z",
+    "updated_at": "2026-09-06T00:06:49Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-05T23:54:28Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 664,
-    "updated_at": "2026-09-05T23:24:59Z",
+    "updated_at": "2026-09-06T00:05:07Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-09-06T00:00:02Z",
+    "updated_at": "2026-09-06T00:15:20Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -266,7 +275,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-05T23:25:56Z",
+    "updated_at": "2026-09-06T00:14:21Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 5,
-    "updated_at": "2026-09-05T21:30:00Z",
+    "updated_at": "2026-09-06T00:11:39Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
@@ -400,7 +409,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35411,
+    "stars": 35412,
     "updated_at": "2026-09-05T21:28:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-05T22:49:04Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
-    "id": "salvatoreabient793/cursor-auto-deployment-agent",
-    "language": "\u2014",
-    "name": "salvatoreabient793/cursor-auto-deployment-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:22:09Z",
-    "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
   }
 ]
