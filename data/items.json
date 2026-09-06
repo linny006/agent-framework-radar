@@ -1,11 +1,101 @@
 [
   {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 52,
+    "updated_at": "2026-09-06T16:58:36Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
+    "id": "psyb0t/docker-aicodebox",
+    "language": "Python",
+    "name": "psyb0t/docker-aicodebox",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:57:43Z",
+    "url": "https://github.com/psyb0t/docker-aicodebox"
+  },
+  {
+    "description": "\u9762\u5411\u5f00\u6e90\u793e\u533a\u7684 Agent/Skill \u5de5\u5177\u7bb1 + \u793e\u533a agent \u5316\u6539\u9020\u65b9\u6cd5\u8bba\u30025 \u4e2a\u5f00\u7bb1\u5373\u7528\u793e\u7fa4 Skill\uff0c\u517c\u5bb9 Skills 1.0 + MCP 0.4\uff0c\u8de8\u5bbf\u4e3b\u8fd0\u884c\uff0cMIT\u3002",
+    "id": "yaoteng/chaoyi_agent",
+    "language": "Python",
+    "name": "yaoteng/chaoyi_agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:57:20Z",
+    "url": "https://github.com/yaoteng/chaoyi_agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2039,
+    "updated_at": "2026-09-06T16:55:24Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 24,
+    "updated_at": "2026-09-06T16:54:26Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "",
+    "id": "jackispm/nausicaa-harness",
+    "language": "TypeScript",
+    "name": "jackispm/nausicaa-harness",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:52:38Z",
+    "url": "https://github.com/jackispm/nausicaa-harness"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 44,
+    "updated_at": "2026-09-06T16:54:53Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-06T16:47:42Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 716,
+    "updated_at": "2026-09-06T16:46:03Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T16:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35421,
-    "updated_at": "2026-09-06T16:44:51Z",
+    "updated_at": "2026-09-06T16:47:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "mybay-ai/mybay",
     "stars": 2,
-    "updated_at": "2026-09-06T16:44:31Z",
+    "updated_at": "2026-09-06T16:48:36Z",
     "url": "https://github.com/mybay-ai/mybay"
   },
   {
@@ -49,7 +139,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47754,
+    "stars": 47755,
     "updated_at": "2026-09-06T16:42:54Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -153,15 +243,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T16:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "PurrCat Agent",
     "id": "PurrPod/purrcat",
     "language": "Python",
@@ -189,15 +270,6 @@
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 716,
-    "updated_at": "2026-09-06T16:40:30Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -205,24 +277,6 @@
     "stars": 52,
     "updated_at": "2026-09-06T16:23:49Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "",
-    "id": "jackispm/nausicaa-harness",
-    "language": "TypeScript",
-    "name": "jackispm/nausicaa-harness",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:40:43Z",
-    "url": "https://github.com/jackispm/nausicaa-harness"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 24,
-    "updated_at": "2026-09-06T16:23:31Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -293,7 +347,7 @@
     "language": "TypeScript",
     "name": "geniusdapeng-collab/workloom-im",
     "stars": 1,
-    "updated_at": "2026-09-06T16:07:15Z",
+    "updated_at": "2026-09-06T16:57:20Z",
     "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-06T16:40:47Z",
+    "updated_at": "2026-09-06T16:57:37Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 17,
     "updated_at": "2026-09-06T15:43:48Z",
     "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 15,
-    "updated_at": "2026-09-06T15:52:33Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9737,
-    "updated_at": "2026-09-06T16:29:03Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "Svelte",
-    "name": "qbtrix/ripple-iui",
-    "stars": 6,
-    "updated_at": "2026-09-06T15:38:42Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:31:59Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 44,
-    "updated_at": "2026-09-06T15:34:33Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
-    "description": "A self-evolving agent that lives on your phone and commands a fleet of servers",
-    "id": "RexHuang/novus",
-    "language": "TypeScript",
-    "name": "RexHuang/novus",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:34:15Z",
-    "url": "https://github.com/RexHuang/novus"
   }
 ]
