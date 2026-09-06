@@ -1,21 +1,21 @@
 [
   {
-    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
-    "id": "DevMando/MandoCode.Desktop",
-    "language": "C#",
-    "name": "DevMando/MandoCode.Desktop",
-    "stars": 2,
-    "updated_at": "2026-09-06T23:17:29Z",
-    "url": "https://github.com/DevMando/MandoCode.Desktop"
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-09-06T23:29:48Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T23:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "llopresto87/Cypress",
+    "stars": 1,
+    "updated_at": "2026-09-06T23:29:04Z",
+    "url": "https://github.com/llopresto87/Cypress"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -23,8 +23,44 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 666,
-    "updated_at": "2026-09-06T23:13:53Z",
+    "updated_at": "2026-09-06T23:29:09Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 120,
+    "updated_at": "2026-09-06T23:28:35Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-09-06T23:25:55Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T23:22:41Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-09-06T23:17:29Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -43,15 +79,6 @@
     "stars": 20,
     "updated_at": "2026-09-06T23:09:24Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-09-06T23:08:50Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": " A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref",
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T22:53:39Z",
     "url": "https://github.com/jamillazarev/opsinist"
-  },
-  {
-    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
-    "id": "llopresto87/Cypress",
-    "language": "Python",
-    "name": "llopresto87/Cypress",
-    "stars": 1,
-    "updated_at": "2026-09-06T22:55:07Z",
-    "url": "https://github.com/llopresto87/Cypress"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -355,7 +373,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35429,
+    "stars": 35430,
     "updated_at": "2026-09-06T21:28:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 109,
-    "updated_at": "2026-09-06T23:12:42Z",
+    "updated_at": "2026-09-06T23:28:55Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T21:18:20Z",
     "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-06T21:11:11Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-09-06T21:03:12Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   }
 ]
