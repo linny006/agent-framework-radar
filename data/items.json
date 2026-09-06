@@ -1,12 +1,12 @@
 [
   {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
     "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-06T20:28:18Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+    "name": "sageox/agent-toolkit",
+    "stars": 9,
+    "updated_at": "2026-09-06T20:43:51Z",
+    "url": "https://github.com/sageox/agent-toolkit"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 666,
-    "updated_at": "2026-09-06T20:26:29Z",
+    "updated_at": "2026-09-06T20:43:15Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
+    "id": "Losina24/ARCH",
+    "language": "TypeScript",
+    "name": "Losina24/ARCH",
+    "stars": 4,
+    "updated_at": "2026-09-06T20:39:28Z",
+    "url": "https://github.com/Losina24/ARCH"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:32:59Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:32:43Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -23,8 +50,35 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 2,
-    "updated_at": "2026-09-06T20:28:08Z",
+    "updated_at": "2026-09-06T20:34:42Z",
     "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-06T20:31:43Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-06T20:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-09-06T20:34:02Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -41,17 +95,8 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-06T20:16:00Z",
+    "updated_at": "2026-09-06T20:40:40Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T20:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -144,21 +189,12 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
-    "id": "Losina24/ARCH",
-    "language": "TypeScript",
-    "name": "Losina24/ARCH",
-    "stars": 4,
-    "updated_at": "2026-09-06T20:29:43Z",
-    "url": "https://github.com/Losina24/ARCH"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-06T20:28:20Z",
+    "updated_at": "2026-09-06T20:43:07Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9744,
-    "updated_at": "2026-09-06T19:23:21Z",
+    "updated_at": "2026-09-06T20:44:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T18:59:31Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-09-06T20:13:12Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "The agent harness for Ruby applications. Durable sessions, streaming, human-in-the-loop approval, compaction, structured",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T18:48:34Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:48:25Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:48:02Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-06T18:47:59Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
