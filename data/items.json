@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-07T19:14:27Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
+    "id": "B1ueMu3ic4m/approximately",
+    "language": "Python",
+    "name": "B1ueMu3ic4m/approximately",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:12:05Z",
+    "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "AI Automation Engine for Windows",
+    "id": "oranyxlabs/AutonoMe",
+    "language": "Visual Basic .NET",
+    "name": "oranyxlabs/AutonoMe",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:11:10Z",
+    "url": "https://github.com/oranyxlabs/AutonoMe"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:09:25Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "C",
+    "name": "petehottelet/smythe",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:08:28Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "A multi-agent & multi-harness AI agent management and orchestration system",
+    "id": "plmbr/nui",
+    "language": "Go",
+    "name": "plmbr/nui",
+    "stars": 7,
+    "updated_at": "2026-09-07T19:05:55Z",
+    "url": "https://github.com/plmbr/nui"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19773,
+    "updated_at": "2026-09-07T19:04:23Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T19:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "internOS \u2014 Workstreams framework for human-agent collaboration. Coordinate work across projects, tasks, communication th",
+    "id": "poktalabs/intern-os",
+    "language": "Shell",
+    "name": "poktalabs/intern-os",
+    "stars": 5,
+    "updated_at": "2026-09-07T19:00:21Z",
+    "url": "https://github.com/poktalabs/intern-os"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -36,21 +117,12 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
-    "id": "B1ueMu3ic4m/approximately",
-    "language": "Python",
-    "name": "B1ueMu3ic4m/approximately",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:52:44Z",
-    "url": "https://github.com/B1ueMu3ic4m/approximately"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T18:56:24Z",
+    "updated_at": "2026-09-07T19:13:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T18:47:07Z",
     "url": "https://github.com/aof-framework/aof-cli"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T18:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -88,15 +151,6 @@
     "stars": 278,
     "updated_at": "2026-09-07T18:40:30Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "internOS \u2014 Workstreams framework for human-agent collaboration. Coordinate work across projects, tasks, communication th",
-    "id": "poktalabs/intern-os",
-    "language": "Shell",
-    "name": "poktalabs/intern-os",
-    "stars": 5,
-    "updated_at": "2026-09-07T19:00:21Z",
-    "url": "https://github.com/poktalabs/intern-os"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-07T18:39:57Z",
+    "updated_at": "2026-09-07T19:06:26Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-07T18:30:24Z",
+    "updated_at": "2026-09-07T19:02:21Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 9764,
     "updated_at": "2026-09-07T18:49:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19772,
-    "updated_at": "2026-09-07T18:26:26Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Deterministic policy language for AI agents. Z3 + TLA+ dual-engine formal verification. Runtime enforcement <1ms.",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T18:19:04Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "C",
-    "name": "petehottelet/smythe",
-    "stars": 2,
-    "updated_at": "2026-09-07T18:17:45Z",
-    "url": "https://github.com/petehottelet/smythe"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13372,
-    "updated_at": "2026-09-07T18:55:26Z",
+    "updated_at": "2026-09-07T19:06:44Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 35438,
     "updated_at": "2026-09-07T18:35:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-07T17:16:49Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "\u4e00\u4eba\u516c\u53f8\u6700\u7ec8\u5f52\u5bbf\uff0c\u76f4\u63a5\u7edf\u7ba1\u8d5b\u535a\u516c\u53f8\u3002\u4f9d\u9760\u56fd\u5185\u5927\u578b\u4e92\u8054\u7f51\u516c\u53f8\u7ec4\u7ec7\u67b6\u6784\uff0c\u8bbe\u8ba1\u7684 AI \u591a Agent \u534f\u4f5c\u7cfb\u7edf\u3002",
-    "id": "xiaoyangtx996/CorpPilot",
-    "language": "Python",
-    "name": "xiaoyangtx996/CorpPilot",
-    "stars": 3,
-    "updated_at": "2026-09-07T17:14:55Z",
-    "url": "https://github.com/xiaoyangtx996/CorpPilot"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 15,
-    "updated_at": "2026-09-07T18:48:15Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
-    "id": "Lykhoyda/rn-dev-agent",
-    "language": "TypeScript",
-    "name": "Lykhoyda/rn-dev-agent",
-    "stars": 11,
-    "updated_at": "2026-09-07T17:09:40Z",
-    "url": "https://github.com/Lykhoyda/rn-dev-agent"
   }
 ]
