@@ -1,5 +1,122 @@
 [
   {
+    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 149,
+    "updated_at": "2026-09-07T13:59:32Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-07T13:58:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T13:58:26Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Boot-time integrity check for AI agent memory & convention files \u2014 catch silent convention loss, injection dilution, bro",
+    "id": "chenhz01/agent-memory-doctor",
+    "language": "Python",
+    "name": "chenhz01/agent-memory-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-07T13:57:30Z",
+    "url": "https://github.com/chenhz01/agent-memory-doctor"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "C",
+    "name": "petehottelet/smythe",
+    "stars": 2,
+    "updated_at": "2026-09-07T13:57:12Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 22,
+    "updated_at": "2026-09-07T13:56:37Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-07T13:56:28Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-07T13:55:42Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T13:54:36Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 277,
+    "updated_at": "2026-09-07T13:54:14Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6884,
+    "updated_at": "2026-09-07T13:57:10Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
+    "id": "zkysar1/Claude-Mind",
+    "language": "Python",
+    "name": "zkysar1/Claude-Mind",
+    "stars": 5,
+    "updated_at": "2026-09-07T13:51:29Z",
+    "url": "https://github.com/zkysar1/Claude-Mind"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T13:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
@@ -27,21 +144,12 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "C",
-    "name": "petehottelet/smythe",
-    "stars": 2,
-    "updated_at": "2026-09-07T13:42:32Z",
-    "url": "https://github.com/petehottelet/smythe"
-  },
-  {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T13:41:54Z",
+    "updated_at": "2026-09-07T13:59:26Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -50,26 +158,8 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 13,
-    "updated_at": "2026-09-07T13:45:07Z",
+    "updated_at": "2026-09-07T13:56:28Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-07T13:40:21Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "A durable, long-running AI engineering partner.",
-    "id": "damonleelcx/J.A.R.V.I.S.-agent",
-    "language": "Go",
-    "name": "damonleelcx/J.A.R.V.I.S.-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:40:05Z",
-    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -77,7 +167,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-07T13:39:11Z",
+    "updated_at": "2026-09-07T13:55:03Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -135,15 +225,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T13:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
@@ -180,15 +261,6 @@
     "url": "https://github.com/usetheokit/theokit"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T13:43:23Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "\ud83d\ude80 \u901a\u7528 AI \u9879\u76ee\u542f\u52a8\u5668 | \u8de8 AI \u4e0a\u4e0b\u6587\u6cbb\u7406\u3001\u96f6 Token \u6d88\u8017\u3001\u5355\u4e00\u771f\u7406\u6e90 AGENTS.md \u4e0e\u672c\u5730\u5bf9\u8bdd\u81ea\u52a8\u5f52\u6863\u811a\u624b\u67b6",
     "id": "mountopjh/ai-project-bootstrap",
     "language": "PowerShell",
@@ -202,7 +274,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19765,
+    "stars": 19767,
     "updated_at": "2026-09-07T13:24:04Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -284,7 +356,7 @@
     "language": "TypeScript",
     "name": "RexHuang/novus",
     "stars": 3,
-    "updated_at": "2026-09-07T13:10:02Z",
+    "updated_at": "2026-09-07T13:49:20Z",
     "url": "https://github.com/RexHuang/novus"
   },
   {
@@ -292,7 +364,7 @@
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
-    "stars": 61,
+    "stars": 62,
     "updated_at": "2026-09-07T13:09:12Z",
     "url": "https://github.com/futuregene/future-os"
   },
@@ -313,15 +385,6 @@
     "stars": 35436,
     "updated_at": "2026-09-07T13:05:44Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 277,
-    "updated_at": "2026-09-07T13:40:07Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T12:54:44Z",
     "url": "https://github.com/jackispm/nausicaa-harness"
-  },
-  {
-    "description": "Agent friendly memory system ",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 6,
-    "updated_at": "2026-09-07T12:51:55Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13368,
-    "updated_at": "2026-09-07T12:43:56Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 18,
-    "updated_at": "2026-09-07T12:37:46Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5477,
-    "updated_at": "2026-09-07T13:04:40Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-09-07T12:54:10Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
-    "id": "klarlabs-studio/nomi",
-    "language": "Go",
-    "name": "klarlabs-studio/nomi",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:31:49Z",
-    "url": "https://github.com/klarlabs-studio/nomi"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 229,
-    "updated_at": "2026-09-07T12:31:43Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
