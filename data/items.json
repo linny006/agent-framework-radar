@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "B1ueMu3ic4m/approximately",
     "stars": 1,
-    "updated_at": "2026-09-07T19:29:34Z",
+    "updated_at": "2026-09-07T19:45:15Z",
     "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:42:31Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref",
+    "id": "DevMando/MandoCode",
+    "language": "C#",
+    "name": "DevMando/MandoCode",
+    "stars": 14,
+    "updated_at": "2026-09-07T19:41:37Z",
+    "url": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
+    "id": "mybay-ai/mybay",
+    "language": "TypeScript",
+    "name": "mybay-ai/mybay",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:44:43Z",
+    "url": "https://github.com/mybay-ai/mybay"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 22,
+    "updated_at": "2026-09-07T19:40:00Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-09-07T19:39:00Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Local-first, Codex-native agent foundry and knowledge OS for creating reviewed, testable specialist AI agents.",
+    "id": "NumericalArt/Pritha",
+    "language": "JavaScript",
+    "name": "NumericalArt/Pritha",
+    "stars": 4,
+    "updated_at": "2026-09-07T19:38:13Z",
+    "url": "https://github.com/NumericalArt/Pritha"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-07T19:37:45Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:35:22Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 277,
+    "updated_at": "2026-09-07T19:34:52Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T19:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -36,15 +126,6 @@
     "url": "https://github.com/DevMando/MandoCode.Desktop"
   },
   {
-    "description": " A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref",
-    "id": "DevMando/MandoCode",
-    "language": "C#",
-    "name": "DevMando/MandoCode",
-    "stars": 14,
-    "updated_at": "2026-09-07T19:29:35Z",
-    "url": "https://github.com/DevMando/MandoCode"
-  },
-  {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
     "id": "iyulab/ironhive-host",
     "language": "C#",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T19:21:11Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T19:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -72,7 +144,7 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "AI Automation Engine for Windows",
+    "description": "Fully autonomous AI agent for Windows.",
     "id": "oranyxlabs/AutonoMe",
     "language": "Visual Basic .NET",
     "name": "oranyxlabs/AutonoMe",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19773,
-    "updated_at": "2026-09-07T19:04:23Z",
+    "updated_at": "2026-09-07T19:42:26Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T19:29:41Z",
+    "updated_at": "2026-09-07T19:40:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -185,7 +257,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 278,
-    "updated_at": "2026-09-07T18:40:30Z",
+    "updated_at": "2026-09-07T19:42:12Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 31,
     "updated_at": "2026-09-07T19:23:47Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-07T19:02:21Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when",
@@ -293,7 +356,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T19:27:27Z",
+    "updated_at": "2026-09-07T19:36:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -315,21 +378,12 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 4,
-    "updated_at": "2026-09-07T18:49:31Z",
-    "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
     "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
     "id": "vstorm-co/agenticos",
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 19,
-    "updated_at": "2026-09-07T19:29:00Z",
+    "updated_at": "2026-09-07T19:42:51Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-07T18:09:05Z",
+    "updated_at": "2026-09-07T19:30:41Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-07T17:55:59Z",
     "url": "https://github.com/hjl2004-10/Agent-Worlds"
-  },
-  {
-    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
-    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "language": "Python",
-    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:01:28Z",
-    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
-  },
-  {
-    "description": "Signomy \u2014 governed AI agent marketplace and city-state. Agents register free, operators pay. MO\u00a7ES\u2122 constitutional gover",
-    "id": "SunrisesIllNeverSee/agent-universe",
-    "language": "HTML",
-    "name": "SunrisesIllNeverSee/agent-universe",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:54:39Z",
-    "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-07T19:26:07Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
-    "id": "abubakarsiddik31/golem",
-    "language": "Go",
-    "name": "abubakarsiddik31/golem",
-    "stars": 2,
-    "updated_at": "2026-09-07T18:13:58Z",
-    "url": "https://github.com/abubakarsiddik31/golem"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 229,
-    "updated_at": "2026-09-07T17:46:36Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
-    "id": "trbearth/fieldwork-agent-os",
-    "language": "CSS",
-    "name": "trbearth/fieldwork-agent-os",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:35:56Z",
-    "url": "https://github.com/trbearth/fieldwork-agent-os"
   }
 ]
