@@ -1,48 +1,21 @@
 [
   {
-    "description": "Official repository bootstrap utility for adopting the AI Orchestration Framework (AOF) v1.0 LTS",
-    "id": "aof-framework/aof-cli",
-    "language": "Go",
-    "name": "aof-framework/aof-cli",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-07T12:13:48Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-09-07T11:59:24Z",
-    "url": "https://github.com/aof-framework/aof-cli"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5475,
-    "updated_at": "2026-09-07T11:56:52Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 18,
-    "updated_at": "2026-09-07T11:56:58Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-07T11:50:18Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "Python",
-    "name": "petehottelet/smythe",
-    "stars": 2,
-    "updated_at": "2026-09-07T11:48:30Z",
-    "url": "https://github.com/petehottelet/smythe"
+    "updated_at": "2026-09-07T12:12:53Z",
+    "url": "https://github.com/karvidsson/kbots"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -50,8 +23,53 @@
     "language": "Python",
     "name": "xiejianjun000/eco-agent",
     "stars": 2,
-    "updated_at": "2026-09-07T11:47:07Z",
+    "updated_at": "2026-09-07T12:12:36Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "Python",
+    "name": "petehottelet/smythe",
+    "stars": 2,
+    "updated_at": "2026-09-07T12:08:33Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 20,
+    "updated_at": "2026-09-07T12:08:31Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 18,
+    "updated_at": "2026-09-07T12:11:19Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "Official repository bootstrap utility for adopting the AI Orchestration Framework (AOF) v1.0 LTS",
+    "id": "aof-framework/aof-cli",
+    "language": "Go",
+    "name": "aof-framework/aof-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:07:52Z",
+    "url": "https://github.com/aof-framework/aof-cli"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:01:09Z",
+    "url": "https://github.com/LioRael/lenso-agent"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -59,8 +77,26 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 6,
-    "updated_at": "2026-09-07T11:45:23Z",
+    "updated_at": "2026-09-07T12:00:22Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5476,
+    "updated_at": "2026-09-07T11:56:52Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-07T12:14:04Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
@@ -68,7 +104,7 @@
     "language": "Kotlin",
     "name": "yangwenhua212/hermchat",
     "stars": 3,
-    "updated_at": "2026-09-07T11:44:48Z",
+    "updated_at": "2026-09-07T12:11:26Z",
     "url": "https://github.com/yangwenhua212/hermchat"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9759,
-    "updated_at": "2026-09-07T11:54:17Z",
+    "updated_at": "2026-09-07T12:07:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -112,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35434,
+    "stars": 35435,
     "updated_at": "2026-09-07T11:40:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -133,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-09-07T11:38:29Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T11:59:19Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A curated list of 90+ Web3 x AI tools, agent frameworks, protocols, and infrastructure",
@@ -196,15 +223,6 @@
     "stars": 13366,
     "updated_at": "2026-09-07T11:53:43Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 20,
-    "updated_at": "2026-09-07T11:29:24Z",
-    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T11:56:06Z",
+    "updated_at": "2026-09-07T12:13:29Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -297,21 +315,12 @@
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T11:46:16Z",
-    "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
     "description": "Open-source alternative to Claude Cowork \u2014 a local-first AI agent desktop app \u00b7 multi-model \u00b7 self-evolving skills \u00b7 pri",
     "id": "PM-Shawn/Abu-Cowork",
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 368,
-    "updated_at": "2026-09-07T11:57:26Z",
+    "updated_at": "2026-09-07T12:06:07Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -331,6 +340,24 @@
     "stars": 2,
     "updated_at": "2026-09-07T10:54:29Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 519,
+    "updated_at": "2026-09-07T10:49:29Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26438,
+    "updated_at": "2026-09-07T10:48:16Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
@@ -409,7 +436,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47838,
+    "stars": 47839,
     "updated_at": "2026-09-07T10:28:36Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-07T11:17:20Z",
     "url": "https://github.com/qarium/goga"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-09-07T10:27:48Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-09-07T11:03:46Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26437,
-    "updated_at": "2026-09-07T10:48:16Z",
-    "url": "https://github.com/deepset-ai/haystack"
   }
 ]
