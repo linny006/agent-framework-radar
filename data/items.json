@@ -1,11 +1,137 @@
 [
   {
+    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
+    "id": "rameswaran-mohan/project-systemu",
+    "language": "Python",
+    "name": "rameswaran-mohan/project-systemu",
+    "stars": 2,
+    "updated_at": "2026-09-07T10:14:24Z",
+    "url": "https://github.com/rameswaran-mohan/project-systemu"
+  },
+  {
+    "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit \ud83e\uddea",
+    "id": "msoedov/agentic_security",
+    "language": "Python",
+    "name": "msoedov/agentic_security",
+    "stars": 1987,
+    "updated_at": "2026-09-07T10:14:20Z",
+    "url": "https://github.com/msoedov/agentic_security"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-07T10:11:48Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-07T10:10:49Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9755,
+    "updated_at": "2026-09-07T10:09:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:13:26Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 30,
+    "updated_at": "2026-09-07T10:08:28Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 25,
+    "updated_at": "2026-09-07T10:07:19Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "Hive mind mechanics for agents. A step closer towards AGI",
+    "id": "tinyhumansai/tinyhivemind",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyhivemind",
+    "stars": 2,
+    "updated_at": "2026-09-07T10:07:17Z",
+    "url": "https://github.com/tinyhumansai/tinyhivemind"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3916,
+    "updated_at": "2026-09-07T10:05:39Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 61,
+    "updated_at": "2026-09-07T10:05:11Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6883,
+    "updated_at": "2026-09-07T10:04:55Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 109,
+    "updated_at": "2026-09-07T10:02:47Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T10:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13366,
-    "updated_at": "2026-09-07T09:59:54Z",
+    "updated_at": "2026-09-07T10:13:37Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -18,30 +144,12 @@
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T09:58:41Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Hive mind mechanics for agents. A step closer towards AGI",
-    "id": "tinyhumansai/tinyhivemind",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyhivemind",
-    "stars": 2,
-    "updated_at": "2026-09-07T10:00:14Z",
-    "url": "https://github.com/tinyhumansai/tinyhivemind"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-07T09:58:11Z",
+    "updated_at": "2026-09-07T10:08:58Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -67,7 +175,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47827,
+    "stars": 47830,
     "updated_at": "2026-09-07T09:54:21Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -81,12 +189,21 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15206,
+    "updated_at": "2026-09-07T09:51:50Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-07T09:51:04Z",
+    "updated_at": "2026-09-07T10:07:30Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -124,33 +241,6 @@
     "stars": 8,
     "updated_at": "2026-09-07T09:47:36Z",
     "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 25,
-    "updated_at": "2026-09-07T09:59:03Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T09:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9755,
-    "updated_at": "2026-09-07T09:45:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
@@ -203,7 +293,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T09:58:05Z",
+    "updated_at": "2026-09-07T10:15:09Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -230,7 +320,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-07T10:00:15Z",
+    "updated_at": "2026-09-07T10:14:18Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -302,7 +392,7 @@
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 5,
-    "updated_at": "2026-09-07T09:20:56Z",
+    "updated_at": "2026-09-07T10:13:47Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T09:37:42Z",
     "url": "https://github.com/Friday-Labs-Inc/friday"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-09-07T09:12:00Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 22,
-    "updated_at": "2026-09-07T09:10:08Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 61,
-    "updated_at": "2026-09-07T09:09:05Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:07:59Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 5042,
-    "updated_at": "2026-09-07T09:10:18Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Agent friendly memory system ",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 6,
-    "updated_at": "2026-09-07T09:06:24Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 204,
-    "updated_at": "2026-09-07T09:06:22Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 254,
-    "updated_at": "2026-09-07T09:04:34Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "A microservice-first unified operations management platform covering host inventory, automation, application deployments",
-    "id": "taurus-stack/taurus",
-    "language": "\u2014",
-    "name": "taurus-stack/taurus",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:03:55Z",
-    "url": "https://github.com/taurus-stack/taurus"
-  },
-  {
-    "description": "A Python agent runtime with context management, durable execution, tools, approvals, and multi-agent collaboration.",
-    "id": "GtechGovind/agento",
-    "language": "Python",
-    "name": "GtechGovind/agento",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:04:23Z",
-    "url": "https://github.com/GtechGovind/agento"
   }
 ]
