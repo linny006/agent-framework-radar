@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-07T01:08:21Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Uma implementa\u00e7\u00e3o bare bone de um agente de IA em Go, com adi\u00e7\u00e3o de ferramentas de forma simplificada.",
+    "id": "matheusbuniotto/goAgent",
+    "language": "Go",
+    "name": "matheusbuniotto/goAgent",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:07:38Z",
+    "url": "https://github.com/matheusbuniotto/goAgent"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 274,
+    "updated_at": "2026-09-07T01:06:35Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 109,
+    "updated_at": "2026-09-07T01:05:27Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-07T01:04:27Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 228,
+    "updated_at": "2026-09-07T01:03:42Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Agentic office framework: agents address each other by name, a switch forwards by address without reading payloads, ever",
+    "id": "h-network/h-mesh",
+    "language": "Python",
+    "name": "h-network/h-mesh",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:00:39Z",
+    "url": "https://github.com/h-network/h-mesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T01:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -32,26 +104,8 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4908,
-    "updated_at": "2026-09-07T00:57:23Z",
+    "updated_at": "2026-09-07T01:02:02Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T00:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T00:58:23Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 667,
-    "updated_at": "2026-09-07T00:34:34Z",
+    "updated_at": "2026-09-07T01:01:20Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -130,7 +184,7 @@
     "id": "Core-Mate/OpenGUI",
     "language": "TypeScript",
     "name": "Core-Mate/OpenGUI",
-    "stars": 1716,
+    "stars": 1717,
     "updated_at": "2026-09-07T00:30:18Z",
     "url": "https://github.com/Core-Mate/OpenGUI"
   },
@@ -169,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-09-07T00:18:27Z",
     "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35431,
+    "updated_at": "2026-09-07T01:09:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Your own agentic working mate. For long horizon and complex task automation",
@@ -306,15 +369,6 @@
     "url": "https://github.com/go-steer/mast"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35430,
-    "updated_at": "2026-09-07T00:18:08Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -322,15 +376,6 @@
     "stars": 22,
     "updated_at": "2026-09-06T23:45:33Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 109,
-    "updated_at": "2026-09-07T00:56:33Z",
-    "url": "https://github.com/assafkip/kipi-system"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -403,50 +448,5 @@
     "stars": 120,
     "updated_at": "2026-09-06T23:28:35Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-09-06T23:25:55Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
-    "id": "DevMando/MandoCode.Desktop",
-    "language": "C#",
-    "name": "DevMando/MandoCode.Desktop",
-    "stars": 2,
-    "updated_at": "2026-09-06T23:17:29Z",
-    "url": "https://github.com/DevMando/MandoCode.Desktop"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-07T00:06:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-09-06T23:09:24Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": " A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref",
-    "id": "DevMando/MandoCode",
-    "language": "C#",
-    "name": "DevMando/MandoCode",
-    "stars": 14,
-    "updated_at": "2026-09-06T23:08:46Z",
-    "url": "https://github.com/DevMando/MandoCode"
   }
 ]
