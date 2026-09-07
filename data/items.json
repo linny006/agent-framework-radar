@@ -1,5 +1,95 @@
 [
   {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 19,
+    "updated_at": "2026-09-07T18:11:16Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "A curated list of AI agent platforms, frameworks, protocols, tools, and resources",
+    "id": "Scottcjn/awesome-agents",
+    "language": "\u2014",
+    "name": "Scottcjn/awesome-agents",
+    "stars": 99,
+    "updated_at": "2026-09-07T18:11:03Z",
+    "url": "https://github.com/Scottcjn/awesome-agents"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-09-07T18:09:05Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:04:56Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 31,
+    "updated_at": "2026-09-07T18:11:07Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1619,
+    "updated_at": "2026-09-07T18:03:32Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "USB - Universal Skill Bridge: one portable skill format, installed into 16 agent runtimes with sha256-verified installer",
+    "id": "PeepSick/usb",
+    "language": "TypeScript",
+    "name": "PeepSick/usb",
+    "stars": 7,
+    "updated_at": "2026-09-07T18:01:59Z",
+    "url": "https://github.com/PeepSick/usb"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T18:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:00:12Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
+    "id": "B1ueMu3ic4m/approximately",
+    "language": "Python",
+    "name": "B1ueMu3ic4m/approximately",
+    "stars": 0,
+    "updated_at": "2026-09-07T17:57:37Z",
+    "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
     "description": "Multi-Agent OS for LLM-powered NPCs \u2014 AI characters live, wander, and talk autonomously in a pixel-art 2D world. Support",
     "id": "hjl2004-10/Agent-Worlds",
     "language": "Python",
@@ -9,21 +99,12 @@
     "url": "https://github.com/hjl2004-10/Agent-Worlds"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 31,
-    "updated_at": "2026-09-07T17:57:16Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
     "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
     "language": "Python",
     "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
     "stars": 1,
-    "updated_at": "2026-09-07T17:55:13Z",
+    "updated_at": "2026-09-07T18:01:28Z",
     "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-09-07T17:52:54Z",
+    "updated_at": "2026-09-07T18:00:56Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Go",
     "name": "abubakarsiddik31/golem",
     "stars": 2,
-    "updated_at": "2026-09-07T17:51:07Z",
+    "updated_at": "2026-09-07T18:13:58Z",
     "url": "https://github.com/abubakarsiddik31/golem"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T17:48:50Z",
     "url": "https://github.com/petehottelet/smythe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T17:48:36Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -122,17 +194,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T17:46:17Z",
+    "updated_at": "2026-09-07T18:05:36Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 18,
-    "updated_at": "2026-09-07T17:54:37Z",
-    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-09-07T17:49:02Z",
+    "updated_at": "2026-09-07T18:01:06Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:54:26Z",
-    "url": "https://github.com/StateKnot/StateKnot"
   },
   {
     "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T17:39:06Z",
+    "updated_at": "2026-09-07T18:09:36Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-07T16:32:36Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
-    "id": "Asceticrefractoryperiod28/Foundry",
-    "language": "TypeScript",
-    "name": "Asceticrefractoryperiod28/Foundry",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:32:15Z",
-    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 52,
-    "updated_at": "2026-09-07T16:31:28Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:30:55Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:30:47Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:17:25Z",
-    "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:30:42Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
