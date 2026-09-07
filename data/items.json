@@ -1,5 +1,95 @@
 [
   {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 58,
+    "updated_at": "2026-09-07T05:42:54Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-09-07T05:44:10Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 120,
+    "updated_at": "2026-09-07T05:38:38Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-09-07T05:38:12Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-07T05:37:23Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-07T05:45:16Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:35:20Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-07T05:35:15Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2043,
+    "updated_at": "2026-09-07T05:31:19Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T05:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-07T05:29:00Z",
+    "updated_at": "2026-09-07T05:38:51Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-07T05:27:19Z",
+    "updated_at": "2026-09-07T05:33:31Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -81,31 +171,13 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T05:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9752,
-    "updated_at": "2026-09-07T05:22:38Z",
+    "updated_at": "2026-09-07T05:41:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 57,
-    "updated_at": "2026-09-07T05:24:02Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -135,21 +207,12 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 415,
-    "updated_at": "2026-09-07T05:10:17Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47812,
-    "updated_at": "2026-09-07T05:27:05Z",
+    "updated_at": "2026-09-07T05:38:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-09-07T05:04:36Z",
     "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-07T05:03:19Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -203,7 +257,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 22,
-    "updated_at": "2026-09-07T05:21:50Z",
+    "updated_at": "2026-09-07T05:40:55Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -292,7 +346,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13359,
+    "stars": 13360,
     "updated_at": "2026-09-07T04:29:28Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -320,7 +374,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4513,
-    "updated_at": "2026-09-07T05:26:33Z",
+    "updated_at": "2026-09-07T05:41:53Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -382,7 +436,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35431,
+    "stars": 35432,
     "updated_at": "2026-09-07T03:38:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -394,59 +448,5 @@
     "stars": 1184,
     "updated_at": "2026-09-07T03:37:12Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "A community driven directory of paseo.sh plugins",
-    "id": "tommerty/paseo-cafe",
-    "language": "TypeScript",
-    "name": "tommerty/paseo-cafe",
-    "stars": 1,
-    "updated_at": "2026-09-07T03:32:30Z",
-    "url": "https://github.com/tommerty/paseo-cafe"
-  },
-  {
-    "description": "Dart framework for stateful AI agents: tool use, skills, sub-agent delegation, planning, streaming, evals, and multi-pro",
-    "id": "memex-lab/dart_agent_core",
-    "language": "Dart",
-    "name": "memex-lab/dart_agent_core",
-    "stars": 43,
-    "updated_at": "2026-09-07T03:25:31Z",
-    "url": "https://github.com/memex-lab/dart_agent_core"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-09-07T03:23:14Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
-    "id": "mwb1219/mwb-ai-claw",
-    "language": "Java",
-    "name": "mwb1219/mwb-ai-claw",
-    "stars": 2,
-    "updated_at": "2026-09-07T03:21:15Z",
-    "url": "https://github.com/mwb1219/mwb-ai-claw"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 58,
-    "updated_at": "2026-09-07T03:12:32Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based multi-agent orchestration + cros",
-    "id": "stone16/harness-engineering-skills",
-    "language": "Shell",
-    "name": "stone16/harness-engineering-skills",
-    "stars": 32,
-    "updated_at": "2026-09-07T03:05:56Z",
-    "url": "https://github.com/stone16/harness-engineering-skills"
   }
 ]
