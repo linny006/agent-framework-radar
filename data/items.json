@@ -1,12 +1,57 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9765,
+    "updated_at": "2026-09-07T17:40:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 31,
+    "updated_at": "2026-09-07T17:42:40Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
+    "id": "trbearth/fieldwork-agent-os",
+    "language": "CSS",
+    "name": "trbearth/fieldwork-agent-os",
+    "stars": 0,
+    "updated_at": "2026-09-07T17:35:56Z",
+    "url": "https://github.com/trbearth/fieldwork-agent-os"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 669,
-    "updated_at": "2026-09-07T17:29:38Z",
+    "updated_at": "2026-09-07T17:35:22Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T17:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-07T17:37:05Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 18,
-    "updated_at": "2026-09-07T17:29:21Z",
+    "updated_at": "2026-09-07T17:35:46Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T17:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u4e00\u4eba\u516c\u53f8\u6700\u7ec8\u5f52\u5bbf\uff0c\u76f4\u63a5\u7edf\u7ba1\u8d5b\u535a\u516c\u53f8\u3002\u4f9d\u9760\u56fd\u5185\u5927\u578b\u4e92\u8054\u7f51\u516c\u53f8\u7ec4\u7ec7\u67b6\u6784\uff0c\u8bbe\u8ba1\u7684 AI \u591a Agent \u534f\u4f5c\u7cfb\u7edf\u3002",
     "id": "xiaoyangtx996/CorpPilot",
     "language": "Python",
@@ -117,21 +153,12 @@
     "url": "https://github.com/xiaoyangtx996/CorpPilot"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 31,
-    "updated_at": "2026-09-07T17:14:16Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
     "id": "CarlosCaPe/octorato",
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T17:11:12Z",
+    "updated_at": "2026-09-07T17:39:06Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-07T16:35:26Z",
+    "updated_at": "2026-09-07T17:31:44Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/Ydjin1984/DeepSeek_Kibborg_Harness"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-07T17:30:07Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
     "id": "breastless-andcircuit638/lean-loop",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:20:17Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T16:37:58Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-    "id": "Cobra-bit-prog/agent-guard",
-    "language": "TypeScript",
-    "name": "Cobra-bit-prog/agent-guard",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:20:11Z",
-    "url": "https://github.com/Cobra-bit-prog/agent-guard"
   }
 ]
