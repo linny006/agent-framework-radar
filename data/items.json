@@ -1,5 +1,68 @@
 [
   {
+    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
+    "id": "B1ueMu3ic4m/approximately",
+    "language": "Python",
+    "name": "B1ueMu3ic4m/approximately",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:29:34Z",
+    "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-07T19:23:21Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-07T19:22:53Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:21:41Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": " A .NET C# CLI Coding Agent powered by Ollama + MAF (Agent Framework) and RazorConsole. Run locally or in the cloud. Ref",
+    "id": "DevMando/MandoCode",
+    "language": "C#",
+    "name": "DevMando/MandoCode",
+    "stars": 14,
+    "updated_at": "2026-09-07T19:29:35Z",
+    "url": "https://github.com/DevMando/MandoCode"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:21:11Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T19:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -7,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-09-07T19:14:27Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
-    "id": "B1ueMu3ic4m/approximately",
-    "language": "Python",
-    "name": "B1ueMu3ic4m/approximately",
-    "stars": 1,
-    "updated_at": "2026-09-07T19:12:05Z",
-    "url": "https://github.com/B1ueMu3ic4m/approximately"
   },
   {
     "description": "AI Automation Engine for Windows",
@@ -63,15 +117,6 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T19:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "internOS \u2014 Workstreams framework for human-agent collaboration. Coordinate work across projects, tasks, communication th",
     "id": "poktalabs/intern-os",
     "language": "Shell",
@@ -108,21 +153,12 @@
     "url": "https://github.com/clawboo/clawboo"
   },
   {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-07T18:55:10Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-07T19:13:21Z",
+    "updated_at": "2026-09-07T19:29:41Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -162,6 +198,15 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35437,
+    "updated_at": "2026-09-07T18:35:41Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-07T19:06:26Z",
+    "updated_at": "2026-09-07T19:23:47Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-07T18:19:51Z",
+    "updated_at": "2026-09-07T19:27:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 19,
-    "updated_at": "2026-09-07T18:49:33Z",
+    "updated_at": "2026-09-07T19:29:00Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-09-07T18:35:41Z",
+    "updated_at": "2026-09-07T19:26:07Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T17:35:56Z",
     "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 669,
-    "updated_at": "2026-09-07T18:24:16Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 2,
-    "updated_at": "2026-09-07T17:23:37Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:21:32Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13372,
-    "updated_at": "2026-09-07T19:06:44Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35438,
-    "updated_at": "2026-09-07T18:35:41Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
