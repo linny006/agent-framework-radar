@@ -1,5 +1,68 @@
 [
   {
+    "description": "Official repository bootstrap utility for adopting the AI Orchestration Framework (AOF) v1.0 LTS",
+    "id": "aof-framework/aof-cli",
+    "language": "Go",
+    "name": "aof-framework/aof-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T11:59:24Z",
+    "url": "https://github.com/aof-framework/aof-cli"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5475,
+    "updated_at": "2026-09-07T11:56:52Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 18,
+    "updated_at": "2026-09-07T11:56:58Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-07T11:50:18Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "Python",
+    "name": "petehottelet/smythe",
+    "stars": 2,
+    "updated_at": "2026-09-07T11:48:30Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-09-07T11:47:07Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T11:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
     "id": "yangwenhua212/hermchat",
     "language": "Kotlin",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9759,
-    "updated_at": "2026-09-07T11:44:46Z",
+    "updated_at": "2026-09-07T11:54:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-07T11:44:16Z",
+    "updated_at": "2026-09-07T11:59:19Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -126,21 +189,12 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T11:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13366,
-    "updated_at": "2026-09-07T11:40:11Z",
+    "updated_at": "2026-09-07T11:53:43Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 16,
     "updated_at": "2026-09-07T11:28:14Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 18,
-    "updated_at": "2026-09-07T11:37:15Z",
-    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-07T11:42:17Z",
+    "updated_at": "2026-09-07T11:45:52Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T11:29:54Z",
+    "updated_at": "2026-09-07T11:56:06Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 0,
-    "updated_at": "2026-09-07T11:05:02Z",
+    "updated_at": "2026-09-07T11:46:16Z",
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 368,
-    "updated_at": "2026-09-07T11:41:57Z",
+    "updated_at": "2026-09-07T11:57:26Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T10:54:29Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-07T11:40:09Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
@@ -412,41 +448,5 @@
     "stars": 26437,
     "updated_at": "2026-09-07T10:48:16Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 52,
-    "updated_at": "2026-09-07T10:23:05Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:21:14Z",
-    "url": "https://github.com/StateKnot/StateKnot"
-  },
-  {
-    "description": "An open-source AI agent that builds the tools it's missing, mid-task \u2014 under your governance. Pull capabilities at runti",
-    "id": "rameswaran-mohan/project-systemu",
-    "language": "Python",
-    "name": "rameswaran-mohan/project-systemu",
-    "stars": 2,
-    "updated_at": "2026-09-07T10:14:24Z",
-    "url": "https://github.com/rameswaran-mohan/project-systemu"
-  },
-  {
-    "description": "PurrCat Agent",
-    "id": "PurrPod/purrcat",
-    "language": "Python",
-    "name": "PurrPod/purrcat",
-    "stars": 30,
-    "updated_at": "2026-09-07T10:08:28Z",
-    "url": "https://github.com/PurrPod/purrcat"
   }
 ]
