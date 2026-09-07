@@ -1,11 +1,56 @@
 [
   {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-07T00:49:09Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Full-stack AI Agent development framework based on Spring AI Alibaba (DashScope), featuring ReAct Agent, PSE collaborati",
+    "id": "erishen/spring-harness",
+    "language": "Java",
+    "name": "erishen/spring-harness",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:47:59Z",
+    "url": "https://github.com/erishen/spring-harness"
+  },
+  {
+    "description": "Build and ship hosted AI agents on Azure AI Foundry with GitHub Copilot. Two working agents, a 10-module lab, eval suite",
+    "id": "xavierxmorris/ghcp-demo-07-foundry-hosted-agents",
+    "language": "Python",
+    "name": "xavierxmorris/ghcp-demo-07-foundry-hosted-agents",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:47:51Z",
+    "url": "https://github.com/xavierxmorris/ghcp-demo-07-foundry-hosted-agents"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4908,
+    "updated_at": "2026-09-07T00:57:23Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T00:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-07T00:44:17Z",
+    "updated_at": "2026-09-07T00:58:23Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -76,18 +121,9 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 666,
+    "stars": 667,
     "updated_at": "2026-09-07T00:34:34Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T00:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the ",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 163,
-    "updated_at": "2026-09-07T00:16:29Z",
+    "updated_at": "2026-09-07T00:52:04Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 109,
-    "updated_at": "2026-09-07T00:41:40Z",
+    "updated_at": "2026-09-07T00:56:33Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T23:33:29Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4908,
-    "updated_at": "2026-09-07T00:29:28Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-06T23:08:46Z",
     "url": "https://github.com/DevMando/MandoCode"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-06T23:02:51Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
-    "id": "Craigtut/cortex-mono",
-    "language": "TypeScript",
-    "name": "Craigtut/cortex-mono",
-    "stars": 0,
-    "updated_at": "2026-09-06T22:54:02Z",
-    "url": "https://github.com/Craigtut/cortex-mono"
-  },
-  {
-    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 1,
-    "updated_at": "2026-09-06T22:53:39Z",
-    "url": "https://github.com/jamillazarev/opsinist"
   }
 ]
