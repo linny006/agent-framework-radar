@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:00:07Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 120,
+    "updated_at": "2026-09-07T18:59:02Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 57,
+    "updated_at": "2026-09-07T18:56:15Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-07T18:55:10Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
+    "id": "B1ueMu3ic4m/approximately",
+    "language": "Python",
+    "name": "B1ueMu3ic4m/approximately",
+    "stars": 1,
+    "updated_at": "2026-09-07T18:52:44Z",
+    "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-07T18:56:24Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Official repository bootstrap utility for adopting the AI Orchestration Framework (AOF) v1.0 LTS",
+    "id": "aof-framework/aof-cli",
+    "language": "Go",
+    "name": "aof-framework/aof-cli",
+    "stars": 0,
+    "updated_at": "2026-09-07T18:47:07Z",
+    "url": "https://github.com/aof-framework/aof-cli"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T18:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -23,7 +95,7 @@
     "language": "Shell",
     "name": "poktalabs/intern-os",
     "stars": 5,
-    "updated_at": "2026-09-07T18:39:00Z",
+    "updated_at": "2026-09-07T19:00:21Z",
     "url": "https://github.com/poktalabs/intern-os"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T18:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9764,
-    "updated_at": "2026-09-07T18:28:41Z",
+    "updated_at": "2026-09-07T18:49:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 19772,
     "updated_at": "2026-09-07T18:26:26Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
-    "id": "B1ueMu3ic4m/approximately",
-    "language": "Python",
-    "name": "B1ueMu3ic4m/approximately",
-    "stars": 1,
-    "updated_at": "2026-09-07T18:26:08Z",
-    "url": "https://github.com/B1ueMu3ic4m/approximately"
   },
   {
     "description": "Deterministic policy language for AI agents. Z3 + TLA+ dual-engine formal verification. Runtime enforcement <1ms.",
@@ -185,7 +239,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 4,
-    "updated_at": "2026-09-07T18:42:17Z",
+    "updated_at": "2026-09-07T18:49:31Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 19,
-    "updated_at": "2026-09-07T18:41:02Z",
+    "updated_at": "2026-09-07T18:49:33Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Official repository bootstrap utility for adopting the AI Orchestration Framework (AOF) v1.0 LTS",
-    "id": "aof-framework/aof-cli",
-    "language": "Go",
-    "name": "aof-framework/aof-cli",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:51:52Z",
-    "url": "https://github.com/aof-framework/aof-cli"
-  },
-  {
     "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
     "id": "abubakarsiddik31/golem",
     "language": "Go",
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13372,
-    "updated_at": "2026-09-07T18:42:53Z",
+    "updated_at": "2026-09-07T18:55:26Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T18:43:12Z",
+    "updated_at": "2026-09-07T18:48:15Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-07T17:09:40Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 42,
-    "updated_at": "2026-09-07T17:03:15Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:03:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:03:00Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Role playbooks and coordination framework for multi-agent engineering teams",
-    "id": "mythicalOS/mythical-playbooks",
-    "language": "Shell",
-    "name": "mythicalOS/mythical-playbooks",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:02:03Z",
-    "url": "https://github.com/mythicalOS/mythical-playbooks"
-  },
-  {
-    "description": "Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing",
-    "id": "alpercodes/alms",
-    "language": "Rust",
-    "name": "alpercodes/alms",
-    "stars": 4,
-    "updated_at": "2026-09-07T17:01:39Z",
-    "url": "https://github.com/alpercodes/alms"
   }
 ]
