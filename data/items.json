@@ -1,12 +1,21 @@
 [
   {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-06T23:58:58Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-09-07T00:13:30Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 26,
+    "updated_at": "2026-09-07T00:13:25Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "The AI Agent framework for enterprises and agencies",
@@ -14,8 +23,116 @@
     "language": "TypeScript",
     "name": "frogbotai/frogbot",
     "stars": 4,
-    "updated_at": "2026-09-06T23:58:31Z",
+    "updated_at": "2026-09-07T00:11:42Z",
     "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-09-07T00:14:27Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13356,
+    "updated_at": "2026-09-07T00:14:06Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:11:35Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 7,
+    "updated_at": "2026-09-07T00:09:07Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 228,
+    "updated_at": "2026-09-07T00:09:00Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 666,
+    "updated_at": "2026-09-07T00:08:18Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-07T00:04:33Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-07T00:04:04Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-07T00:03:04Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9745,
+    "updated_at": "2026-09-07T00:02:29Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-07T00:01:34Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T00:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -25,15 +142,6 @@
     "stars": 52,
     "updated_at": "2026-09-06T23:57:44Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 228,
-    "updated_at": "2026-09-06T23:55:05Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -50,7 +158,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 1,
-    "updated_at": "2026-09-06T23:50:12Z",
+    "updated_at": "2026-09-07T00:00:27Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -79,24 +187,6 @@
     "stars": 22,
     "updated_at": "2026-09-06T23:45:33Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-06T23:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 7,
-    "updated_at": "2026-09-06T23:43:59Z",
-    "url": "https://github.com/doeixd/affe-agent"
   },
   {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
@@ -153,21 +243,12 @@
     "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 666,
-    "updated_at": "2026-09-06T23:32:35Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4908,
-    "updated_at": "2026-09-06T23:51:31Z",
+    "updated_at": "2026-09-07T00:08:54Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-06T23:40:00Z",
+    "updated_at": "2026-09-07T00:06:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -257,7 +338,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-06T23:58:12Z",
+    "updated_at": "2026-09-07T00:11:53Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -295,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T22:50:26Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T23:52:42Z",
-    "url": "https://github.com/LioRael/lenso-agent"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -360,24 +432,6 @@
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-06T22:17:41Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-06T22:16:56Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
     "description": "Where agents build agents. An agentic build system for agentic systems \u2014 ontology-grounded, auditable, one Rust binary.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -387,15 +441,6 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9745,
-    "updated_at": "2026-09-06T22:13:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "ARCH (Autonomous Requirements-to-Code Hierarchy) is a terminal application that translates user requirements into a visu",
     "id": "Losina24/ARCH",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-06T22:03:12Z",
     "url": "https://github.com/Losina24/ARCH"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-09-06T21:59:37Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 3,
-    "updated_at": "2026-09-06T21:45:50Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-09-06T21:42:03Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
-    "id": "AndersonBY/vv-agent",
-    "language": "Python",
-    "name": "AndersonBY/vv-agent",
-    "stars": 1,
-    "updated_at": "2026-09-06T21:40:24Z",
-    "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-06T21:39:44Z",
-    "url": "https://github.com/ellmos-ai/bach"
   }
 ]
