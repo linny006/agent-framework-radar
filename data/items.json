@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
+    "description": "An open Agent Skills Compendium for discovering, defining, composing, and governing reusable capabilities for AI agents ",
+    "id": "jersonboydmilan/Agent-Skills-Compendium",
+    "language": "TypeScript",
+    "name": "jersonboydmilan/Agent-Skills-Compendium",
+    "stars": 6,
+    "updated_at": "2026-09-07T12:25:01Z",
+    "url": "https://github.com/jersonboydmilan/Agent-Skills-Compendium"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T12:13:48Z",
-    "url": "https://github.com/tya5/reyn"
+    "name": "omnigent-ai/omnigent",
+    "stars": 9759,
+    "updated_at": "2026-09-07T12:25:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 207,
+    "updated_at": "2026-09-07T12:23:17Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 254,
+    "updated_at": "2026-09-07T12:21:30Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-09-07T12:20:11Z",
+    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-09-07T12:12:53Z",
+    "updated_at": "2026-09-07T12:19:06Z",
     "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-07T12:16:30Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T12:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-07T12:25:35Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 18,
-    "updated_at": "2026-09-07T12:11:19Z",
+    "updated_at": "2026-09-07T12:24:13Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T12:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-07T12:14:04Z",
+    "updated_at": "2026-09-07T12:20:09Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T12:11:26Z",
     "url": "https://github.com/yangwenhua212/hermchat"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9759,
-    "updated_at": "2026-09-07T12:07:36Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A minimal, readable agent-framework kernel \u2014 understand how LangGraph/ADK work under the hood. 1800\u884c\u4ee3\u7801\u7684 agent \u6846\u67b6\u5185\u6838\uff0c\u7406\u89e3 La",
@@ -148,7 +193,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35435,
+    "stars": 35436,
     "updated_at": "2026-09-07T11:40:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -184,7 +229,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19763,
+    "stars": 19764,
     "updated_at": "2026-09-07T11:34:05Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -205,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T11:32:53Z",
     "url": "https://github.com/tropo-ai/tropo"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-07T11:32:13Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 15,
-    "updated_at": "2026-09-07T12:13:29Z",
+    "updated_at": "2026-09-07T12:16:49Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 368,
-    "updated_at": "2026-09-07T12:06:07Z",
+    "updated_at": "2026-09-07T12:21:06Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "Friday-Labs-Inc/friday",
     "stars": 3,
-    "updated_at": "2026-09-07T10:37:19Z",
+    "updated_at": "2026-09-07T12:24:58Z",
     "url": "https://github.com/Friday-Labs-Inc/friday"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-07T10:35:28Z",
     "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 110,
-    "updated_at": "2026-09-07T10:32:45Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Metaorcha : many models, one harness. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified",
-    "id": "solvent-labs-org/metaorcha",
-    "language": "Python",
-    "name": "solvent-labs-org/metaorcha",
-    "stars": 4,
-    "updated_at": "2026-09-07T10:31:59Z",
-    "url": "https://github.com/solvent-labs-org/metaorcha"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47839,
-    "updated_at": "2026-09-07T10:28:36Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Goga is an AI engineering platform for building software with AI agents. Combine engineering knowledge, AI tools, and pi",
-    "id": "qarium/goga",
-    "language": "Python",
-    "name": "qarium/goga",
-    "stars": 13,
-    "updated_at": "2026-09-07T11:17:20Z",
-    "url": "https://github.com/qarium/goga"
   }
 ]
