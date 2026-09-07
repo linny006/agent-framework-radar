@@ -1,5 +1,131 @@
 [
   {
+    "description": "A Go SDK for LLMs: one typed API over the Anthropic, OpenAI and Gemini protocols, and an agent runtime that runs the loo",
+    "id": "genai-io/sdk-go",
+    "language": "Go",
+    "name": "genai-io/sdk-go",
+    "stars": 0,
+    "updated_at": "2026-09-07T15:14:52Z",
+    "url": "https://github.com/genai-io/sdk-go"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-07T15:14:09Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5478,
+    "updated_at": "2026-09-07T15:11:35Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-07T15:11:29Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-07T15:10:53Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-09-07T15:10:30Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "VNMLAgentFramework - A High-Performance Local AI Agent Framework written in .NET 10",
+    "id": "hoangnc/VNMLAgentFramework",
+    "language": "\u2014",
+    "name": "hoangnc/VNMLAgentFramework",
+    "stars": 1,
+    "updated_at": "2026-09-07T15:10:04Z",
+    "url": "https://github.com/hoangnc/VNMLAgentFramework"
+  },
+  {
+    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
+    "id": "bestdeejay-design/agent-skills",
+    "language": "Python",
+    "name": "bestdeejay-design/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-09-07T15:05:46Z",
+    "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-07T15:05:32Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13370,
+    "updated_at": "2026-09-07T15:05:18Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AI-guided onboarding for human-AI collaboration projects",
+    "id": "jkraybill/gordo-forge",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-forge",
+    "stars": 3,
+    "updated_at": "2026-09-07T15:04:19Z",
+    "url": "https://github.com/jkraybill/gordo-forge"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 120,
+    "updated_at": "2026-09-07T15:02:31Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-07T15:00:43Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T15:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Where agents build agents. An agentic build system for agentic systems \u2014 ontology-grounded, auditable, one Rust binary.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -54,15 +180,6 @@
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-09-07T14:54:28Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -81,15 +198,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 3,
-    "updated_at": "2026-09-07T15:00:11Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
     "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -103,8 +211,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9762,
-    "updated_at": "2026-09-07T14:51:37Z",
+    "stars": 9764,
+    "updated_at": "2026-09-07T15:14:17Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -115,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T14:51:11Z",
     "url": "https://github.com/jkraybill/gordo-roundtable"
-  },
-  {
-    "description": "AI-guided onboarding for human-AI collaboration projects",
-    "id": "jkraybill/gordo-forge",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-forge",
-    "stars": 3,
-    "updated_at": "2026-09-07T14:51:08Z",
-    "url": "https://github.com/jkraybill/gordo-forge"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -160,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T14:45:42Z",
     "url": "https://github.com/petehottelet/smythe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T14:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -232,24 +322,6 @@
     "stars": 215,
     "updated_at": "2026-09-07T14:37:37Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace yo",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-07T14:52:31Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-07T14:34:33Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-07T14:03:29Z",
     "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 149,
-    "updated_at": "2026-09-07T13:59:32Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-07T14:08:04Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 22,
-    "updated_at": "2026-09-07T13:56:37Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-09-07T13:55:42Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A durable, long-running AI engineering partner.",
-    "id": "damonleelcx/J.A.R.V.I.S.-agent",
-    "language": "Go",
-    "name": "damonleelcx/J.A.R.V.I.S.-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:54:36Z",
-    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 277,
-    "updated_at": "2026-09-07T13:54:14Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6884,
-    "updated_at": "2026-09-07T13:57:10Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5478,
-    "updated_at": "2026-09-07T13:48:51Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   }
 ]
