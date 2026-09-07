@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-07T01:09:49Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-07T01:09:44Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35431,
+    "updated_at": "2026-09-07T01:09:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-07T01:08:21Z",
+    "updated_at": "2026-09-07T01:15:17Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -54,6 +81,15 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4908,
+    "updated_at": "2026-09-07T01:02:02Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
     "description": "Agentic office framework: agents address each other by name, a switch forwards by address without reading payloads, ever",
     "id": "h-network/h-mesh",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:00:39Z",
     "url": "https://github.com/h-network/h-mesh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-07T01:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T00:47:51Z",
     "url": "https://github.com/xavierxmorris/ghcp-demo-07-foundry-hosted-agents"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4908,
-    "updated_at": "2026-09-07T01:02:02Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -225,15 +243,6 @@
     "url": "https://github.com/api-evangelist/autogen-studio"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35431,
-    "updated_at": "2026-09-07T01:09:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Your own agentic working mate. For long horizon and complex task automation",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-07T00:15:56Z",
+    "updated_at": "2026-09-07T01:15:11Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9745,
-    "updated_at": "2026-09-07T00:02:29Z",
+    "updated_at": "2026-09-07T01:13:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-09-06T23:33:29Z",
+    "updated_at": "2026-09-07T01:11:54Z",
     "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T23:29:04Z",
     "url": "https://github.com/llopresto87/Cypress"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 120,
-    "updated_at": "2026-09-06T23:28:35Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
