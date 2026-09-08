@@ -1,39 +1,12 @@
 [
   {
-    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
-    "id": "vladkesler/initrunner",
-    "language": "Python",
-    "name": "vladkesler/initrunner",
-    "stars": 41,
-    "updated_at": "2026-09-08T12:13:55Z",
-    "url": "https://github.com/vladkesler/initrunner"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9776,
-    "updated_at": "2026-09-08T12:08:55Z",
+    "updated_at": "2026-09-08T12:28:02Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-08T12:06:50Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "A Go SDK for LLMs: one typed API over the Anthropic, OpenAI and Gemini protocols, and an agent runtime that runs the loo",
-    "id": "genai-io/sdk-go",
-    "language": "Go",
-    "name": "genai-io/sdk-go",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:09:36Z",
-    "url": "https://github.com/genai-io/sdk-go"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -41,8 +14,89 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7177,
-    "updated_at": "2026-09-08T12:02:42Z",
+    "updated_at": "2026-09-08T12:25:46Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A Go SDK for LLMs: one typed API over the Anthropic, OpenAI and Gemini protocols, and an agent runtime that runs the loo",
+    "id": "genai-io/sdk-go",
+    "language": "Go",
+    "name": "genai-io/sdk-go",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:27:03Z",
+    "url": "https://github.com/genai-io/sdk-go"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13392,
+    "updated_at": "2026-09-08T12:22:14Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:20:56Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-08T12:26:22Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
+    "id": "vladkesler/initrunner",
+    "language": "Python",
+    "name": "vladkesler/initrunner",
+    "stars": 41,
+    "updated_at": "2026-09-08T12:18:47Z",
+    "url": "https://github.com/vladkesler/initrunner"
+  },
+  {
+    "description": "Offline-first AI agent runtime and workspace for Android \u2014 Kotlin, Flutter, MCP, on-device LLM, and a policy-gated tool ",
+    "id": "FishBottle7/OpenCray",
+    "language": "Kotlin",
+    "name": "FishBottle7/OpenCray",
+    "stars": 1,
+    "updated_at": "2026-09-08T12:17:01Z",
+    "url": "https://github.com/FishBottle7/OpenCray"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T12:16:28Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
+    "id": "ParsifalC/codex-flow",
+    "language": "Python",
+    "name": "ParsifalC/codex-flow",
+    "stars": 8,
+    "updated_at": "2026-09-08T12:16:23Z",
+    "url": "https://github.com/ParsifalC/codex-flow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T12:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -52,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-09-08T12:01:55Z",
     "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T12:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The zero-trust framework for autonomous AI agents.",
@@ -95,7 +140,7 @@
     "language": "Go",
     "name": "damonleelcx/J.A.R.V.I.S.-agent",
     "stars": 0,
-    "updated_at": "2026-09-08T11:53:03Z",
+    "updated_at": "2026-09-08T12:30:07Z",
     "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
@@ -122,17 +167,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-09-08T11:49:20Z",
+    "updated_at": "2026-09-08T12:23:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:09:22Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19793,
-    "updated_at": "2026-09-08T12:13:47Z",
+    "updated_at": "2026-09-08T12:29:26Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 110,
-    "updated_at": "2026-09-08T11:56:08Z",
+    "updated_at": "2026-09-08T12:29:58Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -324,15 +360,6 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13392,
-    "updated_at": "2026-09-08T10:35:43Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -409,7 +436,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35454,
+    "stars": 35455,
     "updated_at": "2026-09-08T10:23:37Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-08T10:23:17Z",
     "url": "https://github.com/Caprista/KarvyLoop"
-  },
-  {
-    "description": "A native C# Agent Development Kit (ADK) for building LLM-powered agents with Google Gemini and Model Context Protocol (M",
-    "id": "ian-cowley/AgentDevKit",
-    "language": "C#",
-    "name": "ian-cowley/AgentDevKit",
-    "stars": 1,
-    "updated_at": "2026-09-08T10:29:09Z",
-    "url": "https://github.com/ian-cowley/AgentDevKit"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 3,
-    "updated_at": "2026-09-08T10:18:20Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26449,
-    "updated_at": "2026-09-08T11:59:03Z",
-    "url": "https://github.com/deepset-ai/haystack"
   }
 ]
