@@ -1,5 +1,95 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 52,
+    "updated_at": "2026-09-08T18:44:25Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
+    "id": "ulsreall/web3-agent-kit",
+    "language": "Python",
+    "name": "ulsreall/web3-agent-kit",
+    "stars": 20,
+    "updated_at": "2026-09-08T18:43:18Z",
+    "url": "https://github.com/ulsreall/web3-agent-kit"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 1,
+    "updated_at": "2026-09-08T18:43:03Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-08T18:42:31Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-08T18:42:15Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-08T18:37:48Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-08T18:37:39Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T18:37:35Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 277,
+    "updated_at": "2026-09-08T18:37:19Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T18:37:13Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
     "id": "devpilgrin/berimor",
     "language": "Rust",
@@ -14,35 +104,8 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 6220,
-    "updated_at": "2026-09-08T18:32:49Z",
+    "updated_at": "2026-09-08T18:38:57Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T18:30:33Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-08T18:31:34Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 20,
-    "updated_at": "2026-09-08T18:29:28Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
   },
   {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "geniusdapeng-collab/panda-cineforge",
     "stars": 0,
-    "updated_at": "2026-09-08T18:29:13Z",
+    "updated_at": "2026-09-08T18:45:01Z",
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "geniusdapeng-collab/hyperreality-system",
     "stars": 10,
-    "updated_at": "2026-09-08T18:28:37Z",
+    "updated_at": "2026-09-08T18:44:43Z",
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
   },
   {
@@ -72,31 +135,13 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-08T18:31:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-08T18:31:09Z",
+    "updated_at": "2026-09-08T18:44:28Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-08T18:21:52Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -167,7 +212,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4514,
-    "updated_at": "2026-09-08T18:34:53Z",
+    "updated_at": "2026-09-08T18:45:08Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -207,21 +252,12 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
-    "id": "xiejianjun000/eco-agent",
-    "language": "Python",
-    "name": "xiejianjun000/eco-agent",
-    "stars": 2,
-    "updated_at": "2026-09-08T17:47:34Z",
-    "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
     "id": "shaharia-lab/agento",
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-08T18:31:10Z",
+    "updated_at": "2026-09-08T18:41:40Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "doeixd/affe-agent",
     "stars": 8,
-    "updated_at": "2026-09-08T17:44:52Z",
+    "updated_at": "2026-09-08T18:44:50Z",
     "url": "https://github.com/doeixd/affe-agent"
   },
   {
@@ -315,15 +351,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 52,
-    "updated_at": "2026-09-08T17:22:11Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -331,15 +358,6 @@
     "stars": 16,
     "updated_at": "2026-09-08T17:36:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 277,
-    "updated_at": "2026-09-08T18:20:34Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35457,
-    "updated_at": "2026-09-08T17:14:46Z",
+    "updated_at": "2026-09-08T18:37:31Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T16:58:35Z",
     "url": "https://github.com/swsgbl/hmharness"
-  },
-  {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 2,
-    "updated_at": "2026-09-08T17:49:33Z",
-    "url": "https://github.com/George-RD/openspine"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-08T17:45:42Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
