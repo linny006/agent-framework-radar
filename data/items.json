@@ -5,7 +5,7 @@
     "language": "C#",
     "name": "DavidCompute/AG-UI_Multi-Party",
     "stars": 0,
-    "updated_at": "2026-09-08T07:59:05Z",
+    "updated_at": "2026-09-08T08:14:08Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
@@ -14,8 +14,107 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-08T07:58:26Z",
+    "updated_at": "2026-09-08T08:14:06Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Grok Build Remote Web UI ACP Host",
+    "id": "AgentsHarness/capri-host",
+    "language": "Go",
+    "name": "AgentsHarness/capri-host",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:13:56Z",
+    "url": "https://github.com/AgentsHarness/capri-host"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9772,
+    "updated_at": "2026-09-08T08:13:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:13:36Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47874,
+    "updated_at": "2026-09-08T08:13:27Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "The ultimate power-tools, guardrails, and runtime enhancement suite for OpenCode coding agents.",
+    "id": "amadshobi/oh-my-hook",
+    "language": "JavaScript",
+    "name": "amadshobi/oh-my-hook",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:13:04Z",
+    "url": "https://github.com/amadshobi/oh-my-hook"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-08T08:12:22Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Framework for sovereign agent nodes, A2A modnets, generative UI, and behavioral runtime provenance.",
+    "id": "plaited/plaited",
+    "language": "TypeScript",
+    "name": "plaited/plaited",
+    "stars": 10,
+    "updated_at": "2026-09-08T08:10:34Z",
+    "url": "https://github.com/plaited/plaited"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1186,
+    "updated_at": "2026-09-08T08:10:20Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 415,
+    "updated_at": "2026-09-08T08:09:31Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35452,
+    "updated_at": "2026-09-08T08:05:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T08:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13383,
-    "updated_at": "2026-09-08T07:57:43Z",
+    "updated_at": "2026-09-08T08:13:56Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -45,31 +144,13 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35450,
-    "updated_at": "2026-09-08T07:55:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 415,
-    "updated_at": "2026-09-08T07:57:16Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9772,
-    "updated_at": "2026-09-08T07:59:49Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 5061,
+    "updated_at": "2026-09-08T07:54:23Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 110,
-    "updated_at": "2026-09-08T07:50:54Z",
+    "updated_at": "2026-09-08T08:00:28Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 254,
     "updated_at": "2026-09-08T07:49:31Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47874,
-    "updated_at": "2026-09-08T07:49:23Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -149,17 +221,8 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 670,
-    "updated_at": "2026-09-08T07:47:39Z",
+    "updated_at": "2026-09-08T08:12:02Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T07:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
@@ -207,24 +270,6 @@
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
-    "description": "Grok Build Remote Web UI ACP Host",
-    "id": "AgentsHarness/capri-host",
-    "language": "Go",
-    "name": "AgentsHarness/capri-host",
-    "stars": 2,
-    "updated_at": "2026-09-08T07:38:56Z",
-    "url": "https://github.com/AgentsHarness/capri-host"
-  },
-  {
-    "description": "Grok Build Web UI",
-    "id": "AgentsHarness/capri-fe",
-    "language": "TypeScript",
-    "name": "AgentsHarness/capri-fe",
-    "stars": 2,
-    "updated_at": "2026-09-08T07:38:54Z",
-    "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
     "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
     "id": "melaya-labs/melaya",
     "language": "Python",
@@ -239,7 +284,7 @@
     "language": "Crystal",
     "name": "crystal-autobot/autobot",
     "stars": 45,
-    "updated_at": "2026-09-08T07:55:11Z",
+    "updated_at": "2026-09-08T08:13:57Z",
     "url": "https://github.com/crystal-autobot/autobot"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/zkysar1/Claude-Mind"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-08T06:56:01Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -385,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T06:49:58Z",
     "url": "https://github.com/H-outsider/CortexGo"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 5060,
-    "updated_at": "2026-09-08T07:54:23Z",
-    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -421,32 +448,5 @@
     "stars": 31,
     "updated_at": "2026-09-08T06:39:46Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
-    "id": "ParsifalC/codex-flow",
-    "language": "Python",
-    "name": "ParsifalC/codex-flow",
-    "stars": 7,
-    "updated_at": "2026-09-08T06:37:21Z",
-    "url": "https://github.com/ParsifalC/codex-flow"
-  },
-  {
-    "description": "subs is an agent harness for the cloud. It runs an unprivileged agent loop and uses MCP servers for executing tools. Use",
-    "id": "substructureai/subs",
-    "language": "Rust",
-    "name": "substructureai/subs",
-    "stars": 11,
-    "updated_at": "2026-09-08T06:33:07Z",
-    "url": "https://github.com/substructureai/subs"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T06:32:44Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
