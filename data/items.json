@@ -1,10 +1,109 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 77,
+    "updated_at": "2026-09-08T01:59:15Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 110,
+    "updated_at": "2026-09-08T01:59:07Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-08T01:55:39Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Your own agentic working mate. For long horizon and complex task automation",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 174,
+    "updated_at": "2026-09-08T01:53:32Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35443,
+    "updated_at": "2026-09-08T01:48:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-09-08T01:48:15Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-08T01:47:59Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-08T01:46:58Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-08T01:46:31Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-09-08T01:45:55Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T01:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
-    "stars": 1185,
+    "stars": 1186,
     "updated_at": "2026-09-08T01:44:06Z",
     "url": "https://github.com/clacky-ai/openclacky"
   },
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-08T01:43:51Z",
+    "updated_at": "2026-09-08T01:57:14Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -25,15 +124,6 @@
     "stars": 10,
     "updated_at": "2026-09-08T01:43:20Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 77,
-    "updated_at": "2026-09-08T01:42:42Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
@@ -54,6 +144,15 @@
     "url": "https://github.com/petehottelet/smythe"
   },
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47859,
+    "updated_at": "2026-09-08T01:41:51Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
     "id": "derekhu0002/archgraph",
     "language": "JavaScript",
@@ -72,21 +171,12 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-09-08T01:39:45Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
     "id": "sageox/agent-toolkit",
     "language": "TypeScript",
     "name": "sageox/agent-toolkit",
     "stars": 9,
-    "updated_at": "2026-09-08T01:39:40Z",
+    "updated_at": "2026-09-08T01:57:05Z",
     "url": "https://github.com/sageox/agent-toolkit"
   },
   {
@@ -104,17 +194,8 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13375,
-    "updated_at": "2026-09-08T01:32:43Z",
+    "updated_at": "2026-09-08T01:58:42Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T01:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -131,7 +212,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-08T01:27:04Z",
+    "updated_at": "2026-09-08T01:52:58Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-08T01:31:00Z",
+    "updated_at": "2026-09-08T01:51:48Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -166,7 +247,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 333,
+    "stars": 334,
     "updated_at": "2026-09-08T01:20:18Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -180,21 +261,12 @@
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47858,
-    "updated_at": "2026-09-08T01:41:51Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-08T01:44:05Z",
+    "updated_at": "2026-09-08T01:51:46Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -212,26 +284,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 277,
-    "updated_at": "2026-09-08T01:26:45Z",
+    "updated_at": "2026-09-08T01:51:09Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 110,
-    "updated_at": "2026-09-08T01:39:27Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35442,
-    "updated_at": "2026-09-08T01:05:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
@@ -338,7 +392,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T01:29:21Z",
+    "updated_at": "2026-09-08T01:57:08Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
-    "id": "DevMando/MandoCode.Desktop",
-    "language": "C#",
-    "name": "DevMando/MandoCode.Desktop",
-    "stars": 2,
-    "updated_at": "2026-09-08T01:45:13Z",
-    "url": "https://github.com/DevMando/MandoCode.Desktop"
-  },
-  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-08T00:27:28Z",
     "url": "https://github.com/bugsyhewitt/AlienClaw"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19775,
-    "updated_at": "2026-09-08T00:21:27Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-08T00:20:52Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
-    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "language": "Python",
-    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:15:17Z",
-    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:09:56Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 120,
-    "updated_at": "2026-09-08T00:05:09Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
