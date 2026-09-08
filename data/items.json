@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 77,
-    "updated_at": "2026-09-08T02:15:06Z",
+    "updated_at": "2026-09-08T02:28:40Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9766,
+    "updated_at": "2026-09-08T02:27:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-09-08T02:26:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
+    "id": "petehottelet/smythe",
+    "language": "C",
+    "name": "petehottelet/smythe",
+    "stars": 2,
+    "updated_at": "2026-09-08T02:23:39Z",
+    "url": "https://github.com/petehottelet/smythe"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:22:57Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:21:56Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-08T02:21:44Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-09-08T02:21:23Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "A lightweight, event-driven agent runtime for Go",
+    "id": "loomagent/loom",
+    "language": "Go",
+    "name": "loomagent/loom",
+    "stars": 1,
+    "updated_at": "2026-09-08T02:16:03Z",
+    "url": "https://github.com/loomagent/loom"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T02:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "Cobra-bit-prog/agent-guard",
     "stars": 0,
-    "updated_at": "2026-09-08T02:12:55Z",
+    "updated_at": "2026-09-08T02:16:39Z",
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
@@ -41,17 +122,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-08T02:12:54Z",
+    "updated_at": "2026-09-08T02:26:00Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-09-08T02:07:39Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T02:06:43Z",
+    "updated_at": "2026-09-08T02:19:34Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 47860,
-    "updated_at": "2026-09-08T02:04:16Z",
+    "updated_at": "2026-09-08T02:24:47Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 13375,
     "updated_at": "2026-09-08T02:02:06Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T02:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 174,
-    "updated_at": "2026-09-08T01:53:32Z",
+    "updated_at": "2026-09-08T02:22:04Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-08T02:10:22Z",
+    "updated_at": "2026-09-08T02:29:28Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T01:42:39Z",
     "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "C",
-    "name": "petehottelet/smythe",
-    "stars": 2,
-    "updated_at": "2026-09-08T01:42:29Z",
-    "url": "https://github.com/petehottelet/smythe"
   },
   {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
@@ -248,17 +302,8 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-08T01:52:58Z",
+    "updated_at": "2026-09-08T02:15:29Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-08T02:08:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "PurrCat Agent",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T00:50:55Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-08T00:49:32Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1417,
-    "updated_at": "2026-09-08T00:48:36Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9766,
-    "updated_at": "2026-09-08T00:44:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:40:17Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-08T00:38:36Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
