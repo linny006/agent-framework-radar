@@ -1,11 +1,56 @@
 [
   {
+    "description": "Agentic Operational Infrastructure",
+    "id": "Manu-Arrieta/AOI",
+    "language": "JavaScript",
+    "name": "Manu-Arrieta/AOI",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:08:00Z",
+    "url": "https://github.com/Manu-Arrieta/AOI"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:07:08Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline wo",
+    "id": "CronusL-1141/AI-company",
+    "language": "Python",
+    "name": "CronusL-1141/AI-company",
+    "stars": 358,
+    "updated_at": "2026-09-08T11:04:57Z",
+    "url": "https://github.com/CronusL-1141/AI-company"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 110,
+    "updated_at": "2026-09-08T11:02:58Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T11:00:46Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "tommerty/paseo-cafe",
     "language": "TypeScript",
     "name": "tommerty/paseo-cafe",
-    "stars": 4,
-    "updated_at": "2026-09-08T10:59:30Z",
+    "stars": 5,
+    "updated_at": "2026-09-08T11:08:37Z",
     "url": "https://github.com/tommerty/paseo-cafe"
   },
   {
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-08T10:59:35Z",
+    "updated_at": "2026-09-08T11:13:15Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 47880,
     "updated_at": "2026-09-08T10:45:45Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T10:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A durable, long-running AI engineering partner.",
@@ -257,17 +293,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9775,
-    "updated_at": "2026-09-08T10:59:38Z",
+    "updated_at": "2026-09-08T11:11:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Agentic Operational Infrastructure",
-    "id": "Manu-Arrieta/AOI",
-    "language": "JavaScript",
-    "name": "Manu-Arrieta/AOI",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:17:18Z",
-    "url": "https://github.com/Manu-Arrieta/AOI"
   },
   {
     "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T10:38:15Z",
+    "updated_at": "2026-09-08T11:06:32Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -355,7 +382,7 @@
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
-    "stars": 6890,
+    "stars": 6891,
     "updated_at": "2026-09-08T09:55:31Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T09:28:23Z",
     "url": "https://github.com/ellmos-ai/swarm_ai"
-  },
-  {
-    "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
-    "id": "geniusdapeng-collab/hyperreality-system",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/hyperreality-system",
-    "stars": 10,
-    "updated_at": "2026-09-08T09:27:19Z",
-    "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-08T09:26:38Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "A Blazor Web App playground for quickly testing agents built with Microsoft Agent Framework",
-    "id": "marcominerva/AgentPlayground",
-    "language": "HTML",
-    "name": "marcominerva/AgentPlayground",
-    "stars": 20,
-    "updated_at": "2026-09-08T09:32:44Z",
-    "url": "https://github.com/marcominerva/AgentPlayground"
   }
 ]
