@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T21:24:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 31,
+    "updated_at": "2026-09-08T21:30:17Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35457,
-    "updated_at": "2026-09-08T21:20:32Z",
+    "stars": 35458,
+    "updated_at": "2026-09-08T21:29:00Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -27,6 +45,15 @@
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
+    "description": "Your own agentic working mate. For long horizon and complex task automation",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 178,
+    "updated_at": "2026-09-08T21:16:34Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
     "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
     "id": "YQteam-dyq/yq-nova-agent",
     "language": "Rust",
@@ -43,15 +70,6 @@
     "stars": 9786,
     "updated_at": "2026-09-08T21:20:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T21:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1327,
-    "updated_at": "2026-09-08T21:07:42Z",
+    "updated_at": "2026-09-08T21:24:20Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 2,
-    "updated_at": "2026-09-08T20:49:20Z",
+    "updated_at": "2026-09-08T21:26:39Z",
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 2,
-    "updated_at": "2026-09-08T21:18:51Z",
+    "updated_at": "2026-09-08T21:30:05Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 6222,
-    "updated_at": "2026-09-08T21:03:12Z",
+    "updated_at": "2026-09-08T21:24:43Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 1620,
     "updated_at": "2026-09-08T20:20:57Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Your own agentic working mate. For long horizon and complex task automation",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 178,
-    "updated_at": "2026-09-08T21:16:34Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Agentic Operational Infrastructure",
@@ -439,14 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-08T19:42:52Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13403,
-    "updated_at": "2026-09-08T19:41:52Z",
-    "url": "https://github.com/microsoft/agent-framework"
   }
 ]
