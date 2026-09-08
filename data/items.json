@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 77,
-    "updated_at": "2026-09-08T01:59:15Z",
+    "updated_at": "2026-09-08T02:15:06Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 110,
-    "updated_at": "2026-09-08T01:59:07Z",
-    "url": "https://github.com/assafkip/kipi-system"
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 23,
+    "updated_at": "2026-09-08T02:14:00Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 58,
+    "updated_at": "2026-09-08T02:13:36Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
+    "id": "Cobra-bit-prog/agent-guard",
+    "language": "TypeScript",
+    "name": "Cobra-bit-prog/agent-guard",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:12:55Z",
+    "url": "https://github.com/Cobra-bit-prog/agent-guard"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1326,
+    "updated_at": "2026-09-08T02:12:54Z",
+    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -23,8 +50,62 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-08T01:55:39Z",
+    "updated_at": "2026-09-08T02:07:39Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 9,
+    "updated_at": "2026-09-08T02:07:33Z",
+    "url": "https://github.com/sageox/agent-toolkit"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:06:43Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47860,
+    "updated_at": "2026-09-08T02:04:16Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13375,
+    "updated_at": "2026-09-08T02:02:06Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T02:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 110,
+    "updated_at": "2026-09-08T02:06:47Z",
+    "url": "https://github.com/assafkip/kipi-system"
   },
   {
     "description": "Your own agentic working mate. For long horizon and complex task automation",
@@ -40,7 +121,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35443,
+    "stars": 35442,
     "updated_at": "2026-09-08T01:48:50Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -90,15 +171,6 @@
     "url": "https://github.com/hrabanazviking/hrabanazviking"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T01:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
@@ -108,21 +180,12 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1326,
-    "updated_at": "2026-09-08T01:57:14Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-08T01:43:20Z",
+    "updated_at": "2026-09-08T02:10:22Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/petehottelet/smythe"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47859,
-    "updated_at": "2026-09-08T01:41:51Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
     "id": "derekhu0002/archgraph",
     "language": "JavaScript",
@@ -171,15 +225,6 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
-    "id": "sageox/agent-toolkit",
-    "language": "TypeScript",
-    "name": "sageox/agent-toolkit",
-    "stars": 9,
-    "updated_at": "2026-09-08T01:57:05Z",
-    "url": "https://github.com/sageox/agent-toolkit"
-  },
-  {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
     "id": "fworks-tech/agenthood",
     "language": "TypeScript",
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-09-08T01:35:49Z",
     "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13375,
-    "updated_at": "2026-09-08T01:58:42Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-09-08T01:51:48Z",
+    "updated_at": "2026-09-08T02:08:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-09-08T01:06:42Z",
+    "updated_at": "2026-09-08T02:13:37Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 23,
-    "updated_at": "2026-09-08T00:49:47Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -385,15 +412,6 @@
     "stars": 5,
     "updated_at": "2026-09-08T00:49:32Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-08T01:57:08Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
@@ -430,23 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-08T00:38:36Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-08T00:31:46Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Open-source agent infrastructure with evolving Martian genomes. Three governance agents. Martians mutate and compete on ",
-    "id": "bugsyhewitt/AlienClaw",
-    "language": "TypeScript",
-    "name": "bugsyhewitt/AlienClaw",
-    "stars": 7,
-    "updated_at": "2026-09-08T00:27:28Z",
-    "url": "https://github.com/bugsyhewitt/AlienClaw"
   }
 ]
