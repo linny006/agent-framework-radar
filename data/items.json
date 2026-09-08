@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-08T11:13:45Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agentic Operational Infrastructure",
     "id": "Manu-Arrieta/AOI",
     "language": "JavaScript",
@@ -36,15 +45,6 @@
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-08T11:00:46Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "tommerty/paseo-cafe",
     "language": "TypeScript",
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1326,
-    "updated_at": "2026-09-08T11:13:15Z",
+    "updated_at": "2026-09-08T11:15:14Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-08T10:58:47Z",
+    "updated_at": "2026-09-08T11:13:55Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -320,7 +320,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-08T11:06:32Z",
+    "updated_at": "2026-09-08T11:14:51Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19788,
-    "updated_at": "2026-09-08T09:57:18Z",
+    "updated_at": "2026-09-08T11:14:52Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
