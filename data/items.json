@@ -1,5 +1,68 @@
 [
   {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35461,
+    "updated_at": "2026-09-09T09:15:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T09:06:00Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Model-agnostic runtime for structured AI organizations - hierarchical multi-agent systems with a CEO, executives, manage",
+    "id": "NAME0x0/OpenEchelon",
+    "language": "Python",
+    "name": "NAME0x0/OpenEchelon",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:03:35Z",
+    "url": "https://github.com/NAME0x0/OpenEchelon"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 67,
+    "updated_at": "2026-09-09T09:02:28Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13416,
+    "updated_at": "2026-09-09T09:13:44Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "\u57fa\u4e8e Go \u8bed\u8a00\u6784\u5efa\u7684\u4f01\u4e1a\u7ea7 AI Agent \u6846\u67b6\uff0c\u63d0\u4f9b\u5b8c\u6574\u7684\u5bf9\u8bdd AI\u3001\u77e5\u8bc6\u7ba1\u7406\u3001\u8bb0\u5fc6\u7cfb\u7edf\u548c\u5de5\u5177\u8c03\u7528\u80fd\u529b",
+    "id": "H-outsider/CortexGo",
+    "language": "Go",
+    "name": "H-outsider/CortexGo",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:00:42Z",
+    "url": "https://github.com/H-outsider/CortexGo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T09:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Kaiban Distributed - Distributed Agentic AI Platform - Actor Model Kanban Framework Implementation with Enterprise Messa",
     "id": "andreibesleaga/kaiban-distributed",
     "language": "TypeScript",
@@ -7,6 +70,15 @@
     "stars": 6,
     "updated_at": "2026-09-09T08:59:03Z",
     "url": "https://github.com/andreibesleaga/kaiban-distributed"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-09T08:58:53Z",
+    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -18,6 +90,15 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 31,
+    "updated_at": "2026-09-09T08:58:36Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
@@ -25,24 +106,6 @@
     "stars": 13,
     "updated_at": "2026-09-09T08:57:54Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T09:00:17Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13416,
-    "updated_at": "2026-09-09T08:57:40Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9800,
-    "updated_at": "2026-09-09T08:59:37Z",
+    "updated_at": "2026-09-09T09:13:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T08:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
@@ -144,15 +198,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "PurrCat Agent",
-    "id": "PurrPod/purrcat",
-    "language": "Python",
-    "name": "PurrPod/purrcat",
-    "stars": 31,
-    "updated_at": "2026-09-09T08:58:36Z",
-    "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -167,7 +212,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-09T08:34:07Z",
+    "updated_at": "2026-09-09T09:08:59Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19823,
-    "updated_at": "2026-09-09T08:40:29Z",
+    "updated_at": "2026-09-09T09:15:14Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 10,
     "updated_at": "2026-09-09T08:27:32Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "\u57fa\u4e8e Go \u8bed\u8a00\u6784\u5efa\u7684\u4f01\u4e1a\u7ea7 AI Agent \u6846\u67b6\uff0c\u63d0\u4f9b\u5b8c\u6574\u7684\u5bf9\u8bdd AI\u3001\u77e5\u8bc6\u7ba1\u7406\u3001\u8bb0\u5fc6\u7cfb\u7edf\u548c\u5de5\u5177\u8c03\u7528\u80fd\u529b",
-    "id": "H-outsider/CortexGo",
-    "language": "Go",
-    "name": "H-outsider/CortexGo",
-    "stars": 0,
-    "updated_at": "2026-09-09T08:23:18Z",
-    "url": "https://github.com/H-outsider/CortexGo"
   },
   {
     "description": "Your own agentic working mate. For long horizon and complex task automation",
@@ -239,7 +275,7 @@
     "language": "C++",
     "name": "kungfu-systems/kungfu",
     "stars": 4513,
-    "updated_at": "2026-09-09T08:21:46Z",
+    "updated_at": "2026-09-09T09:11:17Z",
     "url": "https://github.com/kungfu-systems/kungfu"
   },
   {
@@ -248,17 +284,8 @@
     "language": "Python",
     "name": "ellmos-ai/GARDENER",
     "stars": 1,
-    "updated_at": "2026-09-09T08:59:46Z",
+    "updated_at": "2026-09-09T09:14:18Z",
     "url": "https://github.com/ellmos-ai/GARDENER"
-  },
-  {
-    "description": "Model-agnostic runtime for structured AI organizations - hierarchical multi-agent systems with a CEO, executives, manage",
-    "id": "NAME0x0/OpenEchelon",
-    "language": "\u2014",
-    "name": "NAME0x0/OpenEchelon",
-    "stars": 0,
-    "updated_at": "2026-09-09T08:22:53Z",
-    "url": "https://github.com/NAME0x0/OpenEchelon"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -288,6 +315,15 @@
     "url": "https://github.com/StateKnot/StateKnot"
   },
   {
+    "description": "Libra: Efficient Resource Management for Agentic RL Post-Training",
+    "id": "NetX-lab/Libra",
+    "language": "Python",
+    "name": "NetX-lab/Libra",
+    "stars": 201,
+    "updated_at": "2026-09-09T08:10:14Z",
+    "url": "https://github.com/NetX-lab/Libra"
+  },
+  {
     "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 22,
-    "updated_at": "2026-09-09T08:22:21Z",
+    "updated_at": "2026-09-09T09:12:03Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -311,17 +347,8 @@
     "language": "Go",
     "name": "damonleelcx/J.A.R.V.I.S.-agent",
     "stars": 0,
-    "updated_at": "2026-09-09T08:01:36Z",
+    "updated_at": "2026-09-09T09:14:33Z",
     "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-09-09T08:58:53Z",
-    "url": "https://github.com/opencue/cuecards"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -378,15 +405,6 @@
     "url": "https://github.com/OWWZO/ai-agent"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35461,
-    "updated_at": "2026-09-09T07:29:26Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
     "id": "sattyamjjain/ferrumdeck",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-09T07:49:49Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6894,
-    "updated_at": "2026-09-09T06:55:30Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1417,
-    "updated_at": "2026-09-09T06:52:29Z",
-    "url": "https://github.com/inkeep/agents"
   }
 ]
