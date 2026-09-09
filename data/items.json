@@ -1,12 +1,66 @@
 [
   {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 14,
+    "updated_at": "2026-09-09T21:15:20Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
+    "id": "tropo-ai/tropo",
+    "language": "Python",
+    "name": "tropo-ai/tropo",
+    "stars": 1,
+    "updated_at": "2026-09-09T21:14:16Z",
+    "url": "https://github.com/tropo-ai/tropo"
+  },
+  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-09T21:10:01Z",
+    "updated_at": "2026-09-09T21:14:09Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "DSPy Go implementation",
+    "id": "XiaoConstantine/dspy-go",
+    "language": "Go",
+    "name": "XiaoConstantine/dspy-go",
+    "stars": 195,
+    "updated_at": "2026-09-09T21:13:28Z",
+    "url": "https://github.com/XiaoConstantine/dspy-go"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9809,
+    "updated_at": "2026-09-09T21:12:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
+    "id": "plaited/behavioral",
+    "language": "TypeScript",
+    "name": "plaited/behavioral",
+    "stars": 10,
+    "updated_at": "2026-09-09T21:11:44Z",
+    "url": "https://github.com/plaited/behavioral"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T21:10:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AGENT OS System",
@@ -27,21 +81,12 @@
     "url": "https://github.com/1picassoai/picasso"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9809,
-    "updated_at": "2026-09-09T21:08:17Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-09T21:06:22Z",
+    "updated_at": "2026-09-09T21:14:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -76,18 +121,9 @@
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
-    "stars": 184,
+    "stars": 185,
     "updated_at": "2026-09-09T21:00:48Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T21:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "polycog/cognition",
     "stars": 0,
-    "updated_at": "2026-09-09T20:59:18Z",
+    "updated_at": "2026-09-09T21:12:51Z",
     "url": "https://github.com/polycog/cognition"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 3,
-    "updated_at": "2026-09-09T21:10:20Z",
+    "updated_at": "2026-09-09T21:13:43Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "DSPy Go implementation",
-    "id": "XiaoConstantine/dspy-go",
-    "language": "Go",
-    "name": "XiaoConstantine/dspy-go",
-    "stars": 195,
-    "updated_at": "2026-09-09T20:45:36Z",
-    "url": "https://github.com/XiaoConstantine/dspy-go"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -214,15 +241,6 @@
     "stars": 19832,
     "updated_at": "2026-09-09T20:35:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
-    "id": "plaited/behavioral",
-    "language": "TypeScript",
-    "name": "plaited/behavioral",
-    "stars": 10,
-    "updated_at": "2026-09-09T20:29:28Z",
-    "url": "https://github.com/plaited/behavioral"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-09-09T20:04:14Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 31,
-    "updated_at": "2026-09-09T20:01:22Z",
-    "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:01:16Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
   }
 ]
