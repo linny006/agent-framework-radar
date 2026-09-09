@@ -1,5 +1,104 @@
 [
   {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-09T17:42:24Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
+    "id": "Zuga-Technologies/zugamind",
+    "language": "Python",
+    "name": "Zuga-Technologies/zugamind",
+    "stars": 14,
+    "updated_at": "2026-09-09T17:41:52Z",
+    "url": "https://github.com/Zuga-Technologies/zugamind"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-09T17:40:26Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-09T17:40:12Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13430,
+    "updated_at": "2026-09-09T17:40:04Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 8,
+    "updated_at": "2026-09-09T17:37:52Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-09-09T17:36:44Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-09-09T17:35:56Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-09-09T17:35:18Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 120,
+    "updated_at": "2026-09-09T17:33:14Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T17:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -50,7 +149,7 @@
     "language": "Shell",
     "name": "pereirawe/opencode-flow",
     "stars": 2,
-    "updated_at": "2026-09-09T17:25:14Z",
+    "updated_at": "2026-09-09T17:45:08Z",
     "url": "https://github.com/pereirawe/opencode-flow"
   },
   {
@@ -99,21 +198,12 @@
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 3,
-    "updated_at": "2026-09-09T17:28:40Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
     "id": "tinyhumansai/tinyhivemind",
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 3,
-    "updated_at": "2026-09-09T17:23:17Z",
+    "updated_at": "2026-09-09T17:36:14Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 47942,
     "updated_at": "2026-09-09T17:16:18Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T17:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A community driven directory of paseo.sh plugins",
@@ -176,7 +257,7 @@
     "language": "TypeScript",
     "name": "roackb2/heddle",
     "stars": 25,
-    "updated_at": "2026-09-09T17:07:05Z",
+    "updated_at": "2026-09-09T17:33:12Z",
     "url": "https://github.com/roackb2/heddle"
   },
   {
@@ -185,7 +266,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 184,
-    "updated_at": "2026-09-09T17:26:40Z",
+    "updated_at": "2026-09-09T17:39:03Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -221,7 +302,7 @@
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 265,
-    "updated_at": "2026-09-09T16:58:01Z",
+    "updated_at": "2026-09-09T17:41:36Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
@@ -248,7 +329,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 53,
-    "updated_at": "2026-09-09T17:09:59Z",
+    "updated_at": "2026-09-09T17:35:20Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -279,21 +360,12 @@
     "url": "https://github.com/osovv/vv-opencode"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13429,
-    "updated_at": "2026-09-09T17:25:40Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T16:55:39Z",
+    "updated_at": "2026-09-09T17:31:50Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -302,7 +374,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 11,
-    "updated_at": "2026-09-09T17:10:40Z",
+    "updated_at": "2026-09-09T17:35:35Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-09T16:33:11Z",
     "url": "https://github.com/geniusdapeng-collab/hyperreality-system"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-09T17:24:58Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-09-09T16:29:30Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35459,
-    "updated_at": "2026-09-09T16:27:50Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 1,
-    "updated_at": "2026-09-09T16:23:57Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-09T16:33:22Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
-    "id": "B1ueMu3ic4m/approximately",
-    "language": "Python",
-    "name": "B1ueMu3ic4m/approximately",
-    "stars": 1,
-    "updated_at": "2026-09-09T16:22:04Z",
-    "url": "https://github.com/B1ueMu3ic4m/approximately"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 13,
-    "updated_at": "2026-09-09T17:25:33Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
-    "id": "trbearth/fieldwork-agent-os",
-    "language": "CSS",
-    "name": "trbearth/fieldwork-agent-os",
-    "stars": 0,
-    "updated_at": "2026-09-09T16:17:56Z",
-    "url": "https://github.com/trbearth/fieldwork-agent-os"
   }
 ]
