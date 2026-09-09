@@ -1,12 +1,75 @@
 [
   {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-09T12:41:19Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 68,
+    "updated_at": "2026-09-09T12:40:56Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "paseo-cafe/paseo-cafe",
     "language": "TypeScript",
     "name": "paseo-cafe/paseo-cafe",
     "stars": 9,
-    "updated_at": "2026-09-09T12:28:36Z",
+    "updated_at": "2026-09-09T12:40:08Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/nitro",
+    "language": "C++",
+    "name": "chrisws/nitro",
+    "stars": 3,
+    "updated_at": "2026-09-09T12:40:06Z",
+    "url": "https://github.com/chrisws/nitro"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2292,
+    "updated_at": "2026-09-09T12:36:32Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35462,
+    "updated_at": "2026-09-09T12:43:05Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7182,
+    "updated_at": "2026-09-09T12:32:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T12:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your agents don\u2019t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own exec",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13422,
-    "updated_at": "2026-09-09T12:21:31Z",
+    "updated_at": "2026-09-09T12:35:41Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T12:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
@@ -142,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-09-09T12:13:27Z",
     "url": "https://github.com/Luo-root/pulse"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35462,
-    "updated_at": "2026-09-09T12:27:53Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "ellmos-ai/skills",
     "stars": 4,
-    "updated_at": "2026-09-09T12:01:17Z",
+    "updated_at": "2026-09-09T12:35:06Z",
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "damonleelcx/J.A.R.V.I.S.-agent",
     "stars": 0,
-    "updated_at": "2026-09-09T11:57:14Z",
+    "updated_at": "2026-09-09T12:31:53Z",
     "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9805,
-    "updated_at": "2026-09-09T11:51:54Z",
+    "updated_at": "2026-09-09T12:42:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T11:46:11Z",
     "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-09-09T11:45:00Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:41:09Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
-    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "language": "Python",
-    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:38:30Z",
-    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 1,
-    "updated_at": "2026-09-09T11:38:03Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-09-09T11:25:19Z",
-    "url": "https://github.com/opencue/cuecards"
   }
 ]
