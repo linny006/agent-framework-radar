@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T23:13:01Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9809,
-    "updated_at": "2026-09-09T23:11:25Z",
+    "updated_at": "2026-09-09T23:13:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -40,7 +49,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13438,
+    "stars": 13439,
     "updated_at": "2026-09-09T23:02:41Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -52,15 +61,6 @@
     "stars": 14,
     "updated_at": "2026-09-09T23:02:08Z",
     "url": "https://github.com/fpytloun/cognis"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T23:00:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",

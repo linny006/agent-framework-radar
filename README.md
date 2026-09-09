@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-09 23:13 UTC
+> ⏰ Last updated: 2026-09-09 23:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 186 | TypeScript | 2026-09-09 | Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads. |
-| 2 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9809 | Python | 2026-09-09 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 3 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-09-09 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
-| 4 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-09-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 5 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 13438 | Python | 2026-09-09 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
-| 6 | [fpytloun/cognis](https://github.com/fpytloun/cognis) | 14 | Python | 2026-09-09 | Agentic OS done right — create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory,  |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 186 | TypeScript | 2026-09-09 | Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads. |
+| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9809 | Python | 2026-09-09 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 4 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-09-09 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
+| 5 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-09-09 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 6 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 13439 | Python | 2026-09-09 | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N |
+| 7 | [fpytloun/cognis](https://github.com/fpytloun/cognis) | 14 | Python | 2026-09-09 | Agentic OS done right — create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory,  |
 | 8 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 2 | HTML | 2026-09-09 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
 | 9 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-09 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
 | 10 | [skerry699/agent-symphony](https://github.com/skerry699/agent-symphony) | 120 | HTML | 2026-09-09 | Multi-Agent AI Task Orchestrator 2026 |
