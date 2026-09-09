@@ -1,5 +1,77 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9809,
+    "updated_at": "2026-09-09T22:13:54Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 120,
+    "updated_at": "2026-09-09T22:13:17Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-09T22:10:08Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Reasoning foundation for trustworthy agents.",
+    "id": "polycog/cognition",
+    "language": "Python",
+    "name": "polycog/cognition",
+    "stars": 0,
+    "updated_at": "2026-09-09T22:08:20Z",
+    "url": "https://github.com/polycog/cognition"
+  },
+  {
+    "description": "Hive mind mechanics for agents. A step closer towards AGI",
+    "id": "tinyhumansai/tinyhivemind",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyhivemind",
+    "stars": 3,
+    "updated_at": "2026-09-09T22:08:04Z",
+    "url": "https://github.com/tinyhumansai/tinyhivemind"
+  },
+  {
+    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
+    "id": "plaited/behavioral",
+    "language": "TypeScript",
+    "name": "plaited/behavioral",
+    "stars": 10,
+    "updated_at": "2026-09-09T22:06:24Z",
+    "url": "https://github.com/plaited/behavioral"
+  },
+  {
+    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
+    "id": "ek33450505/claude-agent-team",
+    "language": "Shell",
+    "name": "ek33450505/claude-agent-team",
+    "stars": 8,
+    "updated_at": "2026-09-09T22:02:18Z",
+    "url": "https://github.com/ek33450505/claude-agent-team"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T22:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -45,15 +117,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9809,
-    "updated_at": "2026-09-09T21:56:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
     "id": "swombat/souls-house",
     "language": "Ruby",
@@ -61,15 +124,6 @@
     "stars": 42,
     "updated_at": "2026-09-09T21:54:55Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-09T21:50:48Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -88,24 +142,6 @@
     "stars": 52,
     "updated_at": "2026-09-09T21:45:46Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Reasoning foundation for trustworthy agents.",
-    "id": "polycog/cognition",
-    "language": "Python",
-    "name": "polycog/cognition",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:45:24Z",
-    "url": "https://github.com/polycog/cognition"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T21:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "zDSH-Go \u2014 the out-of-the-box, fully integrated zDSH distribution. A fork of deepseek-ai/deepseek-harness with all self-d",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 0,
-    "updated_at": "2026-09-09T21:41:30Z",
+    "updated_at": "2026-09-09T22:09:31Z",
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Hive mind mechanics for agents. A step closer towards AGI",
-    "id": "tinyhumansai/tinyhivemind",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyhivemind",
-    "stars": 3,
-    "updated_at": "2026-09-09T21:33:53Z",
-    "url": "https://github.com/tinyhumansai/tinyhivemind"
-  },
-  {
     "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
     "id": "tropo-ai/tropo",
     "language": "Python",
@@ -324,15 +351,6 @@
     "url": "https://github.com/XiaoConstantine/dspy-go"
   },
   {
-    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
-    "id": "plaited/behavioral",
-    "language": "TypeScript",
-    "name": "plaited/behavioral",
-    "stars": 10,
-    "updated_at": "2026-09-09T21:11:44Z",
-    "url": "https://github.com/plaited/behavioral"
-  },
-  {
     "description": "AGENT OS System",
     "id": "showjihyun/aether",
     "language": "Shell",
@@ -349,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T21:05:11Z",
     "url": "https://github.com/1picassoai/picasso"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-09-09T21:09:26Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -409,7 +418,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19833,
+    "stars": 19835,
     "updated_at": "2026-09-09T20:35:06Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -439,14 +448,5 @@
     "stars": 26,
     "updated_at": "2026-09-09T20:21:04Z",
     "url": "https://github.com/Gald3r-Labs/gald3r"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:21:00Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
   }
 ]
