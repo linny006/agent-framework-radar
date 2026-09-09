@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 5064,
+    "updated_at": "2026-09-09T05:44:55Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9794,
+    "updated_at": "2026-09-09T05:43:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-09-09T05:43:03Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u57fa\u4e8e Go \u8bed\u8a00\u6784\u5efa\u7684\u4f01\u4e1a\u7ea7 AI Agent \u6846\u67b6\uff0c\u63d0\u4f9b\u5b8c\u6574\u7684\u5bf9\u8bdd AI\u3001\u77e5\u8bc6\u7ba1\u7406\u3001\u8bb0\u5fc6\u7cfb\u7edf\u548c\u5de5\u5177\u8c03\u7528\u80fd\u529b",
+    "id": "H-outsider/CortexGo",
+    "language": "Go",
+    "name": "H-outsider/CortexGo",
+    "stars": 0,
+    "updated_at": "2026-09-09T05:42:53Z",
+    "url": "https://github.com/H-outsider/CortexGo"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47912,
+    "updated_at": "2026-09-09T05:36:50Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Search, understand, reproduce, and improve an idea with ease",
+    "id": "inclusionAI/AWorld",
+    "language": "Python",
+    "name": "inclusionAI/AWorld",
+    "stars": 1230,
+    "updated_at": "2026-09-09T05:35:57Z",
+    "url": "https://github.com/inclusionAI/AWorld"
+  },
+  {
+    "description": "\u914d\u7f6e\u9a71\u52a8\u3001\u53ef\u6062\u590d\u7684 Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u5bbf\u4e3b\u9a8c\u6536\u3001\u6709\u754c Loop\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run \u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
+    "id": "Eclipseic1848/CoreMind",
+    "language": "TypeScript",
+    "name": "Eclipseic1848/CoreMind",
+    "stars": 5,
+    "updated_at": "2026-09-09T05:33:30Z",
+    "url": "https://github.com/Eclipseic1848/CoreMind"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "Python",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 2,
+    "updated_at": "2026-09-09T05:32:13Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T05:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
     "id": "abubakarsiddik31/golem",
     "language": "Go",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-09T05:22:47Z",
+    "updated_at": "2026-09-09T05:42:23Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -133,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-09-09T05:22:38Z",
     "url": "https://github.com/DeliveryPerson2004/GexepAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9793,
-    "updated_at": "2026-09-09T05:30:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -216,15 +288,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T05:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
     "id": "muhamedali7713/agent-audit",
     "language": "Python",
@@ -250,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T05:14:28Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 47911,
-    "updated_at": "2026-09-09T05:14:14Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T05:07:45Z",
     "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Security-first agent harness built for long horizon research and work capabilities with increased focus on math, compute",
-    "id": "YahyaHammad/Venastine-Research-Harness",
-    "language": "Python",
-    "name": "YahyaHammad/Venastine-Research-Harness",
-    "stars": 2,
-    "updated_at": "2026-09-09T05:06:43Z",
-    "url": "https://github.com/YahyaHammad/Venastine-Research-Harness"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:06:11Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-09-09T05:06:04Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-09-09T05:05:32Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-09-09T05:05:14Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-09-09T05:05:11Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
   }
 ]
