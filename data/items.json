@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T11:27:18Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "damonleelcx/J.A.R.V.I.S.-agent",
     "stars": 0,
-    "updated_at": "2026-09-09T11:25:05Z",
+    "updated_at": "2026-09-09T11:29:16Z",
     "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
@@ -25,6 +34,15 @@
     "stars": 3,
     "updated_at": "2026-09-09T11:23:17Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 725,
+    "updated_at": "2026-09-09T11:22:56Z",
+    "url": "https://github.com/rapidaai/voice-ai"
   },
   {
     "description": "The coding agent that survives kill -9: event-sourced sessions, approvals that persist across processes, exact resume af",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-09T11:19:16Z",
+    "updated_at": "2026-09-09T11:27:26Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 39,
     "updated_at": "2026-09-09T11:16:10Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T11:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
@@ -167,8 +176,17 @@
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 0,
-    "updated_at": "2026-09-09T10:55:23Z",
+    "updated_at": "2026-09-09T11:27:48Z",
     "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Marcel - autonomous agent framework with configurable providers, orchestration, sub-agents, and messaging gateways.",
+    "id": "AIMarce1a/marcel-agent",
+    "language": "\u2014",
+    "name": "AIMarce1a/marcel-agent",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:55:05Z",
+    "url": "https://github.com/AIMarce1a/marcel-agent"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 62,
-    "updated_at": "2026-09-09T11:10:01Z",
+    "updated_at": "2026-09-09T11:30:15Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 5070,
-    "updated_at": "2026-09-09T11:20:49Z",
+    "updated_at": "2026-09-09T11:28:13Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 415,
     "updated_at": "2026-09-09T10:04:01Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 16,
-    "updated_at": "2026-09-09T11:10:27Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 3,
-    "updated_at": "2026-09-09T09:59:13Z",
-    "url": "https://github.com/derekhu0002/archgraph"
   }
 ]
