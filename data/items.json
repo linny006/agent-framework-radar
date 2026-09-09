@@ -1,12 +1,147 @@
 [
   {
+    "description": "zDSH-Go \u2014 the out-of-the-box, fully integrated zDSH distribution. A fork of deepseek-ai/deepseek-harness with all self-d",
+    "id": "zsagi1368/zDSH-Go",
+    "language": "TypeScript",
+    "name": "zsagi1368/zDSH-Go",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:45:09Z",
+    "url": "https://github.com/zsagi1368/zDSH-Go"
+  },
+  {
+    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
+    "id": "ayman3000/SwiftAgentKit",
+    "language": "Swift",
+    "name": "ayman3000/SwiftAgentKit",
+    "stars": 1,
+    "updated_at": "2026-09-09T21:43:44Z",
+    "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-09T21:43:40Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-09T21:41:40Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:41:30Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Official tutorial series for cognition \u2014 a neurosymbolic agent framework combining probabilistic frontier models with de",
+    "id": "polycog/tutorials",
+    "language": "Jupyter Notebook",
+    "name": "polycog/tutorials",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:40:57Z",
+    "url": "https://github.com/polycog/tutorials"
+  },
+  {
+    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
+    "id": "fpytloun/cognis",
+    "language": "Python",
+    "name": "fpytloun/cognis",
+    "stars": 14,
+    "updated_at": "2026-09-09T21:37:39Z",
+    "url": "https://github.com/fpytloun/cognis"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-09T21:37:26Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
     "description": "Many Agents, one objective... yours ",
     "id": "brandonkindred/Khala-Agentic-AI-Teams",
     "language": "Python",
     "name": "brandonkindred/Khala-Agentic-AI-Teams",
     "stars": 5,
-    "updated_at": "2026-09-09T21:28:47Z",
+    "updated_at": "2026-09-09T21:40:54Z",
     "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:36:07Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 14,
+    "updated_at": "2026-09-09T21:33:34Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "Reasoning foundation for trustworthy agents.",
+    "id": "polycog/cognition",
+    "language": "Python",
+    "name": "polycog/cognition",
+    "stars": 0,
+    "updated_at": "2026-09-09T21:35:53Z",
+    "url": "https://github.com/polycog/cognition"
+  },
+  {
+    "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
+    "id": "pereirawe/opencode-flow",
+    "language": "Shell",
+    "name": "pereirawe/opencode-flow",
+    "stars": 2,
+    "updated_at": "2026-09-09T21:32:39Z",
+    "url": "https://github.com/pereirawe/opencode-flow"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7184,
+    "updated_at": "2026-09-09T21:31:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T21:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-09T21:30:24Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -43,15 +178,6 @@
     "stars": 52,
     "updated_at": "2026-09-09T21:24:25Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Reasoning foundation for trustworthy agents.",
-    "id": "polycog/cognition",
-    "language": "Python",
-    "name": "polycog/cognition",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:21:40Z",
-    "url": "https://github.com/polycog/cognition"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -104,26 +230,8 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 3,
-    "updated_at": "2026-09-09T21:29:33Z",
+    "updated_at": "2026-09-09T21:33:53Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
-  },
-  {
-    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
-    "id": "fpytloun/cognis",
-    "language": "Python",
-    "name": "fpytloun/cognis",
-    "stars": 14,
-    "updated_at": "2026-09-09T21:17:37Z",
-    "url": "https://github.com/fpytloun/cognis"
-  },
-  {
-    "description": "zDSH-Go \u2014 the out-of-the-box, fully integrated zDSH distribution. A fork of deepseek-ai/deepseek-harness with all self-d",
-    "id": "zsagi1368/zDSH-Go",
-    "language": "TypeScript",
-    "name": "zsagi1368/zDSH-Go",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:17:06Z",
-    "url": "https://github.com/zsagi1368/zDSH-Go"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -133,24 +241,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T21:16:29Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T21:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 14,
-    "updated_at": "2026-09-09T21:26:57Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
@@ -198,15 +288,6 @@
     "url": "https://github.com/1picassoai/picasso"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-09T21:14:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
     "id": "ek33450505/claude-agent-team",
     "language": "Shell",
@@ -214,15 +295,6 @@
     "stars": 8,
     "updated_at": "2026-09-09T21:09:26Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-09T21:04:01Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
@@ -250,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T20:58:25Z",
     "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-09T20:57:32Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 0,
-    "updated_at": "2026-09-09T21:08:14Z",
-    "url": "https://github.com/LioRael/lenso-agent"
   },
   {
     "description": "Agent friendly memory system ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T20:12:41Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6227,
-    "updated_at": "2026-09-09T20:11:34Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:11:03Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-09-09T20:10:56Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 1,
-    "updated_at": "2026-09-09T20:10:54Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-09-09T20:10:05Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-09T20:09:42Z",
-    "url": "https://github.com/vmy41/agent-harness"
   }
 ]
