@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T15:14:13Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -27,21 +36,12 @@
     "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T15:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-09T15:06:43Z",
+    "updated_at": "2026-09-09T15:14:27Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -124,6 +124,15 @@
     "stars": 2,
     "updated_at": "2026-09-09T14:51:55Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-09T14:50:18Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
     "description": "Hollywood-grade AI video production system: Multi-Agent orchestration, 25-field cinematic shot language, and automated f",
@@ -306,15 +315,6 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-09T14:50:18Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
     "id": "daniel06s6995/deepseek-harness-software-OPC",
     "language": "JavaScript",
@@ -347,7 +347,7 @@
     "language": "Rust",
     "name": "George-RD/openspine",
     "stars": 2,
-    "updated_at": "2026-09-09T15:05:56Z",
+    "updated_at": "2026-09-09T15:14:14Z",
     "url": "https://github.com/George-RD/openspine"
   },
   {
