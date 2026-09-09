@@ -1,12 +1,21 @@
 [
   {
-    "description": "",
-    "id": "Fareground/agent-sdk",
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 53,
+    "updated_at": "2026-09-09T01:24:01Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
+    "id": "saajunaid/caddis-plugin",
     "language": "Python",
-    "name": "Fareground/agent-sdk",
+    "name": "saajunaid/caddis-plugin",
     "stars": 0,
-    "updated_at": "2026-09-09T01:09:18Z",
-    "url": "https://github.com/Fareground/agent-sdk"
+    "updated_at": "2026-09-09T01:22:24Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-09T01:13:39Z",
+    "updated_at": "2026-09-09T01:18:50Z",
     "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 67,
+    "updated_at": "2026-09-09T01:18:07Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-09T01:22:15Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
+    "id": "prime-vector/open-agent-spec",
+    "language": "Python",
+    "name": "prime-vector/open-agent-spec",
+    "stars": 17,
+    "updated_at": "2026-09-09T01:15:49Z",
+    "url": "https://github.com/prime-vector/open-agent-spec"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T01:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
@@ -23,8 +68,17 @@
     "language": "C#",
     "name": "DavidCompute/AG-UI_Multi-Party",
     "stars": 0,
-    "updated_at": "2026-09-09T01:06:04Z",
+    "updated_at": "2026-09-09T01:15:22Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "",
+    "id": "Fareground/agent-sdk",
+    "language": "Python",
+    "name": "Fareground/agent-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:09:18Z",
+    "url": "https://github.com/Fareground/agent-sdk"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -61,15 +115,6 @@
     "stars": 31,
     "updated_at": "2026-09-09T01:01:22Z",
     "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T01:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Azure/GPT-RAG"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 3,
-    "updated_at": "2026-09-09T01:13:49Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -140,7 +176,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 23,
-    "updated_at": "2026-09-09T01:09:23Z",
+    "updated_at": "2026-09-09T01:21:22Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 1,
-    "updated_at": "2026-09-09T01:07:35Z",
+    "updated_at": "2026-09-09T01:23:59Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T00:27:41Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 53,
-    "updated_at": "2026-09-09T00:37:06Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Remote approvals, policy checks, and execution evidence for unattended AI agents.",
@@ -421,32 +448,5 @@
     "stars": 31,
     "updated_at": "2026-09-08T23:25:09Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:15:38Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-09-08T23:09:01Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-08T23:06:04Z",
-    "url": "https://github.com/usetheokit/theokit"
   }
 ]
