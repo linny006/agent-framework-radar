@@ -1,12 +1,30 @@
 [
   {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5504,
-    "updated_at": "2026-09-09T03:30:05Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:42:24Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
+    "id": "ayman3000/SwiftAgentKit",
+    "language": "Swift",
+    "name": "ayman3000/SwiftAgentKit",
+    "stars": 1,
+    "updated_at": "2026-09-09T03:41:54Z",
+    "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9793,
+    "updated_at": "2026-09-09T03:40:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
@@ -14,8 +32,80 @@
     "language": "Python",
     "name": "tuliplabs-ai/tulip-agents",
     "stars": 1,
-    "updated_at": "2026-09-09T03:29:46Z",
+    "updated_at": "2026-09-09T03:39:25Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
+  },
+  {
+    "description": "\u57fa\u4e8e Go \u8bed\u8a00\u6784\u5efa\u7684\u4f01\u4e1a\u7ea7 AI Agent \u6846\u67b6\uff0c\u63d0\u4f9b\u5b8c\u6574\u7684\u5bf9\u8bdd AI\u3001\u77e5\u8bc6\u7ba1\u7406\u3001\u8bb0\u5fc6\u7cfb\u7edf\u548c\u5de5\u5177\u8c03\u7528\u80fd\u529b",
+    "id": "H-outsider/CortexGo",
+    "language": "Go",
+    "name": "H-outsider/CortexGo",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:38:46Z",
+    "url": "https://github.com/H-outsider/CortexGo"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 47907,
+    "updated_at": "2026-09-09T03:38:41Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19811,
+    "updated_at": "2026-09-09T03:38:34Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-09-09T03:35:46Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13410,
+    "updated_at": "2026-09-09T03:34:32Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "The Streaming LLM Agent Engine for Go",
+    "id": "Luo-root/pulse",
+    "language": "Go",
+    "name": "Luo-root/pulse",
+    "stars": 5,
+    "updated_at": "2026-09-09T03:45:01Z",
+    "url": "https://github.com/Luo-root/pulse"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-09T03:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5505,
+    "updated_at": "2026-09-09T03:30:05Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "Local-first AI Agent framework in Java. ReAct loop, MCP tools, layered memory, multi-agent orchestration \u2014 run via Shell",
@@ -59,7 +149,7 @@
     "language": "Go",
     "name": "damonleelcx/J.A.R.V.I.S.-agent",
     "stars": 0,
-    "updated_at": "2026-09-09T03:20:46Z",
+    "updated_at": "2026-09-09T03:43:09Z",
     "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
@@ -72,24 +162,6 @@
     "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
   },
   {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-09-09T03:15:39Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "\u57fa\u4e8e Go \u8bed\u8a00\u6784\u5efa\u7684\u4f01\u4e1a\u7ea7 AI Agent \u6846\u67b6\uff0c\u63d0\u4f9b\u5b8c\u6574\u7684\u5bf9\u8bdd AI\u3001\u77e5\u8bc6\u7ba1\u7406\u3001\u8bb0\u5fc6\u7cfb\u7edf\u548c\u5de5\u5177\u8c03\u7528\u80fd\u529b",
-    "id": "H-outsider/CortexGo",
-    "language": "Go",
-    "name": "H-outsider/CortexGo",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:15:35Z",
-    "url": "https://github.com/H-outsider/CortexGo"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T03:15:32Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-09T03:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
@@ -131,7 +194,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 5063,
-    "updated_at": "2026-09-09T03:10:14Z",
+    "updated_at": "2026-09-09T03:37:15Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19809,
-    "updated_at": "2026-09-09T03:08:04Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -178,24 +232,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T03:07:22Z",
     "url": "https://github.com/Root1V/synaptum-framework"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13410,
-    "updated_at": "2026-09-09T03:06:59Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-09T03:06:23Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
     "description": "AI dev framework: 22 agents, 100 core skills + 142 addon skill packs, 149 commands. Runs on 21 AI tools: Cursor, Claude ",
@@ -324,24 +360,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9791,
-    "updated_at": "2026-09-09T03:12:11Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
-    "id": "JunMystery/Agent-Guidance-Rust",
-    "language": "Rust",
-    "name": "JunMystery/Agent-Guidance-Rust",
-    "stars": 0,
-    "updated_at": "2026-09-09T02:40:39Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
-  },
-  {
     "description": "Agentic Operational Infrastructure",
     "id": "Manu-Arrieta/AOI",
     "language": "JavaScript",
@@ -358,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T02:55:03Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The Streaming LLM Agent Engine for Go",
-    "id": "Luo-root/pulse",
-    "language": "Go",
-    "name": "Luo-root/pulse",
-    "stars": 5,
-    "updated_at": "2026-09-09T02:52:20Z",
-    "url": "https://github.com/Luo-root/pulse"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 61,
-    "updated_at": "2026-09-09T03:21:34Z",
+    "updated_at": "2026-09-09T03:37:21Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T02:22:54Z",
     "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 32,
-    "updated_at": "2026-09-09T02:18:35Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
