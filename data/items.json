@@ -1,12 +1,111 @@
 [
   {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 722,
+    "updated_at": "2026-09-10T14:28:36Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26468,
+    "updated_at": "2026-09-10T14:29:48Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-10T14:23:18Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
     "description": "Mozaik is a TypeScript runtime for interoperable AI agents.",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
     "name": "jigjoy-ai/mozaik",
     "stars": 151,
-    "updated_at": "2026-09-10T14:15:18Z",
+    "updated_at": "2026-09-10T14:23:13Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13452,
+    "updated_at": "2026-09-10T14:22:55Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:21:40Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:18:29Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-09-10T14:16:16Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T14:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-09-10T14:15:15Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:29:43Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35485,
+    "updated_at": "2026-09-10T14:30:13Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -54,21 +153,12 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-10T14:14:38Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-10T14:04:36Z",
+    "updated_at": "2026-09-10T14:26:04Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9828,
-    "updated_at": "2026-09-10T14:03:39Z",
+    "updated_at": "2026-09-10T14:27:05Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T14:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
@@ -135,24 +216,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26468,
-    "updated_at": "2026-09-10T14:09:40Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "TypeScript",
-    "name": "aeonfun/aeon",
-    "stars": 722,
-    "updated_at": "2026-09-10T13:54:42Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
     "id": "parkerluxu/Awesome-agent-cases",
     "language": "JavaScript",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "ggui-ai/ggui",
     "stars": 39,
-    "updated_at": "2026-09-10T13:50:45Z",
+    "updated_at": "2026-09-10T14:30:13Z",
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
@@ -185,17 +248,8 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 68,
-    "updated_at": "2026-09-10T13:49:03Z",
+    "updated_at": "2026-09-10T14:29:17Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-10T13:47:37Z",
-    "url": "https://github.com/kdcube/kdcube"
   },
   {
     "description": "AGENT OS System",
@@ -214,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T13:44:46Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13452,
-    "updated_at": "2026-09-10T13:44:42Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
@@ -311,8 +356,17 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19846,
-    "updated_at": "2026-09-10T13:22:06Z",
+    "updated_at": "2026-09-10T14:22:22Z",
     "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 30,
+    "updated_at": "2026-09-10T13:21:59Z",
+    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "An agent runtime.",
@@ -342,15 +396,6 @@
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35483,
-    "updated_at": "2026-09-10T14:12:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 3,
-    "updated_at": "2026-09-10T14:07:09Z",
+    "updated_at": "2026-09-10T14:26:05Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
@@ -383,7 +428,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-10T14:07:51Z",
+    "updated_at": "2026-09-10T14:21:02Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T13:06:29Z",
     "url": "https://github.com/Yigtwxx/Maestro"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7191,
-    "updated_at": "2026-09-10T13:05:43Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 237,
-    "updated_at": "2026-09-10T13:01:53Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
-    "id": "HCF-STUDIOS/openhermit",
-    "language": "TypeScript",
-    "name": "HCF-STUDIOS/openhermit",
-    "stars": 53,
-    "updated_at": "2026-09-10T12:59:59Z",
-    "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1776,
-    "updated_at": "2026-09-10T12:59:27Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 1,
-    "updated_at": "2026-09-10T13:07:47Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
   }
 ]
