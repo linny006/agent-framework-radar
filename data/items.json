@@ -1,5 +1,131 @@
 [
   {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:28:41Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-10T06:28:32Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "The zero-trust framework for autonomous AI agents.",
+    "id": "calebfaruki/sycophant",
+    "language": "Rust",
+    "name": "calebfaruki/sycophant",
+    "stars": 7,
+    "updated_at": "2026-09-10T06:26:29Z",
+    "url": "https://github.com/calebfaruki/sycophant"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9817,
+    "updated_at": "2026-09-10T06:29:30Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-10T06:26:54Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
+    "id": "fpytloun/cognis",
+    "language": "Python",
+    "name": "fpytloun/cognis",
+    "stars": 14,
+    "updated_at": "2026-09-10T06:21:38Z",
+    "url": "https://github.com/fpytloun/cognis"
+  },
+  {
+    "description": "Official tutorial series for cognition \u2014 a neurosymbolic agent framework combining probabilistic frontier models with de",
+    "id": "polycog/tutorials",
+    "language": "Jupyter Notebook",
+    "name": "polycog/tutorials",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:21:30Z",
+    "url": "https://github.com/polycog/tutorials"
+  },
+  {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
+    "language": "TypeScript",
+    "name": "vincemakes/kiso",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:21:07Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-10T06:19:55Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "A community driven directory of paseo.sh plugins",
+    "id": "paseo-cafe/paseo-cafe",
+    "language": "TypeScript",
+    "name": "paseo-cafe/paseo-cafe",
+    "stars": 10,
+    "updated_at": "2026-09-10T06:19:34Z",
+    "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1188,
+    "updated_at": "2026-09-10T06:16:12Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26461,
+    "updated_at": "2026-09-10T06:16:10Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
+    "id": "B1ueMu3ic4m/approximately",
+    "language": "Python",
+    "name": "B1ueMu3ic4m/approximately",
+    "stars": 1,
+    "updated_at": "2026-09-10T06:15:55Z",
+    "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T06:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
     "id": "Cobra-bit-prog/agent-guard",
     "language": "TypeScript",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13446,
-    "updated_at": "2026-09-10T06:14:06Z",
+    "updated_at": "2026-09-10T06:22:12Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -36,15 +162,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
-    "id": "B1ueMu3ic4m/approximately",
-    "language": "Python",
-    "name": "B1ueMu3ic4m/approximately",
-    "stars": 1,
-    "updated_at": "2026-09-10T06:14:43Z",
-    "url": "https://github.com/B1ueMu3ic4m/approximately"
-  },
-  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -63,39 +180,12 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:07:38Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9816,
-    "updated_at": "2026-09-10T06:11:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26461,
-    "updated_at": "2026-09-10T06:14:46Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
     "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
     "id": "tya5/reyn",
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-10T06:14:27Z",
+    "updated_at": "2026-09-10T06:26:52Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -117,24 +207,6 @@
     "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-10T06:00:54Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T06:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
     "id": "Aureliedumbfounding630/agent-governance-toolkit",
     "language": "\u2014",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T05:59:24Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-10T05:59:20Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -223,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T05:50:47Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-10T05:54:29Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -360,15 +414,6 @@
     "url": "https://github.com/agent-fox-dev/coder"
   },
   {
-    "description": "A community driven directory of paseo.sh plugins",
-    "id": "paseo-cafe/paseo-cafe",
-    "language": "TypeScript",
-    "name": "paseo-cafe/paseo-cafe",
-    "stars": 10,
-    "updated_at": "2026-09-10T05:38:57Z",
-    "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
     "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
     "id": "RONIN511/alphora",
     "language": "Python",
@@ -382,7 +427,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 47960,
+    "stars": 47961,
     "updated_at": "2026-09-10T05:38:25Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T05:35:55Z",
     "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 120,
-    "updated_at": "2026-09-10T05:35:51Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:35:08Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
-    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "language": "Python",
-    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:32:39Z",
-    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 120,
-    "updated_at": "2026-09-10T05:32:18Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 25,
-    "updated_at": "2026-09-10T05:31:35Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   }
 ]
