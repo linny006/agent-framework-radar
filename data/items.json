@@ -1,5 +1,68 @@
 [
   {
+    "description": "Shared Python libraries that Foundry-built agents install and extend \u2014 core protocols & DI, config loading, FastAPI HTTP",
+    "id": "boozallen/foundry-agent-packages",
+    "language": "Python",
+    "name": "boozallen/foundry-agent-packages",
+    "stars": 4,
+    "updated_at": "2026-09-10T21:44:59Z",
+    "url": "https://github.com/boozallen/foundry-agent-packages"
+  },
+  {
+    "description": "Reasoning foundation for trustworthy agents.",
+    "id": "polycog/cognition",
+    "language": "Python",
+    "name": "polycog/cognition",
+    "stars": 1,
+    "updated_at": "2026-09-10T21:43:14Z",
+    "url": "https://github.com/polycog/cognition"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 52,
+    "updated_at": "2026-09-10T21:41:59Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9834,
+    "updated_at": "2026-09-10T21:44:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-10T21:42:33Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 31,
+    "updated_at": "2026-09-10T21:36:28Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T21:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -27,21 +90,12 @@
     "url": "https://github.com/garynair/wat-framework-template"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-10T21:27:04Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-10T21:24:52Z",
+    "updated_at": "2026-09-10T21:42:46Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T21:24:50Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9834,
-    "updated_at": "2026-09-10T21:24:36Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-10T21:20:06Z",
+    "updated_at": "2026-09-10T21:35:55Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -144,24 +189,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 31,
-    "updated_at": "2026-09-10T21:30:09Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T21:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 13,
-    "updated_at": "2026-09-10T21:12:05Z",
+    "updated_at": "2026-09-10T21:40:24Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-09-10T20:51:47Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Reasoning foundation for trustworthy agents.",
-    "id": "polycog/cognition",
-    "language": "Python",
-    "name": "polycog/cognition",
-    "stars": 1,
-    "updated_at": "2026-09-10T20:50:43Z",
-    "url": "https://github.com/polycog/cognition"
   },
   {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-10T20:16:43Z",
+    "updated_at": "2026-09-10T21:39:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-10T20:00:28Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
-    "id": "autocatalytic-quartette9513/agent-git",
-    "language": "\u2014",
-    "name": "autocatalytic-quartette9513/agent-git",
-    "stars": 0,
-    "updated_at": "2026-09-10T20:00:07Z",
-    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
-  },
-  {
-    "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
-    "id": "pingpongballbouncingbetty737/embabel-agent",
-    "language": "\u2014",
-    "name": "pingpongballbouncingbetty737/embabel-agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T19:57:44Z",
-    "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
   }
 ]
