@@ -1,12 +1,12 @@
 [
   {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
     "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-09-10T10:41:55Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-10T10:59:59Z",
+    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -14,8 +14,62 @@
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1188,
-    "updated_at": "2026-09-10T10:41:31Z",
+    "updated_at": "2026-09-10T10:58:31Z",
     "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-10T10:57:17Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-09-10T10:54:26Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 2,
+    "updated_at": "2026-09-10T10:53:52Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-10T10:47:05Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-09-10T10:46:03Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T10:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -31,7 +85,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1076,
+    "stars": 1077,
     "updated_at": "2026-09-10T10:39:11Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -54,31 +108,13 @@
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-09-10T10:36:53Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26465,
-    "updated_at": "2026-09-10T10:35:04Z",
+    "updated_at": "2026-09-10T10:57:33Z",
     "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T10:34:55Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "cubeplexai/cubeloop",
     "stars": 55,
-    "updated_at": "2026-09-10T10:29:11Z",
+    "updated_at": "2026-09-10T10:52:40Z",
     "url": "https://github.com/cubeplexai/cubeloop"
   },
   {
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "paseo-cafe/paseo-cafe",
     "stars": 10,
-    "updated_at": "2026-09-10T10:27:36Z",
+    "updated_at": "2026-09-10T10:49:57Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9822,
-    "updated_at": "2026-09-10T10:42:49Z",
+    "updated_at": "2026-09-10T10:50:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "fpytloun/cognis",
     "stars": 14,
-    "updated_at": "2026-09-10T10:20:10Z",
+    "updated_at": "2026-09-10T10:48:06Z",
     "url": "https://github.com/fpytloun/cognis"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "Yigtwxx/Maestro",
     "stars": 1,
-    "updated_at": "2026-09-10T10:10:11Z",
+    "updated_at": "2026-09-10T10:59:52Z",
     "url": "https://github.com/Yigtwxx/Maestro"
   },
   {
@@ -248,7 +284,7 @@
     "language": "JavaScript",
     "name": "skarif2/grimoire",
     "stars": 0,
-    "updated_at": "2026-09-10T10:43:02Z",
+    "updated_at": "2026-09-10T10:45:31Z",
     "url": "https://github.com/skarif2/grimoire"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 12,
     "updated_at": "2026-09-10T09:45:30Z",
     "url": "https://github.com/barleviatias/toolkit-ai"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 1,
-    "updated_at": "2026-09-10T09:45:21Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:44:39Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 229,
-    "updated_at": "2026-09-10T09:44:06Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:42:47Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
   }
 ]
