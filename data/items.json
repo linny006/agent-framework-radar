@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T22:41:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9836,
-    "updated_at": "2026-09-10T22:39:09Z",
+    "updated_at": "2026-09-10T22:44:37Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 3,
-    "updated_at": "2026-09-10T22:38:38Z",
+    "updated_at": "2026-09-10T22:44:35Z",
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 52,
     "updated_at": "2026-09-10T22:41:24Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T22:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "boozallen/foundry-agent-packages",
     "stars": 4,
-    "updated_at": "2026-09-10T22:17:20Z",
+    "updated_at": "2026-09-10T22:42:57Z",
     "url": "https://github.com/boozallen/foundry-agent-packages"
   },
   {
