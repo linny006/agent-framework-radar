@@ -1,21 +1,30 @@
 [
   {
-    "description": "Reasoning foundation for trustworthy agents.",
-    "id": "polycog/cognition",
-    "language": "Python",
-    "name": "polycog/cognition",
-    "stars": 1,
-    "updated_at": "2026-09-10T14:59:33Z",
-    "url": "https://github.com/polycog/cognition"
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-09-10T15:15:07Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
-    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
-    "id": "llopresto87/Cypress",
-    "language": "Python",
-    "name": "llopresto87/Cypress",
-    "stars": 19,
-    "updated_at": "2026-09-10T14:59:08Z",
-    "url": "https://github.com/llopresto87/Cypress"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35487,
+    "updated_at": "2026-09-10T15:11:55Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83d\ude80 \u901a\u7528 AI \u9879\u76ee\u542f\u52a8\u5668 | \u8de8 AI \u4e0a\u4e0b\u6587\u6cbb\u7406\u3001\u96f6 Token \u6d88\u8017\u3001\u5355\u4e00\u771f\u7406\u6e90 AGENTS.md \u4e0e\u672c\u5730\u5bf9\u8bdd\u81ea\u52a8\u5f52\u6863\u811a\u624b\u67b6",
+    "id": "mountopjh/ai-project-bootstrap",
+    "language": "PowerShell",
+    "name": "mountopjh/ai-project-bootstrap",
+    "stars": 0,
+    "updated_at": "2026-09-10T15:07:02Z",
+    "url": "https://github.com/mountopjh/ai-project-bootstrap"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -23,8 +32,71 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 2,
-    "updated_at": "2026-09-10T14:57:19Z",
+    "updated_at": "2026-09-10T15:06:35Z",
     "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 39,
+    "updated_at": "2026-09-10T15:05:33Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 19,
+    "updated_at": "2026-09-10T15:05:20Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
+    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
+    "id": "roackb2/heddle",
+    "language": "TypeScript",
+    "name": "roackb2/heddle",
+    "stars": 25,
+    "updated_at": "2026-09-10T15:05:08Z",
+    "url": "https://github.com/roackb2/heddle"
+  },
+  {
+    "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
+    "id": "tuliplabs-ai/tulip-agents",
+    "language": "Python",
+    "name": "tuliplabs-ai/tulip-agents",
+    "stars": 1,
+    "updated_at": "2026-09-10T15:04:16Z",
+    "url": "https://github.com/tuliplabs-ai/tulip-agents"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 68,
+    "updated_at": "2026-09-10T15:02:27Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T15:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Reasoning foundation for trustworthy agents.",
+    "id": "polycog/cognition",
+    "language": "Python",
+    "name": "polycog/cognition",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:59:33Z",
+    "url": "https://github.com/polycog/cognition"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 10,
-    "updated_at": "2026-09-10T14:59:46Z",
+    "updated_at": "2026-09-10T15:13:39Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T14:49:50Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 68,
-    "updated_at": "2026-09-10T14:49:42Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "vgp7758/Agt",
     "stars": 1,
-    "updated_at": "2026-09-10T14:45:49Z",
+    "updated_at": "2026-09-10T15:05:01Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T14:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -158,7 +212,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 24,
-    "updated_at": "2026-09-10T14:44:59Z",
+    "updated_at": "2026-09-10T15:14:13Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13452,
-    "updated_at": "2026-09-10T14:58:30Z",
+    "updated_at": "2026-09-10T15:13:12Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26469,
-    "updated_at": "2026-09-10T14:34:30Z",
+    "updated_at": "2026-09-10T15:13:56Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 196,
     "updated_at": "2026-09-10T14:34:28Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 39,
-    "updated_at": "2026-09-10T14:34:25Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "OAuth integrations & connectors for agents",
@@ -286,15 +331,6 @@
     "stars": 52,
     "updated_at": "2026-09-10T14:31:23Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35486,
-    "updated_at": "2026-09-10T14:30:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -329,8 +365,17 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9828,
-    "updated_at": "2026-09-10T14:41:14Z",
+    "updated_at": "2026-09-10T15:13:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19847,
+    "updated_at": "2026-09-10T14:22:22Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -392,7 +437,7 @@
     "language": "TypeScript",
     "name": "DeliveryPerson2004/DeepForge",
     "stars": 6,
-    "updated_at": "2026-09-10T14:05:36Z",
+    "updated_at": "2026-09-10T15:05:38Z",
     "url": "https://github.com/DeliveryPerson2004/DeepForge"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T14:04:59Z",
     "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-09-10T14:04:56Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
-    "id": "agoradynamics/wick",
-    "language": "JavaScript",
-    "name": "agoradynamics/wick",
-    "stars": 3,
-    "updated_at": "2026-09-10T14:04:14Z",
-    "url": "https://github.com/agoradynamics/wick"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1188,
-    "updated_at": "2026-09-10T13:57:39Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-10T13:57:07Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-10T13:55:57Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
