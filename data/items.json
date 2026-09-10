@@ -5,8 +5,89 @@
     "language": "TypeScript",
     "name": "paseo-cafe/paseo-cafe",
     "stars": 10,
-    "updated_at": "2026-09-10T10:15:14Z",
+    "updated_at": "2026-09-10T10:27:36Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 79,
+    "updated_at": "2026-09-10T10:27:27Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 1075,
+    "updated_at": "2026-09-10T10:25:17Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9822,
+    "updated_at": "2026-09-10T10:24:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-10T10:23:04Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 87,
+    "updated_at": "2026-09-10T10:22:14Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
+    "id": "fpytloun/cognis",
+    "language": "Python",
+    "name": "fpytloun/cognis",
+    "stars": 14,
+    "updated_at": "2026-09-10T10:20:10Z",
+    "url": "https://github.com/fpytloun/cognis"
+  },
+  {
+    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
+    "id": "jamillazarev/opsinist",
+    "language": "Shell",
+    "name": "jamillazarev/opsinist",
+    "stars": 1,
+    "updated_at": "2026-09-10T10:19:34Z",
+    "url": "https://github.com/jamillazarev/opsinist"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-10T10:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26464,
+    "updated_at": "2026-09-10T10:30:04Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13447,
-    "updated_at": "2026-09-10T10:10:42Z",
+    "updated_at": "2026-09-10T10:26:06Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -63,20 +144,11 @@
     "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 1071,
-    "updated_at": "2026-09-10T10:08:40Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35477,
+    "stars": 35476,
     "updated_at": "2026-09-10T10:07:40Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -104,17 +176,8 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-10T10:04:45Z",
+    "updated_at": "2026-09-10T10:30:13Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Run a company of AI agents out of one git repository \u2014 any craft, not just code. The team, the process, the history, the",
-    "id": "jamillazarev/opsinist",
-    "language": "Shell",
-    "name": "jamillazarev/opsinist",
-    "stars": 1,
-    "updated_at": "2026-09-10T10:04:34Z",
-    "url": "https://github.com/jamillazarev/opsinist"
   },
   {
     "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T10:01:46Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-10T10:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first gateway for personal AI agents with persistent memory across multiple LLM providers",
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-10T10:03:50Z",
+    "updated_at": "2026-09-10T10:23:09Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
-    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
-    "id": "fpytloun/cognis",
-    "language": "Python",
-    "name": "fpytloun/cognis",
-    "stars": 14,
-    "updated_at": "2026-09-10T09:46:30Z",
-    "url": "https://github.com/fpytloun/cognis"
-  },
-  {
     "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
     "id": "punkxuxu/bank_soal",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-10T10:12:35Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "A lightweight, event-driven agent runtime for Go",
-    "id": "loomagent/loom",
-    "language": "Go",
-    "name": "loomagent/loom",
-    "stars": 1,
-    "updated_at": "2026-09-10T09:36:31Z",
-    "url": "https://github.com/loomagent/loom"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-10T09:35:24Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19843,
-    "updated_at": "2026-09-10T10:02:39Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A dependency-free Go agent SDK, the engine behind agent-fox.",
-    "id": "agent-fox-dev/coder",
-    "language": "Go",
-    "name": "agent-fox-dev/coder",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:33:55Z",
-    "url": "https://github.com/agent-fox-dev/coder"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 237,
-    "updated_at": "2026-09-10T09:33:35Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
