@@ -1,12 +1,75 @@
 [
   {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 1,
+    "updated_at": "2026-09-11T02:59:22Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "CubeLoop \u2014 a Pythonic, async-native agent harness core designed for high performance, readability, and production-grade ",
+    "id": "cubeplexai/cubeloop",
+    "language": "Python",
+    "name": "cubeplexai/cubeloop",
+    "stars": 56,
+    "updated_at": "2026-09-11T02:56:16Z",
+    "url": "https://github.com/cubeplexai/cubeloop"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1330,
+    "updated_at": "2026-09-11T02:58:55Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when",
+    "id": "jackispm/nausicaa-harness",
+    "language": "TypeScript",
+    "name": "jackispm/nausicaa-harness",
+    "stars": 27,
+    "updated_at": "2026-09-11T02:55:05Z",
+    "url": "https://github.com/jackispm/nausicaa-harness"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9841,
-    "updated_at": "2026-09-11T02:42:17Z",
+    "updated_at": "2026-09-11T03:00:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 1193,
+    "updated_at": "2026-09-11T02:48:41Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 121,
+    "updated_at": "2026-09-11T02:47:41Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T02:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "microsoft/Sico",
     "stars": 251,
-    "updated_at": "2026-09-11T02:42:05Z",
+    "updated_at": "2026-09-11T02:55:14Z",
     "url": "https://github.com/microsoft/Sico"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T02:35:31Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T02:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
@@ -63,13 +117,13 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 1,
-    "updated_at": "2026-09-11T02:44:56Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19856,
+    "updated_at": "2026-09-11T02:24:07Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Local-first, psychology-inspired adaptive memory and offline consolidation for any agent harness",
@@ -108,15 +162,6 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 1191,
-    "updated_at": "2026-09-11T02:14:20Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -144,15 +189,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when",
-    "id": "jackispm/nausicaa-harness",
-    "language": "TypeScript",
-    "name": "jackispm/nausicaa-harness",
-    "stars": 27,
-    "updated_at": "2026-09-11T02:05:42Z",
-    "url": "https://github.com/jackispm/nausicaa-harness"
-  },
-  {
     "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
     "id": "KPO-Tech/seshat",
     "language": "Go",
@@ -160,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-11T02:10:07Z",
     "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "CubeLoop \u2014 a Pythonic, async-native agent harness core designed for high performance, readability, and production-grade ",
-    "id": "cubeplexai/cubeloop",
-    "language": "Python",
-    "name": "cubeplexai/cubeloop",
-    "stars": 56,
-    "updated_at": "2026-09-11T02:42:55Z",
-    "url": "https://github.com/cubeplexai/cubeloop"
   },
   {
     "description": "Friday \u2014 a governed agent kernel for Frappe. Agents act as themselves, under their own roles, with every decision audite",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 11,
-    "updated_at": "2026-09-11T02:43:18Z",
+    "updated_at": "2026-09-11T02:49:21Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T01:48:12Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19856,
-    "updated_at": "2026-09-11T02:24:07Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T00:46:01Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:45:53Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 13,
-    "updated_at": "2026-09-11T00:41:11Z",
-    "url": "https://github.com/we-are-singular/aml"
   }
 ]
