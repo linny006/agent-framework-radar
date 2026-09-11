@@ -1,11 +1,182 @@
 [
   {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Shell",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:27:56Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13475,
+    "updated_at": "2026-09-11T12:27:41Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-11T12:27:27Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 35,
+    "updated_at": "2026-09-11T12:27:01Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 1039,
+    "updated_at": "2026-09-11T12:25:21Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
+    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 13,
+    "updated_at": "2026-09-11T12:24:08Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
+    "id": "yangwenhua212/hermchat",
+    "language": "Kotlin",
+    "name": "yangwenhua212/hermchat",
+    "stars": 3,
+    "updated_at": "2026-09-11T12:22:49Z",
+    "url": "https://github.com/yangwenhua212/hermchat"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-09-11T12:22:29Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
+    "id": "hibuka-labs/phi-agent",
+    "language": "Rust",
+    "name": "hibuka-labs/phi-agent",
+    "stars": 15,
+    "updated_at": "2026-09-11T12:21:44Z",
+    "url": "https://github.com/hibuka-labs/phi-agent"
+  },
+  {
+    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
+    "id": "damonleelcx/Opportunity-Bridge-Agent",
+    "language": "Go",
+    "name": "damonleelcx/Opportunity-Bridge-Agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T12:21:21Z",
+    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2084,
+    "updated_at": "2026-09-11T12:21:01Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing",
+    "id": "alpercodes/alms",
+    "language": "Rust",
+    "name": "alpercodes/alms",
+    "stars": 4,
+    "updated_at": "2026-09-11T12:20:51Z",
+    "url": "https://github.com/alpercodes/alms"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-11T12:20:37Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
+    "id": "Lykhoyda/rn-dev-agent",
+    "language": "TypeScript",
+    "name": "Lykhoyda/rn-dev-agent",
+    "stars": 11,
+    "updated_at": "2026-09-11T12:21:20Z",
+    "url": "https://github.com/Lykhoyda/rn-dev-agent"
+  },
+  {
+    "description": "Run a 24/7 AI agent on free cloud: watchdogs, memory tuning, browser reapers and hard-won lessons from a real 2 OCPU / 1",
+    "id": "Amz34/selfhosted-agent-stack",
+    "language": "Python",
+    "name": "Amz34/selfhosted-agent-stack",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:19:42Z",
+    "url": "https://github.com/Amz34/selfhosted-agent-stack"
+  },
+  {
+    "description": "Your agent relearns the codebase every session. Grimoire gives a project a durable wiki that every worktree shares, and ",
+    "id": "skarif2/scribe",
+    "language": "JavaScript",
+    "name": "skarif2/scribe",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:19:24Z",
+    "url": "https://github.com/skarif2/scribe"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-09-11T12:18:20Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1332,
+    "updated_at": "2026-09-11T12:23:33Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T12:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-11T12:15:13Z",
+    "updated_at": "2026-09-11T12:16:37Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -14,17 +185,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9850,
-    "updated_at": "2026-09-11T12:15:03Z",
+    "updated_at": "2026-09-11T12:22:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 35,
-    "updated_at": "2026-09-11T12:14:11Z",
-    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -45,20 +207,11 @@
     "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
-    "description": "",
-    "id": "hrabanazviking/hrabanazviking",
-    "language": "\u2014",
-    "name": "hrabanazviking/hrabanazviking",
-    "stars": 4,
-    "updated_at": "2026-09-11T12:08:56Z",
-    "url": "https://github.com/hrabanazviking/hrabanazviking"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35502,
+    "stars": 35501,
     "updated_at": "2026-09-11T12:08:36Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -90,51 +243,6 @@
     "url": "https://github.com/NumericalArt/Pritha"
   },
   {
-    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T12:07:20Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
-    "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
-    "id": "yangwenhua212/hermchat",
-    "language": "Kotlin",
-    "name": "yangwenhua212/hermchat",
-    "stars": 3,
-    "updated_at": "2026-09-11T12:04:49Z",
-    "url": "https://github.com/yangwenhua212/hermchat"
-  },
-  {
-    "description": "Your agent relearns the codebase every session. Grimoire gives a project a durable wiki that every worktree shares, and ",
-    "id": "skarif2/scribe",
-    "language": "JavaScript",
-    "name": "skarif2/scribe",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:13:11Z",
-    "url": "https://github.com/skarif2/scribe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T12:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-11T12:00:27Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
@@ -142,15 +250,6 @@
     "stars": 279,
     "updated_at": "2026-09-11T12:00:21Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2084,
-    "updated_at": "2026-09-11T11:57:24Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -297,15 +396,6 @@
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
-    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
-    "id": "hibuka-labs/phi-agent",
-    "language": "Rust",
-    "name": "hibuka-labs/phi-agent",
-    "stars": 15,
-    "updated_at": "2026-09-11T11:38:58Z",
-    "url": "https://github.com/hibuka-labs/phi-agent"
-  },
-  {
     "description": "Automate aim and item sales in Be A Lucky Block with this lightweight script.",
     "id": "zerovia/be-a-lucky-block-hub",
     "language": "HTML",
@@ -322,15 +412,6 @@
     "stars": 1188,
     "updated_at": "2026-09-11T11:32:41Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Run a 24/7 AI agent on free cloud: watchdogs, memory tuning, browser reapers and hard-won lessons from a real 2 OCPU / 1",
-    "id": "Amz34/selfhosted-agent-stack",
-    "language": "Python",
-    "name": "Amz34/selfhosted-agent-stack",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:31:18Z",
-    "url": "https://github.com/Amz34/selfhosted-agent-stack"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -367,86 +448,5 @@
     "stars": 53,
     "updated_at": "2026-09-11T11:29:04Z",
     "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-09-11T11:28:26Z",
-    "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:28:22Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
-    "id": "fpytloun/cognis",
-    "language": "Python",
-    "name": "fpytloun/cognis",
-    "stars": 14,
-    "updated_at": "2026-09-11T11:28:17Z",
-    "url": "https://github.com/fpytloun/cognis"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:27:35Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 17,
-    "updated_at": "2026-09-11T11:29:46Z",
-    "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:27:01Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-09-11T11:27:00Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:26:24Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:26:19Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   }
 ]
