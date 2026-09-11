@@ -1,5 +1,131 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9841,
+    "updated_at": "2026-09-11T06:14:33Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 971,
+    "updated_at": "2026-09-11T06:13:29Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
+    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
+    "id": "ayman3000/SwiftAgentKit",
+    "language": "Swift",
+    "name": "ayman3000/SwiftAgentKit",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:12:12Z",
+    "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 90,
+    "updated_at": "2026-09-11T06:11:43Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35497,
+    "updated_at": "2026-09-11T06:11:41Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
+    "id": "acnlabs/ACN",
+    "language": "Python",
+    "name": "acnlabs/ACN",
+    "stars": 3,
+    "updated_at": "2026-09-11T06:10:58Z",
+    "url": "https://github.com/acnlabs/ACN"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 12,
+    "updated_at": "2026-09-11T06:11:38Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:09:05Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-11T06:15:01Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
+    "id": "DevMando/MandoCode.Desktop",
+    "language": "C#",
+    "name": "DevMando/MandoCode.Desktop",
+    "stars": 2,
+    "updated_at": "2026-09-11T06:08:34Z",
+    "url": "https://github.com/DevMando/MandoCode.Desktop"
+  },
+  {
+    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
+    "id": "damonleelcx/Opportunity-Bridge-Agent",
+    "language": "Go",
+    "name": "damonleelcx/Opportunity-Bridge-Agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:06:07Z",
+    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
+  },
+  {
+    "description": "\ud83d\udcb8Agent stock analysis CLI (Real-time terminal dashboard and backtesting interface) +\ud83d\udd37Microsoft Agent Framework",
+    "id": "kimtth/agent-quant-stock-invest",
+    "language": "Python",
+    "name": "kimtth/agent-quant-stock-invest",
+    "stars": 32,
+    "updated_at": "2026-09-11T06:03:13Z",
+    "url": "https://github.com/kimtth/agent-quant-stock-invest"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "HTML",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:01:27Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T06:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
     "id": "SparkElf/deepseek-harness-plus",
     "language": "TypeScript",
@@ -9,33 +135,6 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "HTML",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:57:18Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9841,
-    "updated_at": "2026-09-11T05:59:32Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83d\udcb8Agent stock analysis CLI (Real-time terminal dashboard and backtesting interface) +\ud83d\udd37Microsoft Agent Framework",
-    "id": "kimtth/agent-quant-stock-invest",
-    "language": "Python",
-    "name": "kimtth/agent-quant-stock-invest",
-    "stars": 32,
-    "updated_at": "2026-09-11T05:59:05Z",
-    "url": "https://github.com/kimtth/agent-quant-stock-invest"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -43,6 +142,15 @@
     "stars": 11,
     "updated_at": "2026-09-11T05:55:55Z",
     "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 5081,
+    "updated_at": "2026-09-11T05:53:01Z",
+    "url": "https://github.com/iflytek/skillhub"
   },
   {
     "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T05:46:49Z",
     "url": "https://github.com/autocatalytic-quartette9513/agent-git"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T05:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
@@ -225,15 +324,6 @@
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-11T05:57:29Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
     "id": "gatherfigtree740/ai-agent-landscape",
     "language": "\u2014",
@@ -324,15 +414,6 @@
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
-    "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
-    "id": "DevMando/MandoCode.Desktop",
-    "language": "C#",
-    "name": "DevMando/MandoCode.Desktop",
-    "stars": 2,
-    "updated_at": "2026-09-11T05:18:19Z",
-    "url": "https://github.com/DevMando/MandoCode.Desktop"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -351,15 +432,6 @@
     "url": "https://github.com/Zuga-Technologies/zugamind"
   },
   {
-    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:26:41Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -374,79 +446,7 @@
     "language": "TypeScript",
     "name": "secondorderai/ouroboros",
     "stars": 2,
-    "updated_at": "2026-09-11T05:11:54Z",
+    "updated_at": "2026-09-11T06:07:33Z",
     "url": "https://github.com/secondorderai/ouroboros"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-11T05:06:50Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 279,
-    "updated_at": "2026-09-11T05:04:56Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 237,
-    "updated_at": "2026-09-11T05:02:08Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-09-11T04:56:07Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35495,
-    "updated_at": "2026-09-11T04:53:15Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 25,
-    "updated_at": "2026-09-11T04:47:09Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 52,
-    "updated_at": "2026-09-11T04:44:49Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 1204,
-    "updated_at": "2026-09-11T04:42:33Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   }
 ]
