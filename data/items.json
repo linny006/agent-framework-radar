@@ -1,5 +1,149 @@
 [
   {
+    "description": "Enterprise AI Healthcare Lakehouse & Clinical Intelligence Platform: PySpark Medallion architecture, Airflow pipelines, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 44,
+    "updated_at": "2026-09-11T18:29:56Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-11T18:28:22Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-11T18:27:52Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 723,
+    "updated_at": "2026-09-11T18:26:10Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 5,
+    "updated_at": "2026-09-11T18:26:02Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "\u00dclk\u00fcc\u00fc Baba \u2014 Hermes Agent ki\u015fisel fork\u2019u: mg paneli, USD maliyet tavan\u0131, kademe onay kap\u0131s\u0131. Amateur project built with",
+    "id": "mktest2179-a11y/ulkucu-baba",
+    "language": "Python",
+    "name": "mktest2179-a11y/ulkucu-baba",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:25:14Z",
+    "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
+  },
+  {
+    "description": "Local agent OS for everyone \u2014 memory as the body, agents as shells. Model-agnostic agent dispatcher in Rust. \u672c\u5730\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8bb0",
+    "id": "Jokerautowrite/chuang-agent",
+    "language": "Rust",
+    "name": "Jokerautowrite/chuang-agent",
+    "stars": 7,
+    "updated_at": "2026-09-11T18:24:17Z",
+    "url": "https://github.com/Jokerautowrite/chuang-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
+    "id": "TonCerqueira/MiroThinker",
+    "language": "Python",
+    "name": "TonCerqueira/MiroThinker",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:24:15Z",
+    "url": "https://github.com/TonCerqueira/MiroThinker"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2085,
+    "updated_at": "2026-09-11T18:23:22Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9856,
+    "updated_at": "2026-09-11T18:28:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:22:07Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:30:05Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
+    "id": "yassineelfakiri/agentpg",
+    "language": "Go",
+    "name": "yassineelfakiri/agentpg",
+    "stars": 0,
+    "updated_at": "2026-09-11T18:19:31Z",
+    "url": "https://github.com/yassineelfakiri/agentpg"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
+    "id": "q-j0k/sprintloop-orchestration",
+    "language": "\u2014",
+    "name": "q-j0k/sprintloop-orchestration",
+    "stars": 1,
+    "updated_at": "2026-09-11T18:18:23Z",
+    "url": "https://github.com/q-j0k/sprintloop-orchestration"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 8,
+    "updated_at": "2026-09-11T18:16:12Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T18:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every ru",
     "id": "open-multi-agent/open-multi-agent",
     "language": "TypeScript",
@@ -45,31 +189,13 @@
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-11T18:14:38Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1332,
-    "updated_at": "2026-09-11T18:13:40Z",
+    "updated_at": "2026-09-11T18:23:11Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "Shell",
-    "name": "aeonfun/aeon",
-    "stars": 723,
-    "updated_at": "2026-09-11T18:13:45Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -99,24 +225,6 @@
     "url": "https://github.com/polycog/cognition"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9856,
-    "updated_at": "2026-09-11T18:14:45Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2084,
-    "updated_at": "2026-09-11T18:06:04Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -142,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T18:05:54Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T18:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -194,7 +293,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-11T18:14:27Z",
+    "updated_at": "2026-09-11T18:27:13Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -216,15 +315,6 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "\u00dclk\u00fcc\u00fc Baba \u2014 Hermes Agent ki\u015fisel fork\u2019u: mg paneli, USD maliyet tavan\u0131, kademe onay kap\u0131s\u0131. Amateur project built with",
-    "id": "mktest2179-a11y/ulkucu-baba",
-    "language": "Python",
-    "name": "mktest2179-a11y/ulkucu-baba",
-    "stars": 0,
-    "updated_at": "2026-09-11T17:53:07Z",
-    "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
@@ -241,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T17:51:47Z",
     "url": "https://github.com/YQteam-dyq/yq-nova-agent"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 8,
-    "updated_at": "2026-09-11T17:46:42Z",
-    "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "Enterprise AI Healthcare Lakehouse & Clinical Intelligence Platform: PySpark Medallion architecture, Airflow pipelines, ",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 44,
-    "updated_at": "2026-09-11T17:47:08Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -302,7 +374,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 19866,
-    "updated_at": "2026-09-11T18:09:45Z",
+    "updated_at": "2026-09-11T18:21:53Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T17:06:44Z",
     "url": "https://github.com/7bder/orchd-core"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 52,
-    "updated_at": "2026-09-11T17:06:20Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
-    "id": "abubakarsiddik31/golem",
-    "language": "Go",
-    "name": "abubakarsiddik31/golem",
-    "stars": 2,
-    "updated_at": "2026-09-11T17:14:07Z",
-    "url": "https://github.com/abubakarsiddik31/golem"
-  },
-  {
-    "description": "Production-grade local agentic framework for network troubleshooting: planner/executor/verifier loop, multi-vendor CLI p",
-    "id": "kayorde25/telco-track-b-agent",
-    "language": "Python",
-    "name": "kayorde25/telco-track-b-agent",
-    "stars": 0,
-    "updated_at": "2026-09-11T17:04:46Z",
-    "url": "https://github.com/kayorde25/telco-track-b-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7206,
-    "updated_at": "2026-09-11T16:59:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13479,
-    "updated_at": "2026-09-11T18:11:08Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 121,
-    "updated_at": "2026-09-11T16:52:28Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 25,
-    "updated_at": "2026-09-11T16:52:26Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-09-11T16:52:39Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
   }
 ]
