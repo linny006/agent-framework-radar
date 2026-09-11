@@ -1,12 +1,39 @@
 [
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 52,
-    "updated_at": "2026-09-11T00:14:08Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-11T00:28:44Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9836,
+    "updated_at": "2026-09-11T00:28:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-11T00:25:29Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 230,
+    "updated_at": "2026-09-11T00:22:28Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 3,
-    "updated_at": "2026-09-11T00:13:43Z",
+    "updated_at": "2026-09-11T00:16:23Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T00:16:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 52,
+    "updated_at": "2026-09-11T00:14:08Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
@@ -52,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-09-11T00:09:10Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9836,
-    "updated_at": "2026-09-11T00:11:39Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T00:01:02Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T00:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -169,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-09-10T23:51:08Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19856,
+    "updated_at": "2026-09-10T23:50:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
@@ -261,15 +297,6 @@
     "url": "https://github.com/xiejianjun000/eco-agent"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 11,
-    "updated_at": "2026-09-11T00:14:07Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 54,
-    "updated_at": "2026-09-10T23:38:34Z",
+    "updated_at": "2026-09-11T00:26:03Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -373,7 +400,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1180,
+    "stars": 1184,
     "updated_at": "2026-09-10T23:11:16Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -385,15 +412,6 @@
     "stars": 10,
     "updated_at": "2026-09-10T23:08:43Z",
     "url": "https://github.com/sageox/agent-toolkit"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19855,
-    "updated_at": "2026-09-10T23:50:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The MandoCode AI coding agent as a native Windows app \u2014 WinUI 3 over the same open-weight-model engine as the CLI (Ollam",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T22:51:59Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
-    "id": "ellmos-ai/marblerun",
-    "language": "Python",
-    "name": "ellmos-ai/marblerun",
-    "stars": 1,
-    "updated_at": "2026-09-10T22:50:10Z",
-    "url": "https://github.com/ellmos-ai/marblerun"
-  },
-  {
-    "description": "Terminal agent harness built from a coding-agent foundation \u2014 plug in your own agent via YAML config",
-    "id": "mochow13/keen-agent",
-    "language": "Go",
-    "name": "mochow13/keen-agent",
-    "stars": 2,
-    "updated_at": "2026-09-10T22:49:53Z",
-    "url": "https://github.com/mochow13/keen-agent"
   }
 ]
