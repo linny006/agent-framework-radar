@@ -1,5 +1,158 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-11T15:45:33Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 32,
+    "updated_at": "2026-09-11T15:44:53Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 32,
+    "updated_at": "2026-09-11T15:44:05Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-11T15:43:50Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "DeepSeek Harness \u684c\u9762\u58f3 \u2014\u2014 \u5185\u5d4c Web UI\u3001\u81ea\u52a8\u4fdd\u6301\u6700\u65b0\u5f15\u64ce\u3001\u81ea\u5e26\u6570\u636e\u76ee\u5f55\u7ba1\u7406\u4e0e\u7cfb\u7edf\u6258\u76d8\u3002",
+    "id": "itchenshi/DeepSeekHarnessGUI",
+    "language": "JavaScript",
+    "name": "itchenshi/DeepSeekHarnessGUI",
+    "stars": 3,
+    "updated_at": "2026-09-11T15:42:09Z",
+    "url": "https://github.com/itchenshi/DeepSeekHarnessGUI"
+  },
+  {
+    "description": "A lightweight Kotlin agent framework and IntelliJ IDEA plugin for streaming LLM tool-calling agents that read and edit f",
+    "id": "lg841226/Gradum",
+    "language": "Kotlin",
+    "name": "lg841226/Gradum",
+    "stars": 0,
+    "updated_at": "2026-09-11T15:43:38Z",
+    "url": "https://github.com/lg841226/Gradum"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-09-11T15:38:55Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "A from-scratch Python agent harness: tool orchestration, multi-agent routing, session lifecycle, event-driven hooks, and",
+    "id": "Alear030/Alear030",
+    "language": "Python",
+    "name": "Alear030/Alear030",
+    "stars": 3,
+    "updated_at": "2026-09-11T15:38:14Z",
+    "url": "https://github.com/Alear030/Alear030"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-11T15:35:53Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 94,
+    "updated_at": "2026-09-11T15:35:50Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1781,
+    "updated_at": "2026-09-11T15:35:23Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 3,
+    "updated_at": "2026-09-11T15:37:03Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2084,
+    "updated_at": "2026-09-11T15:33:56Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35503,
+    "updated_at": "2026-09-11T15:31:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 723,
+    "updated_at": "2026-09-11T15:31:00Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-09-11T15:31:30Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T15:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
@@ -16,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-09-11T15:27:39Z",
     "url": "https://github.com/doeixd/affe-agent"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 13,
-    "updated_at": "2026-09-11T15:27:12Z",
-    "url": "https://github.com/aomi-labs/aomi"
   },
   {
     "description": "Shared Python libraries that Foundry-built agents install and extend \u2014 core protocols & DI, config loading, FastAPI HTTP",
@@ -95,7 +239,7 @@
     "language": "TypeScript",
     "name": "SparkElf/deepseek-harness-plus",
     "stars": 2,
-    "updated_at": "2026-09-11T15:22:53Z",
+    "updated_at": "2026-09-11T15:41:27Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
@@ -106,15 +250,6 @@
     "stars": 39,
     "updated_at": "2026-09-11T15:22:01Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 3,
-    "updated_at": "2026-09-11T15:28:04Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "\u5171\u4eab\u667a\u80fd\u4f53\uff0c\u5171\u4eab\u9879\u76ee\u4e0a\u4e0b\u6587\uff0c\u8ba9\u9879\u76ee\u6240\u6709\u6210\u5458\u4e00\u8d77\u534f\u540c\u5de5\u4f5c\u3002\u540c\u65f6\u667a\u80fd\u4f53\u4f1a\u50cf\u4eba\u4e00\u6837\u901a\u8fc7\u8d44\u6599\u6216\u8005\u5de5\u4f5c\u62bd\u8c61\u548c\u603b\u7ed3\u7ecf\u9a8c\u5230\u9879\u76ee\u4e0a\u4e0b\u6587\u4e2d",
@@ -135,21 +270,12 @@
     "url": "https://github.com/zako-mio/opencode-dag-analysis"
   },
   {
-    "description": "A from-scratch Python agent harness: tool orchestration, multi-agent routing, session lifecycle, event-driven hooks, and",
-    "id": "Alear030/Alear030",
-    "language": "Python",
-    "name": "Alear030/Alear030",
-    "stars": 3,
-    "updated_at": "2026-09-11T15:18:30Z",
-    "url": "https://github.com/Alear030/Alear030"
-  },
-  {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
     "id": "evalstate/fast-agent",
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3918,
-    "updated_at": "2026-09-11T15:16:51Z",
+    "updated_at": "2026-09-11T15:37:48Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -160,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T15:15:32Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T15:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -187,24 +304,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T15:15:10Z",
     "url": "https://github.com/polycog/cognition"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-11T15:12:47Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 11,
-    "updated_at": "2026-09-11T15:12:00Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -230,7 +329,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9854,
-    "updated_at": "2026-09-11T15:24:57Z",
+    "updated_at": "2026-09-11T15:39:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -261,15 +360,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2084,
-    "updated_at": "2026-09-11T15:05:24Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
@@ -279,24 +369,6 @@
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
-    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
-    "id": "trpc-group/trpc-agent-go",
-    "language": "Go",
-    "name": "trpc-group/trpc-agent-go",
-    "stars": 1781,
-    "updated_at": "2026-09-11T15:04:11Z",
-    "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 3,
-    "updated_at": "2026-09-11T15:03:55Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
     "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
     "id": "acnlabs/ACN",
     "language": "Python",
@@ -304,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T15:03:20Z",
     "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35503,
-    "updated_at": "2026-09-11T15:03:00Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
@@ -364,7 +427,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 48021,
+    "stars": 48024,
     "updated_at": "2026-09-11T14:56:04Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-11T14:55:30Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 19865,
-    "updated_at": "2026-09-11T14:53:07Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Agents, Unleashed.",
-    "id": "sashvat-bharat/agent-accelerator",
-    "language": "TypeScript",
-    "name": "sashvat-bharat/agent-accelerator",
-    "stars": 2,
-    "updated_at": "2026-09-11T14:51:59Z",
-    "url": "https://github.com/sashvat-bharat/agent-accelerator"
-  },
-  {
-    "description": "A community driven directory of paseo.sh plugins",
-    "id": "paseo-cafe/paseo-cafe",
-    "language": "TypeScript",
-    "name": "paseo-cafe/paseo-cafe",
-    "stars": 15,
-    "updated_at": "2026-09-11T14:49:37Z",
-    "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
-    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
-    "id": "Justin0504/Sovereign-OS",
-    "language": "Python",
-    "name": "Justin0504/Sovereign-OS",
-    "stars": 92,
-    "updated_at": "2026-09-11T14:49:31Z",
-    "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1425,
-    "updated_at": "2026-09-11T14:48:52Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-11T14:47:15Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-11T14:47:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
