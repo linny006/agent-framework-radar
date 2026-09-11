@@ -1,12 +1,93 @@
 [
   {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "HTML",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:30:04Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9841,
-    "updated_at": "2026-09-11T06:14:33Z",
+    "stars": 9842,
+    "updated_at": "2026-09-11T06:30:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-11T06:28:08Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
+    "id": "damonleelcx/Opportunity-Bridge-Agent",
+    "language": "Go",
+    "name": "damonleelcx/Opportunity-Bridge-Agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:27:11Z",
+    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
+  },
+  {
+    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
+    "id": "secondorderai/ouroboros",
+    "language": "TypeScript",
+    "name": "secondorderai/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-09-11T06:24:25Z",
+    "url": "https://github.com/secondorderai/ouroboros"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 40,
+    "updated_at": "2026-09-11T06:22:17Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T06:19:13Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
+    "description": "AgentDeck SDK wraps OpenAI Agents SDK and LangGraph with sessions, streaming, events, human approval, and run control.",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 4,
+    "updated_at": "2026-09-11T06:29:38Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 11,
+    "updated_at": "2026-09-11T06:16:56Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T06:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "ZJU-REAL/HugAgentOS",
     "stars": 971,
-    "updated_at": "2026-09-11T06:13:29Z",
+    "updated_at": "2026-09-11T06:17:38Z",
     "url": "https://github.com/ZJU-REAL/HugAgentOS"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/DevMando/MandoCode.Desktop"
   },
   {
-    "description": "\u963f\u6865 (Aqiao) is a conversational agent that turns \"I don't know what I can do, where to go, or whether I qualify\" into one",
-    "id": "damonleelcx/Opportunity-Bridge-Agent",
-    "language": "Go",
-    "name": "damonleelcx/Opportunity-Bridge-Agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T06:06:07Z",
-    "url": "https://github.com/damonleelcx/Opportunity-Bridge-Agent"
-  },
-  {
     "description": "\ud83d\udcb8Agent stock analysis CLI (Real-time terminal dashboard and backtesting interface) +\ud83d\udd37Microsoft Agent Framework",
     "id": "kimtth/agent-quant-stock-invest",
     "language": "Python",
@@ -108,24 +180,6 @@
     "url": "https://github.com/kimtth/agent-quant-stock-invest"
   },
   {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "HTML",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-09-11T06:01:27Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T06:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
     "id": "SparkElf/deepseek-harness-plus",
     "language": "TypeScript",
@@ -133,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T06:00:09Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 11,
-    "updated_at": "2026-09-11T05:55:55Z",
-    "url": "https://github.com/GEMISIS/leviath"
   },
   {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
@@ -239,7 +284,7 @@
     "language": "C#",
     "name": "DevMando/MandoCode",
     "stars": 14,
-    "updated_at": "2026-09-11T05:40:18Z",
+    "updated_at": "2026-09-11T06:15:52Z",
     "url": "https://github.com/DevMando/MandoCode"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 0,
-    "updated_at": "2026-09-11T05:50:41Z",
+    "updated_at": "2026-09-11T06:28:55Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T05:29:57Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-11T05:29:57Z",
-    "url": "https://github.com/ellmos-ai/bach"
   },
   {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-11T05:22:13Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48007,
-    "updated_at": "2026-09-11T05:16:20Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 14,
-    "updated_at": "2026-09-11T05:16:05Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-11T05:20:39Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-09-11T06:07:33Z",
-    "url": "https://github.com/secondorderai/ouroboros"
   }
 ]
