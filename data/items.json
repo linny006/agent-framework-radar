@@ -1,12 +1,12 @@
 [
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2083,
-    "updated_at": "2026-09-11T10:14:14Z",
-    "url": "https://github.com/cortexkit/magic-context"
+    "description": "Reasoning foundation for trustworthy agents.",
+    "id": "polycog/cognition",
+    "language": "Python",
+    "name": "polycog/cognition",
+    "stars": 2,
+    "updated_at": "2026-09-11T10:29:33Z",
+    "url": "https://github.com/polycog/cognition"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +14,161 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9847,
-    "updated_at": "2026-09-11T10:13:04Z",
+    "updated_at": "2026-09-11T10:28:48Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2083,
+    "updated_at": "2026-09-11T10:28:37Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13473,
+    "updated_at": "2026-09-11T10:27:32Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Business legitimacy chat agent on the Azure Functions serverless agents runtime. Gathers evidence in code (RDAP domain a",
+    "id": "steefjan1/legit-check-agent",
+    "language": "Bicep",
+    "name": "steefjan1/legit-check-agent",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:26:06Z",
+    "url": "https://github.com/steefjan1/legit-check-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:25:58Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-11T10:25:51Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 353,
+    "updated_at": "2026-09-11T10:25:38Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 93,
+    "updated_at": "2026-09-11T10:25:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A dependency-free Go agent SDK, the engine behind agent-fox.",
+    "id": "agent-fox-dev/agentkit-go",
+    "language": "Go",
+    "name": "agent-fox-dev/agentkit-go",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:23:38Z",
+    "url": "https://github.com/agent-fox-dev/agentkit-go"
+  },
+  {
+    "description": "A community driven directory of paseo.sh plugins",
+    "id": "paseo-cafe/paseo-cafe",
+    "language": "TypeScript",
+    "name": "paseo-cafe/paseo-cafe",
+    "stars": 13,
+    "updated_at": "2026-09-11T10:23:26Z",
+    "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 2,
+    "updated_at": "2026-09-11T10:29:47Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Terminal agent harness built from a coding-agent foundation \u2014 plug in your own agent via YAML config",
+    "id": "mochow13/keen-agent",
+    "language": "Go",
+    "name": "mochow13/keen-agent",
+    "stars": 2,
+    "updated_at": "2026-09-11T10:22:55Z",
+    "url": "https://github.com/mochow13/keen-agent"
+  },
+  {
+    "description": "AI Agent\uff1a\u624b\u6413 \u00b7 \u6846\u67b6 \u00b7 \u4f01\u4e1a\u7ea7\u3002Tool calling, memory, planning, MCP, evaluation, guardrails, concurrency & resume.",
+    "id": "cylshao/agent-in-action",
+    "language": "Python",
+    "name": "cylshao/agent-in-action",
+    "stars": 0,
+    "updated_at": "2026-09-11T10:22:28Z",
+    "url": "https://github.com/cylshao/agent-in-action"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-09-11T10:20:29Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-11T10:17:51Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 68,
+    "updated_at": "2026-09-11T10:17:48Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T10:15:56Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T10:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -45,24 +198,6 @@
     "url": "https://github.com/karvidsson/kbots"
   },
   {
-    "description": "A dependency-free Go agent SDK, the engine behind agent-fox.",
-    "id": "agent-fox-dev/agentkit-go",
-    "language": "Go",
-    "name": "agent-fox-dev/agentkit-go",
-    "stars": 0,
-    "updated_at": "2026-09-11T10:09:27Z",
-    "url": "https://github.com/agent-fox-dev/agentkit-go"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 93,
-    "updated_at": "2026-09-11T10:09:11Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Agentic LLM shell aimed at low cost GPUs",
     "id": "chrisws/nitro",
     "language": "C++",
@@ -77,7 +212,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35502,
-    "updated_at": "2026-09-11T10:08:24Z",
+    "updated_at": "2026-09-11T10:23:45Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -99,15 +234,6 @@
     "url": "https://github.com/jamillazarev/opsinist"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T10:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The control plane for AI coding agents.",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
@@ -115,15 +241,6 @@
     "stars": 1623,
     "updated_at": "2026-09-11T10:00:09Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 5,
-    "updated_at": "2026-09-11T09:58:39Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -140,17 +257,8 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 62,
-    "updated_at": "2026-09-11T10:02:07Z",
+    "updated_at": "2026-09-11T10:29:37Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13473,
-    "updated_at": "2026-09-11T10:10:02Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -333,15 +441,6 @@
     "url": "https://github.com/muhamedali7713/agent-audit"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 5,
-    "updated_at": "2026-09-11T10:15:07Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
     "id": "Fast-newengland468/CyberClaw",
     "language": "\u2014",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T09:32:58Z",
     "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:32:44Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:32:26Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:32:02Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:31:58Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:31:37Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-09-11T09:31:28Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:30:27Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "A lightweight Kotlin agent framework and IntelliJ IDEA plugin for streaming LLM tool-calling agents that read and edit f",
-    "id": "lg841226/Gradum",
-    "language": "Kotlin",
-    "name": "lg841226/Gradum",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:29:59Z",
-    "url": "https://github.com/lg841226/Gradum"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:29:20Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:28:13Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:27:52Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
