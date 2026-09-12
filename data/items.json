@@ -1,5 +1,95 @@
 [
   {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 4,
+    "updated_at": "2026-09-12T16:59:00Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-12T16:55:20Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-09-12T16:55:11Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 2,
+    "updated_at": "2026-09-12T16:55:04Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
+  },
+  {
+    "description": "Grok Build Remote Web UI ACP Host",
+    "id": "AgentsHarness/capri-host",
+    "language": "Go",
+    "name": "AgentsHarness/capri-host",
+    "stars": 2,
+    "updated_at": "2026-09-12T16:54:52Z",
+    "url": "https://github.com/AgentsHarness/capri-host"
+  },
+  {
+    "description": "AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4)",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 44,
+    "updated_at": "2026-09-12T16:51:09Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-09-12T16:50:24Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Open-source infrastructure for AI agents: memory, automation, and on-chain perception.",
+    "id": "arcotechagent/arcoagent",
+    "language": "HTML",
+    "name": "arcotechagent/arcoagent",
+    "stars": 0,
+    "updated_at": "2026-09-12T16:45:47Z",
+    "url": "https://github.com/arcotechagent/arcoagent"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-09-12T16:47:45Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T16:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-Agent AI Task Orchestrator 2026",
     "id": "skerry699/agent-symphony",
     "language": "HTML",
@@ -13,18 +103,9 @@
     "id": "bzdvdn/reactifact",
     "language": "Python",
     "name": "bzdvdn/reactifact",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-12T16:44:40Z",
     "url": "https://github.com/bzdvdn/reactifact"
-  },
-  {
-    "description": "Open-source infrastructure for AI agents: memory, automation, and on-chain perception.",
-    "id": "arcotechagent/arcoagent",
-    "language": "HTML",
-    "name": "arcotechagent/arcoagent",
-    "stars": 0,
-    "updated_at": "2026-09-12T16:42:27Z",
-    "url": "https://github.com/arcotechagent/arcoagent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -45,20 +126,11 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4)",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 44,
-    "updated_at": "2026-09-12T16:41:47Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35518,
+    "stars": 35519,
     "updated_at": "2026-09-12T16:38:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -88,15 +160,6 @@
     "stars": 17,
     "updated_at": "2026-09-12T16:30:38Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T16:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
@@ -131,17 +194,8 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 219,
-    "updated_at": "2026-09-12T16:23:06Z",
+    "updated_at": "2026-09-12T16:50:36Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 1,
-    "updated_at": "2026-09-12T16:23:05Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 280,
-    "updated_at": "2026-09-12T16:11:21Z",
+    "updated_at": "2026-09-12T16:58:38Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 372,
-    "updated_at": "2026-09-12T16:24:28Z",
+    "updated_at": "2026-09-12T16:54:09Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 526,
-    "updated_at": "2026-09-12T16:35:13Z",
+    "updated_at": "2026-09-12T16:58:31Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -268,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-09-12T15:56:33Z",
     "url": "https://github.com/tendQQ/a2p2a"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9881,
+    "updated_at": "2026-09-12T15:56:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "",
@@ -328,7 +391,7 @@
     "id": "PurrPod/purrcat",
     "language": "Python",
     "name": "PurrPod/purrcat",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-09-12T15:44:27Z",
     "url": "https://github.com/PurrPod/purrcat"
   },
@@ -340,33 +403,6 @@
     "stars": 32,
     "updated_at": "2026-09-12T15:42:50Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Grok Build Remote Web UI ACP Host",
-    "id": "AgentsHarness/capri-host",
-    "language": "Go",
-    "name": "AgentsHarness/capri-host",
-    "stars": 2,
-    "updated_at": "2026-09-12T15:41:44Z",
-    "url": "https://github.com/AgentsHarness/capri-host"
-  },
-  {
-    "description": "Grok Build Web UI",
-    "id": "AgentsHarness/capri-fe",
-    "language": "TypeScript",
-    "name": "AgentsHarness/capri-fe",
-    "stars": 2,
-    "updated_at": "2026-09-12T15:41:42Z",
-    "url": "https://github.com/AgentsHarness/capri-fe"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9880,
-    "updated_at": "2026-09-12T15:56:06Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1335,
-    "updated_at": "2026-09-12T16:44:24Z",
+    "updated_at": "2026-09-12T16:56:03Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "\u00dclk\u00fcc\u00fc Baba \u2014 Hermes Agent ki\u015fisel fork\u2019u: mg paneli, USD maliyet tavan\u0131, kademe onay kap\u0131s\u0131. Amateur project built with",
-    "id": "mktest2179-a11y/ulkucu-baba",
-    "language": "Python",
-    "name": "mktest2179-a11y/ulkucu-baba",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:16:12Z",
-    "url": "https://github.com/mktest2179-a11y/ulkucu-baba"
-  },
-  {
-    "description": "An open-source terminal coding agent runtime and CLI for real project work.",
-    "id": "roackb2/heddle",
-    "language": "TypeScript",
-    "name": "roackb2/heddle",
-    "stars": 25,
-    "updated_at": "2026-09-12T15:15:30Z",
-    "url": "https://github.com/roackb2/heddle"
-  },
-  {
-    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by CrewAI. Register tasks under tasks/ to run v",
-    "id": "erishen/crewai-pse",
-    "language": "Python",
-    "name": "erishen/crewai-pse",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:13:46Z",
-    "url": "https://github.com/erishen/crewai-pse"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-09-12T15:07:42Z",
-    "url": "https://github.com/osovv/vv-opencode"
   }
 ]
