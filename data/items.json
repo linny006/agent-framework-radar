@@ -1,11 +1,74 @@
 [
   {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 121,
+    "updated_at": "2026-09-12T09:59:47Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2089,
+    "updated_at": "2026-09-12T09:57:30Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-12T09:56:23Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9870,
+    "updated_at": "2026-09-12T09:55:51Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-12T09:50:17Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1335,
+    "updated_at": "2026-09-12T09:55:36Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T09:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-12T09:44:52Z",
+    "updated_at": "2026-09-12T10:00:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/B1ueMu3ic4m/approximately"
   },
   {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-12T09:42:34Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
     "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
     "id": "swsgbl/hmharness",
     "language": "TypeScript",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T09:31:49Z",
     "url": "https://github.com/swsgbl/hmharness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T09:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
@@ -171,15 +216,6 @@
     "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1335,
-    "updated_at": "2026-09-12T09:42:56Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -288,15 +324,6 @@
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9868,
-    "updated_at": "2026-09-12T09:33:09Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
     "id": "fathirn6263/harness-engineering",
     "language": "\u2014",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 2,
-    "updated_at": "2026-09-12T09:33:02Z",
+    "updated_at": "2026-09-12T09:59:41Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -382,7 +409,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1292,
+    "stars": 1293,
     "updated_at": "2026-09-12T08:52:06Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T08:48:27Z",
     "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:50:41Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-09-12T08:47:23Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-12T08:43:37Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
   }
 ]
