@@ -1,5 +1,122 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-12T14:56:20Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1335,
+    "updated_at": "2026-09-12T14:54:17Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35515,
+    "updated_at": "2026-09-12T14:53:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 2,
+    "updated_at": "2026-09-12T14:52:27Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 68,
+    "updated_at": "2026-09-12T14:51:49Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
+    "id": "YQteam-dyq/yq-nova-agent",
+    "language": "Rust",
+    "name": "YQteam-dyq/yq-nova-agent",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:51:30Z",
+    "url": "https://github.com/YQteam-dyq/yq-nova-agent"
+  },
+  {
+    "description": "A community driven directory of paseo.sh plugins",
+    "id": "paseo-cafe/paseo-cafe",
+    "language": "TypeScript",
+    "name": "paseo-cafe/paseo-cafe",
+    "stars": 17,
+    "updated_at": "2026-09-12T14:51:05Z",
+    "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4)",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 44,
+    "updated_at": "2026-09-12T14:50:42Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:49:44Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-12T14:49:44Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Go agent runtime core \u2014 reversible effects, reactive service loading.",
+    "id": "Luo-root/pulse",
+    "language": "Go",
+    "name": "Luo-root/pulse",
+    "stars": 5,
+    "updated_at": "2026-09-12T14:48:47Z",
+    "url": "https://github.com/Luo-root/pulse"
+  },
+  {
+    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
+    "id": "AgiMateIo/agimate-backend",
+    "language": "Java",
+    "name": "AgiMateIo/agimate-backend",
+    "stars": 5,
+    "updated_at": "2026-09-12T14:45:32Z",
+    "url": "https://github.com/AgiMateIo/agimate-backend"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T14:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Web dashboard for AgiMate: build agents, set what each one is allowed to touch, and watch the logs",
     "id": "AgiMateIo/agimate-frontend",
     "language": "TypeScript",
@@ -7,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T14:44:10Z",
     "url": "https://github.com/AgiMateIo/agimate-frontend"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-12T14:43:47Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -36,15 +144,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Go agent runtime core \u2014 reversible effects, reactive service loading.",
-    "id": "Luo-root/pulse",
-    "language": "Go",
-    "name": "Luo-root/pulse",
-    "stars": 5,
-    "updated_at": "2026-09-12T14:40:50Z",
-    "url": "https://github.com/Luo-root/pulse"
-  },
-  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/3D-Agent",
     "language": "Python",
@@ -52,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T14:34:35Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1335,
-    "updated_at": "2026-09-12T14:43:17Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -108,21 +198,12 @@
     "url": "https://github.com/MosquitoAGI/mosquito"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T14:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 219,
-    "updated_at": "2026-09-12T14:44:37Z",
+    "updated_at": "2026-09-12T15:00:07Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -252,15 +333,6 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35515,
-    "updated_at": "2026-09-12T13:51:31Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "\ud83d\udcb8Agent stock analysis CLI (Real-time terminal dashboard and backtesting interface) +\ud83d\udd37Microsoft Agent Framework",
     "id": "kimtth/agent-quant-stock-invest",
     "language": "Python",
@@ -351,15 +423,6 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "A community driven directory of paseo.sh plugins",
-    "id": "paseo-cafe/paseo-cafe",
-    "language": "TypeScript",
-    "name": "paseo-cafe/paseo-cafe",
-    "stars": 17,
-    "updated_at": "2026-09-12T13:38:33Z",
-    "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T13:36:19Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1624,
-    "updated_at": "2026-09-12T13:36:07Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-09-12T13:35:28Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-12T13:35:00Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-09-12T13:32:45Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-12T13:32:34Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
-    "id": "open-multi-agent/open-multi-agent",
-    "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 6909,
-    "updated_at": "2026-09-12T13:32:18Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 121,
-    "updated_at": "2026-09-12T13:31:00Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
   }
 ]
