@@ -1,5 +1,131 @@
 [
   {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 62,
+    "updated_at": "2026-09-12T05:29:49Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35508,
+    "updated_at": "2026-09-12T05:27:17Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
+    "id": "kimi0hhhh/project-orchestrator-skill",
+    "language": "HTML",
+    "name": "kimi0hhhh/project-orchestrator-skill",
+    "stars": 0,
+    "updated_at": "2026-09-12T05:26:49Z",
+    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-12T05:25:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 353,
+    "updated_at": "2026-09-12T05:24:02Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 68,
+    "updated_at": "2026-09-12T05:28:58Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-09-12T05:22:04Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 121,
+    "updated_at": "2026-09-12T05:21:12Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-12T05:21:12Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 280,
+    "updated_at": "2026-09-12T05:25:58Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-12T05:19:20Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2087,
+    "updated_at": "2026-09-12T05:16:10Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
+    "id": "leanneexperimental3016/Models-Cowork",
+    "language": "Python",
+    "name": "leanneexperimental3016/Models-Cowork",
+    "stars": 0,
+    "updated_at": "2026-09-12T05:15:30Z",
+    "url": "https://github.com/leanneexperimental3016/Models-Cowork"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T05:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
@@ -14,7 +140,7 @@
     "language": "JavaScript",
     "name": "br3eze-code/br3eze-code",
     "stars": 2,
-    "updated_at": "2026-09-12T05:15:12Z",
+    "updated_at": "2026-09-12T05:27:12Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
@@ -36,15 +162,6 @@
     "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
   },
   {
-    "description": "Multi-agent orchestration skill: 6-role pipeline delivers full products. Single writer, read-only advisors, strict gates",
-    "id": "kimi0hhhh/project-orchestrator-skill",
-    "language": "HTML",
-    "name": "kimi0hhhh/project-orchestrator-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T05:12:25Z",
-    "url": "https://github.com/kimi0hhhh/project-orchestrator-skill"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -52,15 +169,6 @@
     "stars": 39,
     "updated_at": "2026-09-12T05:11:53Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2087,
-    "updated_at": "2026-09-12T05:10:59Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4)",
@@ -149,7 +257,7 @@
     "language": "Python",
     "name": "AndersonBY/vv-agent",
     "stars": 2,
-    "updated_at": "2026-09-12T05:03:38Z",
+    "updated_at": "2026-09-12T05:27:59Z",
     "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
@@ -171,15 +279,6 @@
     "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
   },
   {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-12T05:04:36Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
     "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
     "id": "monahright467/harness-books",
     "language": "Python",
@@ -187,24 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T05:02:54Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 62,
-    "updated_at": "2026-09-12T05:12:08Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T05:01:51Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-12T04:50:23Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-09-12T04:48:26Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-09-12T04:46:48Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 68,
-    "updated_at": "2026-09-12T04:46:22Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
-    "id": "thesiddguy/GenAI",
-    "language": "HTML",
-    "name": "thesiddguy/GenAI",
-    "stars": 0,
-    "updated_at": "2026-09-12T04:44:55Z",
-    "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-09-12T04:42:28Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 1278,
-    "updated_at": "2026-09-12T04:41:45Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26482,
-    "updated_at": "2026-09-12T04:41:17Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-09-12T04:41:13Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 0,
-    "updated_at": "2026-09-12T04:37:44Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   }
 ]
