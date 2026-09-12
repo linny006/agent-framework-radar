@@ -1,11 +1,83 @@
 [
   {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-12T12:27:09Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 27,
+    "updated_at": "2026-09-12T12:23:02Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-09-12T12:28:35Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
+    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "language": "Python",
+    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-12T12:20:20Z",
+    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 416,
+    "updated_at": "2026-09-12T12:18:47Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-09-12T12:26:54Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 11,
+    "updated_at": "2026-09-12T12:18:09Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T12:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
     "name": "opencue/cuecards",
     "stars": 5,
-    "updated_at": "2026-09-12T12:14:36Z",
+    "updated_at": "2026-09-12T12:17:06Z",
     "url": "https://github.com/opencue/cuecards"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-12T12:09:52Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
     "id": "AgiMateIo/agimate-backend",
     "language": "Java",
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1335,
-    "updated_at": "2026-09-12T12:04:28Z",
+    "updated_at": "2026-09-12T12:24:57Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -79,24 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-12T12:00:46Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T12:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A runtime-neutral engineering layer for discovering, verifying, and controlling agent execution and collaboration.",
-    "id": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "language": "Python",
-    "name": "Tsubasa-Kaede/runtime-neutral-agent-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-12T12:00:01Z",
-    "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
     "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins.",
@@ -324,6 +369,15 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19875,
+    "updated_at": "2026-09-12T11:18:02Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -360,15 +414,6 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 27,
-    "updated_at": "2026-09-12T11:05:09Z",
-    "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 54,
     "updated_at": "2026-09-12T10:50:20Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-09-12T10:41:58Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-09-12T10:40:55Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "Agents, Unleashed.",
-    "id": "sashvat-bharat/agent-accelerator",
-    "language": "TypeScript",
-    "name": "sashvat-bharat/agent-accelerator",
-    "stars": 2,
-    "updated_at": "2026-09-12T10:40:36Z",
-    "url": "https://github.com/sashvat-bharat/agent-accelerator"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-12T10:37:09Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-12T10:36:24Z",
-    "url": "https://github.com/ellmos-ai/bach"
   }
 ]
