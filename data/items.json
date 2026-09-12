@@ -1,12 +1,84 @@
 [
   {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 280,
+    "updated_at": "2026-09-11T23:57:53Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 3,
+    "updated_at": "2026-09-11T23:56:52Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13480,
+    "updated_at": "2026-09-11T23:54:20Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2086,
+    "updated_at": "2026-09-11T23:52:32Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 25,
+    "updated_at": "2026-09-11T23:51:38Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/3D-Agent",
     "language": "Python",
     "name": "DJG3DK/3D-Agent",
     "stars": 3,
-    "updated_at": "2026-09-11T23:43:39Z",
+    "updated_at": "2026-09-11T23:48:05Z",
     "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-11T23:47:34Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-11T23:47:32Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-11T23:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -16,15 +88,6 @@
     "stars": 39,
     "updated_at": "2026-09-11T23:43:26Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 3,
-    "updated_at": "2026-09-11T23:44:22Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -50,7 +113,7 @@
     "language": "Shell",
     "name": "showjihyun/aether",
     "stars": 0,
-    "updated_at": "2026-09-11T23:37:12Z",
+    "updated_at": "2026-09-11T23:49:47Z",
     "url": "https://github.com/showjihyun/aether"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9860,
-    "updated_at": "2026-09-11T23:36:26Z",
+    "updated_at": "2026-09-12T00:00:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T23:32:58Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-11T23:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-11T23:13:13Z",
+    "updated_at": "2026-09-11T23:55:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T23:04:36Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 25,
-    "updated_at": "2026-09-11T23:39:50Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
@@ -250,15 +295,6 @@
     "stars": 121,
     "updated_at": "2026-09-11T22:57:48Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2086,
-    "updated_at": "2026-09-11T22:55:00Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
@@ -412,41 +448,5 @@
     "stars": 1334,
     "updated_at": "2026-09-11T22:27:46Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-09-11T22:20:21Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-11T22:17:22Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4918,
-    "updated_at": "2026-09-11T22:15:40Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 0,
-    "updated_at": "2026-09-11T22:11:51Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   }
 ]
