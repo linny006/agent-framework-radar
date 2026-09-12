@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-12T20:29:26Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 283,
+    "updated_at": "2026-09-12T20:43:38Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2093,
+    "updated_at": "2026-09-12T20:43:19Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "ggui-ai/ggui",
     "stars": 39,
-    "updated_at": "2026-09-12T20:27:42Z",
+    "updated_at": "2026-09-12T20:40:33Z",
     "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-12T20:38:33Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 726,
+    "updated_at": "2026-09-12T20:35:41Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-12T20:34:33Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9883,
+    "updated_at": "2026-09-12T20:30:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T20:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-12T20:29:26Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
     "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
@@ -36,21 +99,12 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-12T20:24:38Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1336,
-    "updated_at": "2026-09-12T20:27:18Z",
+    "updated_at": "2026-09-12T20:36:04Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T20:15:43Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T20:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
@@ -88,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-09-12T20:14:26Z",
     "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19882,
+    "updated_at": "2026-09-12T20:13:57Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T20:10:56Z",
     "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2093,
-    "updated_at": "2026-09-12T20:08:09Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
@@ -184,7 +229,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1324,
+    "stars": 1325,
     "updated_at": "2026-09-12T20:01:45Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -288,15 +333,6 @@
     "url": "https://github.com/Rayan55050/progressive-agent"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 283,
-    "updated_at": "2026-09-12T20:17:31Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
     "id": "ntorga/agent-starter-kit",
     "language": "Shell",
@@ -378,21 +414,12 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9883,
-    "updated_at": "2026-09-12T20:22:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
     "id": "SparkElf/deepseek-harness-plus",
     "language": "TypeScript",
     "name": "SparkElf/deepseek-harness-plus",
     "stars": 2,
-    "updated_at": "2026-09-12T20:25:48Z",
+    "updated_at": "2026-09-12T20:43:14Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T19:27:21Z",
     "url": "https://github.com/lafollett-labs/riff"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 54,
-    "updated_at": "2026-09-12T19:25:49Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 353,
-    "updated_at": "2026-09-12T19:20:05Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Grok Build Web UI",
-    "id": "AgentsHarness/capri-fe",
-    "language": "TypeScript",
-    "name": "AgentsHarness/capri-fe",
-    "stars": 2,
-    "updated_at": "2026-09-12T19:16:50Z",
-    "url": "https://github.com/AgentsHarness/capri-fe"
   }
 ]
