@@ -1,12 +1,30 @@
 [
   {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
+    "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
     "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 7,
-    "updated_at": "2026-09-12T03:14:35Z",
-    "url": "https://github.com/maref-org/maref"
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:28:51Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 11,
+    "updated_at": "2026-09-12T03:27:28Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-12T03:27:04Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 5,
-    "updated_at": "2026-09-12T03:13:42Z",
+    "updated_at": "2026-09-12T03:21:36Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-09-12T03:20:47Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9861,
+    "updated_at": "2026-09-12T03:17:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 7,
+    "updated_at": "2026-09-12T03:15:50Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-12T03:15:19Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-09-12T03:14:07Z",
+    "updated_at": "2026-09-12T03:28:14Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 2,
-    "updated_at": "2026-09-12T03:11:01Z",
+    "updated_at": "2026-09-12T03:28:01Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-12T03:14:09Z",
+    "updated_at": "2026-09-12T03:26:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 280,
-    "updated_at": "2026-09-12T03:03:22Z",
+    "updated_at": "2026-09-12T03:16:33Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/mycelhq/mycel"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-12T03:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -115,15 +160,6 @@
     "stars": 24,
     "updated_at": "2026-09-12T02:58:44Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 11,
-    "updated_at": "2026-09-12T02:58:43Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 68,
-    "updated_at": "2026-09-12T02:56:22Z",
+    "updated_at": "2026-09-12T03:27:23Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T02:54:10Z",
     "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind \u2014\u2014 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u91d1\u878d\u7814\u7a76\u56e2\u961f\uff1a\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff1b\u5168\u94fe\u53ef\u6eaf\u6e90\u7684 AI \u6295\u7814\u62a5\u544a\u5de5\u5382\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-12T02:53:51Z",
-    "url": "https://github.com/momang85/weavemind"
   },
   {
     "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
@@ -409,7 +436,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35505,
+    "stars": 35506,
     "updated_at": "2026-09-12T02:36:53Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T02:35:24Z",
     "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 3,
-    "updated_at": "2026-09-12T02:33:16Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-09-12T02:32:59Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-09-12T02:31:47Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   }
 ]
