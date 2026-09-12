@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jianchen08/Agent-os-open](https://github.com/jianchen08/Agent-os-open) | 5 | Python | 2026-09-12 |  A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot‑reload, an |
-| 2 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 3 | [mauro-mura/agenor](https://github.com/mauro-mura/agenor) | 1 | Java | 2026-09-12 | Autonomous multi-agent coordination for the JVM |
-| 4 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-09-12 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 5 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 2 | HTML | 2026-09-12 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
-| 6 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-09-12 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 8 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 44 | Python | 2026-09-12 | AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4) |
-| 9 | [paseo-cafe/paseo-cafe](https://github.com/paseo-cafe/paseo-cafe) | 17 | TypeScript | 2026-09-12 | A community driven directory of paseo.sh plugins |
-| 10 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 56 | TypeScript | 2026-09-12 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
-| 11 | [shibing624/agentica](https://github.com/shibing624/agentica) | 353 | Python | 2026-09-12 | One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh |
-| 12 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 1313 | Python | 2026-09-12 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 13 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2093 | TypeScript | 2026-09-12 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 14 | [iyulab/ironhive-host](https://github.com/iyulab/ironhive-host) | 0 | C# | 2026-09-12 | Universal AI agent host for .NET — CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core. |
-| 15 | [Spitfire-Products/nexus-cortex](https://github.com/Spitfire-Products/nexus-cortex) | 1 | TypeScript | 2026-09-12 | A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful age |
-| 16 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9882 | Python | 2026-09-12 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 17 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 4 | TypeScript | 2026-09-12 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
-| 18 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1651 | Python | 2026-09-12 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 1 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1651 | Python | 2026-09-12 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [jianchen08/Agent-os-open](https://github.com/jianchen08/Agent-os-open) | 5 | Python | 2026-09-12 |  A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot‑reload, an |
+| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 32 | Python | 2026-09-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 5 | [mauro-mura/agenor](https://github.com/mauro-mura/agenor) | 1 | Java | 2026-09-12 | Autonomous multi-agent coordination for the JVM |
+| 6 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-09-12 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 7 | [LovaHuguel/Khala-Orchestrator-Core](https://github.com/LovaHuguel/Khala-Orchestrator-Core) | 2 | HTML | 2026-09-12 | 🤖 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems 🚀 |
+| 8 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-09-12 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
+| 9 | [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | 44 | Python | 2026-09-12 | AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4) |
+| 10 | [paseo-cafe/paseo-cafe](https://github.com/paseo-cafe/paseo-cafe) | 17 | TypeScript | 2026-09-12 | A community driven directory of paseo.sh plugins |
+| 11 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 56 | TypeScript | 2026-09-12 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
+| 12 | [shibing624/agentica](https://github.com/shibing624/agentica) | 353 | Python | 2026-09-12 | One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh |
+| 13 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 1313 | Python | 2026-09-12 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
+| 14 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2093 | TypeScript | 2026-09-12 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 15 | [iyulab/ironhive-host](https://github.com/iyulab/ironhive-host) | 0 | C# | 2026-09-12 | Universal AI agent host for .NET — CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core. |
+| 16 | [Spitfire-Products/nexus-cortex](https://github.com/Spitfire-Products/nexus-cortex) | 1 | TypeScript | 2026-09-12 | A headless, multi-provider AI agent harness — embed it as a library, script it from the CLI, or run it as a stateful age |
+| 17 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 9882 | Python | 2026-09-12 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 18 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 4 | TypeScript | 2026-09-12 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
 | 19 | [EmreAka/Assistant](https://github.com/EmreAka/Assistant) | 2 | C# | 2026-09-12 | Personel Assistant On Telegram |
 | 20 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-09-12 |  |
 | 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
