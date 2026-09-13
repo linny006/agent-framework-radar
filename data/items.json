@@ -1,5 +1,104 @@
 [
   {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-09-13T21:13:13Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
+    "id": "yangwenhua212/hermchat",
+    "language": "Kotlin",
+    "name": "yangwenhua212/hermchat",
+    "stars": 3,
+    "updated_at": "2026-09-13T21:12:16Z",
+    "url": "https://github.com/yangwenhua212/hermchat"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 6,
+    "updated_at": "2026-09-13T21:11:01Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
+    "id": "sweatco/archie-hq",
+    "language": "TypeScript",
+    "name": "sweatco/archie-hq",
+    "stars": 17,
+    "updated_at": "2026-09-13T21:10:29Z",
+    "url": "https://github.com/sweatco/archie-hq"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 14,
+    "updated_at": "2026-09-13T21:10:07Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 284,
+    "updated_at": "2026-09-13T21:06:56Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Multi-Agent Reasoning Systems",
+    "id": "rezaho/MARSYS",
+    "language": "Python",
+    "name": "rezaho/MARSYS",
+    "stars": 24,
+    "updated_at": "2026-09-13T21:06:03Z",
+    "url": "https://github.com/rezaho/MARSYS"
+  },
+  {
+    "description": "AgentDeck SDK: the execution layer for agentic software. Agents, tools and workflows as plain Python, with sessions, str",
+    "id": "agentdecksdk/agentdeck",
+    "language": "Python",
+    "name": "agentdecksdk/agentdeck",
+    "stars": 4,
+    "updated_at": "2026-09-13T21:03:19Z",
+    "url": "https://github.com/agentdecksdk/agentdeck"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-09-13T21:03:09Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-09-13T21:14:49Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T21:00:32Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -9,30 +108,12 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 6,
-    "updated_at": "2026-09-13T20:58:17Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-09-13T20:55:11Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1352,
-    "updated_at": "2026-09-13T20:54:41Z",
+    "stars": 1353,
+    "updated_at": "2026-09-13T21:13:23Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T20:54:03Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T20:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -117,15 +189,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
-    "id": "truvaagents/truva-g3",
-    "language": "Go",
-    "name": "truvaagents/truva-g3",
-    "stars": 13,
-    "updated_at": "2026-09-13T20:54:58Z",
-    "url": "https://github.com/truvaagents/truva-g3"
-  },
-  {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
     "id": "Asceticrefractoryperiod28/Foundry",
     "language": "TypeScript",
@@ -187,15 +250,6 @@
     "stars": 121,
     "updated_at": "2026-09-13T20:19:48Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 17,
-    "updated_at": "2026-09-13T20:58:29Z",
-    "url": "https://github.com/sweatco/archie-hq"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -297,15 +351,6 @@
     "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   },
   {
-    "description": "AgentDeck SDK: the execution layer for agentic software. Agents, tools and workflows as plain Python, with sessions, str",
-    "id": "agentdecksdk/agentdeck",
-    "language": "Python",
-    "name": "agentdecksdk/agentdeck",
-    "stars": 4,
-    "updated_at": "2026-09-13T20:42:25Z",
-    "url": "https://github.com/agentdecksdk/agentdeck"
-  },
-  {
     "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
     "id": "Hundred-praisworthiness384/DomainOS",
     "language": "TypeScript",
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-13T20:10:32Z",
+    "updated_at": "2026-09-13T21:11:39Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
-    "id": "yangwenhua212/hermchat",
-    "language": "Kotlin",
-    "name": "yangwenhua212/hermchat",
-    "stars": 3,
-    "updated_at": "2026-09-13T20:02:01Z",
-    "url": "https://github.com/yangwenhua212/hermchat"
-  },
-  {
-    "description": "Local conversation store and read-only dashboard for Microsoft Agent Framework. Two packages, one line each, nothing lea",
-    "id": "1picassoai/picasso",
-    "language": "C#",
-    "name": "1picassoai/picasso",
-    "stars": 2,
-    "updated_at": "2026-09-13T19:56:07Z",
-    "url": "https://github.com/1picassoai/picasso"
-  },
-  {
-    "description": "Local agent OS for everyone \u2014 memory as the body, agents as shells. Model-agnostic agent dispatcher in Rust. \u672c\u5730\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8bb0",
-    "id": "Jokerautowrite/chuang-agent",
-    "language": "Rust",
-    "name": "Jokerautowrite/chuang-agent",
-    "stars": 8,
-    "updated_at": "2026-09-13T19:55:29Z",
-    "url": "https://github.com/Jokerautowrite/chuang-agent"
-  },
-  {
-    "description": "The zero-trust framework for autonomous AI agents.",
-    "id": "calebfaruki/sycophant",
-    "language": "Rust",
-    "name": "calebfaruki/sycophant",
-    "stars": 8,
-    "updated_at": "2026-09-13T19:51:26Z",
-    "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-13T19:48:49Z",
-    "url": "https://github.com/ellmos-ai/bach"
   }
 ]
