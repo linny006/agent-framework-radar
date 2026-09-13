@@ -1,5 +1,104 @@
 [
   {
+    "description": "Your channel remembers everything you've said - An interactive Youtube narrative map",
+    "id": "brishtiteveja/hindsight",
+    "language": "JavaScript",
+    "name": "brishtiteveja/hindsight",
+    "stars": 0,
+    "updated_at": "2026-09-13T04:56:55Z",
+    "url": "https://github.com/brishtiteveja/hindsight"
+  },
+  {
+    "description": "Go agent runtime core \u2014 reversible effects, reactive service loading.",
+    "id": "Luo-root/pulse",
+    "language": "Go",
+    "name": "Luo-root/pulse",
+    "stars": 5,
+    "updated_at": "2026-09-13T04:56:47Z",
+    "url": "https://github.com/Luo-root/pulse"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-13T04:56:03Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 25,
+    "updated_at": "2026-09-13T04:55:24Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "Run a 24/7 AI agent on free cloud: watchdogs, memory tuning, browser reapers and hard-won lessons from a real 2 OCPU / 1",
+    "id": "Amz34/selfhosted-agent-stack",
+    "language": "Python",
+    "name": "Amz34/selfhosted-agent-stack",
+    "stars": 0,
+    "updated_at": "2026-09-13T04:52:51Z",
+    "url": "https://github.com/Amz34/selfhosted-agent-stack"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2096,
+    "updated_at": "2026-09-13T04:49:51Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 18,
+    "updated_at": "2026-09-13T04:47:52Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 1,
+    "updated_at": "2026-09-13T04:47:52Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "A cross-platform agent framework and samples, support on Windows/MacOS/Android/iOS/HarmonyOS",
+    "id": "Marssssss/OneAI",
+    "language": "Rust",
+    "name": "Marssssss/OneAI",
+    "stars": 39,
+    "updated_at": "2026-09-13T04:47:36Z",
+    "url": "https://github.com/Marssssss/OneAI"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-13T04:45:24Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T04:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
@@ -27,13 +126,13 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "Go agent runtime core \u2014 reversible effects, reactive service loading.",
-    "id": "Luo-root/pulse",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
-    "name": "Luo-root/pulse",
-    "stars": 5,
-    "updated_at": "2026-09-13T04:33:22Z",
-    "url": "https://github.com/Luo-root/pulse"
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35522,
+    "updated_at": "2026-09-13T04:31:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "LOOM \u2014 Spec-driven continuity, proof, and project understanding infrastructure for AI coding agents. Keeps the whole pro",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T04:31:16Z",
     "url": "https://github.com/Haaaiawd/loom"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T04:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
@@ -79,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-09-13T04:40:35Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 11,
-    "updated_at": "2026-09-13T04:34:18Z",
-    "url": "https://github.com/tya5/reyn"
   },
   {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9895,
-    "updated_at": "2026-09-13T04:36:44Z",
+    "updated_at": "2026-09-13T04:56:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -297,24 +378,6 @@
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35523,
-    "updated_at": "2026-09-13T04:31:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Your channel remembers everything you've said - An interactive Youtube narrative map",
-    "id": "brishtiteveja/hindsight",
-    "language": "JavaScript",
-    "name": "brishtiteveja/hindsight",
-    "stars": 0,
-    "updated_at": "2026-09-13T03:51:46Z",
-    "url": "https://github.com/brishtiteveja/hindsight"
-  },
-  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-13T03:50:11Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 221,
-    "updated_at": "2026-09-13T03:42:31Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-13T03:42:31Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
-    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "language": "Python",
-    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "stars": 0,
-    "updated_at": "2026-09-13T03:39:58Z",
-    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "Agentic Operational Infrastructure",
-    "id": "Manu-Arrieta/AOI",
-    "language": "JavaScript",
-    "name": "Manu-Arrieta/AOI",
-    "stars": 0,
-    "updated_at": "2026-09-13T03:37:56Z",
-    "url": "https://github.com/Manu-Arrieta/AOI"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2096,
-    "updated_at": "2026-09-13T03:34:45Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 24,
-    "updated_at": "2026-09-13T04:14:49Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 527,
-    "updated_at": "2026-09-13T03:28:10Z",
-    "url": "https://github.com/jaylfc/taOS"
   }
 ]
