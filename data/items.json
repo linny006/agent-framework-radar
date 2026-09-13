@@ -1,11 +1,83 @@
 [
   {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:44:58Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Local agent OS for everyone \u2014 memory as the body, agents as shells. Model-agnostic agent dispatcher in Rust. \u672c\u5730\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8bb0",
+    "id": "Jokerautowrite/chuang-agent",
+    "language": "Rust",
+    "name": "Jokerautowrite/chuang-agent",
+    "stars": 7,
+    "updated_at": "2026-09-13T17:42:23Z",
+    "url": "https://github.com/Jokerautowrite/chuang-agent"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6253,
+    "updated_at": "2026-09-13T17:41:46Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-09-13T17:40:59Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:37:48Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2097,
+    "updated_at": "2026-09-13T17:36:35Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:35:11Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 110,
+    "updated_at": "2026-09-13T17:41:16Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
     "id": "linny006/agent-framework-radar",
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 6,
-    "updated_at": "2026-09-13T17:29:40Z",
+    "updated_at": "2026-09-13T17:30:24Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -113,7 +185,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 62,
-    "updated_at": "2026-09-13T17:15:46Z",
+    "updated_at": "2026-09-13T17:40:14Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -124,6 +196,15 @@
     "stars": 121,
     "updated_at": "2026-09-13T17:15:41Z",
     "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 2,
+    "updated_at": "2026-09-13T17:15:15Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -171,6 +252,15 @@
     "url": "https://github.com/yangwhale/CloseCrab"
   },
   {
+    "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 230,
+    "updated_at": "2026-09-13T17:05:17Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -189,15 +279,6 @@
     "url": "https://github.com/dzhioev/bro"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6253,
-    "updated_at": "2026-09-13T16:59:50Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "paseo-cafe/paseo-cafe",
     "language": "TypeScript",
@@ -214,15 +295,6 @@
     "stars": 52,
     "updated_at": "2026-09-13T16:56:00Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2097,
-    "updated_at": "2026-09-13T16:49:22Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T16:16:42Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:16:39Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:16:39Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Declarative guardrails and safety controls for .NET AI agents",
-    "id": "filipw/AgentGuard",
-    "language": "C#",
-    "name": "filipw/AgentGuard",
-    "stars": 19,
-    "updated_at": "2026-09-13T16:13:14Z",
-    "url": "https://github.com/filipw/AgentGuard"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-13T16:12:14Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 27,
-    "updated_at": "2026-09-13T16:11:09Z",
-    "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 42,
-    "updated_at": "2026-09-13T16:09:27Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:09:24Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Fork of DeepSeek Harness: plugin-based agent runtime on Cordis with head/executor orchestration, unified execution state",
-    "id": "Ydjin1984/DeepSeek_Kibborg_Harness",
-    "language": "TypeScript",
-    "name": "Ydjin1984/DeepSeek_Kibborg_Harness",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:11:51Z",
-    "url": "https://github.com/Ydjin1984/DeepSeek_Kibborg_Harness"
   }
 ]
