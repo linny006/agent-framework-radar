@@ -1,5 +1,59 @@
 [
   {
+    "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
+    "id": "rjaskonis/pi-feats",
+    "language": "TypeScript",
+    "name": "rjaskonis/pi-feats",
+    "stars": 0,
+    "updated_at": "2026-09-13T04:29:15Z",
+    "url": "https://github.com/rjaskonis/pi-feats"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 4,
+    "updated_at": "2026-09-13T04:28:17Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-13T04:27:04Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-13T04:16:24Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-13T04:18:42Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T04:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
     "id": "daniel06s6995/deepseek-harness-software-OPC",
     "language": "JavaScript",
@@ -54,15 +108,6 @@
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-13T04:04:28Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
     "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
     "id": "Smita6756/Hbrain",
     "language": "Python",
@@ -72,13 +117,13 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T04:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "omnigent-ai/omnigent",
+    "stars": 9895,
+    "updated_at": "2026-09-13T04:01:03Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
@@ -288,15 +333,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9894,
-    "updated_at": "2026-09-13T04:01:03Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "Luo-root/pulse",
     "stars": 5,
-    "updated_at": "2026-09-13T03:59:55Z",
+    "updated_at": "2026-09-13T04:27:21Z",
     "url": "https://github.com/Luo-root/pulse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 33,
     "updated_at": "2026-09-13T03:20:54Z",
     "url": "https://github.com/llopresto87/Cypress"
-  },
-  {
-    "description": "Multi-Agent Orchestrator - architect plans, cheap executors build, a reviewer gates every round. Visual DAG canvas, Loop",
-    "id": "MRreeeg/multi_agent_orchestrator",
-    "language": "Go",
-    "name": "MRreeeg/multi_agent_orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-13T03:20:50Z",
-    "url": "https://github.com/MRreeeg/multi_agent_orchestrator"
-  },
-  {
-    "description": "AGENT OS System",
-    "id": "showjihyun/aether",
-    "language": "Python",
-    "name": "showjihyun/aether",
-    "stars": 0,
-    "updated_at": "2026-09-13T03:19:37Z",
-    "url": "https://github.com/showjihyun/aether"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 68,
-    "updated_at": "2026-09-13T03:13:24Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 121,
-    "updated_at": "2026-09-13T03:12:29Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
