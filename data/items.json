@@ -1,12 +1,66 @@
 [
   {
+    "description": "Agentic Operational Infrastructure",
+    "id": "Manu-Arrieta/AOI",
+    "language": "JavaScript",
+    "name": "Manu-Arrieta/AOI",
+    "stars": 0,
+    "updated_at": "2026-09-13T22:29:15Z",
+    "url": "https://github.com/Manu-Arrieta/AOI"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 54,
+    "updated_at": "2026-09-13T22:28:13Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
     "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
     "id": "yangwenhua212/hermchat",
     "language": "Kotlin",
     "name": "yangwenhua212/hermchat",
     "stars": 3,
-    "updated_at": "2026-09-13T22:14:41Z",
+    "updated_at": "2026-09-13T22:27:07Z",
     "url": "https://github.com/yangwenhua212/hermchat"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1745,
+    "updated_at": "2026-09-13T22:26:43Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 284,
+    "updated_at": "2026-09-13T22:26:41Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 37,
+    "updated_at": "2026-09-13T22:24:45Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T22:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -32,26 +86,8 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-13T22:10:16Z",
+    "updated_at": "2026-09-13T22:22:47Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1745,
-    "updated_at": "2026-09-13T22:06:16Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 37,
-    "updated_at": "2026-09-13T22:04:42Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
     "description": "Ruby-native durable agent framework \u2014 SQLite-checkpointed graph execution that survives kill -9, with reviewed plans, di",
@@ -63,29 +99,11 @@
     "url": "https://github.com/ghassan-ai-projects/tamoz"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 284,
-    "updated_at": "2026-09-13T22:00:41Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T22:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9908,
+    "stars": 9909,
     "updated_at": "2026-09-13T22:00:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -97,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-09-13T21:58:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Agentic Operational Infrastructure",
-    "id": "Manu-Arrieta/AOI",
-    "language": "JavaScript",
-    "name": "Manu-Arrieta/AOI",
-    "stars": 0,
-    "updated_at": "2026-09-13T21:54:52Z",
-    "url": "https://github.com/Manu-Arrieta/AOI"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2098,
-    "updated_at": "2026-09-13T21:50:29Z",
+    "updated_at": "2026-09-13T22:16:17Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 6255,
-    "updated_at": "2026-09-13T21:32:35Z",
+    "updated_at": "2026-09-13T22:27:00Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 4,
-    "updated_at": "2026-09-13T21:51:18Z",
+    "updated_at": "2026-09-13T22:22:48Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -302,7 +311,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-09-13T20:58:58Z",
+    "updated_at": "2026-09-13T22:26:08Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:15:18Z",
     "url": "https://github.com/psyb0t/docker-aicodebox"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3918,
-    "updated_at": "2026-09-13T20:15:13Z",
-    "url": "https://github.com/evalstate/fast-agent"
   }
 ]
