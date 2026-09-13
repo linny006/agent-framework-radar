@@ -1,5 +1,50 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2098,
+    "updated_at": "2026-09-13T20:42:56Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Agentic Operational Infrastructure",
+    "id": "Manu-Arrieta/AOI",
+    "language": "JavaScript",
+    "name": "Manu-Arrieta/AOI",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:42:54Z",
+    "url": "https://github.com/Manu-Arrieta/AOI"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-09-13T20:42:53Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
+    "id": "autocatalytic-quartette9513/agent-git",
+    "language": "\u2014",
+    "name": "autocatalytic-quartette9513/agent-git",
+    "stars": 0,
+    "updated_at": "2026-09-13T20:32:28Z",
+    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T20:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
     "id": "pingpongballbouncingbetty737/embabel-agent",
     "language": "\u2014",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-13T20:27:40Z",
+    "updated_at": "2026-09-13T20:30:41Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "sweatco/archie-hq",
     "stars": 17,
-    "updated_at": "2026-09-13T20:19:40Z",
+    "updated_at": "2026-09-13T20:37:00Z",
     "url": "https://github.com/sweatco/archie-hq"
   },
   {
@@ -112,7 +157,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9907,
+    "stars": 9908,
     "updated_at": "2026-09-13T20:17:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -144,15 +189,6 @@
     "url": "https://github.com/yhlyblys66-art/moltstream"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T20:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
     "id": "psyb0t/docker-aicodebox",
     "language": "Python",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 1350,
-    "updated_at": "2026-09-13T20:26:59Z",
+    "updated_at": "2026-09-13T20:44:37Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "agentdecksdk/agentdeck",
     "stars": 4,
-    "updated_at": "2026-09-13T20:14:40Z",
+    "updated_at": "2026-09-13T20:42:25Z",
     "url": "https://github.com/agentdecksdk/agentdeck"
   },
   {
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 231,
-    "updated_at": "2026-09-13T20:00:21Z",
+    "updated_at": "2026-09-13T20:40:16Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-13T19:54:53Z",
+    "updated_at": "2026-09-13T20:33:55Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 8,
     "updated_at": "2026-09-13T19:51:26Z",
     "url": "https://github.com/calebfaruki/sycophant"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2098,
-    "updated_at": "2026-09-13T19:50:34Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
@@ -418,35 +445,8 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 6253,
+    "stars": 6254,
     "updated_at": "2026-09-13T19:40:35Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-09-13T19:40:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "LangGraph.js adapter for darwin-agents \u2014 wrap self-evolving Darwin agents as StateGraph nodes with zero hard deps",
-    "id": "studiomeyer-io/darwin-langgraph",
-    "language": "TypeScript",
-    "name": "studiomeyer-io/darwin-langgraph",
-    "stars": 0,
-    "updated_at": "2026-09-13T19:39:55Z",
-    "url": "https://github.com/studiomeyer-io/darwin-langgraph"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 54,
-    "updated_at": "2026-09-13T19:30:51Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   }
 ]
