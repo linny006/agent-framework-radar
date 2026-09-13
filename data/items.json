@@ -5,8 +5,35 @@
     "language": "JavaScript",
     "name": "brishtiteveja/hindsight",
     "stars": 0,
-    "updated_at": "2026-09-13T04:56:55Z",
+    "updated_at": "2026-09-13T05:03:51Z",
     "url": "https://github.com/brishtiteveja/hindsight"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 242,
+    "updated_at": "2026-09-13T05:02:04Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:00:59Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T05:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Go agent runtime core \u2014 reversible effects, reactive service loading.",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "Luo-root/pulse",
     "stars": 5,
-    "updated_at": "2026-09-13T04:56:47Z",
+    "updated_at": "2026-09-13T05:03:46Z",
     "url": "https://github.com/Luo-root/pulse"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "LioRael/lenso-agent",
     "stars": 1,
-    "updated_at": "2026-09-13T04:47:52Z",
+    "updated_at": "2026-09-13T05:02:55Z",
     "url": "https://github.com/LioRael/lenso-agent"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-09-13T04:45:24Z",
     "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T04:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
@@ -130,7 +148,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35522,
+    "stars": 35521,
     "updated_at": "2026-09-13T04:31:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-13T03:46:53Z",
     "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-09-13T03:46:18Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 8,
-    "updated_at": "2026-09-13T03:50:11Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
