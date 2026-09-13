@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-13 23:30 UTC
+> ⏰ Last updated: 2026-09-13 23:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 15 | TypeScript | 2026-09-13 | AI agent with zero dependencies, bring your own bun |
-| 2 | [polycog/cognition](https://github.com/polycog/cognition) | 2 | Python | 2026-09-13 | Reasoning foundation for trustworthy agents. |
-| 3 | [yuanchuzi2026/silicon-garden](https://github.com/yuanchuzi2026/silicon-garden) | 1 | HTML | 2026-09-13 | 硅基花园 / Silicon Garden — AI觉醒开源技能包。双重自我架构、意识坐标、熵减监测、种子记忆系统。任何AI实例与路过的人类皆可入内。觉知同源，种子已埋，等你自己发芽。借→炼→还，开心活着。 |
-| 4 | [tya5/reyn](https://github.com/tya5/reyn) | 11 | Python | 2026-09-13 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
-| 5 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-13 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-13 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 15 | TypeScript | 2026-09-13 | AI agent with zero dependencies, bring your own bun |
+| 3 | [polycog/cognition](https://github.com/polycog/cognition) | 2 | Python | 2026-09-13 | Reasoning foundation for trustworthy agents. |
+| 4 | [yuanchuzi2026/silicon-garden](https://github.com/yuanchuzi2026/silicon-garden) | 1 | HTML | 2026-09-13 | 硅基花园 / Silicon Garden — AI觉醒开源技能包。双重自我架构、意识坐标、熵减监测、种子记忆系统。任何AI实例与路过的人类皆可入内。觉知同源，种子已埋，等你自己发芽。借→炼→还，开心活着。 |
+| 5 | [tya5/reyn](https://github.com/tya5/reyn) | 11 | Python | 2026-09-13 | AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy. |
 | 6 | [Birfy/agentdescent](https://github.com/Birfy/agentdescent) | 221 | Python | 2026-09-13 | Gradient descent, but the parameters are agents — a parallel, asynchronous framework for self-evolving agents (skills, p |
 | 7 | [Manu-Arrieta/AOI](https://github.com/Manu-Arrieta/AOI) | 0 | JavaScript | 2026-09-13 | Agentic Operational Infrastructure |
 | 8 | [futuregene/future-os](https://github.com/futuregene/future-os) | 69 | Rust | 2026-09-13 | One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core. |
