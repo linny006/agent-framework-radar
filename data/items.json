@@ -1,5 +1,77 @@
 [
   {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-13T13:28:21Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-13T13:27:07Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Local-first collaboration hub for AI agents - shared knowledge base, user memory, async messaging, skill market and usag",
+    "id": "SiliconCoderJames/MiderHive",
+    "language": "C++",
+    "name": "SiliconCoderJames/MiderHive",
+    "stars": 0,
+    "updated_at": "2026-09-13T13:25:08Z",
+    "url": "https://github.com/SiliconCoderJames/MiderHive"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-13T13:21:36Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 284,
+    "updated_at": "2026-09-13T13:21:29Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Code-first Python framework for AI agents: LLM tool calling, structured outputs with Pydantic, multi-agent orchestration",
+    "id": "jolovicdev/blackgeorge",
+    "language": "Python",
+    "name": "jolovicdev/blackgeorge",
+    "stars": 1,
+    "updated_at": "2026-09-13T13:21:05Z",
+    "url": "https://github.com/jolovicdev/blackgeorge"
+  },
+  {
+    "description": "AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery",
+    "id": "malevrigns/atlas-agent-control-plane",
+    "language": "Python",
+    "name": "malevrigns/atlas-agent-control-plane",
+    "stars": 110,
+    "updated_at": "2026-09-13T13:19:03Z",
+    "url": "https://github.com/malevrigns/atlas-agent-control-plane"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-13T13:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Go AI agent framework \u2014 reversible effects, reactive service loading.",
     "id": "Luo-root/pulse",
     "language": "Go",
@@ -27,21 +99,12 @@
     "url": "https://github.com/0xgetz/agent-council"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-13T13:12:06Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
     "id": "dzhioev/bro",
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 9,
-    "updated_at": "2026-09-13T13:11:11Z",
+    "updated_at": "2026-09-13T13:25:17Z",
     "url": "https://github.com/dzhioev/bro"
   },
   {
@@ -50,7 +113,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 37,
-    "updated_at": "2026-09-13T13:10:38Z",
+    "updated_at": "2026-09-13T13:23:06Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -81,24 +144,6 @@
     "url": "https://github.com/Cubiczan/Cubiczan-swarm-pack"
   },
   {
-    "description": "Local-first collaboration hub for AI agents - shared knowledge base, user memory, async messaging, skill market and usag",
-    "id": "SiliconCoderJames/MiderHive",
-    "language": "C++",
-    "name": "SiliconCoderJames/MiderHive",
-    "stars": 0,
-    "updated_at": "2026-09-13T13:06:22Z",
-    "url": "https://github.com/SiliconCoderJames/MiderHive"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-13T13:05:10Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -117,21 +162,12 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-13T13:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source Chinese AI Agent Systems textbook and engineering lab: runtimes, MCP/A2A, durable execution, evaluation, sec",
     "id": "william-lbn/aiagentsystem",
     "language": "Python",
     "name": "william-lbn/aiagentsystem",
     "stars": 0,
-    "updated_at": "2026-09-13T12:59:16Z",
+    "updated_at": "2026-09-13T13:21:31Z",
     "url": "https://github.com/william-lbn/aiagentsystem"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9901,
-    "updated_at": "2026-09-13T12:49:59Z",
+    "updated_at": "2026-09-13T13:23:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 69,
     "updated_at": "2026-09-13T12:48:47Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-13T12:48:36Z",
-    "url": "https://github.com/momang85/weavemind"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -216,21 +243,12 @@
     "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
-    "description": "Code-first Python framework for AI agents: LLM tool calling, structured outputs with Pydantic, multi-agent orchestration",
-    "id": "jolovicdev/blackgeorge",
-    "language": "Python",
-    "name": "jolovicdev/blackgeorge",
-    "stars": 1,
-    "updated_at": "2026-09-13T12:52:25Z",
-    "url": "https://github.com/jolovicdev/blackgeorge"
-  },
-  {
     "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u8005\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e tool/skill/subagent/prompt \u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff0c\u4ea4\u4ed8\u53ef\u4e0a\u7ebf\u7684 Agent \u670d\u52a1\u3002",
     "id": "retrychx/agentia",
     "language": "TypeScript",
     "name": "retrychx/agentia",
     "stars": 1,
-    "updated_at": "2026-09-13T12:42:32Z",
+    "updated_at": "2026-09-13T13:28:48Z",
     "url": "https://github.com/retrychx/agentia"
   },
   {
@@ -342,15 +360,6 @@
     "url": "https://github.com/autocatalytic-quartette9513/agent-git"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 284,
-    "updated_at": "2026-09-13T12:40:38Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
     "id": "pingpongballbouncingbetty737/embabel-agent",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 32,
     "updated_at": "2026-09-13T11:51:10Z",
     "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-13T11:49:56Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
