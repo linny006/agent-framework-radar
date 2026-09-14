@@ -1,5 +1,77 @@
 [
   {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 15,
+    "updated_at": "2026-09-14T19:15:09Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 6,
+    "updated_at": "2026-09-14T19:14:54Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
+    "id": "Bohra-Nitin/AgentManager",
+    "language": "\u2014",
+    "name": "Bohra-Nitin/AgentManager",
+    "stars": 1,
+    "updated_at": "2026-09-14T19:14:23Z",
+    "url": "https://github.com/Bohra-Nitin/AgentManager"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 9,
+    "updated_at": "2026-09-14T19:10:25Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4925,
+    "updated_at": "2026-09-14T19:09:27Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-14T19:09:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
+    "id": "cuteecarrot/AgentHub",
+    "language": "Python",
+    "name": "cuteecarrot/AgentHub",
+    "stars": 5,
+    "updated_at": "2026-09-14T19:09:22Z",
+    "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-14T19:09:17Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T19:07:44Z",
     "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 6,
-    "updated_at": "2026-09-14T19:07:42Z",
-    "url": "https://github.com/openamer/openamer"
   },
   {
     "description": "",
@@ -81,15 +144,6 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4924,
-    "updated_at": "2026-09-14T19:06:36Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
     "id": "yassineelfakiri/agentpg",
     "language": "Go",
@@ -108,15 +162,6 @@
     "url": "https://github.com/q-j0k/sprintloop-orchestration"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-14T19:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
     "id": "sageox/agent-toolkit",
     "language": "TypeScript",
@@ -130,9 +175,18 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9940,
+    "stars": 9941,
     "updated_at": "2026-09-14T18:59:46Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 1417,
+    "updated_at": "2026-09-14T18:59:41Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T18:55:35Z",
     "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 9,
-    "updated_at": "2026-09-14T18:51:10Z",
-    "url": "https://github.com/doeixd/affe-agent"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 37,
-    "updated_at": "2026-09-14T18:47:34Z",
+    "updated_at": "2026-09-14T19:09:43Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-14T18:53:30Z",
+    "updated_at": "2026-09-14T19:14:54Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-14T18:05:58Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "PurrCat Agent",
-    "id": "PurrPod/purrcat",
-    "language": "Python",
-    "name": "PurrPod/purrcat",
-    "stars": 34,
-    "updated_at": "2026-09-14T18:02:33Z",
-    "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-14T18:01:34Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Agent Engineering Foundation \u2014 a repo-agnostic Agent Operating System scaffold. Deterministic graph kernel + quarantined",
-    "id": "AndrewGoodson/aef-core",
-    "language": "Python",
-    "name": "AndrewGoodson/aef-core",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:59:06Z",
-    "url": "https://github.com/AndrewGoodson/aef-core"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 15,
-    "updated_at": "2026-09-14T17:58:45Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
-    "id": "trbearth/fieldwork-agent-os",
-    "language": "CSS",
-    "name": "trbearth/fieldwork-agent-os",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:57:26Z",
-    "url": "https://github.com/trbearth/fieldwork-agent-os"
   }
 ]
