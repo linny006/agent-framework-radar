@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI Agent\uff1a\u624b\u6413 \u00b7 \u6846\u67b6 \u00b7 \u4f01\u4e1a\u7ea7\u3002Tool calling, memory, planning, MCP, evaluation, guardrails, concurrency & resume.",
-    "id": "cylshao/agent-in-action",
+    "description": "Approximate memory, exact accountability \u2014 context runtime (budgeted windows, pins, recall probes) & flight recorder (MA",
+    "id": "B1ueMu3ic4m/approximately",
     "language": "Python",
-    "name": "cylshao/agent-in-action",
+    "name": "B1ueMu3ic4m/approximately",
     "stars": 1,
-    "updated_at": "2026-09-14T03:58:56Z",
-    "url": "https://github.com/cylshao/agent-in-action"
+    "updated_at": "2026-09-14T04:09:45Z",
+    "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 1,
+    "updated_at": "2026-09-14T04:09:41Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
+    "id": "logandoo/weave-thinker",
+    "language": "Python",
+    "name": "logandoo/weave-thinker",
+    "stars": 4,
+    "updated_at": "2026-09-14T04:09:36Z",
+    "url": "https://github.com/logandoo/weave-thinker"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 101,
-    "updated_at": "2026-09-14T03:58:33Z",
+    "updated_at": "2026-09-14T04:08:45Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-14T04:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AI Agent\uff1a\u624b\u6413 \u00b7 \u6846\u67b6 \u00b7 \u4f01\u4e1a\u7ea7\u3002Tool calling, memory, planning, MCP, evaluation, guardrails, concurrency & resume.",
+    "id": "cylshao/agent-in-action",
+    "language": "Python",
+    "name": "cylshao/agent-in-action",
+    "stars": 1,
+    "updated_at": "2026-09-14T03:58:56Z",
+    "url": "https://github.com/cylshao/agent-in-action"
   },
   {
     "description": "Alpha MCP server for local-first LLM orchestration: memory, knowledge, state, routing, swarm planning, API discovery, te",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 69,
-    "updated_at": "2026-09-14T03:58:45Z",
+    "updated_at": "2026-09-14T04:00:28Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 35535,
     "updated_at": "2026-09-14T03:56:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
-    "id": "logandoo/weave-thinker",
-    "language": "Python",
-    "name": "logandoo/weave-thinker",
-    "stars": 4,
-    "updated_at": "2026-09-14T03:55:06Z",
-    "url": "https://github.com/logandoo/weave-thinker"
   },
   {
     "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T03:45:47Z",
     "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-14T03:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
@@ -369,15 +387,6 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:18:17Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T03:06:30Z",
     "url": "https://github.com/SammyTourani/evestack"
-  },
-  {
-    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
-    "id": "clawboo/clawboo",
-    "language": "TypeScript",
-    "name": "clawboo/clawboo",
-    "stars": 58,
-    "updated_at": "2026-09-14T03:59:40Z",
-    "url": "https://github.com/clawboo/clawboo"
   }
 ]
