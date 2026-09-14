@@ -1,12 +1,48 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 2,
+    "updated_at": "2026-09-14T12:44:00Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 15,
+    "updated_at": "2026-09-14T12:41:36Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 15,
+    "updated_at": "2026-09-14T12:40:52Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9923,
-    "updated_at": "2026-09-14T12:30:02Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-14T12:40:23Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
+    "id": "YQteam-dyq/yq-nova-agent",
+    "language": "Rust",
+    "name": "YQteam-dyq/yq-nova-agent",
+    "stars": 0,
+    "updated_at": "2026-09-14T12:36:29Z",
+    "url": "https://github.com/YQteam-dyq/yq-nova-agent"
   },
   {
     "description": "Multi-agent engineering framework: evidence packs, runtime validation, task decomposition, cross-window worker execution",
@@ -14,8 +50,62 @@
     "language": "PowerShell",
     "name": "yueheng-rgb/codex-factory",
     "stars": 102,
-    "updated_at": "2026-09-14T12:29:59Z",
+    "updated_at": "2026-09-14T12:36:24Z",
     "url": "https://github.com/yueheng-rgb/codex-factory"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9923,
+    "updated_at": "2026-09-14T12:35:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 274,
+    "updated_at": "2026-09-14T12:34:08Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7240,
+    "updated_at": "2026-09-14T12:33:53Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35537,
+    "updated_at": "2026-09-14T12:44:25Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 33,
+    "updated_at": "2026-09-14T12:32:28Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-14T12:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-14T12:29:54Z",
+    "updated_at": "2026-09-14T12:33:14Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -34,24 +124,6 @@
     "stars": 13,
     "updated_at": "2026-09-14T12:29:35Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35538,
-    "updated_at": "2026-09-14T12:27:23Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 2,
-    "updated_at": "2026-09-14T12:24:20Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -97,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T12:16:59Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-14T12:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -160,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-09-14T12:10:04Z",
     "url": "https://github.com/DeliveryPerson2004/Pantheon-of-Confidants"
-  },
-  {
-    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
-    "id": "YQteam-dyq/yq-nova-agent",
-    "language": "Rust",
-    "name": "YQteam-dyq/yq-nova-agent",
-    "stars": 0,
-    "updated_at": "2026-09-14T12:07:32Z",
-    "url": "https://github.com/YQteam-dyq/yq-nova-agent"
   },
   {
     "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-14T11:19:51Z",
     "url": "https://github.com/yangwenhua212/hermchat"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-14T11:17:33Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Trust and verification for the skills your AI agent installs.",
-    "id": "alexverify/eyebrow",
-    "language": "Go",
-    "name": "alexverify/eyebrow",
-    "stars": 8,
-    "updated_at": "2026-09-14T11:11:32Z",
-    "url": "https://github.com/alexverify/eyebrow"
-  },
-  {
-    "description": "\u4ece\u96f6\u624b\u5199 Claude Code \u98ce\u683c Agent\uff1a8 \u4e2a\u9012\u8fdb\u9636\u6bb5\u7684\u5b66\u4e60\u5b9e\u73b0\uff08Agent Loop / Permission / HITL / Hooks / Todo / Subagent / Skill / Context Compac",
-    "id": "sifangjian/learn-agent",
-    "language": "Python",
-    "name": "sifangjian/learn-agent",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:10:24Z",
-    "url": "https://github.com/sifangjian/learn-agent"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "autopus-ai/autopus-adk",
-    "language": "Go",
-    "name": "autopus-ai/autopus-adk",
-    "stars": 111,
-    "updated_at": "2026-09-14T11:08:53Z",
-    "url": "https://github.com/autopus-ai/autopus-adk"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-09-14T11:09:42Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 102,
-    "updated_at": "2026-09-14T11:04:16Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
