@@ -1,12 +1,66 @@
 [
   {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 416,
-    "updated_at": "2026-09-14T10:14:39Z",
-    "url": "https://github.com/GizClaw/flowcraft"
+    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
+    "id": "dzhioev/bro",
+    "language": "Python",
+    "name": "dzhioev/bro",
+    "stars": 9,
+    "updated_at": "2026-09-14T10:29:58Z",
+    "url": "https://github.com/dzhioev/bro"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:29:34Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:28:35Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 62,
+    "updated_at": "2026-09-14T10:27:40Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
+    "id": "yangwhale/CloseCrab",
+    "language": "Python",
+    "name": "yangwhale/CloseCrab",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:27:28Z",
+    "url": "https://github.com/yangwhale/CloseCrab"
+  },
+  {
+    "description": "Map every integration point in your AI codebase \u2014 13 CWE categories, attack surface score, test coverage gaps. SARIF 2.1",
+    "id": "nhomyk/agenticqa-scan-action",
+    "language": "Python",
+    "name": "nhomyk/agenticqa-scan-action",
+    "stars": 2,
+    "updated_at": "2026-09-14T10:26:05Z",
+    "url": "https://github.com/nhomyk/agenticqa-scan-action"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:25:11Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "kdcube/kdcube",
     "stars": 25,
-    "updated_at": "2026-09-14T10:12:08Z",
+    "updated_at": "2026-09-14T10:23:20Z",
     "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 69,
+    "updated_at": "2026-09-14T10:22:17Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 6921,
+    "updated_at": "2026-09-14T10:19:57Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
@@ -23,8 +95,44 @@
     "language": "Rust",
     "name": "devpilgrin/berimor",
     "stars": 3,
-    "updated_at": "2026-09-14T10:12:00Z",
+    "updated_at": "2026-09-14T10:18:36Z",
     "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9920,
+    "updated_at": "2026-09-14T10:27:10Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Agent-agnostic base image for putting any terminal AI coding agent (claude-code, pi, opencode...) on the network. Bolt o",
+    "id": "psyb0t/docker-aicodebox",
+    "language": "Python",
+    "name": "psyb0t/docker-aicodebox",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:16:22Z",
+    "url": "https://github.com/psyb0t/docker-aicodebox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-14T10:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 416,
+    "updated_at": "2026-09-14T10:14:39Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "Open kernel for AI-native service businesses. OpenCode in a sandbox. The agent never holds a credential \u2014 a human sits o",
@@ -45,15 +153,6 @@
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
-    "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
-    "id": "yangwhale/CloseCrab",
-    "language": "Python",
-    "name": "yangwhale/CloseCrab",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:09:05Z",
-    "url": "https://github.com/yangwhale/CloseCrab"
-  },
-  {
     "description": "An architecture-graph driven framework for Agentic Engineering.",
     "id": "derekhu0002/archgraph",
     "language": "JavaScript",
@@ -72,15 +171,6 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9918,
-    "updated_at": "2026-09-14T10:03:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Local-first collaboration hub for AI agents - shared knowledge base, user memory, async messaging, skill market and usag",
     "id": "SiliconCoderJames/MiderHive",
     "language": "C++",
@@ -97,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T10:02:53Z",
     "url": "https://github.com/km0e/flux"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 69,
-    "updated_at": "2026-09-14T10:01:57Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-14T10:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
@@ -158,7 +230,7 @@
     "language": "Rust",
     "name": "fierceX/mink",
     "stars": 0,
-    "updated_at": "2026-09-14T09:50:54Z",
+    "updated_at": "2026-09-14T10:18:17Z",
     "url": "https://github.com/fierceX/mink"
   },
   {
@@ -166,7 +238,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19921,
+    "stars": 19922,
     "updated_at": "2026-09-14T09:49:19Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -205,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T09:46:52Z",
     "url": "https://github.com/dqsjqian/AriaAgent"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 62,
-    "updated_at": "2026-09-14T10:08:32Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -265,7 +328,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35536,
+    "stars": 35537,
     "updated_at": "2026-09-14T09:39:53Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T09:28:36Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:27:51Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:27:23Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
-  },
-  {
-    "description": "Build production-ready voice AI agents with an open, self-hostable runtime engineered for sub-second latency and enterpr",
-    "id": "plain-sleepydick853/feros",
-    "language": "\u2014",
-    "name": "plain-sleepydick853/feros",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:27:15Z",
-    "url": "https://github.com/plain-sleepydick853/feros"
-  },
-  {
-    "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
-    "id": "Tamang4607/rustyhand",
-    "language": "Rust",
-    "name": "Tamang4607/rustyhand",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:26:47Z",
-    "url": "https://github.com/Tamang4607/rustyhand"
-  },
-  {
-    "description": "Explore harness engineering books for building bounded, accountable code workflows in terminals, repos, permissions, and",
-    "id": "monahright467/harness-books",
-    "language": "Python",
-    "name": "monahright467/harness-books",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:26:40Z",
-    "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Manage AI agent memory with a filesystem-native daemon that consolidates, extracts, and organizes markdown memories thro",
-    "id": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "language": "TypeScript",
-    "name": "Charlesfrederickmenningerdateplum166/agent-memory-daemon",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:26:37Z",
-    "url": "https://github.com/Charlesfrederickmenningerdateplum166/agent-memory-daemon"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:25:07Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   }
 ]
