@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "B1ueMu3ic4m/approximately",
     "stars": 1,
-    "updated_at": "2026-09-14T04:09:45Z",
+    "updated_at": "2026-09-14T04:29:21Z",
     "url": "https://github.com/B1ueMu3ic4m/approximately"
+  },
+  {
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-14T04:26:22Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 101,
+    "updated_at": "2026-09-14T04:25:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35535,
+    "updated_at": "2026-09-14T04:24:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 2,
+    "updated_at": "2026-09-14T04:25:44Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "A community driven directory of paseo.sh plugins",
+    "id": "paseo-cafe/paseo-cafe",
+    "language": "TypeScript",
+    "name": "paseo-cafe/paseo-cafe",
+    "stars": 18,
+    "updated_at": "2026-09-14T04:22:53Z",
+    "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 20,
+    "updated_at": "2026-09-14T04:18:05Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "HTML",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-09-14T04:16:59Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2099,
+    "updated_at": "2026-09-14T04:16:48Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 25,
+    "updated_at": "2026-09-14T04:19:54Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Friday \u2014 a governed agent kernel for Frappe. Agents act as themselves, under their own roles, with every decision audite",
+    "id": "Friday-Labs-Inc/friday",
+    "language": "Python",
+    "name": "Friday-Labs-Inc/friday",
+    "stars": 3,
+    "updated_at": "2026-09-14T04:26:07Z",
+    "url": "https://github.com/Friday-Labs-Inc/friday"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 62,
+    "updated_at": "2026-09-14T04:29:23Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
+    "id": "franktsaodev/Frank-AI-Agent",
+    "language": "Python",
+    "name": "franktsaodev/Frank-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-14T04:15:45Z",
+    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-14T04:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -25,24 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T04:09:36Z",
     "url": "https://github.com/logandoo/weave-thinker"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 101,
-    "updated_at": "2026-09-14T04:08:45Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-14T04:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent\uff1a\u624b\u6413 \u00b7 \u6846\u67b6 \u00b7 \u4f01\u4e1a\u7ea7\u3002Tool calling, memory, planning, MCP, evaluation, guardrails, concurrency & resume.",
@@ -70,15 +169,6 @@
     "stars": 69,
     "updated_at": "2026-09-14T04:00:28Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35535,
-    "updated_at": "2026-09-14T03:56:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
@@ -139,7 +229,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5589,
+    "stars": 5590,
     "updated_at": "2026-09-14T03:39:59Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T03:39:11Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
-    "id": "franktsaodev/Frank-AI-Agent",
-    "language": "Python",
-    "name": "franktsaodev/Frank-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:37:59Z",
-    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -248,7 +329,7 @@
     "language": "TypeScript",
     "name": "retrychx/agentia",
     "stars": 1,
-    "updated_at": "2026-09-14T03:31:27Z",
+    "updated_at": "2026-09-14T04:27:50Z",
     "url": "https://github.com/retrychx/agentia"
   },
   {
@@ -286,6 +367,15 @@
     "stars": 416,
     "updated_at": "2026-09-14T03:30:24Z",
     "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48124,
+    "updated_at": "2026-09-14T03:30:10Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "General-purpose coding agent framework in Rust \u2014 conversation kernel, Connect API server, browser chat UI, and a termina",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T03:25:21Z",
     "url": "https://github.com/Luiz184/gokin-sdk"
-  },
-  {
-    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
-    "id": "punkxuxu/bank_soal",
-    "language": "Python",
-    "name": "punkxuxu/bank_soal",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:23:38Z",
-    "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48122,
-    "updated_at": "2026-09-14T03:30:10Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:19:10Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:18:06Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Notes on agent frameworks, runtimes, harnesses, and coding agents.",
-    "id": "Eddiee-Wei/agent-engineering-notes",
-    "language": "SCSS",
-    "name": "Eddiee-Wei/agent-engineering-notes",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:12:21Z",
-    "url": "https://github.com/Eddiee-Wei/agent-engineering-notes"
-  },
-  {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 6,
-    "updated_at": "2026-09-14T03:03:51Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
-    "id": "microsoft/Sico",
-    "language": "Python",
-    "name": "microsoft/Sico",
-    "stars": 252,
-    "updated_at": "2026-09-14T03:46:54Z",
-    "url": "https://github.com/microsoft/Sico"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 54,
-    "updated_at": "2026-09-14T03:01:19Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Agentic Operational Infrastructure",
-    "id": "Manu-Arrieta/AOI",
-    "language": "JavaScript",
-    "name": "Manu-Arrieta/AOI",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:01:00Z",
-    "url": "https://github.com/Manu-Arrieta/AOI"
-  },
-  {
-    "description": "The whole eve stack. On your own machine. Durable Postgres sessions, a Docker sandbox, memory, approvals, schedules, 1,0",
-    "id": "SammyTourani/evestack",
-    "language": "JavaScript",
-    "name": "SammyTourani/evestack",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:06:30Z",
-    "url": "https://github.com/SammyTourani/evestack"
   }
 ]
