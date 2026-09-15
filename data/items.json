@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 16,
+    "updated_at": "2026-09-15T13:15:23Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
+    "id": "logandoo/weave-thinker",
+    "language": "Python",
+    "name": "logandoo/weave-thinker",
+    "stars": 4,
+    "updated_at": "2026-09-15T13:13:52Z",
+    "url": "https://github.com/logandoo/weave-thinker"
+  },
+  {
+    "description": "CubeLoop \u2014 a Pythonic, async-native agent harness core designed for high performance, readability, and production-grade ",
+    "id": "cubeplexai/cubeloop",
+    "language": "Python",
+    "name": "cubeplexai/cubeloop",
+    "stars": 58,
+    "updated_at": "2026-09-15T13:12:45Z",
+    "url": "https://github.com/cubeplexai/cubeloop"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 532,
+    "updated_at": "2026-09-15T13:15:15Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5618,
+    "updated_at": "2026-09-15T13:11:36Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 352,
+    "updated_at": "2026-09-15T13:07:12Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 319,
+    "updated_at": "2026-09-15T13:01:14Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:01:13Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-15T13:00:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
     "id": "AgiMateIo/agimate-backend",
     "language": "Java",
@@ -54,15 +135,6 @@
     "url": "https://github.com/yangwhale/CloseCrab"
   },
   {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 352,
-    "updated_at": "2026-09-15T12:49:34Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
     "description": "\u522b\u4eba\u5728\u7ed9 Agent \u52a0\u81ea\u4e3b\u6027\uff0cACT \u5728\u51cf\u3002\u7528\u4eba\u5de5\u5199\u6b7b\u7684\u56fa\u5b9a\u5de5\u4f5c\u6d41 + \u786c\u7f16\u7801\u8c03\u7528\u7684\u9694\u79bb\u5bb9\u5668\uff0c\u53d6\u4ee3\u901a\u7528 Agent \u7684\u81ea\u4e3b\u5de5\u5177\u4f7f\u7528\u3002\u96f6\u8fd0\u884c\u65f6\u4f9d\u8d56\uff0c235 \u9879\u65ad\u8a00\u3002",
     "id": "LLYlab/ACT",
     "language": "JavaScript",
@@ -77,17 +149,8 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 39,
-    "updated_at": "2026-09-15T12:51:40Z",
+    "updated_at": "2026-09-15T13:14:54Z",
     "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-15T12:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -144,15 +207,6 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 319,
-    "updated_at": "2026-09-15T12:33:29Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
     "id": "doeixd/affe-agent",
     "language": "TypeScript",
@@ -187,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-09-15T12:24:46Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Build distributed, production-grade, long-running agents.",
-    "id": "agentscope-ai/agentscope-java",
-    "language": "Java",
-    "name": "agentscope-ai/agentscope-java",
-    "stars": 5618,
-    "updated_at": "2026-09-15T12:21:33Z",
-    "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "wmcmahan/cycgraph",
     "stars": 3,
-    "updated_at": "2026-09-15T12:59:45Z",
+    "updated_at": "2026-09-15T13:05:32Z",
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
@@ -297,30 +342,12 @@
     "url": "https://github.com/showjihyun/aether"
   },
   {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:21:22Z",
-    "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
-    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
-    "id": "jaylfc/taOS",
-    "language": "Python",
-    "name": "jaylfc/taOS",
-    "stars": 532,
-    "updated_at": "2026-09-15T12:53:53Z",
-    "url": "https://github.com/jaylfc/taOS"
-  },
-  {
     "description": "Manage upto 1000 agents using automations and workflows",
     "id": "tinyhumansai/medulla",
     "language": "Shell",
     "name": "tinyhumansai/medulla",
     "stars": 13,
-    "updated_at": "2026-09-15T11:43:49Z",
+    "updated_at": "2026-09-15T13:12:29Z",
     "url": "https://github.com/tinyhumansai/medulla"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 121,
     "updated_at": "2026-09-15T10:58:08Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:51:09Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:51:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/3D-Agent",
-    "language": "Python",
-    "name": "DJG3DK/3D-Agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T10:49:08Z",
-    "url": "https://github.com/DJG3DK/3D-Agent"
   }
 ]
