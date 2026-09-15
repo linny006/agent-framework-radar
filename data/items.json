@@ -1,5 +1,59 @@
 [
   {
+    "description": "Manage upto 1000 agents using automations and workflows",
+    "id": "tinyhumansai/medulla",
+    "language": "Shell",
+    "name": "tinyhumansai/medulla",
+    "stars": 13,
+    "updated_at": "2026-09-15T11:43:49Z",
+    "url": "https://github.com/tinyhumansai/medulla"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 39,
+    "updated_at": "2026-09-15T11:45:17Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 9,
+    "updated_at": "2026-09-15T11:38:18Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "My personal multi agent lead generation assistant.",
+    "id": "NoxelS/malg",
+    "language": "Python",
+    "name": "NoxelS/malg",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:37:34Z",
+    "url": "https://github.com/NoxelS/malg"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1424,
+    "updated_at": "2026-09-15T11:37:29Z",
+    "url": "https://github.com/inkeep/agents"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-15T11:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
@@ -14,8 +68,17 @@
     "language": "TypeScript",
     "name": "SparkElf/deepseek-harness-plus",
     "stars": 1,
-    "updated_at": "2026-09-15T11:30:03Z",
+    "updated_at": "2026-09-15T11:30:29Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35558,
+    "updated_at": "2026-09-15T11:29:57Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -32,17 +95,8 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-15T11:28:51Z",
+    "updated_at": "2026-09-15T11:32:28Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35557,
-    "updated_at": "2026-09-15T11:29:57Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9961,
-    "updated_at": "2026-09-15T11:26:40Z",
+    "updated_at": "2026-09-15T11:35:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 145,
     "updated_at": "2026-09-15T11:26:35Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 39,
-    "updated_at": "2026-09-15T11:29:24Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-15T11:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 62,
-    "updated_at": "2026-09-15T11:19:01Z",
+    "updated_at": "2026-09-15T11:37:11Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 13,
-    "updated_at": "2026-09-15T11:02:32Z",
+    "updated_at": "2026-09-15T11:35:15Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -211,7 +247,7 @@
     "id": "deepset-ai/haystack",
     "language": "Python",
     "name": "deepset-ai/haystack",
-    "stars": 26512,
+    "stars": 26513,
     "updated_at": "2026-09-15T10:48:59Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 16,
-    "updated_at": "2026-09-15T09:58:33Z",
+    "updated_at": "2026-09-15T11:39:34Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 69,
-    "updated_at": "2026-09-15T11:17:55Z",
+    "updated_at": "2026-09-15T11:34:36Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1192,
-    "updated_at": "2026-09-15T09:50:08Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:48:09Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 230,
-    "updated_at": "2026-09-15T09:29:37Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:27:53Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
   }
 ]
