@@ -1,12 +1,66 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 19943,
+    "updated_at": "2026-09-15T05:35:18Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9954,
+    "updated_at": "2026-09-15T05:34:20Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 25,
+    "updated_at": "2026-09-15T05:33:46Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-15T05:30:07Z",
+    "updated_at": "2026-09-15T05:33:28Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
+    "id": "Caprista/KarvyLoop",
+    "language": "Python",
+    "name": "Caprista/KarvyLoop",
+    "stars": 16,
+    "updated_at": "2026-09-15T05:31:03Z",
+    "url": "https://github.com/Caprista/KarvyLoop"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 69,
+    "updated_at": "2026-09-15T05:30:47Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-15T05:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -16,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-09-15T05:29:05Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9954,
-    "updated_at": "2026-09-15T05:28:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T05:24:35Z",
     "url": "https://github.com/JarvisCao168/charter-orchestrator"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 25,
-    "updated_at": "2026-09-15T05:22:40Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T05:16:56Z",
     "url": "https://github.com/leanneexperimental3016/Models-Cowork"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-15T05:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
@@ -139,8 +166,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35553,
-    "updated_at": "2026-09-15T05:08:37Z",
+    "stars": 35554,
+    "updated_at": "2026-09-15T05:34:30Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
     "stars": 5607,
-    "updated_at": "2026-09-15T05:03:42Z",
+    "updated_at": "2026-09-15T05:38:00Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T04:55:07Z",
     "url": "https://github.com/Bohra-Nitin/AgentManager"
-  },
-  {
-    "description": "Remote approvals, policy checks, and execution evidence for unattended AI agents.",
-    "id": "ucsandman/DashClaw",
-    "language": "TypeScript",
-    "name": "ucsandman/DashClaw",
-    "stars": 302,
-    "updated_at": "2026-09-15T04:53:11Z",
-    "url": "https://github.com/ucsandman/DashClaw"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
-    "id": "linjiejim/greenhouse",
-    "language": "TypeScript",
-    "name": "linjiejim/greenhouse",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:52:49Z",
-    "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-09-15T04:50:23Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
   }
 ]
