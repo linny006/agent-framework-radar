@@ -1,5 +1,140 @@
 [
   {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 6,
+    "updated_at": "2026-09-15T15:59:48Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
+    "language": "TypeScript",
+    "name": "vincemakes/kiso",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:57:48Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2118,
+    "updated_at": "2026-09-15T15:57:25Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/3D-Agent",
+    "language": "Python",
+    "name": "DJG3DK/3D-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:57:08Z",
+    "url": "https://github.com/DJG3DK/3D-Agent"
+  },
+  {
+    "description": "A .NET 9 multi-agent platform where AI agents (Silicon Beings) self-evolve via Roslyn dynamic compilation. Features tick",
+    "id": "akimoto-akira/SiliconLifeCollective",
+    "language": "C#",
+    "name": "akimoto-akira/SiliconLifeCollective",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:55:06Z",
+    "url": "https://github.com/akimoto-akira/SiliconLifeCollective"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 56,
+    "updated_at": "2026-09-15T15:53:29Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A minimal, readable agent-framework kernel \u2014 understand how LangGraph/ADK work under the hood. 1800\u884c\u4ee3\u7801\u7684 agent \u6846\u67b6\u5185\u6838\uff0c\u7406\u89e3 La",
+    "id": "limenagent/prodagent",
+    "language": "Python",
+    "name": "limenagent/prodagent",
+    "stars": 76,
+    "updated_at": "2026-09-15T15:53:22Z",
+    "url": "https://github.com/limenagent/prodagent"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-15T15:57:44Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 16,
+    "updated_at": "2026-09-15T15:51:49Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "Agentic Operational Infrastructure",
+    "id": "Manu-Arrieta/AOI",
+    "language": "JavaScript",
+    "name": "Manu-Arrieta/AOI",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:49:57Z",
+    "url": "https://github.com/Manu-Arrieta/AOI"
+  },
+  {
+    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
+    "id": "retrychx/agentia",
+    "language": "TypeScript",
+    "name": "retrychx/agentia",
+    "stars": 1,
+    "updated_at": "2026-09-15T15:46:18Z",
+    "url": "https://github.com/retrychx/agentia"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 18,
+    "updated_at": "2026-09-15T15:46:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:46:03Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Agentic Robotic Software System",
+    "id": "patmakesapps/LumaKit",
+    "language": "Python",
+    "name": "patmakesapps/LumaKit",
+    "stars": 18,
+    "updated_at": "2026-09-15T15:45:57Z",
+    "url": "https://github.com/patmakesapps/LumaKit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-15T15:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
@@ -63,33 +198,6 @@
     "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 56,
-    "updated_at": "2026-09-15T15:34:25Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
-    "id": "vincemakes/kiso",
-    "language": "TypeScript",
-    "name": "vincemakes/kiso",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:34:25Z",
-    "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "Local agent OS for everyone \u2014 memory as the body, agents as shells. Model-agnostic agent dispatcher in Rust. \u672c\u5730\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8bb0",
-    "id": "Jokerautowrite/chuang-agent",
-    "language": "Rust",
-    "name": "Jokerautowrite/chuang-agent",
-    "stars": 8,
-    "updated_at": "2026-09-15T15:33:26Z",
-    "url": "https://github.com/Jokerautowrite/chuang-agent"
-  },
-  {
     "description": "System for Agentic Governance & Engineering \u2014 runtime-selectable AI harness framework",
     "id": "SeJonJ/SAGE",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T15:33:55Z",
     "url": "https://github.com/SeJonJ/SAGE"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2118,
-    "updated_at": "2026-09-15T15:32:13Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -117,20 +216,11 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-15T15:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
     "name": "israriqbal/agent-ecologies",
-    "stars": 121,
+    "stars": 122,
     "updated_at": "2026-09-15T15:28:54Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
@@ -189,15 +279,6 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "Agentic Operational Infrastructure",
-    "id": "Manu-Arrieta/AOI",
-    "language": "JavaScript",
-    "name": "Manu-Arrieta/AOI",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:21:12Z",
-    "url": "https://github.com/Manu-Arrieta/AOI"
-  },
-  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "paseo-cafe/paseo-cafe",
     "language": "TypeScript",
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "tya5/reyn",
     "stars": 11,
-    "updated_at": "2026-09-15T15:16:41Z",
+    "updated_at": "2026-09-15T15:57:53Z",
     "url": "https://github.com/tya5/reyn"
   },
   {
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "bbvch-ai/aihub-core",
     "stars": 12,
-    "updated_at": "2026-09-15T15:44:23Z",
+    "updated_at": "2026-09-15T15:48:05Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
@@ -302,7 +383,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 69,
-    "updated_at": "2026-09-15T15:09:58Z",
+    "updated_at": "2026-09-15T15:46:19Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -313,15 +394,6 @@
     "stars": 1430,
     "updated_at": "2026-09-15T15:07:55Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 16,
-    "updated_at": "2026-09-15T15:24:42Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -342,15 +414,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "A minimal, readable agent-framework kernel \u2014 understand how LangGraph/ADK work under the hood. 1800\u884c\u4ee3\u7801\u7684 agent \u6846\u67b6\u5185\u6838\uff0c\u7406\u89e3 La",
-    "id": "limenagent/prodagent",
-    "language": "Python",
-    "name": "limenagent/prodagent",
-    "stars": 76,
-    "updated_at": "2026-09-15T15:03:54Z",
-    "url": "https://github.com/limenagent/prodagent"
-  },
-  {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
     "id": "tuliplabs-ai/tulip-agents",
     "language": "Python",
@@ -369,15 +432,6 @@
     "url": "https://github.com/UiPath/uipath-integrations-python"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-09-15T15:21:35Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-15T14:48:08Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:43:43Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Agentic Robotic Software System",
-    "id": "patmakesapps/LumaKit",
-    "language": "Python",
-    "name": "patmakesapps/LumaKit",
-    "stars": 18,
-    "updated_at": "2026-09-15T14:42:47Z",
-    "url": "https://github.com/patmakesapps/LumaKit"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-09-15T14:41:43Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
-    "id": "aomi-labs/aomi",
-    "language": "TypeScript",
-    "name": "aomi-labs/aomi",
-    "stars": 13,
-    "updated_at": "2026-09-15T15:38:44Z",
-    "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6266,
-    "updated_at": "2026-09-15T14:41:34Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 145,
-    "updated_at": "2026-09-15T14:34:27Z",
-    "url": "https://github.com/pqpo/pragma"
   }
 ]
