@@ -1,5 +1,86 @@
 [
   {
+    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
+    "id": "dzhioev/bro",
+    "language": "Python",
+    "name": "dzhioev/bro",
+    "stars": 9,
+    "updated_at": "2026-09-15T00:15:14Z",
+    "url": "https://github.com/dzhioev/bro"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 121,
+    "updated_at": "2026-09-15T00:12:58Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35545,
+    "updated_at": "2026-09-15T00:11:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Charter Orchestrator - full-lifecycle governance & orchestration framework for AI agents: 10 stages, 13 rules, 47 biling",
+    "id": "JarvisCao168/charter-orchestrator",
+    "language": "Python",
+    "name": "JarvisCao168/charter-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-15T00:09:57Z",
+    "url": "https://github.com/JarvisCao168/charter-orchestrator"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-15T00:09:10Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-15T00:09:04Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T00:01:04Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-15T00:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9950,
+    "updated_at": "2026-09-15T00:06:09Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
@@ -9,21 +90,12 @@
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9949,
-    "updated_at": "2026-09-15T00:00:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 1421,
-    "updated_at": "2026-09-14T23:56:39Z",
+    "updated_at": "2026-09-15T00:14:22Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -36,31 +108,13 @@
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
-    "description": "Charter Orchestrator - full-lifecycle governance & orchestration framework for AI agents: 10 stages, 13 rules, 47 biling",
-    "id": "JarvisCao168/charter-orchestrator",
-    "language": "Python",
-    "name": "JarvisCao168/charter-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-14T23:53:28Z",
-    "url": "https://github.com/JarvisCao168/charter-orchestrator"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13516,
-    "updated_at": "2026-09-14T23:50:33Z",
+    "updated_at": "2026-09-15T00:09:01Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 1,
-    "updated_at": "2026-09-14T23:50:30Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -81,15 +135,6 @@
     "url": "https://github.com/usetheokit/theokit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-14T23:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T23:44:38Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
-    "id": "dzhioev/bro",
-    "language": "Python",
-    "name": "dzhioev/bro",
-    "stars": 9,
-    "updated_at": "2026-09-14T23:43:39Z",
-    "url": "https://github.com/dzhioev/bro"
   },
   {
     "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
@@ -130,7 +166,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 2107,
+    "stars": 2108,
     "updated_at": "2026-09-14T23:34:27Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-14T23:28:45Z",
+    "updated_at": "2026-09-15T00:03:35Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T22:48:27Z",
     "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-09-14T22:48:13Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-09-14T22:48:05Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-14T22:47:31Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35545,
-    "updated_at": "2026-09-14T22:47:25Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
