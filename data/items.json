@@ -1,11 +1,110 @@
 [
   {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-15T13:59:51Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Agentic Robotic Software System",
+    "id": "patmakesapps/LumaKit",
+    "language": "Python",
+    "name": "patmakesapps/LumaKit",
+    "stars": 18,
+    "updated_at": "2026-09-15T13:59:49Z",
+    "url": "https://github.com/patmakesapps/LumaKit"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:58:27Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:58:24Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 39,
+    "updated_at": "2026-09-15T13:57:24Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48181,
+    "updated_at": "2026-09-15T13:55:56Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:56:54Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
+    "id": "brunogcar/agent",
+    "language": "Python",
+    "name": "brunogcar/agent",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:50:37Z",
+    "url": "https://github.com/brunogcar/agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35556,
+    "updated_at": "2026-09-15T13:59:47Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:48:01Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-15T13:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
     "id": "usetheokit/theokit",
     "language": "TypeScript",
     "name": "usetheokit/theokit",
     "stars": 5,
-    "updated_at": "2026-09-15T13:44:48Z",
+    "updated_at": "2026-09-15T13:45:50Z",
     "url": "https://github.com/usetheokit/theokit"
   },
   {
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 28,
-    "updated_at": "2026-09-15T13:41:15Z",
+    "updated_at": "2026-09-15T13:56:46Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -81,15 +180,6 @@
     "url": "https://github.com/showjihyun/aether"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-15T13:30:47Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
     "id": "jin-bo/agentao",
     "language": "Python",
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "CarlosCaPe/octorato",
     "stars": 16,
-    "updated_at": "2026-09-15T13:15:26Z",
+    "updated_at": "2026-09-15T13:53:20Z",
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
@@ -166,7 +256,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5619,
+    "stars": 5620,
     "updated_at": "2026-09-15T13:11:36Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -189,15 +279,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
-    "id": "LioRael/lenso-agent",
-    "language": "Rust",
-    "name": "LioRael/lenso-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:17:59Z",
-    "url": "https://github.com/LioRael/lenso-agent"
-  },
-  {
     "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
     "id": "AgiMateIo/agimate-backend",
     "language": "Java",
@@ -207,20 +288,11 @@
     "url": "https://github.com/AgiMateIo/agimate-backend"
   },
   {
-    "description": "Local-first Cognitive Execution Platform for Multi-LLM Orchestration, Autonomous Workflows, Persistent Memory & Offline ",
-    "id": "brunogcar/agent",
-    "language": "Python",
-    "name": "brunogcar/agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:56:30Z",
-    "url": "https://github.com/brunogcar/agent"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 9962,
+    "stars": 9963,
     "updated_at": "2026-09-15T12:53:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -266,26 +338,8 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 229,
-    "updated_at": "2026-09-15T12:49:26Z",
+    "updated_at": "2026-09-15T13:50:51Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 39,
-    "updated_at": "2026-09-15T13:39:42Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35557,
-    "updated_at": "2026-09-15T12:45:05Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T12:41:45Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:43:12Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -364,7 +409,7 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 19952,
+    "stars": 19954,
     "updated_at": "2026-09-15T12:17:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -387,24 +432,6 @@
     "url": "https://github.com/franktsaodev/Frank-AI-Agent"
   },
   {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:07:26Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:39:25Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
     "id": "pqpo/pragma",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-15T13:12:29Z",
     "url": "https://github.com/tinyhumansai/medulla"
-  },
-  {
-    "description": "My personal multi agent lead generation assistant.",
-    "id": "NoxelS/malg",
-    "language": "Python",
-    "name": "NoxelS/malg",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:37:34Z",
-    "url": "https://github.com/NoxelS/malg"
-  },
-  {
-    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
-    "id": "inkeep/agents",
-    "language": "TypeScript",
-    "name": "inkeep/agents",
-    "stars": 1425,
-    "updated_at": "2026-09-15T11:37:29Z",
-    "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:30:06Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   }
 ]
