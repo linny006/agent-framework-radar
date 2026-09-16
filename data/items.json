@@ -1,12 +1,147 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 56,
+    "updated_at": "2026-09-16T16:59:12Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
+    "id": "retrychx/agentia",
+    "language": "TypeScript",
+    "name": "retrychx/agentia",
+    "stars": 2,
+    "updated_at": "2026-09-16T16:58:50Z",
+    "url": "https://github.com/retrychx/agentia"
+  },
+  {
+    "description": "Connect any AI agent to TON. 21 npm packages, 75 actions, 12 plugins, on-chain escrow with disputes, reputation scoring,",
+    "id": "Andy00L/ton-agent-kit",
+    "language": "TypeScript",
+    "name": "Andy00L/ton-agent-kit",
+    "stars": 2,
+    "updated_at": "2026-09-16T16:57:39Z",
+    "url": "https://github.com/Andy00L/ton-agent-kit"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2127,
+    "updated_at": "2026-09-16T17:00:00Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10002,
+    "updated_at": "2026-09-16T16:57:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Universal Brain x Harness collaboration framework \u2014 CLI-first, adapter-first, local-first. \u8ba9\u6700\u5f3a\u7684\u6a21\u578b\u601d\u8003\uff0c\u8ba9\u4f60\u987a\u624b\u7684 Agent \u5e72\u6d3b\u3002",
+    "id": "nanhudev/agent2llm",
+    "language": "TypeScript",
+    "name": "nanhudev/agent2llm",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:56:07Z",
+    "url": "https://github.com/nanhudev/agent2llm"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-09-16T16:54:17Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
+    "id": "jiangchuangege/xiaojiao-harness",
+    "language": "Python",
+    "name": "jiangchuangege/xiaojiao-harness",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:52:55Z",
+    "url": "https://github.com/jiangchuangege/xiaojiao-harness"
+  },
+  {
+    "description": "PurrCat Agent",
+    "id": "PurrPod/purrcat",
+    "language": "Python",
+    "name": "PurrPod/purrcat",
+    "stars": 38,
+    "updated_at": "2026-09-16T16:51:44Z",
+    "url": "https://github.com/PurrPod/purrcat"
+  },
+  {
+    "description": "The Vibe Coding Kit \u2014 a shareable Claude Code framework (BOOTSTRAP + Vibe Board MCP + optional VE Worker). Drop-in skill",
+    "id": "HuntsDesk/ve-kit",
+    "language": "Python",
+    "name": "HuntsDesk/ve-kit",
+    "stars": 2,
+    "updated_at": "2026-09-16T16:50:25Z",
+    "url": "https://github.com/HuntsDesk/ve-kit"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35575,
+    "updated_at": "2026-09-16T16:48:45Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:47:19Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
+    "id": "geniusdapeng-collab/workloom-im",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/workloom-im",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:57:35Z",
+    "url": "https://github.com/geniusdapeng-collab/workloom-im"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:54:56Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
     "description": "Personal Ai Agent",
     "id": "br3eze-code/br3eze-code",
     "language": "JavaScript",
     "name": "br3eze-code/br3eze-code",
     "stars": 2,
-    "updated_at": "2026-09-16T16:45:14Z",
+    "updated_at": "2026-09-16T16:46:45Z",
     "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-16T16:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -36,24 +171,6 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10002,
-    "updated_at": "2026-09-16T16:43:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:43:26Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
     "id": "vincemakes/kiso",
     "language": "TypeScript",
@@ -79,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T16:40:45Z",
     "url": "https://github.com/km0e/flux"
-  },
-  {
-    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
-    "id": "jiangchuangege/xiaojiao-harness",
-    "language": "Python",
-    "name": "jiangchuangege/xiaojiao-harness",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:40:45Z",
-    "url": "https://github.com/jiangchuangege/xiaojiao-harness"
   },
   {
     "description": "Local-first, self-hosted control plane for deploying, managing, and chatting with multiple AI agents. \u672c\u5730\u4f18\u5148\u3001\u81ea\u6258\u7ba1\u7684\u591a AI Agen",
@@ -121,7 +229,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7277,
+    "stars": 7278,
     "updated_at": "2026-09-16T16:35:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -158,7 +266,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-16T16:42:18Z",
+    "updated_at": "2026-09-16T17:00:07Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -167,17 +275,8 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 26,
-    "updated_at": "2026-09-16T16:39:36Z",
+    "updated_at": "2026-09-16T16:51:15Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-16T16:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -189,15 +288,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "A durable, long-running AI engineering partner.",
-    "id": "damonleelcx/J.A.R.V.I.S.-agent",
-    "language": "Go",
-    "name": "damonleelcx/J.A.R.V.I.S.-agent",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:43:04Z",
-    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
-  },
-  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T16:27:27Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "WorkLoom \u7ec7\u5143 \u00b7 DeepSeek Harness \u4f01\u4e1a\u7ea7 Agent IM \u2014 Enterprise Agent IM powered by DeepSeek Harness: human-agent coexistence, ",
-    "id": "geniusdapeng-collab/workloom-im",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/workloom-im",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:39:26Z",
-    "url": "https://github.com/geniusdapeng-collab/workloom-im"
   },
   {
     "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
@@ -234,21 +315,12 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35572,
-    "updated_at": "2026-09-16T16:24:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 13,
-    "updated_at": "2026-09-16T16:39:19Z",
+    "updated_at": "2026-09-16T16:56:07Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 63,
-    "updated_at": "2026-09-16T16:35:19Z",
+    "updated_at": "2026-09-16T16:53:26Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -293,7 +365,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15296,
-    "updated_at": "2026-09-16T16:19:20Z",
+    "updated_at": "2026-09-16T16:51:51Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-16T16:18:44Z",
     "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
-    "id": "vocino/opencode-autonomy",
-    "language": "TypeScript",
-    "name": "vocino/opencode-autonomy",
-    "stars": 4,
-    "updated_at": "2026-09-16T15:57:53Z",
-    "url": "https://github.com/vocino/opencode-autonomy"
-  },
-  {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 3,
-    "updated_at": "2026-09-16T15:51:02Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
-  },
-  {
-    "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
-    "id": "tuliplabs-ai/tulip-agents",
-    "language": "Python",
-    "name": "tuliplabs-ai/tulip-agents",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:46:46Z",
-    "url": "https://github.com/tuliplabs-ai/tulip-agents"
-  },
-  {
-    "description": "Your all-in-one skills-as-a-service platform to manage your skills, auto-generate skills and use agent skills as simple ",
-    "id": "ChronoAIProject/Ornn",
-    "language": "TypeScript",
-    "name": "ChronoAIProject/Ornn",
-    "stars": 20,
-    "updated_at": "2026-09-16T15:44:40Z",
-    "url": "https://github.com/ChronoAIProject/Ornn"
-  },
-  {
-    "description": "The ReAct loop, tools, context engineering, memory, planning, MCP, evals and security \u2014 built from scratch in dependency",
-    "id": "xinbetween/learn-ai-agent-from-scratch",
-    "language": "TypeScript",
-    "name": "xinbetween/learn-ai-agent-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:43:13Z",
-    "url": "https://github.com/xinbetween/learn-ai-agent-from-scratch"
-  },
-  {
-    "description": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin syst",
-    "id": "streamcoreai/streamcore-server",
-    "language": "Go",
-    "name": "streamcoreai/streamcore-server",
-    "stars": 206,
-    "updated_at": "2026-09-16T15:41:01Z",
-    "url": "https://github.com/streamcoreai/streamcore-server"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-09-16T15:36:48Z",
-    "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "The Vibe Coding Kit \u2014 a shareable Claude Code framework (BOOTSTRAP + Vibe Board MCP + optional VE Worker). Drop-in skill",
-    "id": "HuntsDesk/ve-kit",
-    "language": "Python",
-    "name": "HuntsDesk/ve-kit",
-    "stars": 2,
-    "updated_at": "2026-09-16T15:32:02Z",
-    "url": "https://github.com/HuntsDesk/ve-kit"
   }
 ]
