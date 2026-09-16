@@ -1,21 +1,30 @@
 [
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 69,
-    "updated_at": "2026-09-16T08:14:03Z",
-    "url": "https://github.com/futuregene/future-os"
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-16T08:27:48Z",
+    "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13543,
-    "updated_at": "2026-09-16T08:13:45Z",
-    "url": "https://github.com/microsoft/agent-framework"
+    "name": "omnigent-ai/omnigent",
+    "stars": 9989,
+    "updated_at": "2026-09-16T08:27:38Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
+    "id": "impartshadow/shadow",
+    "language": "Python",
+    "name": "impartshadow/shadow",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:26:51Z",
+    "url": "https://github.com/impartshadow/shadow"
   },
   {
     "description": "Functional Python agent framework with MCP support, enterprise security, immutable state, and production-ready observabi",
@@ -23,8 +32,53 @@
     "language": "Python",
     "name": "xynehq/jaf-py",
     "stars": 9,
-    "updated_at": "2026-09-16T08:12:41Z",
+    "updated_at": "2026-09-16T08:25:48Z",
     "url": "https://github.com/xynehq/jaf-py"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-16T08:24:20Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2301,
+    "updated_at": "2026-09-16T08:17:35Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
+    "id": "microsoft/Sico",
+    "language": "Python",
+    "name": "microsoft/Sico",
+    "stars": 253,
+    "updated_at": "2026-09-16T08:19:20Z",
+    "url": "https://github.com/microsoft/Sico"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13544,
+    "updated_at": "2026-09-16T08:16:38Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 2,
+    "updated_at": "2026-09-16T08:29:59Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -32,8 +86,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 5,
-    "updated_at": "2026-09-16T08:09:33Z",
+    "updated_at": "2026-09-16T08:15:29Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 69,
+    "updated_at": "2026-09-16T08:28:25Z",
+    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
@@ -59,17 +122,8 @@
     "language": "MoonBit",
     "name": "colmugx/posoco-extension",
     "stars": 1,
-    "updated_at": "2026-09-16T08:09:40Z",
+    "updated_at": "2026-09-16T08:29:09Z",
     "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-16T08:05:47Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -153,15 +207,6 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9989,
-    "updated_at": "2026-09-16T08:09:34Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "Alear030/Alear030",
     "stars": 3,
-    "updated_at": "2026-09-16T07:45:14Z",
+    "updated_at": "2026-09-16T08:26:51Z",
     "url": "https://github.com/Alear030/Alear030"
   },
   {
@@ -196,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T07:43:15Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2301,
-    "updated_at": "2026-09-16T08:11:51Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 2,
-    "updated_at": "2026-09-16T07:59:11Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "A durable, long-running AI engineering partner.",
@@ -292,7 +319,7 @@
     "id": "jaylfc/taOS",
     "language": "Python",
     "name": "jaylfc/taOS",
-    "stars": 531,
+    "stars": 532,
     "updated_at": "2026-09-16T07:22:24Z",
     "url": "https://github.com/jaylfc/taOS"
   },
@@ -421,32 +448,5 @@
     "stars": 1794,
     "updated_at": "2026-09-16T07:07:29Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:05:39Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:05:29Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-16T07:04:13Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
