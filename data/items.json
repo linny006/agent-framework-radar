@@ -1,21 +1,93 @@
 [
   {
+    "description": "Universal Brain x Harness collaboration framework. CLI-first, adapter-first, local-first. Decouples who thinks from who ",
+    "id": "nanhudev/agent2llm",
+    "language": "TypeScript",
+    "name": "nanhudev/agent2llm",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:00:26Z",
+    "url": "https://github.com/nanhudev/agent2llm"
+  },
+  {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:00:23Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-16T09:00:03Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
+    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:58:56Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
     "description": "\u5929\u673a(Tianji):\u591a\u5bbf\u4e3b\u3001\u591a\u6a21\u578b\u6765\u6e90\u7684\u672c\u5730\u7f16\u6392\u7cfb\u7edf\u2014\u2014\u4e00\u6863\u4e00\u89d2\u8272(\u6267\u884c/\u5ba1\u6838/\u88c1\u5224),\u4efb\u52a1\u4e66\u7eaa\u5f8b+\u4e09\u8f74\u5ba1\u6838,\u771f\u5b9e\u6a21\u578b\u8bc1\u660e,\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
     "id": "SiwenPz/Tianji",
     "language": "Python",
     "name": "SiwenPz/Tianji",
     "stars": 0,
-    "updated_at": "2026-09-16T08:43:44Z",
+    "updated_at": "2026-09-16T08:58:18Z",
     "url": "https://github.com/SiwenPz/Tianji"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:59:05Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 251,
+    "updated_at": "2026-09-16T08:56:31Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:55:21Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 2,
+    "updated_at": "2026-09-16T08:54:37Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
     "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48206,
-    "updated_at": "2026-09-16T08:42:18Z",
-    "url": "https://github.com/HKUDS/nanobot"
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-09-16T08:53:15Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -23,8 +95,62 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 9989,
-    "updated_at": "2026-09-16T08:42:11Z",
+    "updated_at": "2026-09-16T08:58:26Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 40,
+    "updated_at": "2026-09-16T08:52:41Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 3,
+    "updated_at": "2026-09-16T08:48:04Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 231,
+    "updated_at": "2026-09-16T08:45:54Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
+    "id": "microsoft/Sico",
+    "language": "Python",
+    "name": "microsoft/Sico",
+    "stars": 253,
+    "updated_at": "2026-09-16T08:45:41Z",
+    "url": "https://github.com/microsoft/Sico"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-16T08:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48208,
+    "updated_at": "2026-09-16T08:42:18Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
@@ -36,15 +162,6 @@
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-09-16T08:35:04Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
@@ -54,13 +171,13 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-16T08:30:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 330,
+    "updated_at": "2026-09-16T08:32:53Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -99,15 +216,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI asset",
-    "id": "microsoft/Sico",
-    "language": "Python",
-    "name": "microsoft/Sico",
-    "stars": 253,
-    "updated_at": "2026-09-16T08:31:29Z",
-    "url": "https://github.com/microsoft/Sico"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -117,21 +225,12 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 2,
-    "updated_at": "2026-09-16T08:29:59Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 69,
-    "updated_at": "2026-09-16T08:28:25Z",
+    "updated_at": "2026-09-16T08:59:31Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -153,21 +252,12 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 1,
-    "updated_at": "2026-09-16T08:29:09Z",
-    "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-16T08:00:23Z",
+    "updated_at": "2026-09-16T08:47:06Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -216,15 +306,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Universal Brain x Harness collaboration framework. CLI-first, adapter-first, local-first. Decouples who thinks from who ",
-    "id": "nanhudev/agent2llm",
-    "language": "\u2014",
-    "name": "nanhudev/agent2llm",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:52:44Z",
-    "url": "https://github.com/nanhudev/agent2llm"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -238,18 +319,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35570,
+    "stars": 35571,
     "updated_at": "2026-09-16T07:51:15Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 251,
-    "updated_at": "2026-09-16T07:50:50Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "Alear030/Alear030",
     "stars": 3,
-    "updated_at": "2026-09-16T08:26:51Z",
+    "updated_at": "2026-09-16T08:56:06Z",
     "url": "https://github.com/Alear030/Alear030"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T07:43:15Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "A durable, long-running AI engineering partner.",
-    "id": "damonleelcx/J.A.R.V.I.S.-agent",
-    "language": "Go",
-    "name": "damonleelcx/J.A.R.V.I.S.-agent",
-    "stars": 0,
-    "updated_at": "2026-09-16T08:37:31Z",
-    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
   },
   {
     "description": "\u4e00\u4e2a\u57fa\u4e8e Java \u7684 \u5782\u7c7bAgent \u5e94\u7528\u5f00\u53d1\u6846\u67b6\uff0c\u5305\u542b\u77e5\u8bc6\u56fe\u8c31\uff0c\u77e5\u8bc6\u5e93\uff0c\u8054\u7f51\u63d2\u4ef6\uff0c\u751f\u56fe\u7b49\u5de5\u5177\u5305\uff0c\u8ba9\u4f60\u53ef\u4ee5\u6784\u5efa\u81ea\u5df1\u7684\u4ea7\u54c1\u4ee3\u7406\u3002",
@@ -304,15 +367,6 @@
     "stars": 5,
     "updated_at": "2026-09-16T07:31:26Z",
     "url": "https://github.com/kai-linux/agent-os"
-  },
-  {
-    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
-    "id": "StateKnot/StateKnot",
-    "language": "Rust",
-    "name": "StateKnot/StateKnot",
-    "stars": 0,
-    "updated_at": "2026-09-16T08:34:35Z",
-    "url": "https://github.com/StateKnot/StateKnot"
   },
   {
     "description": "Noesis \u2014 Core Agent Framework for building autonomous AI workflows",
@@ -394,59 +448,5 @@
     "stars": 121,
     "updated_at": "2026-09-16T07:14:02Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:10:44Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:09:08Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:09:00Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-16T07:08:56Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 122,
-    "updated_at": "2026-09-16T07:08:47Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-09-16T07:08:08Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
   }
 ]
