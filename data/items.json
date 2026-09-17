@@ -1,12 +1,111 @@
 [
   {
-    "description": "An open-source framework for building, sharing, and running AI harnesses. Bring Codex, Claude Code, or your own engine t",
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 2,
+    "updated_at": "2026-09-17T04:30:11Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 69,
+    "updated_at": "2026-09-17T04:29:48Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Open-source framework for running coding agents with domain-specific tools and live viewers. Persistent terminal session",
     "id": "autonomous-ai/openharness",
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 78,
-    "updated_at": "2026-09-17T04:13:27Z",
+    "updated_at": "2026-09-17T04:29:44Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "\u57fa\u4e8e TRSS-Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for TRSS-Yunzai with self-evolving",
+    "id": "yunhai89/trss-agent-plugin",
+    "language": "JavaScript",
+    "name": "yunhai89/trss-agent-plugin",
+    "stars": 2,
+    "updated_at": "2026-09-17T04:26:11Z",
+    "url": "https://github.com/yunhai89/trss-agent-plugin"
+  },
+  {
+    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
+    "id": "retrychx/agentia",
+    "language": "TypeScript",
+    "name": "retrychx/agentia",
+    "stars": 2,
+    "updated_at": "2026-09-17T04:26:23Z",
+    "url": "https://github.com/retrychx/agentia"
+  },
+  {
+    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 6,
+    "updated_at": "2026-09-17T04:24:40Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
+    "id": "erishen/agent-httpd",
+    "language": "C",
+    "name": "erishen/agent-httpd",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:24:24Z",
+    "url": "https://github.com/erishen/agent-httpd"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-09-17T04:23:44Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-17T04:23:37Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1341,
+    "updated_at": "2026-09-17T04:21:26Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Composable multi-runtime agent application framework for deterministic capability assembly, controlled execution, and ve",
+    "id": "uukuguy/asterion",
+    "language": "Python",
+    "name": "uukuguy/asterion",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:18:58Z",
+    "url": "https://github.com/uukuguy/asterion"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-17T04:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Typed, replayable workflow organisms for AI agents \u2014 deterministic graph structure, bounded agent cells, offline-verifia",
@@ -18,15 +117,6 @@
     "url": "https://github.com/hraness/morphogen"
   },
   {
-    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
-    "id": "retrychx/agentia",
-    "language": "TypeScript",
-    "name": "retrychx/agentia",
-    "stars": 2,
-    "updated_at": "2026-09-17T04:11:31Z",
-    "url": "https://github.com/retrychx/agentia"
-  },
-  {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
     "id": "jin-bo/agentao",
     "language": "Python",
@@ -36,15 +126,6 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "\u57fa\u4e8e TRSS-Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for TRSS-Yunzai with self-evolving",
-    "id": "yunhai89/trss-agent-plugin",
-    "language": "JavaScript",
-    "name": "yunhai89/trss-agent-plugin",
-    "stars": 2,
-    "updated_at": "2026-09-17T04:10:27Z",
-    "url": "https://github.com/yunhai89/trss-agent-plugin"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T04:07:28Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 69,
-    "updated_at": "2026-09-17T04:07:29Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "The agent that learns how you decide - and proves it by never deciding for you. A local-first, loop-native runtime for a",
@@ -99,22 +171,13 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "VNMLAgentFramework - A High-Performance Local AI Agent Framework written in .NET 10",
+    "description": "100% local multi-agent framework in .NET 10. Zero API cost. Self-improving AI with reflection, planning, learning, and d",
     "id": "hoangnc/VNMLAgentFramework",
     "language": "\u2014",
     "name": "hoangnc/VNMLAgentFramework",
     "stars": 1,
     "updated_at": "2026-09-17T04:00:46Z",
     "url": "https://github.com/hoangnc/VNMLAgentFramework"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-17T04:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 13,
-    "updated_at": "2026-09-17T03:54:35Z",
+    "updated_at": "2026-09-17T04:18:04Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 11,
-    "updated_at": "2026-09-17T04:13:51Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
     "id": "pqpo/pragma",
     "language": "TypeScript",
@@ -261,24 +315,6 @@
     "url": "https://github.com/didrod205/oh-my-fable"
   },
   {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-09-17T03:30:04Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
-    "id": "erishen/agent-httpd",
-    "language": "C",
-    "name": "erishen/agent-httpd",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:29:33Z",
-    "url": "https://github.com/erishen/agent-httpd"
-  },
-  {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
     "id": "llm-works/llm-gent",
     "language": "Python",
@@ -304,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-09-17T03:12:12Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 2,
-    "updated_at": "2026-09-17T03:12:08Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "PurrCat Agent",
@@ -387,15 +414,6 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 6,
-    "updated_at": "2026-09-17T03:02:50Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
     "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T03:00:49Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:16:43Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
-    "description": "\u5929\u673a(Tianji):\u591a\u5bbf\u4e3b\u3001\u591a\u6a21\u578b\u6765\u6e90\u7684\u672c\u5730\u7f16\u6392\u7cfb\u7edf\u2014\u2014\u4e00\u6863\u4e00\u89d2\u8272(\u6267\u884c/\u5ba1\u6838/\u88c1\u5224),\u4efb\u52a1\u4e66\u7eaa\u5f8b+\u4e09\u8f74\u5ba1\u6838,\u771f\u5b9e\u6a21\u578b\u8bc1\u660e,\u8d26\u672c\u5355\u4e00\u771f\u6e90,\u673a\u5236\u5316\u4e0d\u9760\u81ea\u89c9",
-    "id": "SiwenPz/Tianji",
-    "language": "Python",
-    "name": "SiwenPz/Tianji",
-    "stars": 0,
-    "updated_at": "2026-09-17T02:58:14Z",
-    "url": "https://github.com/SiwenPz/Tianji"
   }
 ]
