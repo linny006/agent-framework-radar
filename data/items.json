@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-17T18:45:21Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Verifiable workflow infrastructure for AI coding agents \u2014 plan gates, fenced locks, atomic writes, and fail-closed secre",
+    "id": "Zaidm6574/project-os",
+    "language": "Python",
+    "name": "Zaidm6574/project-os",
+    "stars": 0,
+    "updated_at": "2026-09-17T18:42:48Z",
+    "url": "https://github.com/Zaidm6574/project-os"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35587,
+    "updated_at": "2026-09-17T18:38:20Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4)",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 72,
+    "updated_at": "2026-09-17T18:41:48Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7321,
+    "updated_at": "2026-09-17T18:33:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 52,
+    "updated_at": "2026-09-17T18:32:24Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 1457,
+    "updated_at": "2026-09-17T18:32:08Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-17T18:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -18,13 +90,13 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "AI Healthcare System & Clinical Data Platform. Combines a Databricks Medallion Lakehouse (OHDSI OMOP CDM v5.4 & FHIR R4)",
-    "id": "pavanbadempet/AI-Healthcare-System",
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 72,
-    "updated_at": "2026-09-17T18:26:54Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+    "name": "pydantic/pydantic-ai",
+    "stars": 20011,
+    "updated_at": "2026-09-17T18:26:59Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
@@ -36,6 +108,15 @@
     "url": "https://github.com/yangwhale/CloseCrab"
   },
   {
+    "description": "The open-source software and hardware platform for domain-specific harnesses. Run Claude Code, Codex and every coding ag",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 88,
+    "updated_at": "2026-09-17T18:26:10Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -43,15 +124,6 @@
     "stars": 265,
     "updated_at": "2026-09-17T18:25:57Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35585,
-    "updated_at": "2026-09-17T18:27:09Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
@@ -106,24 +178,6 @@
     "stars": 55,
     "updated_at": "2026-09-17T18:18:17Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "The open-source software and hardware platform for domain-specific harnesses. Run Claude Code, Codex and every coding ag",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 87,
-    "updated_at": "2026-09-17T18:26:10Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-17T18:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
@@ -185,34 +239,16 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13564,
-    "updated_at": "2026-09-17T18:07:07Z",
+    "updated_at": "2026-09-17T18:32:09Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-17T18:27:05Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 52,
-    "updated_at": "2026-09-17T18:29:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10042,
-    "updated_at": "2026-09-17T17:58:51Z",
+    "stars": 10043,
+    "updated_at": "2026-09-17T18:40:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 70,
-    "updated_at": "2026-09-17T18:27:21Z",
+    "updated_at": "2026-09-17T18:40:27Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-17T17:57:05Z",
+    "updated_at": "2026-09-17T18:40:21Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -365,17 +401,8 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-17T18:28:57Z",
+    "updated_at": "2026-09-17T18:40:33Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Verifiable workflow infrastructure for AI coding agents \u2014 plan gates, fenced locks, atomic writes, and fail-closed secre",
-    "id": "Zaidm6574/project-os",
-    "language": "Python",
-    "name": "Zaidm6574/project-os",
-    "stars": 0,
-    "updated_at": "2026-09-17T17:22:58Z",
-    "url": "https://github.com/Zaidm6574/project-os"
   },
   {
     "description": "Self-hosted AI agent platform that works offline: local models, an offline knowledge library (Wikipedia ZIM + your own d",
@@ -396,21 +423,12 @@
     "url": "https://github.com/terminator2-agent/the-convergence"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7319,
-    "updated_at": "2026-09-17T17:24:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 2,
-    "updated_at": "2026-09-17T17:54:46Z",
+    "updated_at": "2026-09-17T18:31:28Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4936,
-    "updated_at": "2026-09-17T17:18:40Z",
+    "updated_at": "2026-09-17T18:37:38Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T17:16:46Z",
     "url": "https://github.com/leanneexperimental3016/Models-Cowork"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-09-17T18:06:45Z",
-    "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 142,
-    "updated_at": "2026-09-17T17:25:32Z",
-    "url": "https://github.com/pqpo/pragma"
   }
 ]
