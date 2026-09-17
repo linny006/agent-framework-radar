@@ -1,11 +1,101 @@
 [
   {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 4,
+    "updated_at": "2026-09-17T17:45:08Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1776,
+    "updated_at": "2026-09-17T17:43:17Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 55,
+    "updated_at": "2026-09-17T17:42:42Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Open Model Hardware Protocol: an MCP-style open protocol for AI agents to find, understand and safely operate lab and fa",
+    "id": "kushalsinha/openmhp",
+    "language": "Python",
+    "name": "kushalsinha/openmhp",
+    "stars": 0,
+    "updated_at": "2026-09-17T17:42:17Z",
+    "url": "https://github.com/kushalsinha/openmhp"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-17T17:44:56Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2131,
+    "updated_at": "2026-09-17T17:39:57Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35583,
+    "updated_at": "2026-09-17T17:37:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Ultra-efficient personal AI assistant powered by Crystal",
+    "id": "crystal-autobot/autobot",
+    "language": "Crystal",
+    "name": "crystal-autobot/autobot",
+    "stars": 46,
+    "updated_at": "2026-09-17T17:36:38Z",
+    "url": "https://github.com/crystal-autobot/autobot"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6278,
+    "updated_at": "2026-09-17T17:32:13Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-17T17:30:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
     "id": "retrychx/agentia",
     "language": "TypeScript",
     "name": "retrychx/agentia",
     "stars": 2,
-    "updated_at": "2026-09-17T17:30:02Z",
+    "updated_at": "2026-09-17T17:32:55Z",
     "url": "https://github.com/retrychx/agentia"
   },
   {
@@ -27,31 +117,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 55,
-    "updated_at": "2026-09-17T17:28:21Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
+    "description": "Agent orchestration kernel for Claude Code, Codex, Gemini CLI, Cursor & OpenCode \u2014 routing, WorkGraphs, state, skill sec",
+    "id": "AL-JANEF/janef-one",
     "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6278,
-    "updated_at": "2026-09-17T17:28:06Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Ultra-efficient personal AI assistant powered by Crystal",
-    "id": "crystal-autobot/autobot",
-    "language": "Crystal",
-    "name": "crystal-autobot/autobot",
-    "stars": 46,
-    "updated_at": "2026-09-17T17:27:13Z",
-    "url": "https://github.com/crystal-autobot/autobot"
+    "name": "AL-JANEF/janef-one",
+    "stars": 1,
+    "updated_at": "2026-09-17T17:40:06Z",
+    "url": "https://github.com/AL-JANEF/janef-one"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -95,7 +167,7 @@
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 85,
-    "updated_at": "2026-09-17T17:30:09Z",
+    "updated_at": "2026-09-17T17:42:25Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T17:19:53Z",
     "url": "https://github.com/terminator2-agent/the-convergence"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1776,
-    "updated_at": "2026-09-17T17:18:51Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -189,24 +252,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 4,
-    "updated_at": "2026-09-17T17:16:00Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-17T17:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-17T17:22:00Z",
+    "updated_at": "2026-09-17T17:43:57Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10042,
-    "updated_at": "2026-09-17T17:23:06Z",
+    "updated_at": "2026-09-17T17:35:53Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T17:00:31Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-09-17T16:59:10Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35583,
-    "updated_at": "2026-09-17T16:58:36Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-09-17T16:57:52Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-09-17T16:57:28Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-09-17T16:57:22Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
   }
 ]
