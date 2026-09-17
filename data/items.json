@@ -5,8 +5,44 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-17T19:42:33Z",
+    "updated_at": "2026-09-17T19:45:07Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-17T19:44:56Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
+    "id": "jesayas7817/agent-reliability-engineering",
+    "language": "Shell",
+    "name": "jesayas7817/agent-reliability-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-17T19:44:12Z",
+    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 35,
+    "updated_at": "2026-09-17T19:43:02Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-17T19:42:55Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
@@ -36,6 +72,15 @@
     "url": "https://github.com/Avesrarity821/robopotato"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10045,
+    "updated_at": "2026-09-17T19:41:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
     "id": "smooth-snarl702/AE-agent",
     "language": "JavaScript",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-17T19:40:55Z",
+    "updated_at": "2026-09-17T19:44:28Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 4,
-    "updated_at": "2026-09-17T19:37:22Z",
+    "updated_at": "2026-09-17T19:45:23Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/speleoalex/myagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-17T19:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Verifiable workflow infrastructure for AI coding agents \u2014 plan gates, fenced locks, atomic writes, and fail-closed secre",
     "id": "Zaidm6574/project-os",
     "language": "Python",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 299,
-    "updated_at": "2026-09-17T19:29:32Z",
+    "updated_at": "2026-09-17T19:45:08Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T19:24:45Z",
     "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10044,
-    "updated_at": "2026-09-17T19:41:04Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Universal Agent Harness",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-17T19:36:08Z",
+    "updated_at": "2026-09-17T19:44:15Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7322,
     "updated_at": "2026-09-17T19:23:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 52,
-    "updated_at": "2026-09-17T19:42:29Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48272,
-    "updated_at": "2026-09-17T18:29:36Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-09-17T18:28:00Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
   }
 ]
