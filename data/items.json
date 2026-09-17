@@ -1,5 +1,86 @@
 [
   {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-17T11:55:48Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Personal Ai Agent",
+    "id": "br3eze-code/br3eze-code",
+    "language": "JavaScript",
+    "name": "br3eze-code/br3eze-code",
+    "stars": 3,
+    "updated_at": "2026-09-17T11:54:04Z",
+    "url": "https://github.com/br3eze-code/br3eze-code"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 69,
+    "updated_at": "2026-09-17T11:53:33Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1116,
+    "updated_at": "2026-09-17T11:52:25Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
+    "id": "CocoRoF/geny-executor",
+    "language": "Python",
+    "name": "CocoRoF/geny-executor",
+    "stars": 2,
+    "updated_at": "2026-09-17T11:51:49Z",
+    "url": "https://github.com/CocoRoF/geny-executor"
+  },
+  {
+    "description": "Orchestrate Any Agent. Connect Everything.",
+    "id": "lambda-harness/LAP",
+    "language": "Python",
+    "name": "lambda-harness/LAP",
+    "stars": 3,
+    "updated_at": "2026-09-17T11:51:01Z",
+    "url": "https://github.com/lambda-harness/LAP"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-17T11:48:23Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-17T11:46:41Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-17T11:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13561,
-    "updated_at": "2026-09-17T11:42:44Z",
+    "updated_at": "2026-09-17T11:46:54Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-17T11:42:13Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Open-source agent harness for knowledge work: long-running AI agents with MCP tools, managed context, subagents and self",
@@ -58,18 +130,9 @@
     "id": "NirDiamant/agents-towards-production",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/agents-towards-production",
-    "stars": 21465,
+    "stars": 21464,
     "updated_at": "2026-09-17T11:37:34Z",
     "url": "https://github.com/NirDiamant/agents-towards-production"
-  },
-  {
-    "description": "Personal Ai Agent",
-    "id": "br3eze-code/br3eze-code",
-    "language": "JavaScript",
-    "name": "br3eze-code/br3eze-code",
-    "stars": 3,
-    "updated_at": "2026-09-17T11:36:55Z",
-    "url": "https://github.com/br3eze-code/br3eze-code"
   },
   {
     "description": "Open-source framework for running coding agents with domain-specific tools and live viewers. Persistent terminal session",
@@ -90,15 +153,6 @@
     "url": "https://github.com/agentjido/jidoka"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-17T11:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-09-17T11:28:22Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-17T11:28:04Z",
-    "url": "https://github.com/momang85/weavemind"
   },
   {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
@@ -151,15 +196,6 @@
     "stars": 233,
     "updated_at": "2026-09-17T11:17:11Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 69,
-    "updated_at": "2026-09-17T11:15:20Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T10:49:15Z",
     "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-09-17T10:49:10Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-17T10:48:45Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Typed, replayable workflow organisms for AI agents \u2014 deterministic graph structure, bounded agent cells, offline-verifia",
-    "id": "hraness/morphogen",
-    "language": "TypeScript",
-    "name": "hraness/morphogen",
-    "stars": 0,
-    "updated_at": "2026-09-17T10:48:15Z",
-    "url": "https://github.com/hraness/morphogen"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 5138,
-    "updated_at": "2026-09-17T10:51:04Z",
-    "url": "https://github.com/iflytek/skillhub"
   }
 ]
