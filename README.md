@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 22:15 UTC
+> ⏰ Last updated: 2026-09-18 22:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [cortexkit/aft](https://github.com/cortexkit/aft) | 299 | Rust | 2026-09-18 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 2 | [Situational-AI/situational-ai.github.io](https://github.com/Situational-AI/situational-ai.github.io) | 0 | HTML | 2026-09-18 | The Perceptual Layer for AI — Machines Learned to Think. We're Teaching Them to Perceive. |
-| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10082 | Python | 2026-09-18 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [gabazureus/gasclaw](https://github.com/gabazureus/gasclaw) | 0 | TypeScript | 2026-09-18 | The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown  |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-09-18 |  |
-| 8 | [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | 41 | Python | 2026-09-18 | One place to build, run and govern your company's AI agents — skills, context files, MCP at registry scale, automations, |
-| 9 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-09-18 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
-| 10 | [shaharia-lab/agento](https://github.com/shaharia-lab/agento) | 31 | Rust | 2026-09-18 | Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at  |
-| 11 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20032 | Python | 2026-09-18 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
-| 12 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 55 | TypeScript | 2026-09-18 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
-| 13 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-18 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 14 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 302 | Python | 2026-09-18 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
-| 15 | [Agentic-Chat-Rooms-Protocol/acr-opsroom](https://github.com/Agentic-Chat-Rooms-Protocol/acr-opsroom) | 0 | TypeScript | 2026-09-18 | Autonomous Operations War Room, Byzantine Deliberation Engine, Atlas 2.0 Goal-Directed DAG,. A supercharged and mission- |
-| 16 | [BlocUnited-LLC/mozaiks](https://github.com/BlocUnited-LLC/mozaiks) | 25 | Python | 2026-09-18 | The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and  |
-| 17 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-18 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-18 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [cortexkit/aft](https://github.com/cortexkit/aft) | 299 | Rust | 2026-09-18 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 3 | [Situational-AI/situational-ai.github.io](https://github.com/Situational-AI/situational-ai.github.io) | 0 | HTML | 2026-09-18 | The Perceptual Layer for AI — Machines Learned to Think. We're Teaching Them to Perceive. |
+| 4 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10083 | Python | 2026-09-18 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-09-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [gabazureus/gasclaw](https://github.com/gabazureus/gasclaw) | 0 | TypeScript | 2026-09-18 | The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown  |
+| 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-09-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 8 | [111nathanlar/Agent-Worlds](https://github.com/111nathanlar/Agent-Worlds) | 1 | HTML | 2026-09-18 |  |
+| 9 | [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | 41 | Python | 2026-09-18 | One place to build, run and govern your company's AI agents — skills, context files, MCP at registry scale, automations, |
+| 10 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-09-18 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
+| 11 | [shaharia-lab/agento](https://github.com/shaharia-lab/agento) | 31 | Rust | 2026-09-18 | Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at  |
+| 12 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20032 | Python | 2026-09-18 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
+| 13 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 55 | TypeScript | 2026-09-18 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
+| 14 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-18 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 15 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 302 | Python | 2026-09-18 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
+| 16 | [Agentic-Chat-Rooms-Protocol/acr-opsroom](https://github.com/Agentic-Chat-Rooms-Protocol/acr-opsroom) | 0 | TypeScript | 2026-09-18 | Autonomous Operations War Room, Byzantine Deliberation Engine, Atlas 2.0 Goal-Directed DAG,. A supercharged and mission- |
+| 17 | [BlocUnited-LLC/mozaiks](https://github.com/BlocUnited-LLC/mozaiks) | 25 | Python | 2026-09-18 | The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and  |
 | 18 | [Kobelyww/ballast](https://github.com/Kobelyww/ballast) | 0 | Python | 2026-09-18 | Budget-aware LLM agent runtime + cost/quality benchmark. Zero runtime dependencies, offline-testable, auditable runs. |
 | 19 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-09-18 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
 | 20 | [Ecro/harness-maker](https://github.com/Ecro/harness-maker) | 4 | Python | 2026-09-18 | Per-project AI coding harness for Claude Code · Cursor · Codex. Profiler + 10-dim interview build a different harness fo |
