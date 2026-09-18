@@ -1,12 +1,66 @@
 [
   {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-09-18T18:29:48Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
+    "id": "rapidaai/voice-ai",
+    "language": "Go",
+    "name": "rapidaai/voice-ai",
+    "stars": 732,
+    "updated_at": "2026-09-18T18:29:40Z",
+    "url": "https://github.com/rapidaai/voice-ai"
+  },
+  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 25,
-    "updated_at": "2026-09-18T18:13:02Z",
+    "updated_at": "2026-09-18T18:23:33Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10082,
+    "updated_at": "2026-09-18T18:20:17Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-18T18:16:33Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-18T18:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13582,
+    "updated_at": "2026-09-18T18:28:19Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "gutomec/nirvana-os-engine",
     "stars": 73,
-    "updated_at": "2026-09-18T18:12:35Z",
+    "updated_at": "2026-09-18T18:21:07Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 277,
-    "updated_at": "2026-09-18T18:09:43Z",
+    "updated_at": "2026-09-18T18:28:34Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10082,
-    "updated_at": "2026-09-18T18:12:46Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
     "id": "yangwhale/CloseCrab",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-18T18:00:36Z",
     "url": "https://github.com/yangwhale/CloseCrab"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-18T18:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 6,
-    "updated_at": "2026-09-18T17:48:02Z",
+    "updated_at": "2026-09-18T18:21:32Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
@@ -166,7 +202,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1466,
+    "stars": 1470,
     "updated_at": "2026-09-18T17:45:23Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 6287,
-    "updated_at": "2026-09-18T18:07:14Z",
+    "updated_at": "2026-09-18T18:16:05Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T17:42:36Z",
     "url": "https://github.com/DJG3DK/tektonix"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13581,
-    "updated_at": "2026-09-18T18:14:47Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7351,
-    "updated_at": "2026-09-18T17:18:04Z",
+    "updated_at": "2026-09-18T18:27:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T17:11:39Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:10:14Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-18T17:10:13Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
-    "id": "Internationaleundset619/OpenDsStar",
-    "language": "Python",
-    "name": "Internationaleundset619/OpenDsStar",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:09:51Z",
-    "url": "https://github.com/Internationaleundset619/OpenDsStar"
   }
 ]
