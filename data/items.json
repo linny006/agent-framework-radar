@@ -1,11 +1,92 @@
 [
   {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
+    "language": "TypeScript",
+    "name": "vincemakes/kiso",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:42:52Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
+    "id": "jin-bo/agentao",
+    "language": "Python",
+    "name": "jin-bo/agentao",
+    "stars": 303,
+    "updated_at": "2026-09-18T09:42:06Z",
+    "url": "https://github.com/jin-bo/agentao"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-18T09:40:16Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 292,
+    "updated_at": "2026-09-18T09:40:15Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "AMEP \u2014 Agentic Method Execution Protocol: turn human methodologies into executable, auditable agent protocols. Five open",
+    "id": "kakon77777-commits/amep",
+    "language": "Python",
+    "name": "kakon77777-commits/amep",
+    "stars": 1,
+    "updated_at": "2026-09-18T09:39:04Z",
+    "url": "https://github.com/kakon77777-commits/amep"
+  },
+  {
+    "description": "A little genius in your corner.",
+    "id": "geekforbrains/enso",
+    "language": "Python",
+    "name": "geekforbrains/enso",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:38:43Z",
+    "url": "https://github.com/geekforbrains/enso"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35597,
+    "updated_at": "2026-09-18T09:34:33Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-18T09:32:54Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-18T09:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1342,
-    "updated_at": "2026-09-18T09:29:24Z",
+    "updated_at": "2026-09-18T09:44:34Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -18,13 +99,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "AMEP \u2014 Agentic Method Execution Protocol: turn human methodologies into executable, auditable agent protocols. Five open",
-    "id": "kakon77777-commits/amep",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
     "language": "Python",
-    "name": "kakon77777-commits/amep",
-    "stars": 1,
-    "updated_at": "2026-09-18T09:26:43Z",
-    "url": "https://github.com/kakon77777-commits/amep"
+    "name": "omnigent-ai/omnigent",
+    "stars": 10069,
+    "updated_at": "2026-09-18T09:24:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The zero-trust framework for autonomous AI agents.",
@@ -72,15 +153,6 @@
     "url": "https://github.com/soumyasurana/Contextra"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10068,
-    "updated_at": "2026-09-18T09:24:48Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Web API sample with Microsoft Agent Framework, Azure OpenAI, and SQL Server that adds persistent per-user memory to AI a",
     "id": "marcominerva/AgentMemoryService",
     "language": "C#",
@@ -88,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T09:17:53Z",
     "url": "https://github.com/marcominerva/AgentMemoryService"
-  },
-  {
-    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
-    "id": "jin-bo/agentao",
-    "language": "Python",
-    "name": "jin-bo/agentao",
-    "stars": 303,
-    "updated_at": "2026-09-18T09:18:41Z",
-    "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-18T09:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -135,15 +189,6 @@
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
-    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
-    "id": "vincemakes/kiso",
-    "language": "TypeScript",
-    "name": "vincemakes/kiso",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:15:48Z",
-    "url": "https://github.com/vincemakes/kiso"
-  },
-  {
     "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
     "id": "apowerb/apowerb",
     "language": "Python",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T09:07:40Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-18T09:07:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Convert PDF pages to Markdown using an ASP.NET Core API backed by Azure OpenAI.",
@@ -338,7 +374,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 5135,
-    "updated_at": "2026-09-18T09:21:39Z",
+    "updated_at": "2026-09-18T09:40:42Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T08:44:13Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-18T08:43:43Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "An architecture-graph driven framework for Agentic Engineering.",
-    "id": "derekhu0002/archgraph",
-    "language": "JavaScript",
-    "name": "derekhu0002/archgraph",
-    "stars": 3,
-    "updated_at": "2026-09-18T08:40:18Z",
-    "url": "https://github.com/derekhu0002/archgraph"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-09-18T08:39:53Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-09-18T08:39:24Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
   }
 ]
