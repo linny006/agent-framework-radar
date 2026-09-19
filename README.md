@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-19 00:28 UTC
+> ⏰ Last updated: 2026-09-19 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6287 | Python | 2026-09-19 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
-| 2 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 55 | HTML | 2026-09-19 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 3 | [logandoo/weave-thinker](https://github.com/logandoo/weave-thinker) | 4 | Python | 2026-09-19 | Self-hosted AI agent platform — 自托管AI Agent智能体平台 |
-| 4 | [api-evangelist/autogen-studio](https://github.com/api-evangelist/autogen-studio) | 0 | — | 2026-09-19 | AutoGen Studio — independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod |
-| 5 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2146 | TypeScript | 2026-09-19 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 6 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10084 | Python | 2026-09-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 7 | [henstarr/JBrancher](https://github.com/henstarr/JBrancher) | 0 | JavaScript | 2026-09-19 | Fast branch decisions for AI agent harnesses |
-| 8 | [yanacuti1121/Yana-AI](https://github.com/yanacuti1121/Yana-AI) | 4 | Python | 2026-09-19 | Yana AI 🐰  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra |
-| 9 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-09-19 | A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t |
-| 10 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20034 | Python | 2026-09-19 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 12 | [openamer/openamer](https://github.com/openamer/openamer) | 6 | Python | 2026-09-19 | The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System |
-| 13 | [Kobelyww/ballast](https://github.com/Kobelyww/ballast) | 0 | Python | 2026-09-19 | Budget-aware LLM agent runtime + cost/quality benchmark. Zero runtime dependencies, offline-testable, auditable runs. |
-| 14 | [gabazureus/gasclaw](https://github.com/gabazureus/gasclaw) | 0 | TypeScript | 2026-09-19 | The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown  |
-| 15 | [lucasmailland/orchester](https://github.com/lucasmailland/orchester) | 1 | TypeScript | 2026-09-19 | Open-source platform for building teams of AI agents — orchestrator delegates, specialists execute, persistent memory le |
-| 16 | [mmeyerlein/meclaw](https://github.com/mmeyerlein/meclaw) | 38 | Rust | 2026-09-19 | Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary. |
-| 17 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 302 | Python | 2026-09-19 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
-| 18 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-09-18 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
-| 19 | [pereirawe/opencode-flow](https://github.com/pereirawe/opencode-flow) | 2 | Shell | 2026-09-18 | Generic, language-agnostic AI-assisted development workflow for OpenCode — pipeline, agents, standards, and scripts |
-| 20 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 53 | Python | 2026-09-18 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 21 | [cortexkit/aft](https://github.com/cortexkit/aft) | 299 | Rust | 2026-09-19 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 1 | [cortexkit/aft](https://github.com/cortexkit/aft) | 299 | Rust | 2026-09-19 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 5 | Python | 2026-09-19 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6287 | Python | 2026-09-19 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering |
+| 4 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 55 | HTML | 2026-09-19 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 5 | [logandoo/weave-thinker](https://github.com/logandoo/weave-thinker) | 4 | Python | 2026-09-19 | Self-hosted AI agent platform — 自托管AI Agent智能体平台 |
+| 6 | [api-evangelist/autogen-studio](https://github.com/api-evangelist/autogen-studio) | 0 | — | 2026-09-19 | AutoGen Studio — independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod |
+| 7 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2146 | TypeScript | 2026-09-19 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 8 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10084 | Python | 2026-09-19 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 9 | [henstarr/JBrancher](https://github.com/henstarr/JBrancher) | 0 | JavaScript | 2026-09-19 | Fast branch decisions for AI agent harnesses |
+| 10 | [yanacuti1121/Yana-AI](https://github.com/yanacuti1121/Yana-AI) | 4 | Python | 2026-09-19 | Yana AI 🐰  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra |
+| 11 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-09-19 | A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t |
+| 12 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20034 | Python | 2026-09-19 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
+| 13 | [openamer/openamer](https://github.com/openamer/openamer) | 6 | Python | 2026-09-19 | The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System |
+| 14 | [Kobelyww/ballast](https://github.com/Kobelyww/ballast) | 0 | Python | 2026-09-19 | Budget-aware LLM agent runtime + cost/quality benchmark. Zero runtime dependencies, offline-testable, auditable runs. |
+| 15 | [gabazureus/gasclaw](https://github.com/gabazureus/gasclaw) | 0 | TypeScript | 2026-09-19 | The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown  |
+| 16 | [lucasmailland/orchester](https://github.com/lucasmailland/orchester) | 1 | TypeScript | 2026-09-19 | Open-source platform for building teams of AI agents — orchestrator delegates, specialists execute, persistent memory le |
+| 17 | [mmeyerlein/meclaw](https://github.com/mmeyerlein/meclaw) | 38 | Rust | 2026-09-19 | Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary. |
+| 18 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 302 | Python | 2026-09-19 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
+| 19 | [IkhsanMAlbar/govchain-llm-orchestrator](https://github.com/IkhsanMAlbar/govchain-llm-orchestrator) | 0 | HTML | 2026-09-18 | Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise |
+| 20 | [pereirawe/opencode-flow](https://github.com/pereirawe/opencode-flow) | 2 | Shell | 2026-09-18 | Generic, language-agnostic AI-assisted development workflow for OpenCode — pipeline, agents, standards, and scripts |
+| 21 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 53 | Python | 2026-09-18 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 22 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-09-18 | Universal Agent Harness |
 | 23 | [qadeer-ux/oh-my-codex-remix](https://github.com/qadeer-ux/oh-my-codex-remix) | 0 | HTML | 2026-09-18 | 🧠 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code |
 | 24 | [wmcmahan/cycgraph](https://github.com/wmcmahan/cycgraph) | 3 | TypeScript | 2026-09-18 | Agent context compressor and memory persistent orchestration |
