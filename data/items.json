@@ -1,12 +1,21 @@
 [
   {
-    "description": "An opinionated loop based automations written in rust",
-    "id": "tinyhumansai/tinyloops",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyloops",
-    "stars": 1,
-    "updated_at": "2026-09-19T18:43:48Z",
-    "url": "https://github.com/tinyhumansai/tinyloops"
+    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
+    "id": "ellmos-ai/n8n-manager-mcp",
+    "language": "TypeScript",
+    "name": "ellmos-ai/n8n-manager-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-19T19:00:01Z",
+    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
+  },
+  {
+    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
+    "id": "Bande-a-Bonnot/Boucle-framework",
+    "language": "Shell",
+    "name": "Bande-a-Bonnot/Boucle-framework",
+    "stars": 124,
+    "updated_at": "2026-09-19T18:57:23Z",
+    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -14,8 +23,35 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-19T18:43:14Z",
+    "updated_at": "2026-09-19T18:53:49Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:49:25Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-09-19T18:47:43Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Open kernel for AI-native service businesses.",
+    "id": "mycelhq/mycel",
+    "language": "TypeScript",
+    "name": "mycelhq/mycel",
+    "stars": 10,
+    "updated_at": "2026-09-19T18:47:21Z",
+    "url": "https://github.com/mycelhq/mycel"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 5,
-    "updated_at": "2026-09-19T18:43:08Z",
+    "updated_at": "2026-09-19T18:45:23Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An opinionated loop based automations written in rust",
+    "id": "tinyhumansai/tinyloops",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyloops",
+    "stars": 1,
+    "updated_at": "2026-09-19T18:43:48Z",
+    "url": "https://github.com/tinyhumansai/tinyloops"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -49,7 +94,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35627,
+    "stars": 35628,
     "updated_at": "2026-09-19T18:41:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "mauro-mura/agenor",
     "stars": 1,
-    "updated_at": "2026-09-19T18:30:01Z",
+    "updated_at": "2026-09-19T18:59:45Z",
     "url": "https://github.com/mauro-mura/agenor"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 1502,
-    "updated_at": "2026-09-19T18:17:38Z",
+    "updated_at": "2026-09-19T18:50:11Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 58,
-    "updated_at": "2026-09-19T18:41:08Z",
+    "updated_at": "2026-09-19T18:58:40Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinycortex",
     "stars": 254,
-    "updated_at": "2026-09-19T18:13:21Z",
+    "updated_at": "2026-09-19T19:00:15Z",
     "url": "https://github.com/tinyhumansai/tinycortex"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-09-19T18:08:55Z",
     "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
-    "id": "lifishard/wickrunAI",
-    "language": "JavaScript",
-    "name": "lifishard/wickrunAI",
-    "stars": 0,
-    "updated_at": "2026-09-19T18:08:16Z",
-    "url": "https://github.com/lifishard/wickrunAI"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -360,15 +396,6 @@
     "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
   },
   {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-09-19T18:38:59Z",
-    "url": "https://github.com/crewhaus/factory"
-  },
-  {
     "description": "Open-source Agentic workflows built using Rust",
     "id": "tinyhumansai/tinyflows",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-19T17:46:46Z",
     "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-19T17:46:39Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-19T17:46:21Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 122,
-    "updated_at": "2026-09-19T17:46:00Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
