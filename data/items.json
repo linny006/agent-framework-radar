@@ -1,12 +1,102 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-19T07:58:52Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-19T07:58:15Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-09-19T07:44:54Z",
+    "updated_at": "2026-09-19T07:57:32Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 31,
+    "updated_at": "2026-09-19T07:56:43Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-19T07:56:37Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 233,
+    "updated_at": "2026-09-19T07:55:08Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 14,
+    "updated_at": "2026-09-19T07:52:23Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-09-19T07:53:00Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
+    "id": "plaited/behavioral",
+    "language": "TypeScript",
+    "name": "plaited/behavioral",
+    "stars": 11,
+    "updated_at": "2026-09-19T07:50:14Z",
+    "url": "https://github.com/plaited/behavioral"
+  },
+  {
+    "description": "Open kernel for AI-native service businesses.",
+    "id": "mycelhq/mycel",
+    "language": "TypeScript",
+    "name": "mycelhq/mycel",
+    "stars": 10,
+    "updated_at": "2026-09-19T07:46:30Z",
+    "url": "https://github.com/mycelhq/mycel"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-19T07:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse",
@@ -99,21 +189,12 @@
     "url": "https://github.com/momang85/weavemind"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 233,
-    "updated_at": "2026-09-19T07:32:45Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 48341,
-    "updated_at": "2026-09-19T07:32:32Z",
+    "stars": 48342,
+    "updated_at": "2026-09-19T07:52:26Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-19T07:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T07:30:15Z",
     "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 31,
-    "updated_at": "2026-09-19T07:36:30Z",
-    "url": "https://github.com/shaharia-lab/agento"
   },
   {
     "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
@@ -301,7 +364,7 @@
     "id": "Gnosil/semantix",
     "language": "Go",
     "name": "Gnosil/semantix",
-    "stars": 603,
+    "stars": 604,
     "updated_at": "2026-09-19T07:22:06Z",
     "url": "https://github.com/Gnosil/semantix"
   },
@@ -369,15 +432,6 @@
     "url": "https://github.com/RONIN511/alphora"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-19T07:16:22Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-19T07:25:25Z",
     "url": "https://github.com/LunaticLegacy/llmfetcher"
-  },
-  {
-    "description": "Hands-on workshop to build, test, and deploy single-agent and multi-agent Hosted Agents to Microsoft Foundry from VS Cod",
-    "id": "microsoft-foundry/Foundry_Toolkit_for_VSCode_Lab",
-    "language": "Python",
-    "name": "microsoft-foundry/Foundry_Toolkit_for_VSCode_Lab",
-    "stars": 79,
-    "updated_at": "2026-09-19T07:15:53Z",
-    "url": "https://github.com/microsoft-foundry/Foundry_Toolkit_for_VSCode_Lab"
-  },
-  {
-    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
-    "id": "lifishard/wickrunAI",
-    "language": "JavaScript",
-    "name": "lifishard/wickrunAI",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:16:14Z",
-    "url": "https://github.com/lifishard/wickrunAI"
-  },
-  {
-    "description": "Local-first control plane for long-running and multi-agent AI systems. Observe, steer, recover and orchestrate agents.",
-    "id": "LunaticLegacy/angelus",
-    "language": "Python",
-    "name": "LunaticLegacy/angelus",
-    "stars": 12,
-    "updated_at": "2026-09-19T07:27:34Z",
-    "url": "https://github.com/LunaticLegacy/angelus"
-  },
-  {
-    "description": "A lightweight Kotlin agent framework and IntelliJ IDEA plugin for streaming LLM tool-calling agents that read and edit f",
-    "id": "lg841226/Gradum",
-    "language": "Kotlin",
-    "name": "lg841226/Gradum",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:13:07Z",
-    "url": "https://github.com/lg841226/Gradum"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:12:49Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
-    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "language": "Python",
-    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "stars": 0,
-    "updated_at": "2026-09-19T07:10:14Z",
-    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
   }
 ]
