@@ -1,12 +1,111 @@
 [
   {
+    "description": "Recursive self-improvement for hybrid agents: digital and physical experience improving each other, with an evidence led",
+    "id": "possibleme2026-lang/rsihybridagent",
+    "language": "Python",
+    "name": "possibleme2026-lang/rsihybridagent",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:29:37Z",
+    "url": "https://github.com/possibleme2026-lang/rsihybridagent"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-19T04:29:09Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 299,
+    "updated_at": "2026-09-19T04:28:05Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Budget-aware LLM agent runtime + cost/quality benchmark. Zero runtime dependencies, offline-testable, auditable runs.",
     "id": "Kobelyww/ballast",
     "language": "Python",
     "name": "Kobelyww/ballast",
     "stars": 0,
-    "updated_at": "2026-09-19T04:14:56Z",
+    "updated_at": "2026-09-19T04:28:02Z",
     "url": "https://github.com/Kobelyww/ballast"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-19T04:25:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-19T04:24:42Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
+    "id": "CocoRoF/geny-executor",
+    "language": "Python",
+    "name": "CocoRoF/geny-executor",
+    "stars": 2,
+    "updated_at": "2026-09-19T04:23:07Z",
+    "url": "https://github.com/CocoRoF/geny-executor"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2147,
+    "updated_at": "2026-09-19T04:21:55Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 36,
+    "updated_at": "2026-09-19T04:18:11Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "A community driven directory of paseo.sh plugins",
+    "id": "paseo-cafe/paseo-cafe",
+    "language": "TypeScript",
+    "name": "paseo-cafe/paseo-cafe",
+    "stars": 26,
+    "updated_at": "2026-09-19T04:18:40Z",
+    "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-19T04:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20034,
+    "updated_at": "2026-09-19T04:26:41Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
@@ -27,15 +126,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Recursive self-improvement for hybrid agents: digital and physical experience improving each other, with an evidence led",
-    "id": "possibleme2026-lang/rsihybridagent",
-    "language": "Python",
-    "name": "possibleme2026-lang/rsihybridagent",
-    "stars": 0,
-    "updated_at": "2026-09-19T04:08:48Z",
-    "url": "https://github.com/possibleme2026-lang/rsihybridagent"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -43,15 +133,6 @@
     "stars": 233,
     "updated_at": "2026-09-19T04:03:42Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-19T04:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -81,24 +162,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-19T03:56:59Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-09-19T03:55:19Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
-  },
-  {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
@@ -126,15 +189,6 @@
     "url": "https://github.com/rundesk-ai/rundesk-cli"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20035,
-    "updated_at": "2026-09-19T04:13:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -151,15 +205,6 @@
     "stars": 226,
     "updated_at": "2026-09-19T03:38:26Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2147,
-    "updated_at": "2026-09-19T03:35:41Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -196,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-09-19T03:31:45Z",
     "url": "https://github.com/yunhai89/trss-agent-plugin"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 299,
-    "updated_at": "2026-09-19T04:02:55Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Fast branch decisions for AI agent harnesses",
@@ -286,15 +322,6 @@
     "stars": 55,
     "updated_at": "2026-09-19T02:46:51Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "An open-source, model-agnostic agent harness for local LLMs. Define agents in YAML (tools, memory, deny-first permission",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 36,
-    "updated_at": "2026-09-19T02:45:49Z",
-    "url": "https://github.com/ahwurm/localharness"
   },
   {
     "description": "Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T02:27:52Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:27:27Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-19T02:26:04Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:25:57Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   }
 ]
