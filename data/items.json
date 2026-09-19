@@ -1,12 +1,93 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 26,
+    "updated_at": "2026-09-19T22:30:16Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Gardener -- LLM-native operating system. Everything lives in a searchable SQLite database. Four functions, two databases",
+    "id": "ellmos-ai/GARDENER",
+    "language": "Python",
+    "name": "ellmos-ai/GARDENER",
+    "stars": 1,
+    "updated_at": "2026-09-19T22:25:42Z",
+    "url": "https://github.com/ellmos-ai/GARDENER"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 1,
+    "updated_at": "2026-09-19T22:22:06Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Local-first LLM operating-system hub for BACH, Rinnsal, gardener, SQLite agent memory, MCP servers, skills, and multi-ag",
+    "id": "ellmos-ai/ellmos",
+    "language": "\u2014",
+    "name": "ellmos-ai/ellmos",
+    "stars": 2,
+    "updated_at": "2026-09-19T22:21:17Z",
+    "url": "https://github.com/ellmos-ai/ellmos"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10100,
+    "updated_at": "2026-09-19T22:21:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Model-agnostic multi-agent orchestration built on CrewAI. YAML-driven agent and MCP catalogs, dynamic LLM planning, sess",
     "id": "zlatko-lakisic/agentic-orchestration",
     "language": "Python",
     "name": "zlatko-lakisic/agentic-orchestration",
     "stars": 3,
-    "updated_at": "2026-09-19T22:11:52Z",
+    "updated_at": "2026-09-19T22:19:37Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
+  },
+  {
+    "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
+    "id": "Deuz-AI/Deuz-SDK",
+    "language": "TypeScript",
+    "name": "Deuz-AI/Deuz-SDK",
+    "stars": 696,
+    "updated_at": "2026-09-19T22:23:24Z",
+    "url": "https://github.com/Deuz-AI/Deuz-SDK"
+  },
+  {
+    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
+    "id": "ellmos-ai/.github",
+    "language": "HTML",
+    "name": "ellmos-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-09-19T22:18:10Z",
+    "url": "https://github.com/ellmos-ai/.github"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-19T22:25:07Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-19T22:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
@@ -27,15 +108,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 55,
-    "updated_at": "2026-09-19T22:10:04Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -45,15 +117,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Local-first LLM operating-system hub for BACH, Rinnsal, gardener, SQLite agent memory, MCP servers, skills, and multi-ag",
-    "id": "ellmos-ai/ellmos",
-    "language": "\u2014",
-    "name": "ellmos-ai/ellmos",
-    "stars": 2,
-    "updated_at": "2026-09-19T22:06:29Z",
-    "url": "https://github.com/ellmos-ai/ellmos"
-  },
-  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 25,
     "updated_at": "2026-09-19T22:06:00Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 26,
-    "updated_at": "2026-09-19T22:06:45Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "The .NET library to build AI agents with 30+ built-in connectors.",
@@ -133,24 +187,6 @@
     "stars": 10,
     "updated_at": "2026-09-19T22:00:32Z",
     "url": "https://github.com/mycelhq/mycel"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-19T22:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10099,
-    "updated_at": "2026-09-19T22:04:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "sukethrp/agentos",
     "stars": 1,
-    "updated_at": "2026-09-19T21:47:15Z",
+    "updated_at": "2026-09-19T22:26:38Z",
     "url": "https://github.com/sukethrp/agentos"
   },
   {
@@ -405,48 +441,12 @@
     "url": "https://github.com/Luiz184/gokin-sdk"
   },
   {
-    "description": "ellmos-ai org profile and public repo index for local-first LLM OS, MCP servers, agent modules, connectors and AI media ",
-    "id": "ellmos-ai/.github",
-    "language": "HTML",
-    "name": "ellmos-ai/.github",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:40:34Z",
-    "url": "https://github.com/ellmos-ai/.github"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-19T21:38:56Z",
+    "updated_at": "2026-09-19T22:22:08Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
-    "id": "punkxuxu/bank_soal",
-    "language": "Python",
-    "name": "punkxuxu/bank_soal",
-    "stars": 0,
-    "updated_at": "2026-09-19T21:37:14Z",
-    "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 73,
-    "updated_at": "2026-09-19T21:33:33Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-19T21:32:26Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
