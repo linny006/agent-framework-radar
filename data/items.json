@@ -1,12 +1,12 @@
 [
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-09-19T09:06:17Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
+    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 352,
+    "updated_at": "2026-09-19T09:14:55Z",
+    "url": "https://github.com/shibing624/agentica"
   },
   {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
@@ -14,8 +14,62 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-19T09:06:12Z",
+    "updated_at": "2026-09-19T09:13:53Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
+    "id": "rjaskonis/pi-feats",
+    "language": "TypeScript",
+    "name": "rjaskonis/pi-feats",
+    "stars": 0,
+    "updated_at": "2026-09-19T09:11:24Z",
+    "url": "https://github.com/rjaskonis/pi-feats"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 11,
+    "updated_at": "2026-09-19T09:10:52Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 31,
+    "updated_at": "2026-09-19T09:09:06Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 14,
+    "updated_at": "2026-09-19T09:08:50Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-19T09:06:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-09-19T09:06:17Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -34,15 +88,6 @@
     "stars": 342,
     "updated_at": "2026-09-19T09:01:02Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-19T09:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u57fa\u4e8e TRSS-Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for TRSS-Yunzai with self-evolving",
@@ -144,15 +189,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 11,
-    "updated_at": "2026-09-19T08:59:09Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T08:28:47Z",
     "url": "https://github.com/ian-cowley/AgentDevKit"
-  },
-  {
-    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
-    "id": "dendrux/dendrux",
-    "language": "Python",
-    "name": "dendrux/dendrux",
-    "stars": 14,
-    "updated_at": "2026-09-19T09:05:28Z",
-    "url": "https://github.com/dendrux/dendrux"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -216,15 +243,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 31,
-    "updated_at": "2026-09-19T08:59:17Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
     "id": "DemonDamon/AgenticX",
     "language": "Python",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48346,
-    "updated_at": "2026-09-19T07:52:26Z",
+    "updated_at": "2026-09-19T09:07:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/vmy41/agent-harness"
   },
   {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 352,
-    "updated_at": "2026-09-19T07:28:52Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
     "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
     "id": "Ansellwaxlike187/cowork-semantic-search",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T07:26:46Z",
     "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Agent-driven code intelligence engine: Python/FastAPI agent orchestration, Rust/Axum code graph and context compression,",
-    "id": "YV3507/rubbish",
-    "language": "Python",
-    "name": "YV3507/rubbish",
-    "stars": 3,
-    "updated_at": "2026-09-19T07:28:39Z",
-    "url": "https://github.com/YV3507/rubbish"
   }
 ]
