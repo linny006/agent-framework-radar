@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6287,
+    "updated_at": "2026-09-19T00:27:27Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 55,
+    "updated_at": "2026-09-19T00:25:43Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
+    "id": "logandoo/weave-thinker",
+    "language": "Python",
+    "name": "logandoo/weave-thinker",
+    "stars": 4,
+    "updated_at": "2026-09-19T00:24:15Z",
+    "url": "https://github.com/logandoo/weave-thinker"
+  },
+  {
+    "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
+    "id": "api-evangelist/autogen-studio",
+    "language": "\u2014",
+    "name": "api-evangelist/autogen-studio",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:20:51Z",
+    "url": "https://github.com/api-evangelist/autogen-studio"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2146,
+    "updated_at": "2026-09-19T00:20:37Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10084,
+    "updated_at": "2026-09-19T00:24:49Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Fast branch decisions for AI agent harnesses",
+    "id": "henstarr/JBrancher",
+    "language": "JavaScript",
+    "name": "henstarr/JBrancher",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:19:36Z",
+    "url": "https://github.com/henstarr/JBrancher"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 4,
+    "updated_at": "2026-09-19T00:23:43Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-09-19T00:17:13Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20034,
+    "updated_at": "2026-09-19T00:24:10Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-19T00:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
     "id": "openamer/openamer",
     "language": "Python",
@@ -9,15 +108,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 4,
-    "updated_at": "2026-09-19T00:12:50Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
     "description": "Budget-aware LLM agent runtime + cost/quality benchmark. Zero runtime dependencies, offline-testable, auditable runs.",
     "id": "Kobelyww/ballast",
     "language": "Python",
@@ -25,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T00:12:27Z",
     "url": "https://github.com/Kobelyww/ballast"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20034,
-    "updated_at": "2026-09-19T00:12:09Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Self-hosted AI agent platform \u2014 \u81ea\u6258\u7ba1AI Agent\u667a\u80fd\u4f53\u5e73\u53f0",
-    "id": "logandoo/weave-thinker",
-    "language": "Python",
-    "name": "logandoo/weave-thinker",
-    "stars": 4,
-    "updated_at": "2026-09-19T00:09:53Z",
-    "url": "https://github.com/logandoo/weave-thinker"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2146,
-    "updated_at": "2026-09-19T00:08:45Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
@@ -90,15 +153,6 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-19T00:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 299,
-    "updated_at": "2026-09-18T23:51:14Z",
+    "updated_at": "2026-09-19T00:23:54Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T23:45:02Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Fast branch decisions for AI agent harnesses",
-    "id": "henstarr/JBrancher",
-    "language": "JavaScript",
-    "name": "henstarr/JBrancher",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:44:50Z",
-    "url": "https://github.com/henstarr/JBrancher"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -216,15 +261,6 @@
     "url": "https://github.com/matiasinsaurralde/rimeno"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10084,
-    "updated_at": "2026-09-19T00:09:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-09-19T00:04:38Z",
+    "updated_at": "2026-09-19T00:17:20Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T23:24:36Z",
     "url": "https://github.com/lysy01528-hash/dkyj-director"
-  },
-  {
-    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:22:56Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T23:05:46Z",
     "url": "https://github.com/Internationaleundset619/OpenDsStar"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:05:11Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-09-18T23:01:21Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:00:25Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
   }
 ]
