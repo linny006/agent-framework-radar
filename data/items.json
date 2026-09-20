@@ -1,11 +1,92 @@
 [
   {
+    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:14:07Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 55,
+    "updated_at": "2026-09-20T01:13:17Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 73,
+    "updated_at": "2026-09-20T01:13:05Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 1516,
+    "updated_at": "2026-09-20T01:12:55Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 70,
+    "updated_at": "2026-09-20T01:12:24Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Self-hosted starting point for agentic projects: agents built from skills and tools, a storage library over your own tab",
+    "id": "islomkhon/CerebrumKit",
+    "language": "Vue",
+    "name": "islomkhon/CerebrumKit",
+    "stars": 0,
+    "updated_at": "2026-09-20T01:09:56Z",
+    "url": "https://github.com/islomkhon/CerebrumKit"
+  },
+  {
+    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
+    "id": "dzhioev/bro",
+    "language": "Python",
+    "name": "dzhioev/bro",
+    "stars": 9,
+    "updated_at": "2026-09-20T01:06:43Z",
+    "url": "https://github.com/dzhioev/bro"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-20T01:06:22Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-20T01:05:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1343,
-    "updated_at": "2026-09-20T01:04:39Z",
+    "updated_at": "2026-09-20T01:11:26Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -36,33 +117,6 @@
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 73,
-    "updated_at": "2026-09-20T01:01:17Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-20T01:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-20T00:59:03Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
     "id": "llm-works/llm-gent",
     "language": "Python",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 111,
-    "updated_at": "2026-09-20T00:54:50Z",
+    "updated_at": "2026-09-20T01:13:03Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T00:49:58Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 70,
-    "updated_at": "2026-09-20T01:01:00Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
@@ -122,7 +167,7 @@
     "language": "Go",
     "name": "go-steer/mast",
     "stars": 1,
-    "updated_at": "2026-09-20T00:45:02Z",
+    "updated_at": "2026-09-20T01:13:06Z",
     "url": "https://github.com/go-steer/mast"
   },
   {
@@ -167,7 +212,7 @@
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 471,
-    "updated_at": "2026-09-20T00:52:55Z",
+    "updated_at": "2026-09-20T01:15:00Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T00:47:23Z",
+    "updated_at": "2026-09-20T01:10:34Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10105,
-    "updated_at": "2026-09-20T01:02:38Z",
+    "updated_at": "2026-09-20T01:09:41Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T23:45:13Z",
     "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-19T23:44:46Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-19T23:44:36Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-09-19T23:43:51Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-19T23:43:43Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-19T23:37:51Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
