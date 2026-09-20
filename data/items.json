@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1343,
+    "updated_at": "2026-09-20T04:44:45Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-20T04:41:57Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "A minimal, bus-driven Python framework for LLM agent orchestration that decouples communication, versioned prompts, and ",
+    "id": "Root1V/synaptum-framework",
+    "language": "Python",
+    "name": "Root1V/synaptum-framework",
+    "stars": 2,
+    "updated_at": "2026-09-20T04:37:31Z",
+    "url": "https://github.com/Root1V/synaptum-framework"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 24,
+    "updated_at": "2026-09-20T04:35:40Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "The AI Agent framework for enterprises and agencies",
+    "id": "frogbotai/frogbot",
+    "language": "TypeScript",
+    "name": "frogbotai/frogbot",
+    "stars": 4,
+    "updated_at": "2026-09-20T04:33:07Z",
+    "url": "https://github.com/frogbotai/frogbot"
+  },
+  {
+    "description": "The open-source software and hardware platform for domain-specific harnesses. Run Claude Code, Codex and every coding ag",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 480,
+    "updated_at": "2026-09-20T04:31:17Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 70,
+    "updated_at": "2026-09-20T04:30:34Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-20T04:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -16,24 +88,6 @@
     "stars": 4,
     "updated_at": "2026-09-20T04:29:01Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "A minimal, bus-driven Python framework for LLM agent orchestration that decouples communication, versioned prompts, and ",
-    "id": "Root1V/synaptum-framework",
-    "language": "Python",
-    "name": "Root1V/synaptum-framework",
-    "stars": 2,
-    "updated_at": "2026-09-20T04:26:49Z",
-    "url": "https://github.com/Root1V/synaptum-framework"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-20T04:26:31Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
@@ -63,20 +117,11 @@
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1343,
-    "updated_at": "2026-09-20T04:20:05Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1531,
+    "stars": 1533,
     "updated_at": "2026-09-20T04:19:14Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T04:18:53Z",
     "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-20T04:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
@@ -115,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-09-20T04:14:23Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "\u53cc\u8fdb\u7a0b\u672c\u5730 AI agent \u7cfb\u7edf\uff1a\u5e38\u9a7b daemon + Textual TUI\uff0cTCP/JSON-RPC \u534f\u8bae\u3001\u5de5\u5177\u7cfb\u7edf\u3001\u6743\u9650\u3001\u4f1a\u8bdd\u4e0e\u4e0a\u4e0b\u6587\u538b\u7f29",
-    "id": "moondream69/MoodCode",
-    "language": "Python",
-    "name": "moondream69/MoodCode",
-    "stars": 0,
-    "updated_at": "2026-09-20T04:10:59Z",
-    "url": "https://github.com/moondream69/MoodCode"
   },
   {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
@@ -160,15 +187,6 @@
     "stars": 111,
     "updated_at": "2026-09-20T04:03:46Z",
     "url": "https://github.com/autopus-ai/autopus-adk"
-  },
-  {
-    "description": "The open-source software and hardware platform for domain-specific harnesses. Run Claude Code, Codex and every coding ag",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 480,
-    "updated_at": "2026-09-20T04:02:29Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T03:46:32Z",
     "url": "https://github.com/Vinger-lee/leap-framework"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 70,
-    "updated_at": "2026-09-20T04:13:49Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 111,
-    "updated_at": "2026-09-20T04:26:56Z",
+    "updated_at": "2026-09-20T04:42:13Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T03:29:44Z",
     "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 24,
-    "updated_at": "2026-09-20T04:15:56Z",
-    "url": "https://github.com/use-brian/use-brian"
   },
   {
     "description": "Universal Agent Harness",
@@ -428,7 +428,7 @@
     "language": "Shell",
     "name": "Bande-a-Bonnot/Boucle-framework",
     "stars": 124,
-    "updated_at": "2026-09-20T03:24:27Z",
+    "updated_at": "2026-09-20T04:38:44Z",
     "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
   },
   {
