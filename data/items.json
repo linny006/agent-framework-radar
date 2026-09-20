@@ -1,5 +1,86 @@
 [
   {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 4,
+    "updated_at": "2026-09-20T06:11:59Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 6,
+    "updated_at": "2026-09-20T06:11:26Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-09-20T06:09:49Z",
+    "url": "https://github.com/delivstat/swarmkit"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 144,
+    "updated_at": "2026-09-20T06:09:20Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 233,
+    "updated_at": "2026-09-20T06:07:37Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
+    "id": "aloth/awesome-ai-agents",
+    "language": "\u2014",
+    "name": "aloth/awesome-ai-agents",
+    "stars": 49,
+    "updated_at": "2026-09-20T06:06:03Z",
+    "url": "https://github.com/aloth/awesome-ai-agents"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-20T06:04:47Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 24,
+    "updated_at": "2026-09-20T06:04:38Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-20T06:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
     "id": "yangwhale/CloseCrab",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/yangwhale/CloseCrab"
   },
   {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-20T05:55:46Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48375,
+    "updated_at": "2026-09-20T05:56:36Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T05:57:35Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 4,
-    "updated_at": "2026-09-20T05:58:34Z",
-    "url": "https://github.com/fworks-tech/agenthood"
   },
   {
     "description": "\u2728 Intelligent, adaptive multi-agent orchestration & deterministic zero-cost telemetry engine for Codex with native macOS",
@@ -52,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T05:53:16Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48374,
-    "updated_at": "2026-09-20T05:56:36Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-09-20T05:54:08Z",
-    "url": "https://github.com/delivstat/swarmkit"
   },
   {
     "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
@@ -117,15 +171,6 @@
     "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-20T05:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T05:40:22Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-09-20T05:39:35Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
@@ -225,15 +261,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 233,
-    "updated_at": "2026-09-20T05:35:25Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -241,15 +268,6 @@
     "stars": 15,
     "updated_at": "2026-09-20T05:33:39Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 144,
-    "updated_at": "2026-09-20T05:54:39Z",
-    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "getsynkora/synkora-ai",
     "stars": 34,
-    "updated_at": "2026-09-20T05:29:54Z",
+    "updated_at": "2026-09-20T06:08:52Z",
     "url": "https://github.com/getsynkora/synkora-ai"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 1539,
-    "updated_at": "2026-09-20T05:19:36Z",
+    "updated_at": "2026-09-20T06:09:07Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -427,26 +445,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35637,
+    "stars": 35636,
     "updated_at": "2026-09-20T05:17:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Lightweight AI coding agent for the terminal, with one-shot automation, persistent agent teams, and a small reusable Ope",
-    "id": "Azzurroooo/rind",
-    "language": "Python",
-    "name": "Azzurroooo/rind",
-    "stars": 37,
-    "updated_at": "2026-09-20T05:16:32Z",
-    "url": "https://github.com/Azzurroooo/rind"
-  },
-  {
-    "description": "The open-source software and hardware platform for domain-specific harnesses. Run Claude Code, Codex and every coding ag",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 482,
-    "updated_at": "2026-09-20T05:16:06Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   }
 ]
