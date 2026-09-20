@@ -1,11 +1,29 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1343,
+    "updated_at": "2026-09-20T06:14:43Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 5,
+    "updated_at": "2026-09-20T06:12:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
     "id": "fworks-tech/agenthood",
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 4,
-    "updated_at": "2026-09-20T06:11:59Z",
+    "updated_at": "2026-09-20T06:14:56Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-09-20T06:09:49Z",
+    "updated_at": "2026-09-20T06:14:14Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 24,
     "updated_at": "2026-09-20T06:04:38Z",
     "url": "https://github.com/use-brian/use-brian"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 5,
-    "updated_at": "2026-09-20T06:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
@@ -439,14 +448,5 @@
     "stars": 1539,
     "updated_at": "2026-09-20T06:09:07Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35636,
-    "updated_at": "2026-09-20T05:17:51Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   }
 ]
