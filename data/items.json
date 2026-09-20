@@ -1,5 +1,68 @@
 [
   {
+    "description": "Ecogent is a local-first, workflow-driven multi-agent architecture designed to minimize cloud LLM API costs through pers",
+    "id": "samratpro/Ecogent",
+    "language": "TeX",
+    "name": "samratpro/Ecogent",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:45:42Z",
+    "url": "https://github.com/samratpro/Ecogent"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 4,
+    "updated_at": "2026-09-20T22:45:34Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Fast branch decisions for AI agent harnesses",
+    "id": "henstarr/JBrancher",
+    "language": "JavaScript",
+    "name": "henstarr/JBrancher",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:45:14Z",
+    "url": "https://github.com/henstarr/JBrancher"
+  },
+  {
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+    "id": "NirDiamant/agents-towards-production",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/agents-towards-production",
+    "stars": 21482,
+    "updated_at": "2026-09-20T22:44:57Z",
+    "url": "https://github.com/NirDiamant/agents-towards-production"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-09-20T22:41:49Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2161,
+    "updated_at": "2026-09-20T22:35:03Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-20T22:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -14,34 +77,16 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T22:27:13Z",
+    "updated_at": "2026-09-20T22:41:39Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-20T22:24:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Fast branch decisions for AI agent harnesses",
-    "id": "henstarr/JBrancher",
-    "language": "JavaScript",
-    "name": "henstarr/JBrancher",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:23:22Z",
-    "url": "https://github.com/henstarr/JBrancher"
   },
   {
     "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
     "id": "autonomous-ai/openharness",
     "language": "C",
     "name": "autonomous-ai/openharness",
-    "stars": 522,
-    "updated_at": "2026-09-20T22:22:57Z",
+    "stars": 523,
+    "updated_at": "2026-09-20T22:32:34Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -52,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T22:22:01Z",
     "url": "https://github.com/lucasmailland/orchester"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2161,
-    "updated_at": "2026-09-20T22:20:27Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "",
-    "id": "hrabanazviking/hrabanazviking",
-    "language": "\u2014",
-    "name": "hrabanazviking/hrabanazviking",
-    "stars": 4,
-    "updated_at": "2026-09-20T22:19:08Z",
-    "url": "https://github.com/hrabanazviking/hrabanazviking"
   },
   {
     "description": "Claude Code | Codex plugin for React Native \u2014 explores codebases, designs architecture, implements features and QA the c",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-20T22:26:38Z",
+    "updated_at": "2026-09-20T22:41:50Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 35649,
     "updated_at": "2026-09-20T21:30:08Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:29:08Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-20T21:28:30Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-09-20T21:27:58Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
   }
 ]
