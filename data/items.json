@@ -1,12 +1,21 @@
 [
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 73,
-    "updated_at": "2026-09-21T00:14:23Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 233,
+    "updated_at": "2026-09-21T00:21:01Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-09-21T00:19:01Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
     "description": "Fast branch decisions for AI agent harnesses",
@@ -14,8 +23,35 @@
     "language": "JavaScript",
     "name": "henstarr/JBrancher",
     "stars": 0,
-    "updated_at": "2026-09-21T00:12:53Z",
+    "updated_at": "2026-09-21T00:18:51Z",
     "url": "https://github.com/henstarr/JBrancher"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35652,
+    "updated_at": "2026-09-21T00:15:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T00:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 73,
+    "updated_at": "2026-09-21T00:14:23Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "ZJU-REAL/HugAgentOS",
     "stars": 1109,
-    "updated_at": "2026-09-21T00:08:31Z",
+    "updated_at": "2026-09-21T00:20:40Z",
     "url": "https://github.com/ZJU-REAL/HugAgentOS"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T00:01:10Z",
     "url": "https://github.com/lifishard/wickrunAI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-21T00:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A file-backed operating model for AI agents: explicit authority, scoped workflows, context routing, source discipline, v",
@@ -178,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-09-20T23:44:12Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35651,
-    "updated_at": "2026-09-20T23:44:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -369,15 +387,6 @@
     "url": "https://github.com/Bohra-Nitin/AgentManager"
   },
   {
-    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-09-20T23:32:03Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
     "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
     "id": "autonomous-ai/openharness",
     "language": "C",
@@ -418,7 +427,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 173,
+    "stars": 174,
     "updated_at": "2026-09-20T23:24:32Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T23:23:26Z",
     "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "\ud83e\udd16 Build stateful AI agents with PostgreSQL persistence and support for long-context operations using AgentPG, powered by",
-    "id": "yassineelfakiri/agentpg",
-    "language": "Go",
-    "name": "yassineelfakiri/agentpg",
-    "stars": 0,
-    "updated_at": "2026-09-20T23:20:56Z",
-    "url": "https://github.com/yassineelfakiri/agentpg"
   }
 ]
