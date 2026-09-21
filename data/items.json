@@ -1,21 +1,111 @@
 [
   {
-    "description": "Agent context compressor and memory persistent orchestration",
-    "id": "wmcmahan/cycgraph",
-    "language": "TypeScript",
-    "name": "wmcmahan/cycgraph",
-    "stars": 3,
-    "updated_at": "2026-09-21T19:30:08Z",
-    "url": "https://github.com/wmcmahan/cycgraph"
+    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
+    "id": "klarlabs-studio/nomi",
+    "language": "Go",
+    "name": "klarlabs-studio/nomi",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:45:03Z",
+    "url": "https://github.com/klarlabs-studio/nomi"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7394,
-    "updated_at": "2026-09-21T19:27:33Z",
+    "stars": 7397,
+    "updated_at": "2026-09-21T19:44:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 303,
+    "updated_at": "2026-09-21T19:41:41Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Agentic AI Harness Library for Local LLMs",
+    "id": "SideDevEC/ECAssistantCore",
+    "language": "C#",
+    "name": "SideDevEC/ECAssistantCore",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:40:22Z",
+    "url": "https://github.com/SideDevEC/ECAssistantCore"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6304,
+    "updated_at": "2026-09-21T19:39:19Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
+    "id": "gabazureus/gasclaw",
+    "language": "TypeScript",
+    "name": "gabazureus/gasclaw",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:38:43Z",
+    "url": "https://github.com/gabazureus/gasclaw"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/tektonix",
+    "language": "Python",
+    "name": "DJG3DK/tektonix",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:38:32Z",
+    "url": "https://github.com/DJG3DK/tektonix"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-09-21T19:36:40Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:33:45Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 56,
+    "updated_at": "2026-09-21T19:32:11Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T19:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent context compressor and memory persistent orchestration",
+    "id": "wmcmahan/cycgraph",
+    "language": "TypeScript",
+    "name": "wmcmahan/cycgraph",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:32:42Z",
+    "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
     "description": "Embodied AI agents runtime",
@@ -27,13 +117,13 @@
     "url": "https://github.com/LamantinAI/octo"
   },
   {
-    "description": "Local-first, state-driven AI agent platform. Plan-review before execution, capability-gated tools, BYO LLM (Ollama / Ant",
-    "id": "klarlabs-studio/nomi",
-    "language": "Go",
-    "name": "klarlabs-studio/nomi",
-    "stars": 0,
-    "updated_at": "2026-09-21T19:29:53Z",
-    "url": "https://github.com/klarlabs-studio/nomi"
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13694,
+    "updated_at": "2026-09-21T19:24:45Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
@@ -59,7 +149,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-21T19:19:10Z",
+    "updated_at": "2026-09-21T19:32:21Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -70,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T19:16:18Z",
     "url": "https://github.com/aequitas-labs/lobstah"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-21T19:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/tektonix",
-    "language": "Python",
-    "name": "DJG3DK/tektonix",
-    "stars": 3,
-    "updated_at": "2026-09-21T19:12:25Z",
-    "url": "https://github.com/DJG3DK/tektonix"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -153,15 +225,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
-    "id": "gabazureus/gasclaw",
-    "language": "TypeScript",
-    "name": "gabazureus/gasclaw",
-    "stars": 0,
-    "updated_at": "2026-09-21T19:00:06Z",
-    "url": "https://github.com/gabazureus/gasclaw"
-  },
-  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -189,15 +252,6 @@
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 56,
-    "updated_at": "2026-09-21T18:52:13Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -205,6 +259,15 @@
     "stars": 2318,
     "updated_at": "2026-09-21T18:51:30Z",
     "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1431,
+    "updated_at": "2026-09-21T18:48:45Z",
+    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48459,
-    "updated_at": "2026-09-21T19:02:08Z",
+    "updated_at": "2026-09-21T19:33:40Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -292,7 +355,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35662,
+    "stars": 35663,
     "updated_at": "2026-09-21T18:37:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -360,15 +423,6 @@
     "url": "https://github.com/vmy41/agent-harness"
   },
   {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6304,
-    "updated_at": "2026-09-21T19:27:52Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 306,
     "updated_at": "2026-09-21T18:23:57Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:21:03Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Agentic AI Harness Library for Local LLMs",
-    "id": "SideDevEC/ECAssistantCore",
-    "language": "C#",
-    "name": "SideDevEC/ECAssistantCore",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:20:17Z",
-    "url": "https://github.com/SideDevEC/ECAssistantCore"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:18:38Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:18:22Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:14:31Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
-  },
-  {
-    "description": "Orchestrate Claude, Codex, and Gemini CLIs with automatic failover and shared context for reliable terminal-based AI wor",
-    "id": "counterplaybloodtest96/agent-orchestrator",
-    "language": "\u2014",
-    "name": "counterplaybloodtest96/agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:14:26Z",
-    "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   }
 ]
