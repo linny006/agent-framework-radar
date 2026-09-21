@@ -1,11 +1,83 @@
 [
   {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 73,
+    "updated_at": "2026-09-21T00:14:23Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Fast branch decisions for AI agent harnesses",
+    "id": "henstarr/JBrancher",
+    "language": "JavaScript",
+    "name": "henstarr/JBrancher",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:12:53Z",
+    "url": "https://github.com/henstarr/JBrancher"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:12:56Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 1109,
+    "updated_at": "2026-09-21T00:08:31Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
+    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
+    "id": "gabazureus/gasclaw",
+    "language": "TypeScript",
+    "name": "gabazureus/gasclaw",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:07:54Z",
+    "url": "https://github.com/gabazureus/gasclaw"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 41,
+    "updated_at": "2026-09-21T00:05:49Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-09-21T00:01:10Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T00:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A file-backed operating model for AI agents: explicit authority, scoped workflows, context routing, source discipline, v",
     "id": "laurenzpavlosmalisianos/master-prompt-agreement",
     "language": "Python",
     "name": "laurenzpavlosmalisianos/master-prompt-agreement",
     "stars": 0,
-    "updated_at": "2026-09-20T23:59:43Z",
+    "updated_at": "2026-09-21T00:00:24Z",
     "url": "https://github.com/laurenzpavlosmalisianos/master-prompt-agreement"
   },
   {
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T23:58:15Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
-    "id": "lifishard/wickrunAI",
-    "language": "JavaScript",
-    "name": "lifishard/wickrunAI",
-    "stars": 0,
-    "updated_at": "2026-09-20T23:57:59Z",
-    "url": "https://github.com/lifishard/wickrunAI"
-  },
-  {
-    "description": "Fast branch decisions for AI agent harnesses",
-    "id": "henstarr/JBrancher",
-    "language": "JavaScript",
-    "name": "henstarr/JBrancher",
-    "stars": 0,
-    "updated_at": "2026-09-20T23:57:19Z",
-    "url": "https://github.com/henstarr/JBrancher"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -81,6 +135,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 1581,
+    "updated_at": "2026-09-20T23:51:24Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
     "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
     "id": "lottieepigastric889/lucky-block-script-hub",
     "language": "HTML",
@@ -99,15 +162,6 @@
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
   },
   {
-    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
-    "id": "gabazureus/gasclaw",
-    "language": "TypeScript",
-    "name": "gabazureus/gasclaw",
-    "stars": 0,
-    "updated_at": "2026-09-20T23:49:53Z",
-    "url": "https://github.com/gabazureus/gasclaw"
-  },
-  {
     "description": "Automate multi-stage code deployments and error fixes directly within your Cursor IDE terminal.",
     "id": "salvatoreabient793/cursor-auto-deployment-agent",
     "language": "\u2014",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T23:45:32Z",
     "url": "https://github.com/salvatoreabient793/cursor-auto-deployment-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-20T23:45:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-20T23:56:11Z",
+    "updated_at": "2026-09-21T00:06:58Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -338,7 +383,7 @@
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 524,
-    "updated_at": "2026-09-20T23:30:38Z",
+    "updated_at": "2026-09-21T00:15:12Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T23:20:56Z",
     "url": "https://github.com/yassineelfakiri/agentpg"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance workflows with a high-performance orchestration engine for routing tasks across LLMs, SLMs, and custom agents ",
-    "id": "q-j0k/sprintloop-orchestration",
-    "language": "\u2014",
-    "name": "q-j0k/sprintloop-orchestration",
-    "stars": 1,
-    "updated_at": "2026-09-20T23:19:52Z",
-    "url": "https://github.com/q-j0k/sprintloop-orchestration"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 1,
-    "updated_at": "2026-09-20T23:16:15Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "\ud83d\udd0c Simplify PostgreSQL interactions with a secure MCP server for LLMs, enabling efficient access to schemas, tables, and ",
-    "id": "s2mgtvodois2/postgresql-mcp-js",
-    "language": "TypeScript",
-    "name": "s2mgtvodois2/postgresql-mcp-js",
-    "stars": 1,
-    "updated_at": "2026-09-20T23:13:50Z",
-    "url": "https://github.com/s2mgtvodois2/postgresql-mcp-js"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-09-20T23:12:58Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "MCP server for n8n workflow management -- view, create, sync, and manage n8n workflows via AI assistants",
-    "id": "ellmos-ai/n8n-manager-mcp",
-    "language": "TypeScript",
-    "name": "ellmos-ai/n8n-manager-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-20T23:11:17Z",
-    "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
   }
 ]
