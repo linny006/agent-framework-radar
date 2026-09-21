@@ -1,12 +1,12 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10139,
-    "updated_at": "2026-09-21T22:29:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "vstorm-co/agenticos",
+    "stars": 45,
+    "updated_at": "2026-09-21T22:45:13Z",
+    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 18,
-    "updated_at": "2026-09-21T22:29:26Z",
+    "updated_at": "2026-09-21T22:44:10Z",
     "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-21T22:43:14Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "VE Harness \u2014 run Claude Code for hours without babysitting it. A hosted task board that survives the session, hooks that",
+    "id": "HuntsDesk/ve-kit",
+    "language": "Python",
+    "name": "HuntsDesk/ve-kit",
+    "stars": 2,
+    "updated_at": "2026-09-21T22:42:02Z",
+    "url": "https://github.com/HuntsDesk/ve-kit"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-21T22:45:01Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7412,
+    "updated_at": "2026-09-21T22:40:16Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-09-21T22:37:54Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
     "description": "Agentic AI Harness Library for Local LLMs",
@@ -23,17 +68,53 @@
     "language": "C#",
     "name": "SideDevEC/ECAssistantCore",
     "stars": 0,
-    "updated_at": "2026-09-21T22:26:49Z",
+    "updated_at": "2026-09-21T22:36:41Z",
     "url": "https://github.com/SideDevEC/ECAssistantCore"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7410,
-    "updated_at": "2026-09-21T22:26:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "pydantic/pydantic-ai",
+    "stars": 20104,
+    "updated_at": "2026-09-21T22:36:36Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 19,
+    "updated_at": "2026-09-21T22:37:38Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-09-21T22:32:48Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T22:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10139,
+    "updated_at": "2026-09-21T22:40:34Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -45,15 +126,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-21T22:23:02Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -61,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T22:16:56Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-21T22:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20103,
-    "updated_at": "2026-09-21T22:29:08Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
@@ -97,15 +151,6 @@
     "stars": 303,
     "updated_at": "2026-09-21T22:11:48Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-21T22:08:29Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -167,17 +212,8 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 9,
-    "updated_at": "2026-09-21T22:07:40Z",
+    "updated_at": "2026-09-21T22:33:11Z",
     "url": "https://github.com/dzhioev/bro"
-  },
-  {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 19,
-    "updated_at": "2026-09-21T21:56:03Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
     "description": "Production-ready FastAPI + Agno gateway for serving AI agents \u2014 agents, teams, supervisor execution, skills, knowledge b",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "liberzon/agents-gateway",
     "stars": 4,
-    "updated_at": "2026-09-21T22:29:33Z",
+    "updated_at": "2026-09-21T22:42:42Z",
     "url": "https://github.com/liberzon/agents-gateway"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T21:23:24Z",
     "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-09-21T21:23:10Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-09-21T21:20:37Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-09-21T21:19:39Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "HTML",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-09-21T21:19:35Z",
-    "url": "https://github.com/Arasz/ai-badger"
   }
 ]
