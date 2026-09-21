@@ -1,11 +1,119 @@
 [
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2318,
+    "updated_at": "2026-09-21T16:56:45Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7389,
+    "updated_at": "2026-09-21T16:59:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 748,
+    "updated_at": "2026-09-21T16:54:20Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:53:02Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13691,
+    "updated_at": "2026-09-21T16:51:48Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "A durable, long-running AI engineering partner.",
+    "id": "damonleelcx/J.A.R.V.I.S.-agent",
+    "language": "Go",
+    "name": "damonleelcx/J.A.R.V.I.S.-agent",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:55:36Z",
+    "url": "https://github.com/damonleelcx/J.A.R.V.I.S.-agent"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20094,
+    "updated_at": "2026-09-21T16:50:38Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 144,
+    "updated_at": "2026-09-21T16:49:36Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-21T16:51:03Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
+    "id": "gabazureus/gasclaw",
+    "language": "TypeScript",
+    "name": "gabazureus/gasclaw",
+    "stars": 0,
+    "updated_at": "2026-09-21T16:48:11Z",
+    "url": "https://github.com/gabazureus/gasclaw"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 14,
+    "updated_at": "2026-09-21T16:46:21Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T16:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "id": "ag2ai/ag2",
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4945,
-    "updated_at": "2026-09-21T16:41:57Z",
+    "updated_at": "2026-09-21T16:56:00Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "bryansparks/armature",
     "stars": 9,
-    "updated_at": "2026-09-21T16:41:11Z",
+    "updated_at": "2026-09-21T16:58:13Z",
     "url": "https://github.com/bryansparks/armature"
   },
   {
@@ -25,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T16:39:44Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
-    "id": "gabazureus/gasclaw",
-    "language": "TypeScript",
-    "name": "gabazureus/gasclaw",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:38:46Z",
-    "url": "https://github.com/gabazureus/gasclaw"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T16:36:34Z",
     "url": "https://github.com/SeupLio/ai-npc-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-21T16:36:32Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -212,7 +302,7 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 8,
-    "updated_at": "2026-09-21T16:19:39Z",
+    "updated_at": "2026-09-21T16:59:18Z",
     "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
@@ -252,15 +342,6 @@
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   },
   {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13690,
-    "updated_at": "2026-09-21T16:24:06Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
     "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
     "id": "berrettabadger966/genesis-pantheon",
     "language": "Python",
@@ -277,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T16:09:26Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-21T16:10:10Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -342,15 +414,6 @@
     "url": "https://github.com/counterplaybloodtest96/agent-orchestrator"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7389,
-    "updated_at": "2026-09-21T16:05:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Build an open-source DS-Star agent with tool-based planning, modular execution, and efficient workflows for code, APIs, ",
     "id": "Internationaleundset619/OpenDsStar",
     "language": "Python",
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-21T16:38:37Z",
+    "updated_at": "2026-09-21T16:58:24Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 303,
-    "updated_at": "2026-09-21T16:36:49Z",
+    "updated_at": "2026-09-21T16:58:30Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35660,
-    "updated_at": "2026-09-21T16:00:38Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:00:21Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-09-21T16:00:06Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "High-autonomy config for opencode: ship features end-to-end with one command. 5 models, 5 families, zero interruptions.",
-    "id": "vocino/opencode-autonomy",
-    "language": "TypeScript",
-    "name": "vocino/opencode-autonomy",
-    "stars": 4,
-    "updated_at": "2026-09-21T15:58:38Z",
-    "url": "https://github.com/vocino/opencode-autonomy"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 14,
-    "updated_at": "2026-09-21T16:27:54Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-09-21T15:56:31Z",
-    "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "VE Harness \u2014 run Claude Code for hours without babysitting it. A hosted task board that survives the session, hooks that",
-    "id": "HuntsDesk/ve-kit",
-    "language": "Python",
-    "name": "HuntsDesk/ve-kit",
-    "stars": 2,
-    "updated_at": "2026-09-21T15:55:26Z",
-    "url": "https://github.com/HuntsDesk/ve-kit"
   }
 ]
