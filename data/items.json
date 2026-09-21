@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-09-21T10:59:54Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "The agent loop where decisions don't cost a large language model call. Zero deps, runs offline, no API key needed.",
+    "id": "zjunlp/JevLoop",
+    "language": "TypeScript",
+    "name": "zjunlp/JevLoop",
+    "stars": 8,
+    "updated_at": "2026-09-21T10:59:48Z",
+    "url": "https://github.com/zjunlp/JevLoop"
+  },
+  {
+    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
+    "id": "gabazureus/gasclaw",
+    "language": "TypeScript",
+    "name": "gabazureus/gasclaw",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:58:34Z",
+    "url": "https://github.com/gabazureus/gasclaw"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-21T10:57:09Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15360,
+    "updated_at": "2026-09-21T10:56:01Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-21T10:58:35Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 28,
+    "updated_at": "2026-09-21T10:54:28Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+    "id": "NirDiamant/agents-towards-production",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/agents-towards-production",
+    "stars": 21482,
+    "updated_at": "2026-09-21T10:54:17Z",
+    "url": "https://github.com/NirDiamant/agents-towards-production"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-09-21T10:53:53Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2167,
+    "updated_at": "2026-09-21T10:56:41Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-21T10:49:04Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 535,
+    "updated_at": "2026-09-21T10:47:47Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
+    "id": "StateKnot/StateKnot",
+    "language": "Rust",
+    "name": "StateKnot/StateKnot",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:47:38Z",
+    "url": "https://github.com/StateKnot/StateKnot"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/tektonix",
+    "language": "Python",
+    "name": "DJG3DK/tektonix",
+    "stars": 3,
+    "updated_at": "2026-09-21T10:46:32Z",
+    "url": "https://github.com/DJG3DK/tektonix"
+  },
+  {
+    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
+    "id": "franktsaodev/Frank-AI-Agent",
+    "language": "Python",
+    "name": "franktsaodev/Frank-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-21T10:45:52Z",
+    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T10:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
@@ -23,35 +167,8 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 42,
-    "updated_at": "2026-09-21T10:44:29Z",
+    "updated_at": "2026-09-21T10:52:21Z",
     "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15359,
-    "updated_at": "2026-09-21T10:43:36Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-21T10:43:08Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2167,
-    "updated_at": "2026-09-21T10:42:57Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
@@ -63,24 +180,6 @@
     "url": "https://github.com/vincemakes/kiso"
   },
   {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-09-21T10:42:56Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 28,
-    "updated_at": "2026-09-21T10:40:48Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Open-source harness for long-horizon agent work, with inspectable results and feedback-driven expert squads.",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -88,15 +187,6 @@
     "stars": 303,
     "updated_at": "2026-09-21T10:42:18Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 535,
-    "updated_at": "2026-09-21T10:40:12Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
@@ -117,21 +207,12 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "The first agent framework that runs entirely inside Google Apps Script. Each agent is a Google Drive folder of markdown ",
-    "id": "gabazureus/gasclaw",
-    "language": "TypeScript",
-    "name": "gabazureus/gasclaw",
-    "stars": 0,
-    "updated_at": "2026-09-21T10:38:17Z",
-    "url": "https://github.com/gabazureus/gasclaw"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10130,
-    "updated_at": "2026-09-21T10:37:13Z",
+    "updated_at": "2026-09-21T10:56:29Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -207,24 +288,6 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 52,
-    "updated_at": "2026-09-21T10:29:44Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
-    "id": "franktsaodev/Frank-AI-Agent",
-    "language": "Python",
-    "name": "franktsaodev/Frank-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T10:28:55Z",
-    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
-  },
-  {
     "description": "My personal multi agent lead generation assistant.",
     "id": "NoxelS/malg",
     "language": "Python",
@@ -283,27 +346,9 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1659,
+    "stars": 1666,
     "updated_at": "2026-09-21T10:09:05Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-21T10:08:58Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The agent loop where decisions don't cost a large language model call. Zero deps, runs offline, no API key needed.",
-    "id": "zjunlp/JevLoop",
-    "language": "TypeScript",
-    "name": "zjunlp/JevLoop",
-    "stars": 8,
-    "updated_at": "2026-09-21T10:06:58Z",
-    "url": "https://github.com/zjunlp/JevLoop"
   },
   {
     "description": "DeepSeek Harness \u684c\u9762\u58f3 \u2014\u2014 \u5185\u5d4c Web UI\u3001\u81ea\u52a8\u4fdd\u6301\u6700\u65b0\u5f15\u64ce\u3001\u81ea\u5e26\u6570\u636e\u76ee\u5f55\u7ba1\u7406\u4e0e\u7cfb\u7edf\u6258\u76d8\u3002",
@@ -331,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T09:59:35Z",
     "url": "https://github.com/lysy01528-hash/dkyj-director"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-21T09:58:54Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
@@ -412,41 +448,5 @@
     "stars": 13672,
     "updated_at": "2026-09-21T09:52:54Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:48:31Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:46:54Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:46:48Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:46:45Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
