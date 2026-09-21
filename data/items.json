@@ -1,66 +1,12 @@
 [
   {
-    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
-    "id": "HCF-STUDIOS/openhermit",
-    "language": "TypeScript",
-    "name": "HCF-STUDIOS/openhermit",
-    "stars": 83,
-    "updated_at": "2026-09-21T03:59:34Z",
-    "url": "https://github.com/HCF-STUDIOS/openhermit"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-09-21T03:59:31Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:59:15Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
-    "id": "retrychx/agentia",
-    "language": "TypeScript",
-    "name": "retrychx/agentia",
-    "stars": 3,
-    "updated_at": "2026-09-21T03:58:40Z",
-    "url": "https://github.com/retrychx/agentia"
-  },
-  {
     "description": "Self-forging agent framework: an agent that designs, verifies and repairs its own tools. Includes the independent validi",
     "id": "ZhangYangyi03/autoforge",
     "language": "Python",
     "name": "ZhangYangyi03/autoforge",
     "stars": 0,
-    "updated_at": "2026-09-21T03:56:42Z",
+    "updated_at": "2026-09-21T04:15:16Z",
     "url": "https://github.com/ZhangYangyi03/autoforge"
-  },
-  {
-    "description": "Fast branch decisions for AI agent harnesses",
-    "id": "henstarr/JBrancher",
-    "language": "JavaScript",
-    "name": "henstarr/JBrancher",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:52:01Z",
-    "url": "https://github.com/henstarr/JBrancher"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-21T03:51:57Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
@@ -68,8 +14,89 @@
     "language": "Swift",
     "name": "ayman3000/SwiftAgentKit",
     "stars": 1,
-    "updated_at": "2026-09-21T03:51:14Z",
+    "updated_at": "2026-09-21T04:14:48Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "Fast branch decisions for AI agent harnesses",
+    "id": "henstarr/JBrancher",
+    "language": "JavaScript",
+    "name": "henstarr/JBrancher",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:14:01Z",
+    "url": "https://github.com/henstarr/JBrancher"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:12:48Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
+    "id": "usetheokit/theokit",
+    "language": "TypeScript",
+    "name": "usetheokit/theokit",
+    "stars": 5,
+    "updated_at": "2026-09-21T04:13:50Z",
+    "url": "https://github.com/usetheokit/theokit"
+  },
+  {
+    "description": "The agent loop where decisions don't cost a large language model call. Zero deps, runs offline, no API key needed.",
+    "id": "Xubqpanda/JevLoop",
+    "language": "TypeScript",
+    "name": "Xubqpanda/JevLoop",
+    "stars": 3,
+    "updated_at": "2026-09-21T04:11:01Z",
+    "url": "https://github.com/Xubqpanda/JevLoop"
+  },
+  {
+    "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 528,
+    "updated_at": "2026-09-21T04:13:27Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13635,
+    "updated_at": "2026-09-21T04:08:33Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-21T04:04:27Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "OpenHermit is the open-source platform for deploying fleets of AI agents as production services \u2014 durable state, sandbox",
+    "id": "HCF-STUDIOS/openhermit",
+    "language": "TypeScript",
+    "name": "HCF-STUDIOS/openhermit",
+    "stars": 83,
+    "updated_at": "2026-09-21T04:03:53Z",
+    "url": "https://github.com/HCF-STUDIOS/openhermit"
+  },
+  {
+    "description": "Open-source Python agent harness for auditable, cost-controlled LLM workflows with YAML playbooks and MCP server support",
+    "id": "frangelbarrera/agentic-harness",
+    "language": "Python",
+    "name": "frangelbarrera/agentic-harness",
+    "stars": 7,
+    "updated_at": "2026-09-21T04:03:55Z",
+    "url": "https://github.com/frangelbarrera/agentic-harness"
   },
   {
     "description": "Joy \u2014 a local-first personal assistant. Rust core (loop / memory / tools / graph / evals), TypeScript gateways + dashboa",
@@ -77,17 +104,44 @@
     "language": "Rust",
     "name": "ChrisVip001/joyczl-agent",
     "stars": 1,
-    "updated_at": "2026-09-21T03:50:41Z",
+    "updated_at": "2026-09-21T04:03:04Z",
     "url": "https://github.com/ChrisVip001/joyczl-agent"
   },
   {
-    "description": "The agent loop where decisions don't cost a large language model call. Zero deps, runs offline, no API key needed.",
-    "id": "Xubqpanda/JevLoop",
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-09-21T04:01:26Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-21T04:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-09-21T04:02:02Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
+    "id": "retrychx/agentia",
     "language": "TypeScript",
-    "name": "Xubqpanda/JevLoop",
-    "stars": 2,
-    "updated_at": "2026-09-21T03:49:38Z",
-    "url": "https://github.com/Xubqpanda/JevLoop"
+    "name": "retrychx/agentia",
+    "stars": 3,
+    "updated_at": "2026-09-21T04:15:12Z",
+    "url": "https://github.com/retrychx/agentia"
   },
   {
     "description": "A production-grade Rust framework for building typed, durable, and observable agent systems, with graph workflows and na",
@@ -115,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T03:47:52Z",
     "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-21T03:45:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
@@ -216,21 +261,12 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 527,
-    "updated_at": "2026-09-21T03:54:43Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 302,
-    "updated_at": "2026-09-21T03:44:32Z",
+    "updated_at": "2026-09-21T04:13:50Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10123,
-    "updated_at": "2026-09-21T03:55:13Z",
+    "updated_at": "2026-09-21T04:11:07Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T03:27:24Z",
     "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:26:49Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-09-21T03:25:56Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:24:11Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-09-21T03:23:31Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
   }
 ]
