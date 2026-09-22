@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-22 17:15 UTC
+> ⏰ Last updated: 2026-09-22 17:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [futuregene/future-os](https://github.com/futuregene/future-os) | 97 | Rust | 2026-09-22 | One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core. |
-| 2 | [assafkip/kipi-system](https://github.com/assafkip/kipi-system) | 111 | Python | 2026-09-22 | Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run  |
-| 3 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 124 | Shell | 2026-09-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
-| 4 | [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | 46 | Python | 2026-09-22 | One place to build, run and govern your company's AI agents — skills, context files, MCP at registry scale, automations, |
-| 5 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 13 | Go | 2026-09-22 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
-| 6 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-22 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 7 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 8 | TypeScript | 2026-09-22 | Spec-driven development framework — AI agents that think before they type |
-| 8 | [ChrisVip001/joyczl-agent](https://github.com/ChrisVip001/joyczl-agent) | 1 | Rust | 2026-09-22 | Joy — a local-first personal assistant. Rust core (loop / memory / tools / graph / evals), TypeScript gateways + dashboa |
-| 9 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 15 | Rust | 2026-09-22 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
-| 10 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 18 | Python | 2026-09-22 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
-| 11 | [LeonQin-ai/cognitive-os-agent](https://github.com/LeonQin-ai/cognitive-os-agent) | 2 | C | 2026-09-22 | Cognitive OS Agent Runtime in pure C11 — LLM is the accelerator, not the OS. 认知智能体操作系统：认知内核 · Memory OS · 多智能体编排 · 事务执行  |
-| 12 | [tinyhumansai/tinyagents](https://github.com/tinyhumansai/tinyagents) | 62 | Rust | 2026-09-22 | A small, provider-neutral agent harness written in Rust |
-| 13 | [grainulation/grainulator](https://github.com/grainulation/grainulator) | 86 | JavaScript | 2026-09-22 | Research that compiles. |
-| 14 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 55 | TypeScript | 2026-09-22 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
-| 15 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-09-22 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 16 | [RobertWang4/loom-runtime](https://github.com/RobertWang4/loom-runtime) | 0 | TypeScript | 2026-09-22 | A general-purpose agent runtime in TypeScript: streaming agent loop, dual-protocol model adapters, Zod-typed tools, and  |
-| 17 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-22 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [futuregene/future-os](https://github.com/futuregene/future-os) | 97 | Rust | 2026-09-22 | One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core. |
+| 3 | [assafkip/kipi-system](https://github.com/assafkip/kipi-system) | 111 | Python | 2026-09-22 | Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run  |
+| 4 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 124 | Shell | 2026-09-22 | Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it |
+| 5 | [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | 46 | Python | 2026-09-22 | One place to build, run and govern your company's AI agents — skills, context files, MCP at registry scale, automations, |
+| 6 | [manishiitg/coding-agent-loop](https://github.com/manishiitg/coding-agent-loop) | 13 | Go | 2026-09-22 | AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company. |
+| 7 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-09-22 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 8 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 8 | TypeScript | 2026-09-22 | Spec-driven development framework — AI agents that think before they type |
+| 9 | [ChrisVip001/joyczl-agent](https://github.com/ChrisVip001/joyczl-agent) | 1 | Rust | 2026-09-22 | Joy — a local-first personal assistant. Rust core (loop / memory / tools / graph / evals), TypeScript gateways + dashboa |
+| 10 | [GEMISIS/leviath](https://github.com/GEMISIS/leviath) | 15 | Rust | 2026-09-22 | A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single  |
+| 11 | [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) | 18 | Python | 2026-09-22 | ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses |
+| 12 | [LeonQin-ai/cognitive-os-agent](https://github.com/LeonQin-ai/cognitive-os-agent) | 2 | C | 2026-09-22 | Cognitive OS Agent Runtime in pure C11 — LLM is the accelerator, not the OS. 认知智能体操作系统：认知内核 · Memory OS · 多智能体编排 · 事务执行  |
+| 13 | [tinyhumansai/tinyagents](https://github.com/tinyhumansai/tinyagents) | 62 | Rust | 2026-09-22 | A small, provider-neutral agent harness written in Rust |
+| 14 | [grainulation/grainulator](https://github.com/grainulation/grainulator) | 86 | JavaScript | 2026-09-22 | Research that compiles. |
+| 15 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 55 | TypeScript | 2026-09-22 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
+| 16 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-09-22 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 17 | [RobertWang4/loom-runtime](https://github.com/RobertWang4/loom-runtime) | 0 | TypeScript | 2026-09-22 | A general-purpose agent runtime in TypeScript: streaming agent loop, dual-protocol model adapters, Zod-typed tools, and  |
 | 18 | [ErfanMomeniii/openswarm](https://github.com/ErfanMomeniii/openswarm) | 2 | Python | 2026-09-22 | Multi-agent orchestration framework — design AI teams in YAML, route tasks to cheap or expensive models by role |
 | 19 | [xiejianjun000/eco-agent](https://github.com/xiejianjun000/eco-agent) | 4 | TypeScript | 2026-09-22 | Eco Agent - 五层循环驱动的开源自主 AI 智能体系统 / 持续自我进化 / 多智能体协作 / 8 平台统一网关 |
 | 20 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 2197 | Python | 2026-09-22 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |

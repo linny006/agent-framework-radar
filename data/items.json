@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-22T17:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-22T17:14:49Z",
+    "updated_at": "2026-09-22T17:16:13Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -144,15 +153,6 @@
     "url": "https://github.com/RobertWang4/loom-runtime"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-22T17:01:01Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Multi-agent orchestration framework \u2014 design AI teams in YAML, route tasks to cheap or expensive models by role",
     "id": "ErfanMomeniii/openswarm",
     "language": "Python",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7535,
-    "updated_at": "2026-09-22T16:49:56Z",
+    "updated_at": "2026-09-22T17:15:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13728,
-    "updated_at": "2026-09-22T16:31:38Z",
+    "updated_at": "2026-09-22T17:15:44Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
