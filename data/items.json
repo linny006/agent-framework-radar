@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local-first AI agent workspace: desktop app, CLI, SDK and mobile client on one TypeScript runtime. Bring your own model.",
+    "id": "neoxlabs/OpenNeox",
+    "language": "TypeScript",
+    "name": "neoxlabs/OpenNeox",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:56:37Z",
+    "url": "https://github.com/neoxlabs/OpenNeox"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10140,
+    "updated_at": "2026-09-22T00:55:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:54:48Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-09-22T00:54:29Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A Python agent runtime for dynamic composition, with coherent per-run environments, reactive dependencies, explicit reso",
+    "id": "andreolli-davide/chassis",
+    "language": "Python",
+    "name": "andreolli-davide/chassis",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:49:56Z",
+    "url": "https://github.com/andreolli-davide/chassis"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-09-22T00:49:00Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-22T00:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -23,17 +86,8 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 9,
-    "updated_at": "2026-09-22T00:45:06Z",
+    "updated_at": "2026-09-22T00:47:03Z",
     "url": "https://github.com/dzhioev/bro"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-09-22T00:42:30Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -52,6 +106,15 @@
     "stars": 52,
     "updated_at": "2026-09-22T00:40:48Z",
     "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20106,
+    "updated_at": "2026-09-22T00:40:20Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
@@ -88,15 +151,6 @@
     "stars": 122,
     "updated_at": "2026-09-22T00:32:55Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-22T00:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A compass for autonomous agents, not an operating manual.",
@@ -203,17 +257,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-22T00:25:43Z",
+    "updated_at": "2026-09-22T00:51:24Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "A Python agent runtime for dynamic composition, with coherent per-run environments, reactive dependencies, explicit reso",
-    "id": "andreolli-davide/chassis",
-    "language": "Python",
-    "name": "andreolli-davide/chassis",
-    "stars": 0,
-    "updated_at": "2026-09-22T00:12:50Z",
-    "url": "https://github.com/andreolli-davide/chassis"
   },
   {
     "description": "Follow your curiosity. Build across disciplines. Open-source software and hardware for polymaths in the making.",
@@ -225,31 +270,13 @@
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10140,
-    "updated_at": "2026-09-22T00:44:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 1964,
+    "stars": 1968,
     "updated_at": "2026-09-22T00:09:07Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20105,
-    "updated_at": "2026-09-22T00:40:20Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 6,
-    "updated_at": "2026-09-22T00:06:38Z",
+    "updated_at": "2026-09-22T00:58:58Z",
     "url": "https://github.com/openamer/openamer"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-21T23:24:59Z",
     "url": "https://github.com/DJG3DK/tektonix"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:24:44Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-21T23:24:35Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
-  },
-  {
-    "description": "Build persistent digital lifeforms with local M4 brain, OpenClaw agent, Qwen core, and Git-based memory.",
-    "id": "Markusnigerian562/Project-A-MOS-Framework",
-    "language": "Shell",
-    "name": "Markusnigerian562/Project-A-MOS-Framework",
-    "stars": 2,
-    "updated_at": "2026-09-21T23:23:20Z",
-    "url": "https://github.com/Markusnigerian562/Project-A-MOS-Framework"
   }
 ]
