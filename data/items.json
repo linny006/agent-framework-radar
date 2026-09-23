@@ -1,5 +1,77 @@
 [
   {
+    "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
+    "id": "bzdvdn/reactifact",
+    "language": "Python",
+    "name": "bzdvdn/reactifact",
+    "stars": 3,
+    "updated_at": "2026-09-23T22:26:05Z",
+    "url": "https://github.com/bzdvdn/reactifact"
+  },
+  {
+    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
+    "id": "lafollett-labs/riff",
+    "language": "TypeScript",
+    "name": "lafollett-labs/riff",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:25:03Z",
+    "url": "https://github.com/lafollett-labs/riff"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20132,
+    "updated_at": "2026-09-23T22:26:09Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35700,
+    "updated_at": "2026-09-23T22:25:56Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agentic AI Harness Library for Local LLMs",
+    "id": "SideDevEC/ECAssistantCore",
+    "language": "C#",
+    "name": "SideDevEC/ECAssistantCore",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:20:37Z",
+    "url": "https://github.com/SideDevEC/ECAssistantCore"
+  },
+  {
+    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4405,
+    "updated_at": "2026-09-23T22:20:20Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
+    "id": "macanderson/context-graph-protocol",
+    "language": "Rust",
+    "name": "macanderson/context-graph-protocol",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:22:17Z",
+    "url": "https://github.com/macanderson/context-graph-protocol"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-23T22:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Tool schema and agent friendly defaults",
     "id": "tinyhumansai/tinytools",
     "language": "Rust",
@@ -9,21 +81,12 @@
     "url": "https://github.com/tinyhumansai/tinytools"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20132,
-    "updated_at": "2026-09-23T22:12:11Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10188,
-    "updated_at": "2026-09-23T22:15:09Z",
+    "updated_at": "2026-09-23T22:25:03Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-23T22:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -106,24 +160,6 @@
     "stars": 122,
     "updated_at": "2026-09-23T22:00:18Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4405,
-    "updated_at": "2026-09-23T22:00:47Z",
-    "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Agentic AI Harness Library for Local LLMs",
-    "id": "SideDevEC/ECAssistantCore",
-    "language": "C#",
-    "name": "SideDevEC/ECAssistantCore",
-    "stars": 0,
-    "updated_at": "2026-09-23T21:59:04Z",
-    "url": "https://github.com/SideDevEC/ECAssistantCore"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -193,7 +229,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7813,
+    "stars": 7817,
     "updated_at": "2026-09-23T21:50:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T21:48:55Z",
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35700,
-    "updated_at": "2026-09-23T22:12:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T21:34:59Z",
     "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-09-23T21:34:55Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-23T21:34:23Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/tektonix",
-    "language": "Python",
-    "name": "DJG3DK/tektonix",
-    "stars": 3,
-    "updated_at": "2026-09-23T21:33:56Z",
-    "url": "https://github.com/DJG3DK/tektonix"
   }
 ]
