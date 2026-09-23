@@ -1,11 +1,128 @@
 [
   {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-09-22T23:59:46Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Eco Agent - \u4e94\u5c42\u5faa\u73af\u9a71\u52a8\u7684\u5f00\u6e90\u81ea\u4e3b AI \u667a\u80fd\u4f53\u7cfb\u7edf / \u6301\u7eed\u81ea\u6211\u8fdb\u5316 / \u591a\u667a\u80fd\u4f53\u534f\u4f5c / 8 \u5e73\u53f0\u7edf\u4e00\u7f51\u5173",
+    "id": "xiejianjun000/eco-agent",
+    "language": "TypeScript",
+    "name": "xiejianjun000/eco-agent",
+    "stars": 4,
+    "updated_at": "2026-09-22T23:58:15Z",
+    "url": "https://github.com/xiejianjun000/eco-agent"
+  },
+  {
+    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
+    "id": "doeixd/affe-agent",
+    "language": "TypeScript",
+    "name": "doeixd/affe-agent",
+    "stars": 10,
+    "updated_at": "2026-09-22T23:56:30Z",
+    "url": "https://github.com/doeixd/affe-agent"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 15,
+    "updated_at": "2026-09-22T23:55:49Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2178,
+    "updated_at": "2026-09-22T23:55:40Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 30,
+    "updated_at": "2026-09-22T23:55:22Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 99,
+    "updated_at": "2026-09-22T23:53:47Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 111,
+    "updated_at": "2026-09-22T23:57:42Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-09-22T23:51:04Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:47:45Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
+    "id": "dzhioev/bro",
+    "language": "Python",
+    "name": "dzhioev/bro",
+    "stars": 9,
+    "updated_at": "2026-09-22T23:50:44Z",
+    "url": "https://github.com/dzhioev/bro"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-22T23:45:33Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-22T23:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20119,
-    "updated_at": "2026-09-22T23:43:32Z",
+    "updated_at": "2026-09-22T23:49:51Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -23,17 +140,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10165,
-    "updated_at": "2026-09-22T23:44:03Z",
+    "updated_at": "2026-09-22T23:53:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-22T23:39:55Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -61,15 +169,6 @@
     "stars": 131,
     "updated_at": "2026-09-22T23:38:41Z",
     "url": "https://github.com/AndrewAltimit/template-repo"
-  },
-  {
-    "description": "An Effect-native agent execution kernel: sessions, runs, turns, steering, follow-ups and typed lifecycle events on top o",
-    "id": "doeixd/affe-agent",
-    "language": "TypeScript",
-    "name": "doeixd/affe-agent",
-    "stars": 10,
-    "updated_at": "2026-09-22T23:38:39Z",
-    "url": "https://github.com/doeixd/affe-agent"
   },
   {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
@@ -108,15 +207,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-22T23:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
     "id": "lifishard/wickrunAI",
     "language": "JavaScript",
@@ -131,7 +221,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 80,
-    "updated_at": "2026-09-22T23:42:02Z",
+    "updated_at": "2026-09-22T23:49:20Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 6316,
     "updated_at": "2026-09-22T23:27:47Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 111,
-    "updated_at": "2026-09-22T23:43:38Z",
-    "url": "https://github.com/assafkip/kipi-system"
   },
   {
     "description": "A compass for autonomous agents, not an operating manual.",
@@ -185,7 +266,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-09-22T23:17:48Z",
+    "updated_at": "2026-09-22T23:48:25Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -202,7 +283,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7555,
+    "stars": 7556,
     "updated_at": "2026-09-22T23:14:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -214,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T23:13:22Z",
     "url": "https://github.com/lafollett-labs/riff"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 15,
-    "updated_at": "2026-09-22T23:13:10Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
@@ -243,24 +315,6 @@
     "url": "https://github.com/Ydjin1984/DeepSeek_Kibborg_Harness"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 30,
-    "updated_at": "2026-09-22T23:43:17Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2177,
-    "updated_at": "2026-09-22T23:06:12Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
     "id": "plaited/behavioral",
     "language": "TypeScript",
@@ -279,15 +333,6 @@
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
-    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
-    "id": "dzhioev/bro",
-    "language": "Python",
-    "name": "dzhioev/bro",
-    "stars": 9,
-    "updated_at": "2026-09-22T23:00:15Z",
-    "url": "https://github.com/dzhioev/bro"
-  },
-  {
     "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
     "id": "xmor/ara",
     "language": "Java",
@@ -301,7 +346,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 2263,
+    "stars": 2271,
     "updated_at": "2026-09-22T22:52:25Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -403,50 +448,5 @@
     "stars": 1434,
     "updated_at": "2026-09-22T22:34:40Z",
     "url": "https://github.com/inkeep/agents"
-  },
-  {
-    "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
-    "id": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
-    "language": "\u2014",
-    "name": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:33:18Z",
-    "url": "https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review"
-  },
-  {
-    "description": "Orchestrate hierarchical agents in OpenCode with dependency-aware boards, parallel builders, and evidence-gated completi",
-    "id": "ygudoshnikov-debug/opencode-agent-foundry",
-    "language": "TypeScript",
-    "name": "ygudoshnikov-debug/opencode-agent-foundry",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:33:02Z",
-    "url": "https://github.com/ygudoshnikov-debug/opencode-agent-foundry"
-  },
-  {
-    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
-    "id": "autocatalytic-quartette9513/agent-git",
-    "language": "\u2014",
-    "name": "autocatalytic-quartette9513/agent-git",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:32:46Z",
-    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
-  },
-  {
-    "description": "An agent that makes sense of the world and acts on it",
-    "id": "ghassan-ai-projects/tamoz",
-    "language": "Ruby",
-    "name": "ghassan-ai-projects/tamoz",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:31:52Z",
-    "url": "https://github.com/ghassan-ai-projects/tamoz"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 306,
-    "updated_at": "2026-09-22T22:30:09Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
