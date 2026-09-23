@@ -1,11 +1,119 @@
 [
   {
+    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
+    "id": "plaited/behavioral",
+    "language": "TypeScript",
+    "name": "plaited/behavioral",
+    "stars": 12,
+    "updated_at": "2026-09-23T03:00:09Z",
+    "url": "https://github.com/plaited/behavioral"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2181,
+    "updated_at": "2026-09-23T02:59:40Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-09-23T02:58:49Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:53:00Z",
+    "url": "https://github.com/qyiun666/meowire"
+  },
+  {
+    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
+    "id": "aequitas-labs/lobstah",
+    "language": "TypeScript",
+    "name": "aequitas-labs/lobstah",
+    "stars": 1,
+    "updated_at": "2026-09-23T02:55:57Z",
+    "url": "https://github.com/aequitas-labs/lobstah"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:52:02Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10167,
+    "updated_at": "2026-09-23T02:50:42Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A platform to build, run, and use AI agents \u2014 with a search interface",
+    "id": "Search2o/agent-server",
+    "language": "Python",
+    "name": "Search2o/agent-server",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:51:01Z",
+    "url": "https://github.com/Search2o/agent-server"
+  },
+  {
+    "description": "Give it a company name and a CEO. It founds the company, and the CEO hires the rest \u2014 autonomous agents with a real shel",
+    "id": "lafollett-labs/riff",
+    "language": "TypeScript",
+    "name": "lafollett-labs/riff",
+    "stars": 0,
+    "updated_at": "2026-09-23T02:48:40Z",
+    "url": "https://github.com/lafollett-labs/riff"
+  },
+  {
+    "description": "A lightweight, event-driven agent runtime for Go",
+    "id": "loomagent/loom",
+    "language": "Go",
+    "name": "loomagent/loom",
+    "stars": 1,
+    "updated_at": "2026-09-23T02:49:37Z",
+    "url": "https://github.com/loomagent/loom"
+  },
+  {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
+    "language": "TypeScript",
+    "name": "vincemakes/kiso",
+    "stars": 43,
+    "updated_at": "2026-09-23T02:58:10Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-23T02:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability",
     "id": "AndrewAltimit/template-repo",
     "language": "Rust",
     "name": "AndrewAltimit/template-repo",
     "stars": 131,
-    "updated_at": "2026-09-23T02:45:15Z",
+    "updated_at": "2026-09-23T02:47:06Z",
     "url": "https://github.com/AndrewAltimit/template-repo"
   },
   {
@@ -14,7 +122,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-23T02:45:10Z",
+    "updated_at": "2026-09-23T02:58:38Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -40,7 +148,7 @@
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
-    "stars": 306,
+    "stars": 307,
     "updated_at": "2026-09-23T02:43:40Z",
     "url": "https://github.com/cortexkit/aft"
   },
@@ -68,17 +176,8 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 4,
-    "updated_at": "2026-09-23T02:39:29Z",
+    "updated_at": "2026-09-23T02:53:22Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-23T02:38:45Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
@@ -112,7 +211,7 @@
     "id": "autonomous-ai/openharness",
     "language": "C",
     "name": "autonomous-ai/openharness",
-    "stars": 646,
+    "stars": 647,
     "updated_at": "2026-09-23T02:34:42Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
@@ -122,17 +221,8 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 9,
-    "updated_at": "2026-09-23T02:31:24Z",
+    "updated_at": "2026-09-23T02:56:50Z",
     "url": "https://github.com/dzhioev/bro"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-23T02:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Libra: Efficient Resource Management for Agentic RL Post-Training",
@@ -203,17 +293,8 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 31,
-    "updated_at": "2026-09-23T02:18:48Z",
+    "updated_at": "2026-09-23T02:56:04Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
-    "id": "vincemakes/kiso",
-    "language": "TypeScript",
-    "name": "vincemakes/kiso",
-    "stars": 42,
-    "updated_at": "2026-09-23T02:18:20Z",
-    "url": "https://github.com/vincemakes/kiso"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -223,24 +304,6 @@
     "stars": 20123,
     "updated_at": "2026-09-23T02:41:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10166,
-    "updated_at": "2026-09-23T02:17:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
-    "id": "aequitas-labs/lobstah",
-    "language": "TypeScript",
-    "name": "aequitas-labs/lobstah",
-    "stars": 1,
-    "updated_at": "2026-09-23T02:25:59Z",
-    "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -295,24 +358,6 @@
     "stars": 5,
     "updated_at": "2026-09-23T02:01:39Z",
     "url": "https://github.com/chrisws/hali"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2181,
-    "updated_at": "2026-09-23T02:00:50Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 4,
-    "updated_at": "2026-09-23T01:59:01Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
@@ -403,50 +448,5 @@
     "stars": 112,
     "updated_at": "2026-09-23T01:46:11Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 297,
-    "updated_at": "2026-09-23T01:44:17Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6318,
-    "updated_at": "2026-09-23T02:44:24Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
-    "id": "Asceticrefractoryperiod28/Foundry",
-    "language": "TypeScript",
-    "name": "Asceticrefractoryperiod28/Foundry",
-    "stars": 0,
-    "updated_at": "2026-09-23T01:41:08Z",
-    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-23T01:39:56Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-23T01:39:52Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
