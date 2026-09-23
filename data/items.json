@@ -1,5 +1,86 @@
 [
   {
+    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
+    "id": "plaited/behavioral",
+    "language": "TypeScript",
+    "name": "plaited/behavioral",
+    "stars": 12,
+    "updated_at": "2026-09-23T06:26:36Z",
+    "url": "https://github.com/plaited/behavioral"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10170,
+    "updated_at": "2026-09-23T06:24:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 80,
+    "updated_at": "2026-09-23T06:24:22Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:23:09Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 297,
+    "updated_at": "2026-09-23T06:26:28Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 19,
+    "updated_at": "2026-09-23T06:20:41Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:20:39Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
+    "id": "linjiejim/greenhouse",
+    "language": "TypeScript",
+    "name": "linjiejim/greenhouse",
+    "stars": 0,
+    "updated_at": "2026-09-23T06:18:00Z",
+    "url": "https://github.com/linjiejim/greenhouse"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-23T06:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-09-23T06:11:26Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Behavioral agent harness \u2014 a neuro-symbolic, self-improving agent built on the behavioral-programming runtime.",
-    "id": "plaited/behavioral",
-    "language": "TypeScript",
-    "name": "plaited/behavioral",
-    "stars": 12,
-    "updated_at": "2026-09-23T06:09:04Z",
-    "url": "https://github.com/plaited/behavioral"
   },
   {
     "description": "The most Token-efficient open-source AI Agent",
@@ -108,15 +180,6 @@
     "url": "https://github.com/maref-org/maref"
   },
   {
-    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-23T06:02:31Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 44,
-    "updated_at": "2026-09-23T06:09:52Z",
+    "updated_at": "2026-09-23T06:26:52Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -153,20 +216,11 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-23T06:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35688,
+    "stars": 35689,
     "updated_at": "2026-09-23T05:57:04Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -193,7 +247,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 2343,
+    "stars": 2347,
     "updated_at": "2026-09-23T05:55:23Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -211,7 +265,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13743,
+    "stars": 13744,
     "updated_at": "2026-09-23T05:51:47Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -225,20 +279,20 @@
     "url": "https://github.com/loomagent/loom"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10170,
-    "updated_at": "2026-09-23T06:11:44Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6318,
+    "updated_at": "2026-09-23T05:50:57Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "C",
     "name": "autonomous-ai/openharness",
-    "stars": 680,
+    "stars": 682,
     "updated_at": "2026-09-23T05:50:48Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T05:35:25Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Agent SDK for Go - with Temporal & Restate support for durable execution, multi-agent support, and OTeL tracing support",
-    "id": "hastekit/agent-sdk-go",
-    "language": "Go",
-    "name": "hastekit/agent-sdk-go",
-    "stars": 12,
-    "updated_at": "2026-09-23T05:34:16Z",
-    "url": "https://github.com/hastekit/agent-sdk-go"
-  },
-  {
-    "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it",
-    "id": "Bande-a-Bonnot/Boucle-framework",
-    "language": "Shell",
-    "name": "Bande-a-Bonnot/Boucle-framework",
-    "stars": 124,
-    "updated_at": "2026-09-23T05:33:10Z",
-    "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 2,
-    "updated_at": "2026-09-23T05:30:19Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 100,
-    "updated_at": "2026-09-23T05:29:51Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
-    "id": "usetheokit/theokit",
-    "language": "TypeScript",
-    "name": "usetheokit/theokit",
-    "stars": 5,
-    "updated_at": "2026-09-23T05:31:21Z",
-    "url": "https://github.com/usetheokit/theokit"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:28:41Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
   }
 ]
