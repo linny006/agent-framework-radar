@@ -1,12 +1,75 @@
 [
   {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-23T20:15:18Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2189,
-    "updated_at": "2026-09-23T20:00:11Z",
+    "updated_at": "2026-09-23T20:13:52Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/tektonix",
+    "language": "Python",
+    "name": "DJG3DK/tektonix",
+    "stars": 3,
+    "updated_at": "2026-09-23T20:13:25Z",
+    "url": "https://github.com/DJG3DK/tektonix"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 4,
+    "updated_at": "2026-09-23T20:12:18Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
+    "id": "rjaskonis/pi-feats",
+    "language": "TypeScript",
+    "name": "rjaskonis/pi-feats",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:05:29Z",
+    "url": "https://github.com/rjaskonis/pi-feats"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-23T20:02:09Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-23T20:00:49Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-23T20:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Generic, language-agnostic AI-assisted development workflow for OpenCode \u2014 pipeline, agents, standards, and scripts",
@@ -50,7 +113,7 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 39,
-    "updated_at": "2026-09-23T19:56:51Z",
+    "updated_at": "2026-09-23T20:07:42Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Shell",
     "name": "aeonfun/aeon",
     "stars": 755,
-    "updated_at": "2026-09-23T19:56:27Z",
+    "updated_at": "2026-09-23T20:06:34Z",
     "url": "https://github.com/aeonfun/aeon"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 9,
-    "updated_at": "2026-09-23T19:59:34Z",
+    "updated_at": "2026-09-23T20:04:02Z",
     "url": "https://github.com/dzhioev/bro"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/shisa-ai/shisad"
   },
   {
-    "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
-    "id": "rjaskonis/pi-feats",
-    "language": "TypeScript",
-    "name": "rjaskonis/pi-feats",
-    "stars": 0,
-    "updated_at": "2026-09-23T19:45:47Z",
-    "url": "https://github.com/rjaskonis/pi-feats"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -108,15 +162,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-23T19:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -124,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-09-23T19:57:22Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48514,
+    "updated_at": "2026-09-23T19:44:27Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -151,24 +205,6 @@
     "stars": 14,
     "updated_at": "2026-09-23T19:39:40Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/tektonix",
-    "language": "Python",
-    "name": "DJG3DK/tektonix",
-    "stars": 3,
-    "updated_at": "2026-09-23T19:35:23Z",
-    "url": "https://github.com/DJG3DK/tektonix"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 55,
-    "updated_at": "2026-09-23T19:57:51Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10186,
-    "updated_at": "2026-09-23T19:53:25Z",
+    "updated_at": "2026-09-23T20:10:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 13757,
     "updated_at": "2026-09-23T19:23:26Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48513,
-    "updated_at": "2026-09-23T19:44:27Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 19,
-    "updated_at": "2026-09-23T19:56:53Z",
+    "updated_at": "2026-09-23T20:11:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-09-23T19:52:01Z",
+    "updated_at": "2026-09-23T20:14:56Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-23T18:29:13Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:27:36Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "A platform to build, run, and use AI agents \u2014 with a search interface",
-    "id": "Search2o/agent-server",
-    "language": "Python",
-    "name": "Search2o/agent-server",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:27:31Z",
-    "url": "https://github.com/Search2o/agent-server"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15409,
-    "updated_at": "2026-09-23T18:26:28Z",
-    "url": "https://github.com/eigent-ai/eigent"
   }
 ]
