@@ -5,8 +5,53 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-24T05:25:12Z",
+    "updated_at": "2026-09-24T05:30:07Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
+    "id": "leanneexperimental3016/Models-Cowork",
+    "language": "Python",
+    "name": "leanneexperimental3016/Models-Cowork",
+    "stars": 0,
+    "updated_at": "2026-09-24T05:28:51Z",
+    "url": "https://github.com/leanneexperimental3016/Models-Cowork"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-09-24T05:27:52Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
+    "id": "lottieepigastric889/lucky-block-script-hub",
+    "language": "HTML",
+    "name": "lottieepigastric889/lucky-block-script-hub",
+    "stars": 0,
+    "updated_at": "2026-09-24T05:26:49Z",
+    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
+  },
+  {
+    "description": "Unlock automated targeting, instant item liquidation, and low-latency execution with this lightweight HTML script hub fo",
+    "id": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
+    "language": "HTML",
+    "name": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
+    "stars": 1,
+    "updated_at": "2026-09-24T05:26:47Z",
+    "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-24T05:26:10Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "bigknoxy/j-harness",
     "stars": 0,
-    "updated_at": "2026-09-24T05:22:42Z",
+    "updated_at": "2026-09-24T05:29:26Z",
     "url": "https://github.com/bigknoxy/j-harness"
   },
   {
@@ -52,6 +97,15 @@
     "stars": 3,
     "updated_at": "2026-09-24T05:20:21Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35702,
+    "updated_at": "2026-09-24T05:20:20Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T05:16:02Z",
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-24T05:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
@@ -403,50 +448,5 @@
     "stars": 20,
     "updated_at": "2026-09-24T05:05:09Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-09-24T05:05:10Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10197,
-    "updated_at": "2026-09-24T05:22:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-09-24T05:03:17Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
-    "id": "petehottelet/smythe",
-    "language": "Python",
-    "name": "petehottelet/smythe",
-    "stars": 3,
-    "updated_at": "2026-09-24T05:02:04Z",
-    "url": "https://github.com/petehottelet/smythe"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-09-24T05:01:37Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
   }
 ]
