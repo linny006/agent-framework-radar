@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6329,
+    "updated_at": "2026-09-24T18:30:16Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-09-24T18:30:16Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-24T18:15:04Z",
+    "updated_at": "2026-09-24T18:27:26Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4955,
+    "updated_at": "2026-09-24T18:22:24Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Desktop friendly agent automation",
+    "id": "tinyhumansai/tinydesktop",
+    "language": "Rust",
+    "name": "tinyhumansai/tinydesktop",
+    "stars": 3,
+    "updated_at": "2026-09-24T18:21:29Z",
+    "url": "https://github.com/tinyhumansai/tinydesktop"
+  },
+  {
+    "description": "Smoke Monkey harness \u2014 build AI agents, code editors, and agentic tools in a few steps. Agent loop, tools, permissions, ",
+    "id": "RajdeepDevelopment/smoke-monkey-harness",
+    "language": "TypeScript",
+    "name": "RajdeepDevelopment/smoke-monkey-harness",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:21:15Z",
+    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 308,
+    "updated_at": "2026-09-24T18:19:42Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "OAuth integrations & connectors for agents",
+    "id": "tinyhumansai/tinyconnectors",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyconnectors",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:18:31Z",
+    "url": "https://github.com/tinyhumansai/tinyconnectors"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-09-24T18:15:47Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-24T18:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -18,15 +99,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Smoke Monkey harness \u2014 build AI agents, code editors, and agentic tools in a few steps. Agent loop, tools, permissions, ",
-    "id": "RajdeepDevelopment/smoke-monkey-harness",
-    "language": "TypeScript",
-    "name": "RajdeepDevelopment/smoke-monkey-harness",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:12:51Z",
-    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
-  },
-  {
     "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -34,15 +106,6 @@
     "stars": 39,
     "updated_at": "2026-09-24T18:12:12Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4955,
-    "updated_at": "2026-09-24T18:14:03Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -99,15 +162,6 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-24T18:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
     "id": "llopresto87/Cypress",
     "language": "Python",
@@ -139,7 +193,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8175,
+    "stars": 8176,
     "updated_at": "2026-09-24T17:57:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -175,8 +229,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10205,
-    "updated_at": "2026-09-24T17:49:23Z",
+    "stars": 10206,
+    "updated_at": "2026-09-24T18:29:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:48:29Z",
     "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-09-24T18:08:24Z",
-    "url": "https://github.com/ourostack/ouroboros"
   },
   {
     "description": "Agent friendly memory system. Route any memory system into a standardized interface",
@@ -214,15 +259,6 @@
     "stars": 8,
     "updated_at": "2026-09-24T17:43:20Z",
     "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6329,
-    "updated_at": "2026-09-24T18:02:35Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 54,
-    "updated_at": "2026-09-24T17:36:06Z",
+    "updated_at": "2026-09-24T18:29:23Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 8,
-    "updated_at": "2026-09-24T17:35:56Z",
+    "updated_at": "2026-09-24T18:21:10Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-09-24T18:11:12Z",
+    "updated_at": "2026-09-24T18:29:09Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-24T17:46:02Z",
+    "updated_at": "2026-09-24T18:15:39Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -337,7 +373,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1832,
+    "stars": 1833,
     "updated_at": "2026-09-24T17:27:29Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -349,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-09-24T17:26:29Z",
     "url": "https://github.com/ellmos-ai/n8n-manager-mcp"
-  },
-  {
-    "description": "OAuth integrations & connectors for agents",
-    "id": "tinyhumansai/tinyconnectors",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyconnectors",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:25:56Z",
-    "url": "https://github.com/tinyhumansai/tinyconnectors"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 548,
-    "updated_at": "2026-09-24T17:57:50Z",
+    "updated_at": "2026-09-24T18:16:10Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:18:41Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:12:46Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
-    "id": "zkysar1/Claude-Mind",
-    "language": "Python",
-    "name": "zkysar1/Claude-Mind",
-    "stars": 5,
-    "updated_at": "2026-09-24T17:11:16Z",
-    "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:11:11Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
