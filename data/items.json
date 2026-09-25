@@ -1,19 +1,154 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:29:37Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 63,
+    "updated_at": "2026-09-25T06:29:37Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-25T06:29:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48556,
+    "updated_at": "2026-09-25T06:28:22Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35705,
+    "updated_at": "2026-09-25T06:27:54Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 824,
+    "updated_at": "2026-09-25T06:27:42Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Multi-platform AI bot framework: 5 hot-swappable agent runtimes (Claude Code / OpenClaw / Kilo / Gemini CLI / DeepSeek H",
+    "id": "yangwhale/CloseCrab",
+    "language": "Python",
+    "name": "yangwhale/CloseCrab",
+    "stars": 4,
+    "updated_at": "2026-09-25T06:26:28Z",
+    "url": "https://github.com/yangwhale/CloseCrab"
+  },
+  {
+    "description": "MCP server providing coding standards, skills, and workflows for AI agents",
+    "id": "JunMystery/Agent-Guidance-Rust",
+    "language": "Rust",
+    "name": "JunMystery/Agent-Guidance-Rust",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:29:06Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance-Rust"
+  },
+  {
+    "description": "DeepSeek Harness \u684c\u9762\u58f3\uff1a\u5b98\u65b9\u684c\u9762\u7aef\u4e0d\u652f\u6301 Linux\uff0c\u8fd9\u4e2a\u652f\u6301\uff08AppImage/Linux zip\uff09\u3002\u5185\u5d4c Web UI\u3001\u5f15\u64ce\u81ea\u52a8\u4fdd\u6301\u6700\u65b0\u3001\u9884\u7f6e 4 \u4e2a\u63d2\u4ef6\u3001\u63d2\u4ef6\u88c5\u574f\u80fd\u81ea\u6108\u3002",
+    "id": "itchenshi/dsh-ready-gui",
+    "language": "JavaScript",
+    "name": "itchenshi/dsh-ready-gui",
+    "stars": 3,
+    "updated_at": "2026-09-25T06:23:52Z",
+    "url": "https://github.com/itchenshi/dsh-ready-gui"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-25T06:14:28Z",
+    "updated_at": "2026-09-25T06:21:41Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-25T06:20:20Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-25T06:19:51Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 6,
+    "updated_at": "2026-09-25T06:19:32Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-25T06:18:15Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 13,
+    "updated_at": "2026-09-25T06:17:33Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-25T06:15:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 15421,
+    "stars": 15422,
     "updated_at": "2026-09-25T06:13:37Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
@@ -23,7 +158,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2203,
-    "updated_at": "2026-09-25T06:13:28Z",
+    "updated_at": "2026-09-25T06:24:11Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -34,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-25T06:15:19Z",
     "url": "https://github.com/tinyhumansai/tinydesktop"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35705,
-    "updated_at": "2026-09-25T06:09:22Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
@@ -72,15 +198,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "DeepSeek Harness \u684c\u9762\u58f3\uff1a\u5b98\u65b9\u684c\u9762\u7aef\u4e0d\u652f\u6301 Linux\uff0c\u8fd9\u4e2a\u652f\u6301\uff08AppImage/Linux zip\uff09\u3002\u5185\u5d4c Web UI\u3001\u5f15\u64ce\u81ea\u52a8\u4fdd\u6301\u6700\u65b0\u3001\u9884\u7f6e 4 \u4e2a\u63d2\u4ef6\u3001\u63d2\u4ef6\u88c5\u574f\u80fd\u81ea\u6108\u3002",
-    "id": "itchenshi/dsh-ready-gui",
-    "language": "JavaScript",
-    "name": "itchenshi/dsh-ready-gui",
-    "stars": 3,
-    "updated_at": "2026-09-25T06:04:13Z",
-    "url": "https://github.com/itchenshi/dsh-ready-gui"
-  },
-  {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
     "id": "ourostack/ouroboros",
     "language": "TypeScript",
@@ -108,24 +225,6 @@
     "url": "https://github.com/vincemakes/kiso"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-25T06:01:24Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-25T06:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\u6211\u7684 AI Agent \u5b66\u4e60\u5b9e\u9a8c\u5ba4\uff1a\u4ece ELIZA\u3001N-gram \u4e0e\u4e3b\u6d41\u591a\u667a\u80fd\u4f53\u6846\u67b6\uff0c\u5230\u4eb2\u624b\u5b9e\u73b0 Message\u3001LLM\u3001Tool Registry\u3001ReActAgent \u548c\u53ef\u5b9a\u5236 ReflectionAgent\uff1b\u540c\u6b65\u6c89\u6dc0\u53ef\u8fd0\u884c\u4ee3\u7801\u3001\u4e2d\u6587\u7b14",
     "id": "lizhuofan-curry/hello-agents-learning-lab",
     "language": "Python",
@@ -133,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T05:59:08Z",
     "url": "https://github.com/lizhuofan-curry/hello-agents-learning-lab"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 63,
-    "updated_at": "2026-09-25T06:07:32Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-25T06:13:06Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -216,20 +297,11 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 824,
-    "updated_at": "2026-09-25T05:39:45Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 20161,
+    "stars": 20162,
     "updated_at": "2026-09-25T05:36:33Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
@@ -337,7 +409,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10217,
+    "stars": 10218,
     "updated_at": "2026-09-25T05:11:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T05:09:16Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Autonomous multi-agent coordination for the JVM",
-    "id": "mauro-mura/agenor",
-    "language": "Java",
-    "name": "mauro-mura/agenor",
-    "stars": 1,
-    "updated_at": "2026-09-25T05:07:53Z",
-    "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 20,
-    "updated_at": "2026-09-25T06:12:20Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-25T05:08:54Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:03:46Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Libra: Efficient Resource Management for Agentic RL Post-Training",
-    "id": "NetX-lab/Libra",
-    "language": "Python",
-    "name": "NetX-lab/Libra",
-    "stars": 210,
-    "updated_at": "2026-09-25T05:02:52Z",
-    "url": "https://github.com/NetX-lab/Libra"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:02:19Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:02:16Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-25T05:02:12Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
