@@ -1,5 +1,104 @@
 [
   {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 10,
+    "updated_at": "2026-09-25T21:59:34Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/tektonix",
+    "language": "Python",
+    "name": "DJG3DK/tektonix",
+    "stars": 3,
+    "updated_at": "2026-09-25T21:58:19Z",
+    "url": "https://github.com/DJG3DK/tektonix"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 42,
+    "updated_at": "2026-09-25T21:58:01Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 104,
+    "updated_at": "2026-09-25T21:57:45Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
+    "id": "xmor/ara",
+    "language": "Java",
+    "name": "xmor/ara",
+    "stars": 6,
+    "updated_at": "2026-09-25T21:57:04Z",
+    "url": "https://github.com/xmor/ara"
+  },
+  {
+    "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
+    "id": "useagenthq/threads",
+    "language": "Python",
+    "name": "useagenthq/threads",
+    "stars": 2,
+    "updated_at": "2026-09-25T21:54:01Z",
+    "url": "https://github.com/useagenthq/threads"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10241,
+    "updated_at": "2026-09-25T21:54:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1349,
+    "updated_at": "2026-09-25T21:50:16Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-25T21:49:28Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-25T21:58:38Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-25T21:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A self-hosted web interface for the pi coding agent.",
     "id": "laurentftech/pi-outpost",
     "language": "TypeScript",
@@ -18,30 +117,12 @@
     "url": "https://github.com/EmreAka/Assistant"
   },
   {
-    "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
-    "id": "useagenthq/threads",
-    "language": "Python",
-    "name": "useagenthq/threads",
-    "stars": 2,
-    "updated_at": "2026-09-25T21:44:32Z",
-    "url": "https://github.com/useagenthq/threads"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10241,
-    "updated_at": "2026-09-25T21:43:33Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 20,
-    "updated_at": "2026-09-25T21:44:55Z",
+    "updated_at": "2026-09-25T21:56:50Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -67,18 +148,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8414,
+    "stars": 8415,
     "updated_at": "2026-09-25T21:40:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1349,
-    "updated_at": "2026-09-25T21:43:35Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
@@ -99,15 +171,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-25T21:44:08Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "Self-hosted multi-agent framework (AGPL-3.0). Mirror of canonical Forgejo repo.",
     "id": "merryshelly/openalpheus",
     "language": "Python",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-09-25T21:44:35Z",
+    "updated_at": "2026-09-25T21:56:05Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -144,24 +207,6 @@
     "url": "https://github.com/lifishard/wickrunAI"
   },
   {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 10,
-    "updated_at": "2026-09-25T21:41:41Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-25T21:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
     "id": "crmne/ruby_llm",
     "language": "Ruby",
@@ -180,15 +225,6 @@
     "url": "https://github.com/showjihyun/aether"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 104,
-    "updated_at": "2026-09-25T21:26:34Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "A zbus-style message bus that keeps external integrations out of the OpenHuman kernel's dependency graph.",
     "id": "tinyhumansai/tinybus",
     "language": "Rust",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-25T21:36:10Z",
+    "updated_at": "2026-09-25T21:51:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 263,
-    "updated_at": "2026-09-25T21:19:08Z",
+    "updated_at": "2026-09-25T21:46:57Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -293,26 +329,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 314,
-    "updated_at": "2026-09-25T21:08:36Z",
+    "updated_at": "2026-09-25T21:55:10Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-25T21:06:36Z",
-    "url": "https://github.com/urankwong/agentsgo"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 42,
-    "updated_at": "2026-09-25T21:43:07Z",
-    "url": "https://github.com/swombat/souls-house"
   },
   {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T20:41:14Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:41:07Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:41:07Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
