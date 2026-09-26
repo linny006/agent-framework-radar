@@ -1,5 +1,86 @@
 [
   {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-26T16:29:52Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 27,
+    "updated_at": "2026-09-26T16:28:27Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
+    "id": "retrychx/agentia",
+    "language": "TypeScript",
+    "name": "retrychx/agentia",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:27:40Z",
+    "url": "https://github.com/retrychx/agentia"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-26T16:26:17Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20191,
+    "updated_at": "2026-09-26T16:25:25Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Self-hosted Personal Agent",
+    "id": "logandoo/weave-thinker",
+    "language": "Python",
+    "name": "logandoo/weave-thinker",
+    "stars": 4,
+    "updated_at": "2026-09-26T16:25:14Z",
+    "url": "https://github.com/logandoo/weave-thinker"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-09-26T16:24:20Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
+    "id": "ayman3000/SwiftAgentKit",
+    "language": "Swift",
+    "name": "ayman3000/SwiftAgentKit",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:17:32Z",
+    "url": "https://github.com/ayman3000/SwiftAgentKit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T16:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -9,13 +90,13 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
-    "id": "retrychx/agentia",
-    "language": "TypeScript",
-    "name": "retrychx/agentia",
-    "stars": 3,
-    "updated_at": "2026-09-26T16:11:55Z",
-    "url": "https://github.com/retrychx/agentia"
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 968,
+    "updated_at": "2026-09-26T16:11:54Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -23,17 +104,8 @@
     "language": "Python",
     "name": "ellmos-ai/skills",
     "stars": 6,
-    "updated_at": "2026-09-26T16:11:40Z",
+    "updated_at": "2026-09-26T16:25:59Z",
     "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 55,
-    "updated_at": "2026-09-26T16:11:34Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Manage upto 1000 agents using automations and workflows",
@@ -90,15 +162,6 @@
     "url": "https://github.com/showjihyun/aether"
   },
   {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-09-26T16:13:02Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
     "id": "junebuild/june",
     "language": "TypeScript",
@@ -122,17 +185,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 313,
-    "updated_at": "2026-09-26T16:00:31Z",
+    "updated_at": "2026-09-26T16:21:59Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T16:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local SQLite memory for LLM agents and cross-agent context sharing",
@@ -149,24 +203,15 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35717,
-    "updated_at": "2026-09-26T16:07:58Z",
+    "updated_at": "2026-09-26T16:28:22Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-26T16:12:39Z",
-    "url": "https://github.com/ellmos-ai/bach"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10257,
+    "stars": 10258,
     "updated_at": "2026-09-26T15:44:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1349,
-    "updated_at": "2026-09-26T16:11:58Z",
+    "updated_at": "2026-09-26T16:29:25Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 191,
     "updated_at": "2026-09-26T14:43:27Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Security-first AI agent daemon \u2014 the model proposes actions, the runtime decides what execute",
-    "id": "shisa-ai/shisad",
-    "language": "Python",
-    "name": "shisa-ai/shisad",
-    "stars": 30,
-    "updated_at": "2026-09-26T14:43:17Z",
-    "url": "https://github.com/shisa-ai/shisad"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-26T14:40:23Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2649,
-    "updated_at": "2026-09-26T14:39:34Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-09-26T14:39:23Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "The Context Graph Protocol is an open wire protocol for context retrieval. It treats a piece of context as a typed, budg",
-    "id": "macanderson/context-graph-protocol",
-    "language": "Rust",
-    "name": "macanderson/context-graph-protocol",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:38:01Z",
-    "url": "https://github.com/macanderson/context-graph-protocol"
   }
 ]
