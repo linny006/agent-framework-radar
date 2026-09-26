@@ -1,30 +1,30 @@
 [
   {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
+    "description": "Semantic completion controller for AI agents: keeps the objective stable, allocates the next action from explicit progre",
+    "id": "utsapoddar/dopa-kernel",
+    "language": "Python",
+    "name": "utsapoddar/dopa-kernel",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:15:17Z",
+    "url": "https://github.com/utsapoddar/dopa-kernel"
+  },
+  {
+    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
+    "id": "ethosagent/ethos",
     "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:02:11Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
+    "name": "ethosagent/ethos",
+    "stars": 22,
+    "updated_at": "2026-09-26T15:14:41Z",
+    "url": "https://github.com/ethosagent/ethos"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35718,
-    "updated_at": "2026-09-26T15:01:53Z",
+    "stars": 35717,
+    "updated_at": "2026-09-26T15:15:00Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T15:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -32,8 +32,98 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-26T14:59:18Z",
+    "updated_at": "2026-09-26T15:11:40Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 6,
+    "updated_at": "2026-09-26T15:11:23Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
+    "id": "tya5/reyn",
+    "language": "Python",
+    "name": "tya5/reyn",
+    "stars": 10,
+    "updated_at": "2026-09-26T15:10:12Z",
+    "url": "https://github.com/tya5/reyn"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:13:28Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1349,
+    "updated_at": "2026-09-26T15:09:30Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-26T15:08:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
+    "id": "manishiitg/coding-agent-loop",
+    "language": "Go",
+    "name": "manishiitg/coding-agent-loop",
+    "stars": 13,
+    "updated_at": "2026-09-26T15:07:48Z",
+    "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:06:53Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:02:53Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T15:02:44Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:11:21Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-09-26T15:01:35Z",
+    "updated_at": "2026-09-26T15:07:26Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -122,7 +212,7 @@
     "language": "TypeScript",
     "name": "ucsandman/DashClaw",
     "stars": 308,
-    "updated_at": "2026-09-26T14:49:45Z",
+    "updated_at": "2026-09-26T15:04:47Z",
     "url": "https://github.com/ucsandman/DashClaw"
   },
   {
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:43:49Z",
     "url": "https://github.com/showjihyun/aether"
-  },
-  {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:58:45Z",
-    "url": "https://github.com/colmugx/posoco-extension"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -216,15 +297,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:36:43Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -234,24 +306,6 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 22,
-    "updated_at": "2026-09-26T14:30:02Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 13,
-    "updated_at": "2026-09-26T14:26:59Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
-  },
-  {
     "description": "Linux \u4e0a\u7684\u672c\u5730\u4f18\u5148 AI Agent \u8fd0\u884c\u65f6\uff1a\u5206\u5c42\u8bb0\u5fc6 + \u957f\u4efb\u52a1 + \u6280\u80fd/\u63d2\u4ef6 harness\uff0c\u5bf9\u8bdd\u00b7\u8bed\u97f3\u00b7\u753b\u56fe\u7edf\u4e00\u8d70 OpenAI \u517c\u5bb9\u63a5\u53e3\uff1b\u524d\u7aef TypeScript \u6e90\u7801\u76f4\u670d\u514d\u6784\u5efa\uff0csystemd \u6258\u7ba1\uff0c\u5e76\u539f\u751f\u652f\u914d Linu",
     "id": "geek-alpha/dabai-linux",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:23:05Z",
     "url": "https://github.com/geek-alpha/dabai-linux"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1349,
-    "updated_at": "2026-09-26T14:59:29Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
@@ -302,7 +347,7 @@
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 967,
-    "updated_at": "2026-09-26T14:12:42Z",
+    "updated_at": "2026-09-26T15:11:09Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -349,15 +394,6 @@
     "stars": 27,
     "updated_at": "2026-09-26T14:56:21Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 6,
-    "updated_at": "2026-09-26T14:03:37Z",
-    "url": "https://github.com/ellmos-ai/skills"
   },
   {
     "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T13:44:28Z",
     "url": "https://github.com/iamaanahmad/agentforge"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 10,
-    "updated_at": "2026-09-26T13:43:39Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:41:41Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:41:39Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Storage-backed file tools and Markdown knowledge-graph context for Microsoft Agent Framework",
-    "id": "managedcode/FileContext",
-    "language": "C#",
-    "name": "managedcode/FileContext",
-    "stars": 2,
-    "updated_at": "2026-09-26T13:45:06Z",
-    "url": "https://github.com/managedcode/FileContext"
   }
 ]
