@@ -1,30 +1,21 @@
 [
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-26T21:14:13Z",
-    "url": "https://github.com/ggui-ai/ggui"
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 10,
+    "updated_at": "2026-09-26T21:26:51Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
     "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 27,
-    "updated_at": "2026-09-26T21:14:00Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 1,
-    "updated_at": "2026-09-26T21:12:07Z",
-    "url": "https://github.com/bhodgens/meept"
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 78,
+    "updated_at": "2026-09-26T21:26:43Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -32,8 +23,80 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 42,
-    "updated_at": "2026-09-26T21:11:35Z",
+    "updated_at": "2026-09-26T21:24:23Z",
     "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Typed, replayable workflow organisms for AI agents \u2014 deterministic graph structure, bounded agent cells, offline-verifia",
+    "id": "hraness/morphogen",
+    "language": "TypeScript",
+    "name": "hraness/morphogen",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:23:32Z",
+    "url": "https://github.com/hraness/morphogen"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-26T21:21:48Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 1,
+    "updated_at": "2026-09-26T21:20:20Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "The LLM gateway that learns to skip the LLM. Trains its own tiny model on your agent's decisions and makes them in 0.2 m",
+    "id": "singhpratech/pankhllm",
+    "language": "Rust",
+    "name": "singhpratech/pankhllm",
+    "stars": 0,
+    "updated_at": "2026-09-26T21:19:36Z",
+    "url": "https://github.com/singhpratech/pankhllm"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3919,
+    "updated_at": "2026-09-26T21:29:04Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
+    "id": "jin-bo/agentao",
+    "language": "Python",
+    "name": "jin-bo/agentao",
+    "stars": 307,
+    "updated_at": "2026-09-26T21:26:20Z",
+    "url": "https://github.com/jin-bo/agentao"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T21:15:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 27,
+    "updated_at": "2026-09-26T21:18:26Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T21:09:50Z",
     "url": "https://github.com/xinbetween/learn-ai-agent-from-scratch"
-  },
-  {
-    "description": "The LLM gateway that learns to skip the LLM. Trains its own tiny model on your agent's decisions and makes them in 0.2 m",
-    "id": "singhpratech/pankhllm",
-    "language": "Rust",
-    "name": "singhpratech/pankhllm",
-    "stars": 0,
-    "updated_at": "2026-09-26T21:09:33Z",
-    "url": "https://github.com/singhpratech/pankhllm"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -122,17 +176,8 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35719,
-    "updated_at": "2026-09-26T21:01:24Z",
+    "updated_at": "2026-09-26T21:21:34Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T21:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -162,21 +207,12 @@
     "url": "https://github.com/lifishard/wickrunAI"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 78,
-    "updated_at": "2026-09-26T21:13:01Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 304,
-    "updated_at": "2026-09-26T21:05:23Z",
+    "updated_at": "2026-09-26T21:29:43Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "jaylfc/taOS",
     "stars": 551,
-    "updated_at": "2026-09-26T20:46:29Z",
+    "updated_at": "2026-09-26T21:21:02Z",
     "url": "https://github.com/jaylfc/taOS"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 113,
     "updated_at": "2026-09-26T21:14:41Z",
     "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 10,
-    "updated_at": "2026-09-26T21:09:50Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-26T20:35:37Z",
+    "updated_at": "2026-09-26T21:29:39Z",
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Typed, replayable workflow organisms for AI agents \u2014 deterministic graph structure, bounded agent cells, offline-verifia",
-    "id": "hraness/morphogen",
-    "language": "TypeScript",
-    "name": "hraness/morphogen",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:21:06Z",
-    "url": "https://github.com/hraness/morphogen"
-  },
-  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T20:19:40Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3919,
-    "updated_at": "2026-09-26T21:13:39Z",
-    "url": "https://github.com/evalstate/fast-agent"
   },
   {
     "description": "Runtime approval gates for AI agent tool calls. Intercept payments and emails before execution",
@@ -439,14 +448,5 @@
     "stars": 55,
     "updated_at": "2026-09-26T20:52:50Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 971,
-    "updated_at": "2026-09-26T19:57:13Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   }
 ]
