@@ -1,11 +1,83 @@
 [
   {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 32,
+    "updated_at": "2026-09-26T03:57:26Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u4ece ELIZA\u3001N-gram/BPE \u5230 ReAct\u3001\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u4e0e\u81ea\u5236 HelloAgents\uff1a\u7528\u4e2d\u6587\u7b14\u8bb0\u548c Python \u5b9e\u9a8c\uff0c\u62c6\u89e3 Plan-and-Solve\u3001Reflection \u4e0e Function Calling\uff1buv \u5206\u7ae0\u7ba1",
+    "id": "lizhuofan-curry/hello-agents-learning-lab",
+    "language": "Python",
+    "name": "lizhuofan-curry/hello-agents-learning-lab",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:56:39Z",
+    "url": "https://github.com/lizhuofan-curry/hello-agents-learning-lab"
+  },
+  {
+    "description": "Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames stream between components, each runnin",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-26T03:56:20Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Smoke Monkey harness \u2014 build AI agents, code editors, and agentic tools in a few steps. Agent loop, tools, permissions, ",
+    "id": "RajdeepDevelopment/smoke-monkey-harness",
+    "language": "TypeScript",
+    "name": "RajdeepDevelopment/smoke-monkey-harness",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:56:23Z",
+    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-26T03:53:13Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-09-26T03:52:14Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15424,
+    "updated_at": "2026-09-26T03:46:40Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T03:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-26T03:42:17Z",
+    "updated_at": "2026-09-26T03:53:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -85,18 +157,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35709,
+    "stars": 35708,
     "updated_at": "2026-09-26T03:36:27Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 113,
-    "updated_at": "2026-09-26T03:35:17Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "ShadowScan discovers unregistered AI agents across code, identity, gateways, low-code, SaaS, and cloud : 178 signatures,",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "aisecnomad/Project-Nexus",
     "stars": 0,
-    "updated_at": "2026-09-26T03:42:12Z",
+    "updated_at": "2026-09-26T03:59:33Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 122,
     "updated_at": "2026-09-26T03:34:24Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "\u4ece ELIZA\u3001N-gram/BPE \u5230 ReAct\u3001\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u4e0e\u81ea\u5236 HelloAgents\uff1a\u7528\u4e2d\u6587\u7b14\u8bb0\u548c Python \u5b9e\u9a8c\uff0c\u62c6\u89e3 Plan-and-Solve\u3001Reflection \u4e0e Function Calling\uff1buv \u5206\u7ae0\u7ba1",
-    "id": "lizhuofan-curry/hello-agents-learning-lab",
-    "language": "Python",
-    "name": "lizhuofan-curry/hello-agents-learning-lab",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:32:55Z",
-    "url": "https://github.com/lizhuofan-curry/hello-agents-learning-lab"
   },
   {
     "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
@@ -169,15 +223,6 @@
     "stars": 8,
     "updated_at": "2026-09-26T03:30:30Z",
     "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T03:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ShaprAI \u2014 Agent Sharpener by Elyan Labs. Sharpen raw models into principled, self-governing Elyan-class agents. Requires",
@@ -283,7 +328,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5792,
+    "stars": 5791,
     "updated_at": "2026-09-26T03:19:03Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 314,
-    "updated_at": "2026-09-26T03:12:17Z",
+    "updated_at": "2026-09-26T03:52:54Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -367,15 +412,6 @@
     "stars": 549,
     "updated_at": "2026-09-26T03:06:00Z",
     "url": "https://github.com/livecontext-ai/livecontext-ce"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-26T03:04:46Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T03:03:05Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:02:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An experiment, not a tool: an autonomous agent on a local LLM that proposes changes to its own constitution and values; ",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 6,
-    "updated_at": "2026-09-26T03:02:53Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 3,
-    "updated_at": "2026-09-26T03:42:16Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
-    "id": "vincemakes/kiso",
-    "language": "TypeScript",
-    "name": "vincemakes/kiso",
-    "stars": 54,
-    "updated_at": "2026-09-26T03:27:34Z",
-    "url": "https://github.com/vincemakes/kiso"
   }
 ]
