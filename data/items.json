@@ -1,5 +1,68 @@
 [
   {
+    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
+    "id": "urankwong/agentsgo",
+    "language": "Python",
+    "name": "urankwong/agentsgo",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:44:28Z",
+    "url": "https://github.com/urankwong/agentsgo"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-26T06:40:37Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 313,
+    "updated_at": "2026-09-26T06:35:45Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
+    "id": "erishen/agent-httpd",
+    "language": "C",
+    "name": "erishen/agent-httpd",
+    "stars": 1,
+    "updated_at": "2026-09-26T06:34:04Z",
+    "url": "https://github.com/erishen/agent-httpd"
+  },
+  {
+    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
+    "id": "getsynkora/synkora-ai",
+    "language": "Python",
+    "name": "getsynkora/synkora-ai",
+    "stars": 37,
+    "updated_at": "2026-09-26T06:33:44Z",
+    "url": "https://github.com/getsynkora/synkora-ai"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-26T06:32:47Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T06:30:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Industrial-grade C++23 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming (Continuo trans",
     "id": "dqsjqian/AriaAgent",
     "language": "C++",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 14,
-    "updated_at": "2026-09-26T06:21:48Z",
+    "updated_at": "2026-09-26T06:32:43Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -99,29 +162,11 @@
     "url": "https://github.com/hastekit/agent-sdk-go"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 3,
-    "updated_at": "2026-09-26T06:18:19Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T06:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 2210,
+    "stars": 2211,
     "updated_at": "2026-09-26T06:11:49Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -133,15 +178,6 @@
     "stars": 20,
     "updated_at": "2026-09-26T06:11:35Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
-    "id": "urankwong/agentsgo",
-    "language": "Python",
-    "name": "urankwong/agentsgo",
-    "stars": 0,
-    "updated_at": "2026-09-26T06:10:12Z",
-    "url": "https://github.com/urankwong/agentsgo"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-26T06:13:20Z",
+    "updated_at": "2026-09-26T06:44:42Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -189,6 +225,15 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10246,
+    "updated_at": "2026-09-26T06:03:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -198,21 +243,12 @@
     "url": "https://github.com/karvidsson/kbots"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 313,
-    "updated_at": "2026-09-26T06:23:43Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
     "id": "vincemakes/kiso",
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 54,
-    "updated_at": "2026-09-26T06:00:40Z",
+    "updated_at": "2026-09-26T06:35:53Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35708,
-    "updated_at": "2026-09-26T06:29:53Z",
+    "updated_at": "2026-09-26T06:35:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -279,12 +315,21 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 9,
+    "updated_at": "2026-09-26T05:34:20Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-26T06:29:17Z",
+    "updated_at": "2026-09-26T06:31:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-26T05:14:30Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 22,
-    "updated_at": "2026-09-26T05:13:48Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-26T05:12:50Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:12:25Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-09-26T05:10:39Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
-    "id": "Maroo1121/Agent-Driven-Development",
-    "language": "Shell",
-    "name": "Maroo1121/Agent-Driven-Development",
-    "stars": 1,
-    "updated_at": "2026-09-26T05:10:17Z",
-    "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   }
 ]
