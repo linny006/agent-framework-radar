@@ -1,5 +1,104 @@
 [
   {
+    "description": "Framework-neutral affective/System-One control harness for long-horizon agents",
+    "id": "chanokfortyzz/AffectControl",
+    "language": "\u2014",
+    "name": "chanokfortyzz/AffectControl",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:59:55Z",
+    "url": "https://github.com/chanokfortyzz/AffectControl"
+  },
+  {
+    "description": "\ud83d\udd78\ufe0f Engineer the organization, not just the agent. 591 curated resources \u00b7 9 design layers \u00b7 11 sections \u00b7 273 papers & p",
+    "id": "ChaoYue0307/awesome-graph-engineering",
+    "language": "Python",
+    "name": "ChaoYue0307/awesome-graph-engineering",
+    "stars": 40,
+    "updated_at": "2026-09-26T16:59:17Z",
+    "url": "https://github.com/ChaoYue0307/awesome-graph-engineering"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:59:01Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-26T16:57:36Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:57:09Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Runtime approval gates for AI agent tool calls. Intercept payments and emails before execution",
+    "id": "Diplomat-ai/diplomat-gate",
+    "language": "Python",
+    "name": "Diplomat-ai/diplomat-gate",
+    "stars": 2,
+    "updated_at": "2026-09-26T16:56:50Z",
+    "url": "https://github.com/Diplomat-ai/diplomat-gate"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35718,
+    "updated_at": "2026-09-26T16:56:22Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-09-26T16:55:09Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "An agent framework with metabolic budgeting, graph memory, Governor plan critic, LLM proposer, DSL executor, and Express",
+    "id": "wippa-studios/wippa-agent-core",
+    "language": "TypeScript",
+    "name": "wippa-studios/wippa-agent-core",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:52:11Z",
+    "url": "https://github.com/wippa-studios/wippa-agent-core"
+  },
+  {
+    "description": "Open-source control plane for long-lived AI agents with memory, permissions, and peer collaboration.",
+    "id": "kdpa-llc/peers",
+    "language": "TypeScript",
+    "name": "kdpa-llc/peers",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:45:29Z",
+    "url": "https://github.com/kdpa-llc/peers"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T16:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "paseo-cafe/paseo-cafe",
     "language": "TypeScript",
@@ -59,7 +158,7 @@
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 969,
-    "updated_at": "2026-09-26T16:38:06Z",
+    "updated_at": "2026-09-26T16:56:13Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -86,17 +185,8 @@
     "language": "Python",
     "name": "ErfanMomeniii/openswarm",
     "stars": 2,
-    "updated_at": "2026-09-26T16:36:06Z",
+    "updated_at": "2026-09-26T16:51:50Z",
     "url": "https://github.com/ErfanMomeniii/openswarm"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-09-26T16:45:16Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
@@ -104,7 +194,7 @@
     "language": "Python",
     "name": "ellmos-ai/skills",
     "stars": 6,
-    "updated_at": "2026-09-26T16:34:24Z",
+    "updated_at": "2026-09-26T16:59:09Z",
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
@@ -117,30 +207,12 @@
     "url": "https://github.com/phronesis-framework/phronesis-web"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T16:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-26T16:45:15Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 27,
-    "updated_at": "2026-09-26T16:33:34Z",
+    "updated_at": "2026-09-26T16:54:24Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "retrychx/agentia",
     "stars": 3,
-    "updated_at": "2026-09-26T16:27:40Z",
+    "updated_at": "2026-09-26T16:54:36Z",
     "url": "https://github.com/retrychx/agentia"
   },
   {
@@ -279,15 +351,6 @@
     "url": "https://github.com/ellmos-ai/usmc"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35717,
-    "updated_at": "2026-09-26T16:41:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "NT \u2014 a language for agent ecosystems",
     "id": "kartikmehta8/nt",
     "language": "TypeScript",
@@ -338,7 +401,7 @@
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-26T16:07:05Z",
+    "updated_at": "2026-09-26T16:53:09Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
@@ -346,7 +409,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 319,
+    "stars": 320,
     "updated_at": "2026-09-26T15:20:27Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T15:15:17Z",
     "url": "https://github.com/utsapoddar/dopa-kernel"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-26T15:15:16Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "TypeScript AI agent framework where personality is architecture. Specialists, not chatbots.",
-    "id": "ethosagent/ethos",
-    "language": "TypeScript",
-    "name": "ethosagent/ethos",
-    "stars": 22,
-    "updated_at": "2026-09-26T15:14:41Z",
-    "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3919,
-    "updated_at": "2026-09-26T15:12:36Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-09-26T15:54:21Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:13:28Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:08:12Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:06:53Z",
-    "url": "https://github.com/momang85/weavemind"
   }
 ]
