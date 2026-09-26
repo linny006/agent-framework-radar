@@ -1,5 +1,86 @@
 [
   {
+    "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
+    "id": "Deuz-AI/Deuz-SDK",
+    "language": "TypeScript",
+    "name": "Deuz-AI/Deuz-SDK",
+    "stars": 697,
+    "updated_at": "2026-09-26T18:45:13Z",
+    "url": "https://github.com/Deuz-AI/Deuz-SDK"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1349,
+    "updated_at": "2026-09-26T18:44:56Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-26T18:44:27Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 27,
+    "updated_at": "2026-09-26T18:40:43Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
+    "id": "useagenthq/threads",
+    "language": "Python",
+    "name": "useagenthq/threads",
+    "stars": 2,
+    "updated_at": "2026-09-26T18:41:14Z",
+    "url": "https://github.com/useagenthq/threads"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35718,
+    "updated_at": "2026-09-26T18:45:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Manage upto 1000 agents using automations and workflows",
+    "id": "tinyhumansai/medulla",
+    "language": "Rust",
+    "name": "tinyhumansai/medulla",
+    "stars": 16,
+    "updated_at": "2026-09-26T18:38:45Z",
+    "url": "https://github.com/tinyhumansai/medulla"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-09-26T18:37:49Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T18:35:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An open-source framework for task-based agent swarms with dynamic parallelization, routing, and execution topology.",
     "id": "petehottelet/smythe",
     "language": "Python",
@@ -27,42 +108,6 @@
     "url": "https://github.com/Gnosil/semantix"
   },
   {
-    "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
-    "id": "useagenthq/threads",
-    "language": "Python",
-    "name": "useagenthq/threads",
-    "stars": 2,
-    "updated_at": "2026-09-26T18:35:24Z",
-    "url": "https://github.com/useagenthq/threads"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-09-26T18:32:29Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-26T18:35:26Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T18:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 113,
     "updated_at": "2026-09-26T18:29:47Z",
     "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35718,
-    "updated_at": "2026-09-26T18:35:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-26T18:30:34Z",
+    "updated_at": "2026-09-26T18:44:30Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "hraness/morphogen",
     "stars": 0,
-    "updated_at": "2026-09-26T18:12:46Z",
+    "updated_at": "2026-09-26T18:40:37Z",
     "url": "https://github.com/hraness/morphogen"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 313,
-    "updated_at": "2026-09-26T18:23:59Z",
+    "updated_at": "2026-09-26T18:38:27Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 1,
-    "updated_at": "2026-09-26T18:10:56Z",
+    "updated_at": "2026-09-26T18:39:12Z",
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 2214,
     "updated_at": "2026-09-26T17:52:51Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool",
-    "id": "Deuz-AI/Deuz-SDK",
-    "language": "TypeScript",
-    "name": "Deuz-AI/Deuz-SDK",
-    "stars": 697,
-    "updated_at": "2026-09-26T17:51:31Z",
-    "url": "https://github.com/Deuz-AI/Deuz-SDK"
   },
   {
     "description": "Experimental harness for studying LLM-based agents through trace-based observability and evaluation.",
@@ -349,15 +376,6 @@
     "stars": 10261,
     "updated_at": "2026-09-26T18:32:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 27,
-    "updated_at": "2026-09-26T18:25:18Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T17:22:44Z",
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 6,
-    "updated_at": "2026-09-26T17:22:37Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-09-26T17:22:13Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
   }
 ]
