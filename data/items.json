@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-26T00:44:07Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-26T00:43:31Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:41:03Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1349,
+    "updated_at": "2026-09-26T00:36:01Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-26T00:39:57Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-09-26T00:36:08Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T00:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
     "id": "urankwong/agentsgo",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-26T00:29:56Z",
+    "updated_at": "2026-09-26T00:44:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T00:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
     "id": "junebuild/june",
     "language": "TypeScript",
@@ -70,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-09-26T00:21:19Z",
     "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-26T00:06:05Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -97,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T00:04:39Z",
     "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1349,
-    "updated_at": "2026-09-26T00:26:17Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-26T00:05:09Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "aisecnomad/Project-Nexus",
     "stars": 0,
-    "updated_at": "2026-09-26T00:12:37Z",
+    "updated_at": "2026-09-26T00:35:48Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20179,
-    "updated_at": "2026-09-26T00:28:11Z",
+    "updated_at": "2026-09-26T00:31:54Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T23:29:24Z",
     "url": "https://github.com/punkxuxu/bank_soal"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-25T23:57:44Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "See what your AI agents are actually doing. Local-first tracing and debugging for AI agents \u2014 LLM calls, tool calls, ret",
-    "id": "uoparaji/agentlens",
-    "language": "Python",
-    "name": "uoparaji/agentlens",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:24:56Z",
-    "url": "https://github.com/uoparaji/agentlens"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-25T23:23:49Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
