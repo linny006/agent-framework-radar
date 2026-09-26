@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1349,
+    "updated_at": "2026-09-26T12:12:04Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4413,
+    "updated_at": "2026-09-26T12:10:14Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 10,
+    "updated_at": "2026-09-26T12:08:19Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
+    "id": "erishen/agent-httpd",
+    "language": "C",
+    "name": "erishen/agent-httpd",
+    "stars": 1,
+    "updated_at": "2026-09-26T12:05:28Z",
+    "url": "https://github.com/erishen/agent-httpd"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 70,
+    "updated_at": "2026-09-26T12:02:49Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-26T11:58:33Z",
+    "updated_at": "2026-09-26T12:02:05Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "See what your AI agents are actually doing. Local-first tracing and debugging for AI agents \u2014 LLM calls, tool calls, ret",
+    "id": "uoparaji/agentlens",
+    "language": "Python",
+    "name": "uoparaji/agentlens",
+    "stars": 0,
+    "updated_at": "2026-09-26T12:00:44Z",
+    "url": "https://github.com/uoparaji/agentlens"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T12:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build AI agents in Django. Batteries included.",
@@ -25,6 +88,15 @@
     "stars": 24,
     "updated_at": "2026-09-26T11:56:28Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 958,
+    "updated_at": "2026-09-26T12:13:29Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
@@ -88,15 +160,6 @@
     "stars": 35714,
     "updated_at": "2026-09-26T11:57:57Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T11:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Agents you can replay, fork and trust. An agent framework for TypeScript and Python, built on an append-only event log.",
@@ -261,15 +324,6 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 957,
-    "updated_at": "2026-09-26T11:56:25Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Build an open-source Rust agent OS for autonomous Telegram agents, with one binary, APIs, and a tested Rust codebase",
     "id": "Tamang4607/rustyhand",
     "language": "Rust",
@@ -346,7 +400,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 48584,
+    "stars": 48585,
     "updated_at": "2026-09-26T11:19:21Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T11:17:55Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-09-26T11:16:57Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:15:11Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-09-26T11:14:23Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:14:22Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-09-26T11:12:58Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "Manage autonomous AI agents at scale with persistent sessions, tool access, and safe human oversight in an efficient, sc",
-    "id": "Bohra-Nitin/AgentManager",
-    "language": "\u2014",
-    "name": "Bohra-Nitin/AgentManager",
-    "stars": 0,
-    "updated_at": "2026-09-26T11:11:55Z",
-    "url": "https://github.com/Bohra-Nitin/AgentManager"
   }
 ]
