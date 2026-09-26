@@ -1,21 +1,102 @@
 [
   {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 113,
-    "updated_at": "2026-09-26T20:44:24Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
     "description": "The LLM gateway that learns to skip the LLM. Trains its own tiny model on your agent's decisions and makes them in 0.2 m",
     "id": "singhpratech/pankhllm",
     "language": "Rust",
     "name": "singhpratech/pankhllm",
     "stars": 0,
-    "updated_at": "2026-09-26T20:43:47Z",
+    "updated_at": "2026-09-26T20:58:25Z",
     "url": "https://github.com/singhpratech/pankhllm"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 16,
+    "updated_at": "2026-09-26T20:58:04Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability",
+    "id": "AndrewAltimit/template-repo",
+    "language": "Rust",
+    "name": "AndrewAltimit/template-repo",
+    "stars": 132,
+    "updated_at": "2026-09-26T20:54:52Z",
+    "url": "https://github.com/AndrewAltimit/template-repo"
+  },
+  {
+    "description": "Personel Assistant On Telegram",
+    "id": "EmreAka/Assistant",
+    "language": "C#",
+    "name": "EmreAka/Assistant",
+    "stars": 2,
+    "updated_at": "2026-09-26T20:50:22Z",
+    "url": "https://github.com/EmreAka/Assistant"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:51:29Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 1,
+    "updated_at": "2026-09-26T20:48:36Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 27,
+    "updated_at": "2026-09-26T20:52:17Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 78,
+    "updated_at": "2026-09-26T20:48:19Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 304,
+    "updated_at": "2026-09-26T20:57:29Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T20:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 113,
+    "updated_at": "2026-09-26T20:59:26Z",
+    "url": "https://github.com/assafkip/kipi-system"
   },
   {
     "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
@@ -23,7 +104,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 10,
-    "updated_at": "2026-09-26T20:41:20Z",
+    "updated_at": "2026-09-26T20:50:56Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -45,31 +126,13 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 1,
-    "updated_at": "2026-09-26T20:39:10Z",
-    "url": "https://github.com/bhodgens/meept"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35719,
-    "updated_at": "2026-09-26T20:39:06Z",
+    "updated_at": "2026-09-26T20:54:51Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Personel Assistant On Telegram",
-    "id": "EmreAka/Assistant",
-    "language": "C#",
-    "name": "EmreAka/Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-26T20:38:40Z",
-    "url": "https://github.com/EmreAka/Assistant"
   },
   {
     "description": "DIY your own agent team harness for long-horizon agent work",
@@ -144,15 +207,6 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T20:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
     "id": "Ash20pk/BerthOS",
     "language": "TypeScript",
@@ -169,15 +223,6 @@
     "stars": 6347,
     "updated_at": "2026-09-26T20:29:38Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 27,
-    "updated_at": "2026-09-26T20:31:38Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Typed, replayable workflow organisms for AI agents \u2014 deterministic graph structure, bounded agent cells, offline-verifia",
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 14,
-    "updated_at": "2026-09-26T20:17:23Z",
+    "updated_at": "2026-09-26T20:56:07Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-26T20:17:10Z",
+    "updated_at": "2026-09-26T20:58:46Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -297,15 +342,6 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 304,
-    "updated_at": "2026-09-26T20:41:33Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:47:07Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
-    "id": "lifishard/wickrunAI",
-    "language": "JavaScript",
-    "name": "lifishard/wickrunAI",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:49:47Z",
-    "url": "https://github.com/lifishard/wickrunAI"
   },
   {
     "description": "Fork of DeepSeek Harness: plugin-based agent runtime on Cordis with head/executor orchestration, unified execution state",
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-26T20:33:52Z",
+    "updated_at": "2026-09-26T20:52:50Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/manishiitg/coding-agent-loop"
   },
   {
-    "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability",
-    "id": "AndrewAltimit/template-repo",
-    "language": "Rust",
-    "name": "AndrewAltimit/template-repo",
-    "stars": 132,
-    "updated_at": "2026-09-26T19:23:54Z",
-    "url": "https://github.com/AndrewAltimit/template-repo"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 64,
     "updated_at": "2026-09-26T19:20:17Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 14,
-    "updated_at": "2026-09-26T19:17:14Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Self-forging agent framework: an agent that designs, verifies and repairs its own tools. Includes the independent validi",
-    "id": "ZhangYangyi03/autoforge",
-    "language": "Python",
-    "name": "ZhangYangyi03/autoforge",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:08:12Z",
-    "url": "https://github.com/ZhangYangyi03/autoforge"
   }
 ]
