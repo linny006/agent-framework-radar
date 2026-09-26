@@ -1,12 +1,93 @@
 [
   {
-    "description": "ShaprAI \u2014 Agent Sharpener by Elyan Labs. Sharpen raw models into principled, self-governing Elyan-class agents. Requires",
-    "id": "Scottcjn/shaprai",
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-09-26T03:42:17Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:42:03Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
     "language": "Python",
-    "name": "Scottcjn/shaprai",
-    "stars": 73,
-    "updated_at": "2026-09-26T03:30:19Z",
-    "url": "https://github.com/Scottcjn/shaprai"
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-09-26T03:41:51Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
+    "id": "erishen/agent-httpd",
+    "language": "C",
+    "name": "erishen/agent-httpd",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:40:38Z",
+    "url": "https://github.com/erishen/agent-httpd"
+  },
+  {
+    "description": "Evidence-first research agent that plans a task DAG, researches in parallel, writes a cited report, and verifies every c",
+    "id": "limengge426/researchloop",
+    "language": "Python",
+    "name": "limengge426/researchloop",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:40:34Z",
+    "url": "https://github.com/limengge426/researchloop"
+  },
+  {
+    "description": "Orchestrate hierarchical agents in OpenCode with dependency-aware boards, parallel builders, and evidence-gated completi",
+    "id": "ygudoshnikov-debug/opencode-agent-foundry",
+    "language": "TypeScript",
+    "name": "ygudoshnikov-debug/opencode-agent-foundry",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:39:55Z",
+    "url": "https://github.com/ygudoshnikov-debug/opencode-agent-foundry"
+  },
+  {
+    "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
+    "id": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
+    "language": "\u2014",
+    "name": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:39:53Z",
+    "url": "https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review"
+  },
+  {
+    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
+    "id": "autocatalytic-quartette9513/agent-git",
+    "language": "\u2014",
+    "name": "autocatalytic-quartette9513/agent-git",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:39:34Z",
+    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
+  },
+  {
+    "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
+    "id": "pingpongballbouncingbetty737/embabel-agent",
+    "language": "\u2014",
+    "name": "pingpongballbouncingbetty737/embabel-agent",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:37:31Z",
+    "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35709,
+    "updated_at": "2026-09-26T03:36:27Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +95,98 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 113,
-    "updated_at": "2026-09-26T03:29:49Z",
+    "updated_at": "2026-09-26T03:35:17Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "ShadowScan discovers unregistered AI agents across code, identity, gateways, low-code, SaaS, and cloud : 178 signatures,",
+    "id": "aisecnomad/Project-Nexus",
+    "language": "Python",
+    "name": "aisecnomad/Project-Nexus",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:42:12Z",
+    "url": "https://github.com/aisecnomad/Project-Nexus"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 122,
+    "updated_at": "2026-09-26T03:34:24Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "\u4ece ELIZA\u3001N-gram/BPE \u5230 ReAct\u3001\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u4e0e\u81ea\u5236 HelloAgents\uff1a\u7528\u4e2d\u6587\u7b14\u8bb0\u548c Python \u5b9e\u9a8c\uff0c\u62c6\u89e3 Plan-and-Solve\u3001Reflection \u4e0e Function Calling\uff1buv \u5206\u7ae0\u7ba1",
+    "id": "lizhuofan-curry/hello-agents-learning-lab",
+    "language": "Python",
+    "name": "lizhuofan-curry/hello-agents-learning-lab",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:32:55Z",
+    "url": "https://github.com/lizhuofan-curry/hello-agents-learning-lab"
+  },
+  {
+    "description": "Build collaborative AI agent teams on an open-source platform designed for complex digital workflows.",
+    "id": "Asceticrefractoryperiod28/Foundry",
+    "language": "TypeScript",
+    "name": "Asceticrefractoryperiod28/Foundry",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:32:43Z",
+    "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
+  },
+  {
+    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
+    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "language": "Python",
+    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:31:38Z",
+    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
+  },
+  {
+    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
+    "id": "sloppy-yeast840/tri-party-framework",
+    "language": "Shell",
+    "name": "sloppy-yeast840/tri-party-framework",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:31:28Z",
+    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:31:27Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 8,
+    "updated_at": "2026-09-26T03:30:30Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-26T03:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "ShaprAI \u2014 Agent Sharpener by Elyan Labs. Sharpen raw models into principled, self-governing Elyan-class agents. Requires",
+    "id": "Scottcjn/shaprai",
+    "language": "Python",
+    "name": "Scottcjn/shaprai",
+    "stars": 73,
+    "updated_at": "2026-09-26T03:30:38Z",
+    "url": "https://github.com/Scottcjn/shaprai"
   },
   {
     "description": "Protocol-agnostic local-file workbench for asynchronous multi-agent collaboration \u2014 any read/write-capable AI agent (any",
@@ -34,15 +205,6 @@
     "stars": 22,
     "updated_at": "2026-09-26T03:29:05Z",
     "url": "https://github.com/ethosagent/ethos"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35709,
-    "updated_at": "2026-09-26T03:26:25Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
@@ -68,7 +230,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 27,
-    "updated_at": "2026-09-26T03:24:58Z",
+    "updated_at": "2026-09-26T03:40:38Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -121,7 +283,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 5791,
+    "stars": 5792,
     "updated_at": "2026-09-26T03:19:03Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -162,24 +324,6 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-26T03:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
-    "id": "erishen/agent-httpd",
-    "language": "C",
-    "name": "erishen/agent-httpd",
-    "stars": 1,
-    "updated_at": "2026-09-26T03:14:13Z",
-    "url": "https://github.com/erishen/agent-httpd"
-  },
-  {
     "description": "Libra: Efficient Resource Management for Agentic RL Post-Training",
     "id": "NetX-lab/Libra",
     "language": "Python",
@@ -202,7 +346,7 @@
     "id": "autonomous-ai/openharness",
     "language": "C",
     "name": "autonomous-ai/openharness",
-    "stars": 931,
+    "stars": 932,
     "updated_at": "2026-09-26T03:10:09Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
@@ -216,20 +360,11 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "ShadowScan discovers unregistered AI agents across code, identity, gateways, low-code, SaaS, and cloud : 178 signatures,",
-    "id": "aisecnomad/Project-Nexus",
-    "language": "Python",
-    "name": "aisecnomad/Project-Nexus",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:22:08Z",
-    "url": "https://github.com/aisecnomad/Project-Nexus"
-  },
-  {
     "description": "The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped ",
     "id": "livecontext-ai/livecontext-ce",
     "language": "Java",
     "name": "livecontext-ai/livecontext-ce",
-    "stars": 548,
+    "stars": 549,
     "updated_at": "2026-09-26T03:06:00Z",
     "url": "https://github.com/livecontext-ai/livecontext-ce"
   },
@@ -302,7 +437,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-09-26T03:15:45Z",
+    "updated_at": "2026-09-26T03:42:16Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 54,
     "updated_at": "2026-09-26T03:27:34Z",
     "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-09-26T03:01:47Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "A lightweight Kotlin agent framework and IntelliJ IDEA plugin for streaming LLM tool-calling agents that read and edit f",
-    "id": "lg841226/Gradum",
-    "language": "Kotlin",
-    "name": "lg841226/Gradum",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:58:28Z",
-    "url": "https://github.com/lg841226/Gradum"
-  },
-  {
-    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
-    "id": "lifishard/wickrunAI",
-    "language": "JavaScript",
-    "name": "lifishard/wickrunAI",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:59:12Z",
-    "url": "https://github.com/lifishard/wickrunAI"
-  },
-  {
-    "description": "\u4ece ELIZA\u3001N-gram/BPE \u5230 ReAct\u3001\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u4e0e\u81ea\u5236 HelloAgents\uff1a\u7528\u4e2d\u6587\u7b14\u8bb0\u548c Python \u5b9e\u9a8c\uff0c\u62c6\u89e3 Plan-and-Solve\u3001Reflection \u4e0e Function Calling\uff1buv \u5206\u7ae0\u7ba1",
-    "id": "lizhuofan-curry/hello-agents-learning-lab",
-    "language": "Python",
-    "name": "lizhuofan-curry/hello-agents-learning-lab",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:56:56Z",
-    "url": "https://github.com/lizhuofan-curry/hello-agents-learning-lab"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-09-26T02:51:34Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 11,
-    "updated_at": "2026-09-26T02:49:39Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
-  },
-  {
-    "description": "Industrial-grade C++23 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming (Continuo trans",
-    "id": "dqsjqian/AriaAgent",
-    "language": "C++",
-    "name": "dqsjqian/AriaAgent",
-    "stars": 5,
-    "updated_at": "2026-09-26T02:47:27Z",
-    "url": "https://github.com/dqsjqian/AriaAgent"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 14,
-    "updated_at": "2026-09-26T02:44:41Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1349,
-    "updated_at": "2026-09-26T02:39:29Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 151,
-    "updated_at": "2026-09-26T02:38:37Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 235,
-    "updated_at": "2026-09-26T02:36:02Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 1,
-    "updated_at": "2026-09-26T02:35:49Z",
-    "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "Evidence-first research agent that plans a task DAG, researches in parallel, writes a cited report, and verifies every c",
-    "id": "limengge426/researchloop",
-    "language": "Python",
-    "name": "limengge426/researchloop",
-    "stars": 0,
-    "updated_at": "2026-09-26T02:33:17Z",
-    "url": "https://github.com/limengge426/researchloop"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6343,
-    "updated_at": "2026-09-26T02:29:25Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-09-26T02:22:03Z",
-    "url": "https://github.com/kdcube/kdcube"
   }
 ]
