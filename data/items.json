@@ -1,12 +1,66 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-09-27T09:29:57Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
+    "id": "hibuka-labs/phi-agent",
+    "language": "Rust",
+    "name": "hibuka-labs/phi-agent",
+    "stars": 15,
+    "updated_at": "2026-09-27T09:28:35Z",
+    "url": "https://github.com/hibuka-labs/phi-agent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35713,
+    "updated_at": "2026-09-27T09:27:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-09-27T09:23:17Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
     "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
     "id": "manishiitg/coding-agent-loop",
     "language": "Go",
     "name": "manishiitg/coding-agent-loop",
     "stars": 13,
-    "updated_at": "2026-09-27T09:14:35Z",
+    "updated_at": "2026-09-27T09:22:39Z",
     "url": "https://github.com/manishiitg/coding-agent-loop"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 979,
+    "updated_at": "2026-09-27T09:29:42Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-09-27T09:22:17Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Agentic AI Harness Library for Local LLMs",
@@ -14,8 +68,44 @@
     "language": "C#",
     "name": "SideDevEC/ECAssistantCore",
     "stars": 0,
-    "updated_at": "2026-09-27T09:14:07Z",
+    "updated_at": "2026-09-27T09:21:51Z",
     "url": "https://github.com/SideDevEC/ECAssistantCore"
+  },
+  {
+    "description": "Embeddable AI agent core: OpenAI-compatible providers, tools, skills, MCP, memory, sessions, an ACP-compatible sidecar p",
+    "id": "baicaibucai1/nosie-agent-core",
+    "language": "TypeScript",
+    "name": "baicaibucai1/nosie-agent-core",
+    "stars": 1,
+    "updated_at": "2026-09-27T09:18:57Z",
+    "url": "https://github.com/baicaibucai1/nosie-agent-core"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 106,
+    "updated_at": "2026-09-27T09:18:12Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-27T09:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20207,
+    "updated_at": "2026-09-27T09:24:51Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-27T09:11:00Z",
+    "updated_at": "2026-09-27T09:17:31Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -45,31 +135,13 @@
     "url": "https://github.com/opencue/cuecards"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35713,
-    "updated_at": "2026-09-27T09:13:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-09-27T09:05:16Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20206,
-    "updated_at": "2026-09-27T09:12:56Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "description": "Desktop & Browser friendly agent automation",
+    "id": "tinyhumansai/tinydesktop",
+    "language": "Rust",
+    "name": "tinyhumansai/tinydesktop",
+    "stars": 3,
+    "updated_at": "2026-09-27T09:05:47Z",
+    "url": "https://github.com/tinyhumansai/tinydesktop"
   },
   {
     "description": "Signomy \u2014 governed AI agent marketplace and city-state. Agents register free, operators pay. MO\u00a7ES\u2122 constitutional gover",
@@ -90,21 +162,12 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-27T09:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1350,
-    "updated_at": "2026-09-27T09:09:31Z",
+    "updated_at": "2026-09-27T09:28:18Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -124,24 +187,6 @@
     "stars": 38,
     "updated_at": "2026-09-27T08:54:31Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 979,
-    "updated_at": "2026-09-27T09:04:42Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 106,
-    "updated_at": "2026-09-27T09:14:41Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T08:47:56Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
-  },
-  {
-    "description": "Embeddable AI agent core: OpenAI-compatible providers, tools, skills, MCP, memory, sessions, an ACP-compatible sidecar p",
-    "id": "baicaibucai1/nosie-agent-core",
-    "language": "TypeScript",
-    "name": "baicaibucai1/nosie-agent-core",
-    "stars": 1,
-    "updated_at": "2026-09-27T08:47:36Z",
-    "url": "https://github.com/baicaibucai1/nosie-agent-core"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -212,7 +248,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 10,
-    "updated_at": "2026-09-27T09:10:22Z",
+    "updated_at": "2026-09-27T09:29:00Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 1,
-    "updated_at": "2026-09-27T08:27:26Z",
+    "updated_at": "2026-09-27T09:29:19Z",
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Svelte",
     "name": "qbtrix/ripple-iui",
     "stars": 8,
-    "updated_at": "2026-09-27T08:18:01Z",
+    "updated_at": "2026-09-27T09:26:44Z",
     "url": "https://github.com/qbtrix/ripple-iui"
   },
   {
@@ -320,7 +356,7 @@
     "language": "C",
     "name": "erishen/agent-httpd",
     "stars": 1,
-    "updated_at": "2026-09-27T08:17:35Z",
+    "updated_at": "2026-09-27T09:17:24Z",
     "url": "https://github.com/erishen/agent-httpd"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-27T08:11:17Z",
     "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 305,
-    "updated_at": "2026-09-27T08:52:57Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-09-27T08:10:49Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 1,
-    "updated_at": "2026-09-27T08:10:19Z",
-    "url": "https://github.com/bhodgens/meept"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-09-27T08:08:50Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
