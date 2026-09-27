@@ -1,11 +1,38 @@
 [
   {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 64,
+    "updated_at": "2026-09-27T03:00:03Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35720,
+    "updated_at": "2026-09-27T02:58:52Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-27T02:56:38Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Nessy \u2014 an AI agent harness framework for Java",
     "id": "jwcarman/nessy",
     "language": "Java",
     "name": "jwcarman/nessy",
     "stars": 2,
-    "updated_at": "2026-09-27T02:56:24Z",
+    "updated_at": "2026-09-27T02:58:36Z",
     "url": "https://github.com/jwcarman/nessy"
   },
   {
@@ -14,17 +41,8 @@
     "language": "TypeScript",
     "name": "retrychx/agentia",
     "stars": 3,
-    "updated_at": "2026-09-27T02:56:08Z",
+    "updated_at": "2026-09-27T02:56:48Z",
     "url": "https://github.com/retrychx/agentia"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 64,
-    "updated_at": "2026-09-27T02:55:51Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -81,15 +99,6 @@
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35721,
-    "updated_at": "2026-09-27T02:50:49Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
     "id": "Akagilnc/ak-pi-workflow-roles",
     "language": "TypeScript",
@@ -113,17 +122,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1349,
-    "updated_at": "2026-09-27T02:50:05Z",
+    "updated_at": "2026-09-27T02:58:50Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-27T02:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-09-27T02:56:25Z",
+    "updated_at": "2026-09-27T02:56:37Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -158,7 +158,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-27T02:38:57Z",
+    "updated_at": "2026-09-27T02:59:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T02:46:16Z",
+    "updated_at": "2026-09-27T02:56:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {

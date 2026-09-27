@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 02:56 UTC
+> ⏰ Last updated: 2026-09-27 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jwcarman/nessy](https://github.com/jwcarman/nessy) | 2 | Java | 2026-09-27 | Nessy — an AI agent harness framework for Java |
-| 2 | [retrychx/agentia](https://github.com/retrychx/agentia) | 3 | TypeScript | 2026-09-27 | 面向应用开发的声明式 agent 服务开发框架：装饰器 + DI 声明四类能力，主 agent 编排执行；每次 run 产出结构化结果与可观测调用树（trace、成本、指标），交付可直接上线的服务。 |
-| 3 | [fastagent-sh/fastagent](https://github.com/fastagent-sh/fastagent) | 64 | TypeScript | 2026-09-27 | Vibe first. Then FastAgent — turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a |
-| 4 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 16 | TypeScript | 2026-09-27 | AI agent with zero dependencies, bring your own bun |
-| 5 | [chanokfortyzz/AffectControl](https://github.com/chanokfortyzz/AffectControl) | 1 | Python | 2026-09-27 | Framework-neutral affective/System-One control harness for long-horizon agents |
-| 6 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 55 | TypeScript | 2026-09-27 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
-| 7 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 6 | Python | 2026-09-27 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
-| 8 | [franktsaodev/Frank-AI-Agent](https://github.com/franktsaodev/Frank-AI-Agent) | 0 | Python | 2026-09-27 | A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D |
-| 9 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 3 | TypeScript | 2026-09-27 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
-| 10 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35721 | Go | 2026-09-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
-| 11 | [Akagilnc/ak-pi-workflow-roles](https://github.com/Akagilnc/ak-pi-workflow-roles) | 5 | TypeScript | 2026-09-27 | A governance layer for AI coding work — not an orchestrator. Seven gated roles with typed submissions, independent audit |
-| 12 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-09-27 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
-| 13 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1349 | TypeScript | 2026-09-27 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
-| 14 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [fastagent-sh/fastagent](https://github.com/fastagent-sh/fastagent) | 64 | TypeScript | 2026-09-27 | Vibe first. Then FastAgent — turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a |
+| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35720 | Go | 2026-09-27 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 6 | Python | 2026-09-27 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [jwcarman/nessy](https://github.com/jwcarman/nessy) | 2 | Java | 2026-09-27 | Nessy — an AI agent harness framework for Java |
+| 5 | [retrychx/agentia](https://github.com/retrychx/agentia) | 3 | TypeScript | 2026-09-27 | 面向应用开发的声明式 agent 服务开发框架：装饰器 + DI 声明四类能力，主 agent 编排执行；每次 run 产出结构化结果与可观测调用树（trace、成本、指标），交付可直接上线的服务。 |
+| 6 | [devoidfury/hotdog](https://github.com/devoidfury/hotdog) | 16 | TypeScript | 2026-09-27 | AI agent with zero dependencies, bring your own bun |
+| 7 | [chanokfortyzz/AffectControl](https://github.com/chanokfortyzz/AffectControl) | 1 | Python | 2026-09-27 | Framework-neutral affective/System-One control harness for long-horizon agents |
+| 8 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 55 | TypeScript | 2026-09-27 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
+| 9 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 6 | Python | 2026-09-27 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
+| 10 | [franktsaodev/Frank-AI-Agent](https://github.com/franktsaodev/Frank-AI-Agent) | 0 | Python | 2026-09-27 | A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D |
+| 11 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 3 | TypeScript | 2026-09-27 | A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits. |
+| 12 | [Akagilnc/ak-pi-workflow-roles](https://github.com/Akagilnc/ak-pi-workflow-roles) | 5 | TypeScript | 2026-09-27 | A governance layer for AI coding work — not an orchestrator. Seven gated roles with typed submissions, independent audit |
+| 13 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-09-27 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
+| 14 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1349 | TypeScript | 2026-09-27 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
 | 15 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-09-27 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
 | 16 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10271 | Python | 2026-09-27 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
 | 17 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 312 | TypeScript | 2026-09-27 | DIY your own agent team harness for long-horizon agent work |
