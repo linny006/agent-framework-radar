@@ -1,5 +1,77 @@
 [
   {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2702,
+    "updated_at": "2026-09-27T21:08:14Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Linux \u4e0a\u7684\u672c\u5730\u4f18\u5148 AI Agent \u8fd0\u884c\u65f6\uff1a\u5206\u5c42\u8bb0\u5fc6 + \u957f\u4efb\u52a1 + \u6280\u80fd/\u63d2\u4ef6 harness\uff0c\u5bf9\u8bdd\u00b7\u8bed\u97f3\u00b7\u753b\u56fe\u7edf\u4e00\u8d70 OpenAI \u517c\u5bb9\u63a5\u53e3\uff1b\u524d\u7aef TypeScript \u6e90\u7801\u76f4\u670d\u514d\u6784\u5efa\uff0csystemd \u6258\u7ba1\uff0c\u5e76\u539f\u751f\u652f\u914d Linu",
+    "id": "geek-alpha/dabai-linux",
+    "language": "Python",
+    "name": "geek-alpha/dabai-linux",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:08:13Z",
+    "url": "https://github.com/geek-alpha/dabai-linux"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 3,
+    "updated_at": "2026-09-27T21:06:39Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 1,
+    "updated_at": "2026-09-27T21:04:34Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T21:09:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Agent-friendly Computer Control (Desktop & Browser automation) powered by Decision models (JEV) written in Rust. ",
+    "id": "tinyhumansai/tinycomputer",
+    "language": "Rust",
+    "name": "tinyhumansai/tinycomputer",
+    "stars": 3,
+    "updated_at": "2026-09-27T21:02:45Z",
+    "url": "https://github.com/tinyhumansai/tinycomputer"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 4,
+    "updated_at": "2026-09-27T21:09:07Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-27T21:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
     "id": "Dr-SoloDev/Lab-solocorp-os2.4",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "emqnuele/projectBEA",
     "stars": 20,
-    "updated_at": "2026-09-27T20:59:56Z",
+    "updated_at": "2026-09-27T21:01:42Z",
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-27T20:59:49Z",
+    "updated_at": "2026-09-27T21:06:07Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T20:58:10Z",
     "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 3,
-    "updated_at": "2026-09-27T20:56:57Z",
-    "url": "https://github.com/fworks-tech/agenthood"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -117,42 +180,6 @@
     "url": "https://github.com/juanmanueldaza/n3rv"
   },
   {
-    "description": "Agent-friendly Computer Control (Desktop & Browser automation) powered by Decision models (JEV) written in Rust. ",
-    "id": "tinyhumansai/tinycomputer",
-    "language": "Rust",
-    "name": "tinyhumansai/tinycomputer",
-    "stars": 3,
-    "updated_at": "2026-09-27T20:51:41Z",
-    "url": "https://github.com/tinyhumansai/tinycomputer"
-  },
-  {
-    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 1,
-    "updated_at": "2026-09-27T20:51:19Z",
-    "url": "https://github.com/bhodgens/meept"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 4,
-    "updated_at": "2026-09-27T20:57:42Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Linux \u4e0a\u7684\u672c\u5730\u4f18\u5148 AI Agent \u8fd0\u884c\u65f6\uff1a\u5206\u5c42\u8bb0\u5fc6 + \u957f\u4efb\u52a1 + \u6280\u80fd/\u63d2\u4ef6 harness\uff0c\u5bf9\u8bdd\u00b7\u8bed\u97f3\u00b7\u753b\u56fe\u7edf\u4e00\u8d70 OpenAI \u517c\u5bb9\u63a5\u53e3\uff1b\u524d\u7aef TypeScript \u6e90\u7801\u76f4\u670d\u514d\u6784\u5efa\uff0csystemd \u6258\u7ba1\uff0c\u5e76\u539f\u751f\u652f\u914d Linu",
-    "id": "geek-alpha/dabai-linux",
-    "language": "Python",
-    "name": "geek-alpha/dabai-linux",
-    "stars": 0,
-    "updated_at": "2026-09-27T20:48:41Z",
-    "url": "https://github.com/geek-alpha/dabai-linux"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -178,24 +205,6 @@
     "stars": 1350,
     "updated_at": "2026-09-27T20:46:01Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T20:47:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-27T20:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -270,15 +279,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2702,
-    "updated_at": "2026-09-27T20:57:53Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "Smoke Monkey harness \u2014 build AI agents, code editors, and agentic tools in a few steps. Agent loop, tools, permissions, ",
     "id": "RajdeepDevelopment/smoke-monkey-harness",
     "language": "TypeScript",
@@ -329,7 +329,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 306,
-    "updated_at": "2026-09-27T20:57:23Z",
+    "updated_at": "2026-09-27T21:09:59Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T20:50:48Z",
+    "updated_at": "2026-09-27T21:08:14Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 114,
-    "updated_at": "2026-09-27T20:31:24Z",
+    "updated_at": "2026-09-27T21:11:01Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
