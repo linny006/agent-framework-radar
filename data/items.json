@@ -1,12 +1,21 @@
 [
   {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
     "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 64,
-    "updated_at": "2026-09-27T03:00:03Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-09-27T03:15:06Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2214,
+    "updated_at": "2026-09-27T03:13:51Z",
+    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
@@ -14,17 +23,44 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35720,
-    "updated_at": "2026-09-27T02:58:52Z",
+    "updated_at": "2026-09-27T03:13:20Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 64,
+    "updated_at": "2026-09-27T03:12:16Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "DeepTrace: a fault-tolerant deep research agent that traces every claim to its source. Claim-level faithfulness checks, ",
+    "id": "limengge426/deeptrace-research-agent",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-27T02:56:38Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "limengge426/deeptrace-research-agent",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:11:36Z",
+    "url": "https://github.com/limengge426/deeptrace-research-agent"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-27T03:10:26Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "The operating system for human-AI teams. Turn a shared folder into a governed multi-agent system. No code, no server, no",
+    "id": "tropo-ai/tropo",
+    "language": "Python",
+    "name": "tropo-ai/tropo",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:09:18Z",
+    "url": "https://github.com/tropo-ai/tropo"
   },
   {
     "description": "Nessy \u2014 an AI agent harness framework for Java",
@@ -32,8 +68,44 @@
     "language": "Java",
     "name": "jwcarman/nessy",
     "stars": 2,
-    "updated_at": "2026-09-27T02:58:36Z",
+    "updated_at": "2026-09-27T03:09:03Z",
     "url": "https://github.com/jwcarman/nessy"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:08:38Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-09-27T03:08:36Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Framework-neutral affective/System-One control harness for long-horizon agents",
+    "id": "chanokfortyzz/AffectControl",
+    "language": "Python",
+    "name": "chanokfortyzz/AffectControl",
+    "stars": 1,
+    "updated_at": "2026-09-27T03:02:52Z",
+    "url": "https://github.com/chanokfortyzz/AffectControl"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 5,
+    "updated_at": "2026-09-27T03:10:32Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
     "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
@@ -41,8 +113,17 @@
     "language": "TypeScript",
     "name": "retrychx/agentia",
     "stars": 3,
-    "updated_at": "2026-09-27T02:56:48Z",
+    "updated_at": "2026-09-27T03:13:19Z",
     "url": "https://github.com/retrychx/agentia"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-27T03:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -54,21 +135,12 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "Framework-neutral affective/System-One control harness for long-horizon agents",
-    "id": "chanokfortyzz/AffectControl",
-    "language": "Python",
-    "name": "chanokfortyzz/AffectControl",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:54:06Z",
-    "url": "https://github.com/chanokfortyzz/AffectControl"
-  },
-  {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 55,
-    "updated_at": "2026-09-27T02:56:04Z",
+    "updated_at": "2026-09-27T03:03:22Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -99,15 +171,6 @@
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 5,
-    "updated_at": "2026-09-27T02:50:42Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
     "id": "cerredz/Vidbyte-SDK",
     "language": "Python",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1349,
-    "updated_at": "2026-09-27T02:58:50Z",
+    "updated_at": "2026-09-27T03:13:40Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-09-27T02:56:37Z",
+    "updated_at": "2026-09-27T03:14:14Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-09-27T02:39:33Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-09-27T02:59:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "DeepTrace: a fault-tolerant deep research agent that traces every claim to its source. Claim-level faithfulness checks, ",
-    "id": "limengge426/deeptrace-research-agent",
-    "language": "Python",
-    "name": "limengge426/deeptrace-research-agent",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:30:04Z",
-    "url": "https://github.com/limengge426/deeptrace-research-agent"
   },
   {
     "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-09-27T02:26:20Z",
+    "updated_at": "2026-09-27T03:14:22Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 5,
     "updated_at": "2026-09-27T02:25:58Z",
     "url": "https://github.com/dqsjqian/AriaAgent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-27T02:25:22Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-27T02:56:41Z",
+    "updated_at": "2026-09-27T03:07:15Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 324,
     "updated_at": "2026-09-27T02:12:31Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:12:19Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Build and manage multi-agent collaboration systems with DAG orchestration and a layered memory architecture for efficien",
-    "id": "Ibisselfgovernment28/v1-multiagent-articles",
-    "language": "\u2014",
-    "name": "Ibisselfgovernment28/v1-multiagent-articles",
-    "stars": 1,
-    "updated_at": "2026-09-27T02:11:26Z",
-    "url": "https://github.com/Ibisselfgovernment28/v1-multiagent-articles"
-  },
-  {
-    "description": "Analyze AI codebases to identify integration points, security risks, and test coverage gaps in one step with comprehensi",
-    "id": "kokorubbong/agenticqa-scan-action",
-    "language": "Python",
-    "name": "kokorubbong/agenticqa-scan-action",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:09:53Z",
-    "url": "https://github.com/kokorubbong/agenticqa-scan-action"
-  },
-  {
-    "description": "Provide practical AI interview questions focused on production deployment in real-world MENA enterprise environments.",
-    "id": "luwelle/Production_GenAI_interview",
-    "language": "\u2014",
-    "name": "luwelle/Production_GenAI_interview",
-    "stars": 0,
-    "updated_at": "2026-09-27T02:09:04Z",
-    "url": "https://github.com/luwelle/Production_GenAI_interview"
   }
 ]
