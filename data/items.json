@@ -1,12 +1,147 @@
 [
   {
+    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 38,
+    "updated_at": "2026-09-27T21:30:06Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
+    "id": "Unknown384-come/agent-runner",
+    "language": "Go",
+    "name": "Unknown384-come/agent-runner",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:27:35Z",
+    "url": "https://github.com/Unknown384-come/agent-runner"
+  },
+  {
+    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
+    "id": "Rayan55050/progressive-agent",
+    "language": "Python",
+    "name": "Rayan55050/progressive-agent",
+    "stars": 2,
+    "updated_at": "2026-09-27T21:26:53Z",
+    "url": "https://github.com/Rayan55050/progressive-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-27T21:26:03Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 58,
+    "updated_at": "2026-09-27T21:25:28Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-09-27T21:25:23Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 2702,
-    "updated_at": "2026-09-27T21:08:14Z",
+    "stars": 2703,
+    "updated_at": "2026-09-27T21:25:11Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
+    "id": "tareksyria/SREAgents",
+    "language": "JavaScript",
+    "name": "tareksyria/SREAgents",
+    "stars": 1,
+    "updated_at": "2026-09-27T21:24:29Z",
+    "url": "https://github.com/tareksyria/SREAgents"
+  },
+  {
+    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
+    "id": "RONIN511/alphora",
+    "language": "Python",
+    "name": "RONIN511/alphora",
+    "stars": 2,
+    "updated_at": "2026-09-27T21:23:30Z",
+    "url": "https://github.com/RONIN511/alphora"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-27T21:22:02Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
+    "id": "kaydenplayZ/agent-skills-guide",
+    "language": "\u2014",
+    "name": "kaydenplayZ/agent-skills-guide",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:20:00Z",
+    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
+  },
+  {
+    "description": "Developer-friendly LLM agent harness built on Jido and Jido AI",
+    "id": "agentjido/jidoka-legacy",
+    "language": "Elixir",
+    "name": "agentjido/jidoka-legacy",
+    "stars": 44,
+    "updated_at": "2026-09-27T21:18:12Z",
+    "url": "https://github.com/agentjido/jidoka-legacy"
+  },
+  {
+    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
+    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "language": "Python",
+    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
+    "stars": 0,
+    "updated_at": "2026-09-27T21:17:39Z",
+    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 4,
+    "updated_at": "2026-09-27T21:29:54Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 1,
+    "updated_at": "2026-09-27T21:15:54Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-27T21:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Linux \u4e0a\u7684\u672c\u5730\u4f18\u5148 AI Agent \u8fd0\u884c\u65f6\uff1a\u5206\u5c42\u8bb0\u5fc6 + \u957f\u4efb\u52a1 + \u6280\u80fd/\u63d2\u4ef6 harness\uff0c\u5bf9\u8bdd\u00b7\u8bed\u97f3\u00b7\u753b\u56fe\u7edf\u4e00\u8d70 OpenAI \u517c\u5bb9\u63a5\u53e3\uff1b\u524d\u7aef TypeScript \u6e90\u7801\u76f4\u670d\u514d\u6784\u5efa\uff0csystemd \u6258\u7ba1\uff0c\u5e76\u539f\u751f\u652f\u914d Linu",
@@ -27,49 +162,13 @@
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
-    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 1,
-    "updated_at": "2026-09-27T21:04:34Z",
-    "url": "https://github.com/bhodgens/meept"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-27T21:09:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Agent-friendly Computer Control (Desktop & Browser automation) powered by Decision models (JEV) written in Rust. ",
     "id": "tinyhumansai/tinycomputer",
     "language": "Rust",
     "name": "tinyhumansai/tinycomputer",
     "stars": 3,
-    "updated_at": "2026-09-27T21:02:45Z",
+    "updated_at": "2026-09-27T21:21:45Z",
     "url": "https://github.com/tinyhumansai/tinycomputer"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 4,
-    "updated_at": "2026-09-27T21:09:07Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-27T21:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
@@ -180,6 +279,15 @@
     "url": "https://github.com/juanmanueldaza/n3rv"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10295,
+    "updated_at": "2026-09-27T21:26:56Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -203,7 +311,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1350,
-    "updated_at": "2026-09-27T20:46:01Z",
+    "updated_at": "2026-09-27T21:23:27Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -216,21 +324,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-27T20:43:13Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
     "description": "A self-evolving agent that lives on your phone and commands a fleet of servers",
     "id": "RexHuang/novus",
     "language": "TypeScript",
     "name": "RexHuang/novus",
     "stars": 6,
-    "updated_at": "2026-09-27T20:42:31Z",
+    "updated_at": "2026-09-27T21:19:30Z",
     "url": "https://github.com/RexHuang/novus"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-27T21:08:14Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse",
-    "id": "lysy01528-hash/dkyj-director",
-    "language": "\u2014",
-    "name": "lysy01528-hash/dkyj-director",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:51:19Z",
-    "url": "https://github.com/lysy01528-hash/dkyj-director"
-  },
-  {
-    "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
-    "id": "daniel06s6995/deepseek-harness-software-OPC",
-    "language": "JavaScript",
-    "name": "daniel06s6995/deepseek-harness-software-OPC",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:49:24Z",
-    "url": "https://github.com/daniel06s6995/deepseek-harness-software-OPC"
-  },
-  {
-    "description": "\u53d1\u73b0\u3001\u5b89\u88c5 DeepSeek Harness \u751f\u6001\u4e2d\u7684\u793e\u533a\u63d2\u4ef6\u3001\u5de5\u5177\u4e0e\u6269\u5c55\uff0c\u63a2\u7d22 1493+ \u7cbe\u9009\u4e3b\u9898\u63d2\u4ef6\u5e76\u5b9e\u65f6\u66f4\u65b0\u76ee\u5f55\u3002",
-    "id": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "language": "\u2014",
-    "name": "Pericardiac-podzolsoil527/deepseek-plugin-store",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:49:04Z",
-    "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 14,
-    "updated_at": "2026-09-27T19:48:47Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:47:06Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 114,
-    "updated_at": "2026-09-27T21:11:01Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4963,
-    "updated_at": "2026-09-27T19:41:37Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:41:06Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:39:41Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:39:32Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:39:30Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
