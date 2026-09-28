@@ -1,5 +1,86 @@
 [
   {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-09-28T17:29:28Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Grok Build Web UI",
+    "id": "AgentsHarness/capri-fe",
+    "language": "TypeScript",
+    "name": "AgentsHarness/capri-fe",
+    "stars": 2,
+    "updated_at": "2026-09-28T17:24:25Z",
+    "url": "https://github.com/AgentsHarness/capri-fe"
+  },
+  {
+    "description": "Grok Build Remote Web UI ACP Host",
+    "id": "AgentsHarness/capri-host",
+    "language": "Go",
+    "name": "AgentsHarness/capri-host",
+    "stars": 2,
+    "updated_at": "2026-09-28T17:24:17Z",
+    "url": "https://github.com/AgentsHarness/capri-host"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-28T17:25:53Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Local-first AI agent runtime: durable execution (write-ahead tool ledger), enforced budgets, context compaction, explici",
+    "id": "111wukong/unified-ai-agent",
+    "language": "Python",
+    "name": "111wukong/unified-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:22:37Z",
+    "url": "https://github.com/111wukong/unified-ai-agent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 57,
+    "updated_at": "2026-09-28T17:21:36Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2738,
+    "updated_at": "2026-09-28T17:19:47Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 307,
+    "updated_at": "2026-09-28T17:17:41Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-28T17:15:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
     "id": "AgiMateIo/agimate-backend",
     "language": "Java",
@@ -36,15 +117,6 @@
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 55,
-    "updated_at": "2026-09-28T17:07:52Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "A very opinionated Claude Code plugin designed by a Rustacean",
     "id": "xsyetopz/dotclaude",
     "language": "JavaScript",
@@ -54,21 +126,12 @@
     "url": "https://github.com/xsyetopz/dotclaude"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-28T17:11:19Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35704,
-    "updated_at": "2026-09-28T17:06:15Z",
+    "updated_at": "2026-09-28T17:28:21Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -85,7 +148,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8512,
+    "stars": 8513,
     "updated_at": "2026-09-28T17:05:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4965,
-    "updated_at": "2026-09-28T17:02:23Z",
+    "updated_at": "2026-09-28T17:29:52Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 4,
-    "updated_at": "2026-09-28T17:09:59Z",
+    "updated_at": "2026-09-28T17:28:55Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -126,30 +189,12 @@
     "url": "https://github.com/CarlosLeonCode/clckernel"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-28T17:00:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2737,
-    "updated_at": "2026-09-28T17:03:51Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 114,
-    "updated_at": "2026-09-28T16:59:18Z",
+    "updated_at": "2026-09-28T17:21:05Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -189,21 +234,12 @@
     "url": "https://github.com/zjunlp/JevLoop"
   },
   {
-    "description": "Local-first AI agent runtime: durable execution (write-ahead tool ledger), enforced budgets, context compaction, explici",
-    "id": "111wukong/unified-ai-agent",
-    "language": "Python",
-    "name": "111wukong/unified-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:47:51Z",
-    "url": "https://github.com/111wukong/unified-ai-agent"
-  },
-  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-09-28T16:47:19Z",
+    "updated_at": "2026-09-28T17:17:23Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 20,
-    "updated_at": "2026-09-28T17:06:47Z",
+    "updated_at": "2026-09-28T17:21:56Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -247,7 +283,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10322,
+    "stars": 10323,
     "updated_at": "2026-09-28T16:41:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20236,
-    "updated_at": "2026-09-28T17:12:12Z",
+    "updated_at": "2026-09-28T17:28:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 55,
-    "updated_at": "2026-09-28T17:10:44Z",
+    "updated_at": "2026-09-28T17:26:11Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:57:58Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Official Aeon - the open-source autonomous AI agent framework. Runs unattended on your GitHub Actions, self-healing skil",
-    "id": "aeonfun/aeon",
-    "language": "Shell",
-    "name": "aeonfun/aeon",
-    "stars": 756,
-    "updated_at": "2026-09-28T15:53:59Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 42,
-    "updated_at": "2026-09-28T17:07:52Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/tektonix",
-    "language": "Python",
-    "name": "DJG3DK/tektonix",
-    "stars": 3,
-    "updated_at": "2026-09-28T15:52:00Z",
-    "url": "https://github.com/DJG3DK/tektonix"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-09-28T15:48:54Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
