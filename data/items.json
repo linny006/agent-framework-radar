@@ -1,5 +1,113 @@
 [
   {
+    "description": "Trust and verification for the skills your AI agent installs.",
+    "id": "alexverify/eyebrow",
+    "language": "Go",
+    "name": "alexverify/eyebrow",
+    "stars": 9,
+    "updated_at": "2026-09-28T08:14:28Z",
+    "url": "https://github.com/alexverify/eyebrow"
+  },
+  {
+    "description": "The official web interface for apowerb \u2014 build an agent, give it tools and knowledge, run it, and watch what it did.",
+    "id": "apowerb/apowerb-ui",
+    "language": "JavaScript",
+    "name": "apowerb/apowerb-ui",
+    "stars": 3,
+    "updated_at": "2026-09-28T08:13:40Z",
+    "url": "https://github.com/apowerb/apowerb-ui"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2720,
+    "updated_at": "2026-09-28T08:15:24Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-09-28T08:11:09Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1198,
+    "updated_at": "2026-09-28T08:10:39Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-09-28T08:08:58Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T08:05:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Self-hosted starting point for agentic projects: agents built from skills and tools, a storage library over your own tab",
+    "id": "islomkhon/CerebrumKit",
+    "language": "Vue",
+    "name": "islomkhon/CerebrumKit",
+    "stars": 3,
+    "updated_at": "2026-09-28T08:05:25Z",
+    "url": "https://github.com/islomkhon/CerebrumKit"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "C",
+    "name": "autonomous-ai/openharness",
+    "stars": 996,
+    "updated_at": "2026-09-28T08:13:22Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-28T08:02:37Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 5,
+    "updated_at": "2026-09-28T08:00:38Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-28T08:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build distributed, production-grade, long-running agents.",
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
@@ -7,6 +115,15 @@
     "stars": 5817,
     "updated_at": "2026-09-28T07:59:28Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8501,
+    "updated_at": "2026-09-28T07:59:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Agentic AI Harness Library for Local LLMs",
@@ -18,13 +135,13 @@
     "url": "https://github.com/SideDevEC/ECAssistantCore"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "C",
-    "name": "autonomous-ai/openharness",
-    "stars": 996,
-    "updated_at": "2026-09-28T07:57:35Z",
-    "url": "https://github.com/autonomous-ai/openharness"
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35708,
+    "updated_at": "2026-09-28T08:14:56Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
@@ -32,26 +149,8 @@
     "language": "Python",
     "name": "apowerb/apowerb",
     "stars": 40,
-    "updated_at": "2026-09-28T07:55:32Z",
+    "updated_at": "2026-09-28T08:04:19Z",
     "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2720,
-    "updated_at": "2026-09-28T07:55:29Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T07:54:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T07:53:34Z",
     "url": "https://github.com/impartshadow/shadow"
-  },
-  {
-    "description": "The official web interface for apowerb \u2014 build an agent, give it tools and knowledge, run it, and watch what it did.",
-    "id": "apowerb/apowerb-ui",
-    "language": "JavaScript",
-    "name": "apowerb/apowerb-ui",
-    "stars": 3,
-    "updated_at": "2026-09-28T07:53:27Z",
-    "url": "https://github.com/apowerb/apowerb-ui"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -86,7 +176,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 54,
-    "updated_at": "2026-09-28T07:48:15Z",
+    "updated_at": "2026-09-28T08:00:36Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T07:47:19Z",
     "url": "https://github.com/lysy01528-hash/dkyj-director"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-28T07:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20226,
-    "updated_at": "2026-09-28T07:41:37Z",
+    "updated_at": "2026-09-28T08:14:26Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10314,
-    "updated_at": "2026-09-28T07:54:50Z",
+    "updated_at": "2026-09-28T08:07:40Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T07:37:51Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35706,
-    "updated_at": "2026-09-28T07:56:02Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
@@ -369,24 +441,6 @@
     "url": "https://github.com/yuanchuzi2026/silicon-garden"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-28T07:42:56Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-09-28T07:28:35Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
     "id": "tareksyria/SREAgents",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T07:24:28Z",
     "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 314,
-    "updated_at": "2026-09-28T07:23:41Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-09-28T07:23:31Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "Package manager for AI coding assistants \u2014 manage skills, agents & MCPs across Claude Code, Codex, Copilot, and Cursor",
-    "id": "barleviatias/toolkit-ai",
-    "language": "TypeScript",
-    "name": "barleviatias/toolkit-ai",
-    "stars": 12,
-    "updated_at": "2026-09-28T07:22:10Z",
-    "url": "https://github.com/barleviatias/toolkit-ai"
-  },
-  {
-    "description": "A glass-box, minimal library for building LLM agents \u2014 modern techniques as opt-in primitives, no hidden control flow. P",
-    "id": "DrobyshevDev/glia",
-    "language": "Python",
-    "name": "DrobyshevDev/glia",
-    "stars": 0,
-    "updated_at": "2026-09-28T07:21:55Z",
-    "url": "https://github.com/DrobyshevDev/glia"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-28T07:20:00Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 17,
-    "updated_at": "2026-09-28T07:19:33Z",
-    "url": "https://github.com/devoidfury/hotdog"
   }
 ]
