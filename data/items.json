@@ -1,12 +1,57 @@
 [
   {
+    "description": "A minimal, bus-driven Python framework for LLM agent orchestration that decouples communication, versioned prompts, and ",
+    "id": "Root1V/synaptum-framework",
+    "language": "Python",
+    "name": "Root1V/synaptum-framework",
+    "stars": 2,
+    "updated_at": "2026-09-28T10:57:29Z",
+    "url": "https://github.com/Root1V/synaptum-framework"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 48,
+    "updated_at": "2026-09-28T10:57:41Z",
+    "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2230,
+    "updated_at": "2026-09-28T10:55:08Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
     "name": "LeonQin-ai/cognitive-os-agent",
     "stars": 2,
-    "updated_at": "2026-09-28T10:50:20Z",
+    "updated_at": "2026-09-28T10:54:19Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 5,
+    "updated_at": "2026-09-28T10:53:51Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-28T10:51:03Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -14,7 +59,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 998,
-    "updated_at": "2026-09-28T10:50:12Z",
+    "updated_at": "2026-09-28T10:59:34Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -31,18 +76,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35709,
+    "stars": 35710,
     "updated_at": "2026-09-28T10:46:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-28T10:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -58,7 +94,7 @@
     "id": "deepset-ai/haystack",
     "language": "Python",
     "name": "deepset-ai/haystack",
-    "stars": 26622,
+    "stars": 26623,
     "updated_at": "2026-09-28T10:44:18Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
@@ -135,15 +171,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2230,
-    "updated_at": "2026-09-28T10:33:40Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10317,
-    "updated_at": "2026-09-28T10:50:17Z",
+    "updated_at": "2026-09-28T10:59:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -216,21 +243,12 @@
     "url": "https://github.com/DJG3DK/tektonix"
   },
   {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 48,
-    "updated_at": "2026-09-28T10:41:08Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20231,
-    "updated_at": "2026-09-28T10:22:15Z",
+    "updated_at": "2026-09-28T10:56:18Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 306,
-    "updated_at": "2026-09-28T10:43:30Z",
+    "updated_at": "2026-09-28T10:57:16Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -382,7 +400,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 2723,
+    "stars": 2724,
     "updated_at": "2026-09-28T09:47:45Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T09:41:03Z",
     "url": "https://github.com/autocatalytic-quartette9513/agent-git"
-  },
-  {
-    "description": "A self-evolving, AI-native language and platform for intelligent agents and autonomous software.",
-    "id": "AetherraLabs/Aetherra",
-    "language": "Python",
-    "name": "AetherraLabs/Aetherra",
-    "stars": 8,
-    "updated_at": "2026-09-28T09:40:08Z",
-    "url": "https://github.com/AetherraLabs/Aetherra"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 165,
-    "updated_at": "2026-09-28T10:31:49Z",
-    "url": "https://github.com/pqpo/pragma"
   }
 ]
