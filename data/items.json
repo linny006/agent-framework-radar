@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-09-28T20:13:02Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 57,
+    "updated_at": "2026-09-28T20:12:01Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-09-28T20:10:14Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
+    "id": "emqnuele/projectBEA",
+    "language": "Python",
+    "name": "emqnuele/projectBEA",
+    "stars": 21,
+    "updated_at": "2026-09-28T20:09:57Z",
+    "url": "https://github.com/emqnuele/projectBEA"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2236,
+    "updated_at": "2026-09-28T20:09:33Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 179,
+    "updated_at": "2026-09-28T20:08:41Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 28,
+    "updated_at": "2026-09-28T20:04:31Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-28T20:03:20Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20236,
+    "updated_at": "2026-09-28T20:12:11Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
+    "id": "tmk-computers/vps-infra",
+    "language": "Shell",
+    "name": "tmk-computers/vps-infra",
+    "stars": 1,
+    "updated_at": "2026-09-28T20:02:26Z",
+    "url": "https://github.com/tmk-computers/vps-infra"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-28T20:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -14,17 +113,8 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3922,
-    "updated_at": "2026-09-28T19:59:21Z",
+    "updated_at": "2026-09-28T20:09:11Z",
     "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2236,
-    "updated_at": "2026-09-28T19:54:45Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
@@ -59,26 +149,8 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 307,
-    "updated_at": "2026-09-28T19:52:11Z",
+    "updated_at": "2026-09-28T20:08:04Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-28T19:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20236,
-    "updated_at": "2026-09-28T19:57:20Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -106,15 +178,6 @@
     "stars": 1869,
     "updated_at": "2026-09-28T19:39:51Z",
     "url": "https://github.com/agentjido/jido"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-09-28T20:00:10Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4964,
-    "updated_at": "2026-09-28T19:37:59Z",
+    "updated_at": "2026-09-28T20:06:44Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
     "stars": 6355,
-    "updated_at": "2026-09-28T19:36:26Z",
+    "updated_at": "2026-09-28T20:09:42Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 10,
     "updated_at": "2026-09-28T19:33:57Z",
     "url": "https://github.com/sageox/agent-toolkit"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T19:40:56Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The self-improving, self-learning open-source AI agent. Background Computer-Use, A2A Swarm, Vector Memory, Plugin System",
@@ -311,7 +365,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-28T19:56:58Z",
+    "updated_at": "2026-09-28T20:14:02Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 4,
-    "updated_at": "2026-09-28T19:24:59Z",
+    "updated_at": "2026-09-28T20:12:55Z",
     "url": "https://github.com/junebuild/june"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/Tsubasa-Kaede/runtime-neutral-agent-engineering"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 28,
-    "updated_at": "2026-09-28T19:57:18Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "A community driven directory of paseo.sh plugins",
     "id": "paseo-cafe/paseo-cafe",
     "language": "TypeScript",
@@ -385,15 +430,6 @@
     "stars": 38,
     "updated_at": "2026-09-28T18:51:22Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
-    "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between ses",
-    "id": "emqnuele/projectBEA",
-    "language": "Python",
-    "name": "emqnuele/projectBEA",
-    "stars": 21,
-    "updated_at": "2026-09-28T19:23:58Z",
-    "url": "https://github.com/emqnuele/projectBEA"
   },
   {
     "description": "Framework probado en producci\u00f3n para trabajar con Claude Code como un equipo de agentes especializados \u2014 onboarding auto",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T18:41:49Z",
     "url": "https://github.com/10xHub/agentflow-docs"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 26,
-    "updated_at": "2026-09-28T18:58:26Z",
-    "url": "https://github.com/use-brian/use-brian"
-  },
-  {
-    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 49,
-    "updated_at": "2026-09-28T19:48:46Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 32,
-    "updated_at": "2026-09-28T18:32:43Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:33:50Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
   }
 ]
