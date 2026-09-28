@@ -1,5 +1,95 @@
 [
   {
+    "description": "A minimal, bus-driven Python framework for LLM agent orchestration that decouples communication, versioned prompts, and ",
+    "id": "Root1V/synaptum-framework",
+    "language": "Python",
+    "name": "Root1V/synaptum-framework",
+    "stars": 2,
+    "updated_at": "2026-09-28T02:14:48Z",
+    "url": "https://github.com/Root1V/synaptum-framework"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-09-28T02:13:58Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 5,
+    "updated_at": "2026-09-28T02:11:47Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
+    "id": "dzhioev/bro",
+    "language": "Python",
+    "name": "dzhioev/bro",
+    "stars": 10,
+    "updated_at": "2026-09-28T02:10:18Z",
+    "url": "https://github.com/dzhioev/bro"
+  },
+  {
+    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 1,
+    "updated_at": "2026-09-28T02:08:44Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35706,
+    "updated_at": "2026-09-28T02:04:26Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 64,
+    "updated_at": "2026-09-28T02:04:04Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
+    "id": "franktsaodev/Frank-AI-Agent",
+    "language": "Python",
+    "name": "franktsaodev/Frank-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:02:01Z",
+    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 4,
+    "updated_at": "2026-09-28T02:13:14Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-28T02:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-09-28T01:57:29Z",
+    "updated_at": "2026-09-28T02:04:23Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2710,
-    "updated_at": "2026-09-28T01:57:00Z",
+    "updated_at": "2026-09-28T02:06:13Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -50,17 +140,8 @@
     "language": "C",
     "name": "autonomous-ai/openharness",
     "stars": 988,
-    "updated_at": "2026-09-28T01:56:28Z",
+    "updated_at": "2026-09-28T02:12:02Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
-    "id": "bhodgens/meept",
-    "language": "Go",
-    "name": "bhodgens/meept",
-    "stars": 1,
-    "updated_at": "2026-09-28T01:55:55Z",
-    "url": "https://github.com/bhodgens/meept"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -142,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T01:45:31Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-28T01:45:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -320,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 18,
-    "updated_at": "2026-09-28T01:46:01Z",
+    "updated_at": "2026-09-28T02:07:55Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/tareksyria/SREAgents"
   },
   {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35706,
-    "updated_at": "2026-09-28T01:58:47Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-28T01:35:00Z",
+    "updated_at": "2026-09-28T02:12:05Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-09-28T01:28:31Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A platform to build, run, and use AI agents \u2014 with a search interface",
-    "id": "Search2o/agent-server",
-    "language": "Python",
-    "name": "Search2o/agent-server",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:26:38Z",
-    "url": "https://github.com/Search2o/agent-server"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:26:24Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-28T01:40:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83d\ude80 Build and manage multi-agent workflows in Azure AI Foundry using Python for streamlined orchestration and enhanced pro",
-    "id": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "language": "Python",
-    "name": "THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:23:43Z",
-    "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
-    "id": "Akagilnc/ak-pi-workflow-roles",
-    "language": "TypeScript",
-    "name": "Akagilnc/ak-pi-workflow-roles",
-    "stars": 5,
-    "updated_at": "2026-09-28T01:22:24Z",
-    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 4,
-    "updated_at": "2026-09-28T01:57:00Z",
-    "url": "https://github.com/junebuild/june"
   }
 ]
