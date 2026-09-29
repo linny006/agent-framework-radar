@@ -1,12 +1,138 @@
 [
   {
+    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
+    "id": "Pal-AI-Lab/Cortico",
+    "language": "TypeScript",
+    "name": "Pal-AI-Lab/Cortico",
+    "stars": 162,
+    "updated_at": "2026-09-29T04:14:57Z",
+    "url": "https://github.com/Pal-AI-Lab/Cortico"
+  },
+  {
+    "description": "\ud83d\udcc4 Generate static question banks easily with Python and JSON for fast, SEO-friendly websites hosted on GitHub Pages.",
+    "id": "punkxuxu/bank_soal",
+    "language": "Python",
+    "name": "punkxuxu/bank_soal",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:14:48Z",
+    "url": "https://github.com/punkxuxu/bank_soal"
+  },
+  {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
     "id": "bide-ai/bide",
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 3,
-    "updated_at": "2026-09-29T04:00:20Z",
+    "updated_at": "2026-09-29T04:14:07Z",
     "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-09-29T04:11:18Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1013,
+    "updated_at": "2026-09-29T04:11:42Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/tektonix",
+    "language": "Python",
+    "name": "DJG3DK/tektonix",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:11:02Z",
+    "url": "https://github.com/DJG3DK/tektonix"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:10:26Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
+    "id": "tuliplabs-ai/tulip-agents",
+    "language": "Python",
+    "name": "tuliplabs-ai/tulip-agents",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:09:42Z",
+    "url": "https://github.com/tuliplabs-ai/tulip-agents"
+  },
+  {
+    "description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when",
+    "id": "jackispm/nausicaa-harness",
+    "language": "TypeScript",
+    "name": "jackispm/nausicaa-harness",
+    "stars": 34,
+    "updated_at": "2026-09-29T04:07:26Z",
+    "url": "https://github.com/jackispm/nausicaa-harness"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1198,
+    "updated_at": "2026-09-29T04:04:27Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35709,
+    "updated_at": "2026-09-29T04:03:43Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
+    "id": "musterhq/muster",
+    "language": "TypeScript",
+    "name": "musterhq/muster",
+    "stars": 11,
+    "updated_at": "2026-09-29T04:03:35Z",
+    "url": "https://github.com/musterhq/muster"
+  },
+  {
+    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
+    "id": "CocoRoF/geny-executor",
+    "language": "Python",
+    "name": "CocoRoF/geny-executor",
+    "stars": 2,
+    "updated_at": "2026-09-29T04:02:41Z",
+    "url": "https://github.com/CocoRoF/geny-executor"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-29T04:02:37Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-29T04:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,7 +140,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-09-29T04:00:01Z",
+    "updated_at": "2026-09-29T04:10:30Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -27,21 +153,12 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
-    "id": "tuliplabs-ai/tulip-agents",
-    "language": "Python",
-    "name": "tuliplabs-ai/tulip-agents",
-    "stars": 1,
-    "updated_at": "2026-09-29T03:56:46Z",
-    "url": "https://github.com/tuliplabs-ai/tulip-agents"
-  },
-  {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
     "id": "conn-castle/agent-outbox",
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-09-29T03:56:41Z",
+    "updated_at": "2026-09-29T04:07:31Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -52,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T03:55:55Z",
     "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-09-29T03:55:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
@@ -95,7 +203,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-09-29T03:58:51Z",
+    "updated_at": "2026-09-29T04:11:47Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T03:51:13Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1013,
-    "updated_at": "2026-09-29T03:50:21Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "A community driven directory of paseo.sh plugins",
@@ -171,49 +270,13 @@
     "url": "https://github.com/Tack-AI/tack"
   },
   {
-    "description": "The most Token-efficient open-source AI Agent",
-    "id": "clacky-ai/openclacky",
-    "language": "Ruby",
-    "name": "clacky-ai/openclacky",
-    "stars": 1198,
-    "updated_at": "2026-09-29T03:51:34Z",
-    "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20249,
-    "updated_at": "2026-09-29T03:54:33Z",
+    "updated_at": "2026-09-29T04:09:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-29T03:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35708,
-    "updated_at": "2026-09-29T03:58:44Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The AI agent harness you can audit: token-waste ledger, leak-proof scoped memory, eval-gated learning, 20+ LLM providers",
-    "id": "musterhq/muster",
-    "language": "TypeScript",
-    "name": "musterhq/muster",
-    "stars": 11,
-    "updated_at": "2026-09-29T03:50:16Z",
-    "url": "https://github.com/musterhq/muster"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -230,7 +293,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T03:51:50Z",
+    "updated_at": "2026-09-29T04:13:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -239,17 +302,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10330,
-    "updated_at": "2026-09-29T03:57:32Z",
+    "updated_at": "2026-09-29T04:10:22Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Manifest-driven 21-stage agent pipeline for Python \u2014 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CL",
-    "id": "CocoRoF/geny-executor",
-    "language": "Python",
-    "name": "CocoRoF/geny-executor",
-    "stars": 2,
-    "updated_at": "2026-09-29T03:32:46Z",
-    "url": "https://github.com/CocoRoF/geny-executor"
   },
   {
     "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 7,
-    "updated_at": "2026-09-29T03:29:23Z",
+    "updated_at": "2026-09-29T04:05:47Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
   },
   {
@@ -293,7 +347,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 56,
-    "updated_at": "2026-09-29T03:38:27Z",
+    "updated_at": "2026-09-29T04:08:01Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -322,24 +376,6 @@
     "stars": 2754,
     "updated_at": "2026-09-29T03:36:53Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
-    "id": "llm-works/llm-gent",
-    "language": "Python",
-    "name": "llm-works/llm-gent",
-    "stars": 0,
-    "updated_at": "2026-09-29T03:54:31Z",
-    "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-09-29T03:17:07Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -391,7 +427,7 @@
     "id": "pqpo/pragma",
     "language": "TypeScript",
     "name": "pqpo/pragma",
-    "stars": 178,
+    "stars": 179,
     "updated_at": "2026-09-29T02:58:42Z",
     "url": "https://github.com/pqpo/pragma"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/bakw00ds/yakos"
   },
   {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 162,
-    "updated_at": "2026-09-29T02:54:38Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
     "description": "semantic agent kernel which make agent efficient and self-evolve",
     "id": "Gnosil/semantix",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 799,
     "updated_at": "2026-09-29T02:50:35Z",
     "url": "https://github.com/Gnosil/semantix"
-  },
-  {
-    "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
-    "id": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
-    "language": "\u2014",
-    "name": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:40:14Z",
-    "url": "https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review"
-  },
-  {
-    "description": "Orchestrate hierarchical agents in OpenCode with dependency-aware boards, parallel builders, and evidence-gated completi",
-    "id": "ygudoshnikov-debug/opencode-agent-foundry",
-    "language": "TypeScript",
-    "name": "ygudoshnikov-debug/opencode-agent-foundry",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:40:08Z",
-    "url": "https://github.com/ygudoshnikov-debug/opencode-agent-foundry"
-  },
-  {
-    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
-    "id": "autocatalytic-quartette9513/agent-git",
-    "language": "\u2014",
-    "name": "autocatalytic-quartette9513/agent-git",
-    "stars": 0,
-    "updated_at": "2026-09-29T02:39:57Z",
-    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
   }
 ]
