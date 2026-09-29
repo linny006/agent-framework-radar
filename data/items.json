@@ -1,11 +1,74 @@
 [
   {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-09-29T00:44:45Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 1,
+    "updated_at": "2026-09-29T00:43:31Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-09-29T00:42:31Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20241,
+    "updated_at": "2026-09-29T00:44:49Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 4,
+    "updated_at": "2026-09-29T00:42:12Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-29T00:41:52Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
+    "id": "retrychx/agentia",
+    "language": "TypeScript",
+    "name": "retrychx/agentia",
+    "stars": 3,
+    "updated_at": "2026-09-29T00:41:32Z",
+    "url": "https://github.com/retrychx/agentia"
+  },
+  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/tektonix",
     "language": "Python",
     "name": "DJG3DK/tektonix",
     "stars": 3,
-    "updated_at": "2026-09-29T00:28:52Z",
+    "updated_at": "2026-09-29T00:40:31Z",
     "url": "https://github.com/DJG3DK/tektonix"
   },
   {
@@ -14,8 +77,35 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2753,
-    "updated_at": "2026-09-29T00:26:21Z",
+    "updated_at": "2026-09-29T00:38:45Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10330,
+    "updated_at": "2026-09-29T00:37:29Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "CYPRESS (Contextual Yield Protocol for Routed Expert Seed Systems) \u2014 a project- and vendor-agnostic multi-agent seed for",
+    "id": "llopresto87/Cypress",
+    "language": "Python",
+    "name": "llopresto87/Cypress",
+    "stars": 43,
+    "updated_at": "2026-09-29T00:32:24Z",
+    "url": "https://github.com/llopresto87/Cypress"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 6,
+    "updated_at": "2026-09-29T00:30:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "ZJU-REAL/HugAgentOS",
     "stars": 1117,
-    "updated_at": "2026-09-29T00:24:42Z",
+    "updated_at": "2026-09-29T00:39:01Z",
     "url": "https://github.com/ZJU-REAL/HugAgentOS"
   },
   {
@@ -36,24 +126,6 @@
     "url": "https://github.com/llm-works/llm-gent"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20240,
-    "updated_at": "2026-09-29T00:29:58Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
-    "id": "retrychx/agentia",
-    "language": "TypeScript",
-    "name": "retrychx/agentia",
-    "stars": 3,
-    "updated_at": "2026-09-29T00:22:53Z",
-    "url": "https://github.com/retrychx/agentia"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -63,15 +135,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10329,
-    "updated_at": "2026-09-29T00:18:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
     "id": "lifishard/wickrunAI",
     "language": "JavaScript",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T00:15:58Z",
     "url": "https://github.com/lifishard/wickrunAI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 6,
-    "updated_at": "2026-09-29T00:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local SQLite memory for LLM agents and cross-agent context sharing",
@@ -104,7 +158,7 @@
     "language": "Java",
     "name": "kangwoo/aimon-core",
     "stars": 0,
-    "updated_at": "2026-09-29T00:11:49Z",
+    "updated_at": "2026-09-29T00:33:50Z",
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-29T00:30:24Z",
+    "updated_at": "2026-09-29T00:41:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -212,17 +266,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-09-29T00:22:22Z",
+    "updated_at": "2026-09-29T00:38:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 4,
-    "updated_at": "2026-09-28T23:47:56Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T23:19:06Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-09-28T23:13:47Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-09-28T23:12:38Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-09-28T23:11:36Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 78,
-    "updated_at": "2026-09-28T23:10:57Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "Decision model (JEV) based harness to perform Desktop & Browser automation. Written in Rust. ",
-    "id": "tinyhumansai/tinycomputer",
-    "language": "Rust",
-    "name": "tinyhumansai/tinycomputer",
-    "stars": 4,
-    "updated_at": "2026-09-29T00:12:20Z",
-    "url": "https://github.com/tinyhumansai/tinycomputer"
   }
 ]
