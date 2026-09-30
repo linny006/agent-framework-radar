@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 8,
-    "updated_at": "2026-09-30T09:52:27Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
+    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
+    "id": "gutomec/nirvana-os-engine",
+    "language": "TypeScript",
+    "name": "gutomec/nirvana-os-engine",
+    "stars": 78,
+    "updated_at": "2026-09-30T10:00:13Z",
+    "url": "https://github.com/gutomec/nirvana-os-engine"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,8 +14,80 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-09-30T09:52:10Z",
+    "updated_at": "2026-09-30T09:59:22Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Event-sourced agent framework with a benchmark that measures the harness itself \u2014 same model, same tools, swap only the ",
+    "id": "Arlieeee/Dura-Agent",
+    "language": "TypeScript",
+    "name": "Arlieeee/Dura-Agent",
+    "stars": 1,
+    "updated_at": "2026-09-30T09:58:37Z",
+    "url": "https://github.com/Arlieeee/Dura-Agent"
+  },
+  {
+    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-09-30T09:58:36Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
+    "id": "tinyhumansai/tinymemory",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymemory",
+    "stars": 8,
+    "updated_at": "2026-09-30T09:58:19Z",
+    "url": "https://github.com/tinyhumansai/tinymemory"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-09-30T09:56:24Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 52,
+    "updated_at": "2026-09-30T09:55:33Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/tektonix",
+    "language": "Python",
+    "name": "DJG3DK/tektonix",
+    "stars": 3,
+    "updated_at": "2026-09-30T09:54:55Z",
+    "url": "https://github.com/DJG3DK/tektonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-09-30T09:53:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1029,
+    "updated_at": "2026-09-30T09:58:29Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
@@ -108,15 +180,6 @@
     "url": "https://github.com/framerslab/agentos"
   },
   {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 78,
-    "updated_at": "2026-09-30T09:46:54Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
     "description": "All the various messaging channels for OpenHuman",
     "id": "tinyhumansai/tinychannels",
     "language": "Rust",
@@ -133,15 +196,6 @@
     "stars": 10,
     "updated_at": "2026-09-30T09:48:56Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-09-30T09:45:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A small, provider-neutral agent harness written in Rust",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2789,
-    "updated_at": "2026-09-30T09:43:19Z",
+    "updated_at": "2026-09-30T10:00:04Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48696,
-    "updated_at": "2026-09-30T09:41:34Z",
+    "updated_at": "2026-09-30T09:58:10Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -238,18 +292,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35717,
+    "stars": 35718,
     "updated_at": "2026-09-30T09:38:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Ship AI-agent artifacts, not demo theater \u2014 verifier-gated, cross-family runs that learn which model wins. TRUE recursiv",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-09-30T09:38:17Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10360,
-    "updated_at": "2026-09-30T09:51:32Z",
+    "updated_at": "2026-09-30T09:58:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 3,
-    "updated_at": "2026-09-30T09:53:25Z",
+    "updated_at": "2026-09-30T09:53:37Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "use-brian/use-brian",
     "stars": 26,
-    "updated_at": "2026-09-30T09:36:10Z",
+    "updated_at": "2026-09-30T09:54:19Z",
     "url": "https://github.com/use-brian/use-brian"
   },
   {
@@ -295,6 +340,15 @@
     "stars": 0,
     "updated_at": "2026-09-30T09:36:16Z",
     "url": "https://github.com/imcreazy/DeepSeek-Fengcode"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20279,
+    "updated_at": "2026-09-30T09:34:48Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -324,21 +378,12 @@
     "url": "https://github.com/xsyetopz/dotclaude"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1028,
-    "updated_at": "2026-09-30T09:52:44Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
     "id": "delivstat/swarmkit",
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-09-30T09:44:46Z",
+    "updated_at": "2026-09-30T09:56:25Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -360,13 +405,13 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
     "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20278,
-    "updated_at": "2026-09-30T09:34:48Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "name": "microsoft/agent-framework",
+    "stars": 13877,
+    "updated_at": "2026-09-30T09:57:23Z",
+    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -374,17 +419,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1354,
-    "updated_at": "2026-09-30T09:42:50Z",
+    "updated_at": "2026-09-30T09:54:37Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Event-sourced agent framework with a benchmark that measures the harness itself \u2014 same model, same tools, swap only the ",
-    "id": "Arlieeee/Dura-Agent",
-    "language": "TypeScript",
-    "name": "Arlieeee/Dura-Agent",
-    "stars": 1,
-    "updated_at": "2026-09-30T09:18:26Z",
-    "url": "https://github.com/Arlieeee/Dura-Agent"
   },
   {
     "description": "Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T09:15:51Z",
     "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-30T09:13:49Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
-    "id": "tmk-computers/vps-infra",
-    "language": "Shell",
-    "name": "tmk-computers/vps-infra",
-    "stars": 1,
-    "updated_at": "2026-09-30T09:12:55Z",
-    "url": "https://github.com/tmk-computers/vps-infra"
-  },
-  {
-    "description": "\u6c38\u52a8\u81ea\u4e3b\u5de5\u4f5c\u6a21\u5f0f Skill\uff1a\u8ba9 AI Agent 7\u00d724 \u8fde\u7eed\u81ea\u4e3b\u63a8\u8fdb\u957f\u4efb\u52a1\u3001\u65ad\u70b9\u7eed\u8dd1\u3001\u591a Agent \u534f\u540c\uff0c\u4e0d\u558a\u505c\u4e0d\u505c",
-    "id": "gupi-bill/autonomous-grind",
-    "language": "\u2014",
-    "name": "gupi-bill/autonomous-grind",
-    "stars": 1,
-    "updated_at": "2026-09-30T09:09:47Z",
-    "url": "https://github.com/gupi-bill/autonomous-grind"
-  },
-  {
-    "description": "Xaibo is a modular agent framework designed for building flexible AI systems with clean protocol-based interfaces.",
-    "id": "XpressAI/xaibo",
-    "language": "Python",
-    "name": "XpressAI/xaibo",
-    "stars": 15,
-    "updated_at": "2026-09-30T09:11:12Z",
-    "url": "https://github.com/XpressAI/xaibo"
   }
 ]
