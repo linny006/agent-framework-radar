@@ -1,5 +1,50 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20282,
+    "updated_at": "2026-09-30T12:59:14Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35718,
+    "updated_at": "2026-09-30T12:57:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10364,
+    "updated_at": "2026-09-30T12:59:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-09-30T12:48:35Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-09-30T12:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T12:43:14Z",
+    "updated_at": "2026-09-30T12:56:32Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -90,20 +135,11 @@
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10364,
-    "updated_at": "2026-09-30T12:41:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13876,
+    "stars": 13877,
     "updated_at": "2026-09-30T12:31:37Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -113,17 +149,8 @@
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 106,
-    "updated_at": "2026-09-30T12:31:35Z",
+    "updated_at": "2026-09-30T12:51:25Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35718,
-    "updated_at": "2026-09-30T12:44:19Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -135,22 +162,13 @@
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-09-30T12:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20282,
-    "updated_at": "2026-09-30T12:37:46Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15447,
+    "updated_at": "2026-09-30T12:59:11Z",
+    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -234,15 +252,6 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-09-30T12:44:11Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
     "description": "Mizan \u2014 agentic AI with its own Qur'anic Arabic NLP (mizan.nlp sense-disambiguation, trained on Q-CSMP v2). Python agent",
     "id": "CodeWithJuber/mizan",
     "language": "Python",
@@ -293,7 +302,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-09-30T12:21:51Z",
+    "updated_at": "2026-09-30T12:58:33Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -319,7 +328,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-09-30T11:57:28Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "hertz-ai/HARTOS",
     "stars": 52,
-    "updated_at": "2026-09-30T12:26:58Z",
+    "updated_at": "2026-09-30T12:46:11Z",
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T11:26:32Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for comp",
-    "id": "gutomec/nirvana-os-engine",
-    "language": "TypeScript",
-    "name": "gutomec/nirvana-os-engine",
-    "stars": 78,
-    "updated_at": "2026-09-30T11:24:53Z",
-    "url": "https://github.com/gutomec/nirvana-os-engine"
   }
 ]
