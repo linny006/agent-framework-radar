@@ -1,12 +1,66 @@
 [
   {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Python",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:13:34Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "ReAct agent framework for Spring Boot",
+    "id": "gacfox/proarc-agentic",
+    "language": "Java",
+    "name": "gacfox/proarc-agentic",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:12:41Z",
+    "url": "https://github.com/gacfox/proarc-agentic"
+  },
+  {
+    "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
+    "id": "converge-ai-labs/agent-foundation",
+    "language": "Python",
+    "name": "converge-ai-labs/agent-foundation",
+    "stars": 106,
+    "updated_at": "2026-09-30T12:12:24Z",
+    "url": "https://github.com/converge-ai-labs/agent-foundation"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 22,
+    "updated_at": "2026-09-30T12:10:10Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 41,
+    "updated_at": "2026-09-30T12:09:24Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10364,
-    "updated_at": "2026-09-30T11:59:54Z",
+    "updated_at": "2026-09-30T12:13:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 553,
+    "updated_at": "2026-09-30T12:11:32Z",
+    "url": "https://github.com/jaylfc/taOS"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,8 +68,44 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-09-30T11:59:51Z",
+    "updated_at": "2026-09-30T12:08:23Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35719,
+    "updated_at": "2026-09-30T12:12:54Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Rust reimplementation of the pi coding agent \u2014 TUI, ACP, RPC, remote sessions. Wire/storage-compatible with TS pi, with ",
+    "id": "Tack-AI/tack",
+    "language": "Rust",
+    "name": "Tack-AI/tack",
+    "stars": 1,
+    "updated_at": "2026-09-30T12:06:09Z",
+    "url": "https://github.com/Tack-AI/tack"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-09-30T12:02:07Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-09-30T12:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A homebrew Agent framework.",
@@ -32,7 +122,7 @@
     "language": "C#",
     "name": "iyulab/ironhive-host",
     "stars": 0,
-    "updated_at": "2026-09-30T11:58:28Z",
+    "updated_at": "2026-09-30T12:01:33Z",
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
@@ -81,13 +171,13 @@
     "url": "https://github.com/genai-io/sdk-go"
   },
   {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
     "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 22,
-    "updated_at": "2026-09-30T11:52:01Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
+    "name": "pqpo/pragma",
+    "stars": 205,
+    "updated_at": "2026-09-30T12:07:30Z",
+    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
@@ -95,17 +185,8 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 7,
-    "updated_at": "2026-09-30T11:49:54Z",
+    "updated_at": "2026-09-30T12:00:37Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 204,
-    "updated_at": "2026-09-30T11:49:58Z",
-    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
@@ -122,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-09-30T11:57:24Z",
+    "updated_at": "2026-09-30T12:15:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -133,24 +214,6 @@
     "stars": 5,
     "updated_at": "2026-09-30T11:52:40Z",
     "url": "https://github.com/django-ai-sdk/django-ai-sdk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-09-30T11:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "ReAct agent framework for Spring Boot",
-    "id": "gacfox/proarc-agentic",
-    "language": "Java",
-    "name": "gacfox/proarc-agentic",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:44:58Z",
-    "url": "https://github.com/gacfox/proarc-agentic"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 2,
-    "updated_at": "2026-09-30T11:42:58Z",
+    "updated_at": "2026-09-30T12:13:12Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20283,
-    "updated_at": "2026-09-30T11:38:02Z",
+    "updated_at": "2026-09-30T12:05:00Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -212,26 +275,8 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13877,
-    "updated_at": "2026-09-30T11:37:11Z",
+    "updated_at": "2026-09-30T12:08:09Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
-    "id": "converge-ai-labs/agent-foundation",
-    "language": "Python",
-    "name": "converge-ai-labs/agent-foundation",
-    "stars": 106,
-    "updated_at": "2026-09-30T11:59:33Z",
-    "url": "https://github.com/converge-ai-labs/agent-foundation"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 41,
-    "updated_at": "2026-09-30T11:37:02Z",
-    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "\u901a\u7528 Agent \u5185\u6838\uff1a\u5728\u7ebf\u5927\u8111\u89c4\u5212 + \u672c\u5730\u6267\u884c\u5668\uff0cMCP / LangGraph / OpenAI Agents SDK \u9a71\u52a8\uff0c\u652f\u6301\u77e5\u8bc6\u7ea7\u81ea\u5347\u7ea7\uff08\u6280\u80fd\u4e0e\u5168\u5c40\u8bb0\u5fc6\u81ea\u52a8\u63d0\u70bc\uff09",
@@ -250,15 +295,6 @@
     "stars": 113,
     "updated_at": "2026-09-30T11:31:00Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-09-30T11:44:14Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
     "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
@@ -306,21 +342,12 @@
     "url": "https://github.com/bbvch-ai/aihub-core"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35718,
-    "updated_at": "2026-09-30T11:18:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1029,
-    "updated_at": "2026-09-30T11:15:31Z",
+    "updated_at": "2026-09-30T12:05:38Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1354,
-    "updated_at": "2026-09-30T11:41:24Z",
+    "updated_at": "2026-09-30T12:12:04Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:06:01Z",
     "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:04:23Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:04:16Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:04:16Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
