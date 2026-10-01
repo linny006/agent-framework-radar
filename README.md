@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48707 | Python | 2026-10-01 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
-| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 80 | TypeScript | 2026-10-01 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 3 | [csr1010/wappy-kit](https://github.com/csr1010/wappy-kit) | 1 | TypeScript | 2026-10-01 | Wappy: the open-source AI agent SDK for WhatsApp. Bring your own model, your own number, your own data. Local-first, no  |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-01 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [bide-ai/bide](https://github.com/bide-ai/bide) | 3 | Go | 2026-10-01 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
-| 6 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 13 | Go | 2026-10-01 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
-| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35722 | Go | 2026-10-01 | A reliable coding agent for complex software engineering tasks. |
-| 8 | [lysy01528-hash/dkyj-director](https://github.com/lysy01528-hash/dkyj-director) | 0 | — | 2026-10-01 | Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse |
-| 9 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 26 | Kotlin | 2026-10-01 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
-| 10 | [daniel06s6995/deepseek-harness-software-OPC](https://github.com/daniel06s6995/deepseek-harness-software-OPC) | 0 | JavaScript | 2026-10-01 | Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re |
-| 11 | [Pericardiac-podzolsoil527/deepseek-plugin-store](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store) | 0 | — | 2026-10-01 | 发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。 |
-| 12 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-01 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
-| 13 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 7 | Python | 2026-10-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 26 | Kotlin | 2026-10-01 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 7 | Python | 2026-10-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48707 | Python | 2026-10-01 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 4 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 80 | TypeScript | 2026-10-01 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 5 | [csr1010/wappy-kit](https://github.com/csr1010/wappy-kit) | 1 | TypeScript | 2026-10-01 | Wappy: the open-source AI agent SDK for WhatsApp. Bring your own model, your own number, your own data. Local-first, no  |
+| 6 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 10 | Python | 2026-10-01 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 7 | [bide-ai/bide](https://github.com/bide-ai/bide) | 3 | Go | 2026-10-01 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
+| 8 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 13 | Go | 2026-10-01 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
+| 9 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35722 | Go | 2026-10-01 | A reliable coding agent for complex software engineering tasks. |
+| 10 | [lysy01528-hash/dkyj-director](https://github.com/lysy01528-hash/dkyj-director) | 0 | — | 2026-10-01 | Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse |
+| 11 | [daniel06s6995/deepseek-harness-software-OPC](https://github.com/daniel06s6995/deepseek-harness-software-OPC) | 0 | JavaScript | 2026-10-01 | Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re |
+| 12 | [Pericardiac-podzolsoil527/deepseek-plugin-store](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store) | 0 | — | 2026-10-01 | 发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。 |
+| 13 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-01 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
 | 14 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 56 | HTML | 2026-10-01 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
 | 15 | [AshishKumar4/Nimbus](https://github.com/AshishKumar4/Nimbus) | 16 | JavaScript | 2026-10-01 | Free unlimited POSIX sandboxes on Cloudflare |
 | 16 | [synapse-ai-hub/synapseForge](https://github.com/synapse-ai-hub/synapseForge) | 3 | Python | 2026-10-01 | Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de |
