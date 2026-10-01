@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-01 13:38 UTC
+> ⏰ Last updated: 2026-10-01 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,35 +42,35 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-01 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 2 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-10-01 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
-| 3 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 54 | TypeScript | 2026-10-01 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
-| 4 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26637 | Python | 2026-10-01 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 5 | [momang85/weavemind](https://github.com/momang85/weavemind) | 1 | Python | 2026-10-01 | 织光 WeaveMind · 跑在你自己电脑上的多智能体研究团队：一句目标 → 规划/执行/评审/反思全流程可视化，交付全链可溯源报告；看得见、会记忆、会自我进化（Python + React） |
-| 6 | [ellmos-ai/usmc](https://github.com/ellmos-ai/usmc) | 1 | Python | 2026-10-01 | Local SQLite memory for LLM agents and cross-agent context sharing |
-| 7 | [tinyhumansai/tinymemory](https://github.com/tinyhumansai/tinymemory) | 8 | Rust | 2026-10-01 | Agent friendly memory system. Route any memory system into a standardized interface |
-| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35728 | Go | 2026-10-01 | A reliable coding agent for complex software engineering tasks. |
-| 9 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 36 | Rust | 2026-10-01 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
-| 10 | [apowerb/apowerb](https://github.com/apowerb/apowerb) | 41 | Python | 2026-10-01 | The open-source agentic framework to build, orchestrate, and operate production AI agents. |
+| 1 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1057 | Dart | 2026-10-01 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co |
+| 2 | [shaharia-lab/agento](https://github.com/shaharia-lab/agento) | 32 | Rust | 2026-10-01 | Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at  |
+| 3 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 760 | Shell | 2026-10-01 | The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok |
+| 4 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20311 | Python | 2026-10-01 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
+| 5 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1356 | TypeScript | 2026-10-01 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
+| 6 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35728 | Go | 2026-10-01 | A reliable coding agent for complex software engineering tasks. |
+| 7 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10391 | Python | 2026-10-01 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 8 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 54 | TypeScript | 2026-10-01 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
+| 9 | [tinyhumansai/tinymemory](https://github.com/tinyhumansai/tinymemory) | 8 | Rust | 2026-10-01 | Agent friendly memory system. Route any memory system into a standardized interface |
+| 10 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 13 | Go | 2026-10-01 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
 | 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 7 | Python | 2026-10-01 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 12 | [CodeWithJuber/mizan](https://github.com/CodeWithJuber/mizan) | 2 | Python | 2026-10-01 | Mizan — agentic AI with its own Qur'anic Arabic NLP (mizan.nlp sense-disambiguation, trained on Q-CSMP v2). Python agent |
-| 13 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 17 | Python | 2026-10-01 | Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules, |
-| 14 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-10-01 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
-| 15 | [shaharia-lab/agento](https://github.com/shaharia-lab/agento) | 32 | Rust | 2026-10-01 | Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at  |
-| 16 | [tinyhumansai/tinytools](https://github.com/tinyhumansai/tinytools) | 1 | Rust | 2026-10-01 | Tool schema and agent friendly defaults |
-| 17 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 13 | Go | 2026-10-01 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
-| 18 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2247 | TypeScript | 2026-10-01 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 19 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 56 | HTML | 2026-10-01 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 20 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 307 | Python | 2026-10-01 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
-| 21 | [Gnosil/semantix](https://github.com/Gnosil/semantix) | 821 | Go | 2026-10-01 | semantic agent kernel which make agent efficient and self-evolve |
-| 22 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 20310 | Python | 2026-10-01 | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end |
-| 23 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1356 | TypeScript | 2026-10-01 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
-| 24 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1057 | Dart | 2026-10-01 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co |
-| 25 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-01 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 26 | [Irrationalmotivedanielmorgan3016/claude-like-codex-code-review](https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review) | 0 | — | 2026-10-01 | Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline |
-| 27 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 13 | Python | 2026-10-01 | The open-source AI infrastructure stack for Swiss enterprises. |
-| 28 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10391 | Python | 2026-10-01 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 29 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | 760 | Shell | 2026-10-01 | The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok |
+| 12 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-01 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 13 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-10-01 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
+| 14 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26637 | Python | 2026-10-01 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
+| 15 | [momang85/weavemind](https://github.com/momang85/weavemind) | 1 | Python | 2026-10-01 | 织光 WeaveMind · 跑在你自己电脑上的多智能体研究团队：一句目标 → 规划/执行/评审/反思全流程可视化，交付全链可溯源报告；看得见、会记忆、会自我进化（Python + React） |
+| 16 | [ellmos-ai/usmc](https://github.com/ellmos-ai/usmc) | 1 | Python | 2026-10-01 | Local SQLite memory for LLM agents and cross-agent context sharing |
+| 17 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 36 | Rust | 2026-10-01 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
+| 18 | [apowerb/apowerb](https://github.com/apowerb/apowerb) | 41 | Python | 2026-10-01 | The open-source agentic framework to build, orchestrate, and operate production AI agents. |
+| 19 | [CodeWithJuber/mizan](https://github.com/CodeWithJuber/mizan) | 2 | Python | 2026-10-01 | Mizan — agentic AI with its own Qur'anic Arabic NLP (mizan.nlp sense-disambiguation, trained on Q-CSMP v2). Python agent |
+| 20 | [CarlosCaPe/octorato](https://github.com/CarlosCaPe/octorato) | 17 | Python | 2026-10-01 | Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules, |
+| 21 | [footprintjs/agentfootprint](https://github.com/footprintjs/agentfootprint) | 20 | TypeScript | 2026-10-01 | Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it |
+| 22 | [tinyhumansai/tinytools](https://github.com/tinyhumansai/tinytools) | 1 | Rust | 2026-10-01 | Tool schema and agent friendly defaults |
+| 23 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2247 | TypeScript | 2026-10-01 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 24 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 56 | HTML | 2026-10-01 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 25 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 307 | Python | 2026-10-01 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
+| 26 | [Gnosil/semantix](https://github.com/Gnosil/semantix) | 821 | Go | 2026-10-01 | semantic agent kernel which make agent efficient and self-evolve |
+| 27 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-01 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 28 | [Irrationalmotivedanielmorgan3016/claude-like-codex-code-review](https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review) | 0 | — | 2026-10-01 | Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline |
+| 29 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 13 | Python | 2026-10-01 | The open-source AI infrastructure stack for Swiss enterprises. |
 | 30 | [colmugx/posoco-extension](https://github.com/colmugx/posoco-extension) | 1 | MoonBit | 2026-10-01 | Official extension collection for posoco |
 | 31 | [pingpongballbouncingbetty737/embabel-agent](https://github.com/pingpongballbouncingbetty737/embabel-agent) | 0 | — | 2026-10-01 | Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte |
 | 32 | [swsgbl/hmharness](https://github.com/swsgbl/hmharness) | 1 | HTML | 2026-10-01 | 为鸿蒙 (HarmonyOS/OpenHarmony) 开发全流程而生的自进化智能体框架——零依赖内核、自进化一等公民、MCP 生态借力、模拟器与工具链无头全控。Self-evolving agent framework for the f |
