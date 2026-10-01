@@ -1,12 +1,84 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T20:00:08Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-10-01T19:59:01Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
+    "id": "bhodgens/meept",
+    "language": "Go",
+    "name": "bhodgens/meept",
+    "stars": 2,
+    "updated_at": "2026-10-01T19:57:53Z",
+    "url": "https://github.com/bhodgens/meept"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 3,
+    "updated_at": "2026-10-01T19:59:35Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:55:00Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
+    "id": "xmor/ara",
+    "language": "Java",
+    "name": "xmor/ara",
+    "stars": 6,
+    "updated_at": "2026-10-01T19:51:44Z",
+    "url": "https://github.com/xmor/ara"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 10,
+    "updated_at": "2026-10-01T19:50:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "The Fastest AI Memory Model - Your Second Brain",
     "id": "tinyhumansai/tinycortex",
     "language": "Rust",
     "name": "tinyhumansai/tinycortex",
     "stars": 255,
-    "updated_at": "2026-10-01T19:45:02Z",
+    "updated_at": "2026-10-01T19:49:55Z",
     "url": "https://github.com/tinyhumansai/tinycortex"
+  },
+  {
+    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
+    "id": "Cobra-bit-prog/agent-guard",
+    "language": "TypeScript",
+    "name": "Cobra-bit-prog/agent-guard",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:49:27Z",
+    "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
@@ -14,8 +86,17 @@
     "language": "Shell",
     "name": "aeonfun/aeon",
     "stars": 760,
-    "updated_at": "2026-10-01T19:44:46Z",
+    "updated_at": "2026-10-01T19:59:05Z",
     "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-01T19:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -31,27 +112,9 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10402,
-    "updated_at": "2026-10-01T19:43:40Z",
+    "stars": 10403,
+    "updated_at": "2026-10-01T19:55:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-10-01T19:35:24Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T19:42:20Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Open-source personal AI agent that runs on your own laptop, CPU-only. Self-improving and self-learning. Every outcome it",
@@ -61,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-01T19:30:37Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-01T19:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
@@ -99,24 +153,6 @@
     "url": "https://github.com/masonleetompkins/aygent-core"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 3,
-    "updated_at": "2026-10-01T19:45:12Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 10,
-    "updated_at": "2026-10-01T19:24:57Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
     "id": "LioRael/lenso-agent",
     "language": "Rust",
@@ -140,7 +176,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-01T19:41:32Z",
+    "updated_at": "2026-10-01T19:51:33Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-01T19:18:20Z",
+    "updated_at": "2026-10-01T19:47:01Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -212,8 +248,17 @@
     "language": "Python",
     "name": "django-ai-sdk/django-ai-sdk",
     "stars": 5,
-    "updated_at": "2026-10-01T19:14:20Z",
+    "updated_at": "2026-10-01T19:51:24Z",
     "url": "https://github.com/django-ai-sdk/django-ai-sdk"
+  },
+  {
+    "description": "One place to build, run and govern your company's AI agents \u2014 skills, context files, MCP at registry scale, automations,",
+    "id": "vstorm-co/agenticos",
+    "language": "Python",
+    "name": "vstorm-co/agenticos",
+    "stars": 52,
+    "updated_at": "2026-10-01T19:12:25Z",
+    "url": "https://github.com/vstorm-co/agenticos"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1356,
-    "updated_at": "2026-10-01T19:44:57Z",
+    "updated_at": "2026-10-01T19:59:01Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -239,7 +284,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 5,
-    "updated_at": "2026-10-01T19:23:19Z",
+    "updated_at": "2026-10-01T20:00:01Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-01T19:09:47Z",
+    "updated_at": "2026-10-01T19:54:34Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8606,
-    "updated_at": "2026-10-01T18:59:03Z",
+    "updated_at": "2026-10-01T19:57:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T19:18:10Z",
     "url": "https://github.com/tinyhumansai/tinyconnectors"
-  },
-  {
-    "description": "Reasoning foundation for trustworthy agents.",
-    "id": "polycog/cognition",
-    "language": "Python",
-    "name": "polycog/cognition",
-    "stars": 6,
-    "updated_at": "2026-10-01T18:36:10Z",
-    "url": "https://github.com/polycog/cognition"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 232,
-    "updated_at": "2026-10-01T18:35:20Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 113,
-    "updated_at": "2026-10-01T18:34:56Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "The research record and reference for my ` mathmodel-weave` project",
-    "id": "SoFarSoGoodya/mathmodel-research",
-    "language": "\u2014",
-    "name": "SoFarSoGoodya/mathmodel-research",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:31:26Z",
-    "url": "https://github.com/SoFarSoGoodya/mathmodel-research"
-  },
-  {
-    "description": "OOAT \u2014 Object-Oriented Agent Team: an open framework that decides per task whether a team of AI agents is worth its cost",
-    "id": "pegner-ag/ooat",
-    "language": "Python",
-    "name": "pegner-ag/ooat",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:30:37Z",
-    "url": "https://github.com/pegner-ag/ooat"
   }
 ]
