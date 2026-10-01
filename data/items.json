@@ -1,12 +1,120 @@
 [
   {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 113,
+    "updated_at": "2026-10-01T06:30:03Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2246,
+    "updated_at": "2026-10-01T06:27:47Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Open-source personal AI agent that runs on your own laptop, CPU-only. Self-improving and self-learning. Every outcome it",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-10-01T06:25:21Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 216,
+    "updated_at": "2026-10-01T06:24:34Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 26,
-    "updated_at": "2026-10-01T06:15:40Z",
+    "updated_at": "2026-10-01T06:24:35Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-10-01T06:23:39Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35722,
+    "updated_at": "2026-10-01T06:22:00Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
+    "id": "converge-ai-labs/agent-foundation",
+    "language": "Python",
+    "name": "converge-ai-labs/agent-foundation",
+    "stars": 121,
+    "updated_at": "2026-10-01T06:21:17Z",
+    "url": "https://github.com/converge-ai-labs/agent-foundation"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-10-01T06:19:11Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13888,
+    "updated_at": "2026-10-01T06:17:56Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Wappy: the open-source AI agent SDK for WhatsApp. Bring your own model, your own number, your own data. Local-first, no ",
+    "id": "csr1010/wappy-kit",
+    "language": "TypeScript",
+    "name": "csr1010/wappy-kit",
+    "stars": 1,
+    "updated_at": "2026-10-01T06:17:38Z",
+    "url": "https://github.com/csr1010/wappy-kit"
+  },
+  {
+    "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
+    "id": "dendrux/dendrux",
+    "language": "Python",
+    "name": "dendrux/dendrux",
+    "stars": 14,
+    "updated_at": "2026-10-01T06:22:43Z",
+    "url": "https://github.com/dendrux/dendrux"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:20:01Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 7,
-    "updated_at": "2026-10-01T06:15:24Z",
+    "updated_at": "2026-10-01T06:15:51Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -22,7 +130,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 48707,
+    "stars": 48706,
     "updated_at": "2026-10-01T06:13:40Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -34,15 +142,6 @@
     "stars": 80,
     "updated_at": "2026-10-01T06:13:01Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Wappy: the open-source AI agent SDK for WhatsApp. Bring your own model, your own number, your own data. Local-first, no ",
-    "id": "csr1010/wappy-kit",
-    "language": "TypeScript",
-    "name": "csr1010/wappy-kit",
-    "stars": 1,
-    "updated_at": "2026-10-01T06:10:08Z",
-    "url": "https://github.com/csr1010/wappy-kit"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -59,26 +158,8 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 3,
-    "updated_at": "2026-10-01T06:11:07Z",
+    "updated_at": "2026-10-01T06:27:34Z",
     "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-01T06:07:42Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35722,
-    "updated_at": "2026-10-01T06:15:31Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse",
@@ -162,15 +243,6 @@
     "url": "https://github.com/Smita6756/Hbrain"
   },
   {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-01T06:06:37Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
     "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
     "id": "carlososoriopulgar/agent-kernel",
     "language": "\u2014",
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T05:53:25Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-10-01T06:03:13Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -284,7 +347,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-10-01T05:48:21Z",
+    "updated_at": "2026-10-01T06:26:24Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/RONIN511/alphora"
   },
   {
-    "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
-    "id": "converge-ai-labs/agent-foundation",
-    "language": "Python",
-    "name": "converge-ai-labs/agent-foundation",
-    "stars": 121,
-    "updated_at": "2026-10-01T05:37:16Z",
-    "url": "https://github.com/converge-ai-labs/agent-foundation"
-  },
-  {
     "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -346,7 +400,7 @@
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
-    "stars": 1049,
+    "stars": 1050,
     "updated_at": "2026-10-01T05:37:09Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T05:34:08Z",
     "url": "https://github.com/THEFABIAN10/AIFoundry-AgentsV2-HostedWorkflow"
-  },
-  {
-    "description": "Mizan \u2014 agentic AI with its own Qur'anic Arabic NLP (mizan.nlp sense-disambiguation, trained on Q-CSMP v2). Python agent",
-    "id": "CodeWithJuber/mizan",
-    "language": "Python",
-    "name": "CodeWithJuber/mizan",
-    "stars": 2,
-    "updated_at": "2026-10-01T05:34:03Z",
-    "url": "https://github.com/CodeWithJuber/mizan"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-01T05:33:32Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 113,
-    "updated_at": "2026-10-01T05:55:03Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T05:39:22Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "ReAct agent framework for Spring Boot",
-    "id": "gacfox/proarc-agentic",
-    "language": "Java",
-    "name": "gacfox/proarc-agentic",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:24:26Z",
-    "url": "https://github.com/gacfox/proarc-agentic"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10382,
-    "updated_at": "2026-10-01T06:04:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
