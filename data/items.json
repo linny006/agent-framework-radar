@@ -1,5 +1,77 @@
 [
   {
+    "description": "Build AI agents in Django. Batteries included.",
+    "id": "django-ai-sdk/django-ai-sdk",
+    "language": "Python",
+    "name": "django-ai-sdk/django-ai-sdk",
+    "stars": 5,
+    "updated_at": "2026-10-01T19:14:20Z",
+    "url": "https://github.com/django-ai-sdk/django-ai-sdk"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 760,
+    "updated_at": "2026-10-01T19:14:03Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1356,
+    "updated_at": "2026-10-01T19:10:50Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
+    "id": "evalstate/fast-agent",
+    "language": "Python",
+    "name": "evalstate/fast-agent",
+    "stars": 3928,
+    "updated_at": "2026-10-01T19:09:52Z",
+    "url": "https://github.com/evalstate/fast-agent"
+  },
+  {
+    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
+    "id": "tinyhumansai/tinymemory",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymemory",
+    "stars": 8,
+    "updated_at": "2026-10-01T19:08:10Z",
+    "url": "https://github.com/tinyhumansai/tinymemory"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 5,
+    "updated_at": "2026-10-01T19:07:37Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-01T19:09:47Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-01T19:01:52Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Shared Python libraries that Foundry-built agents install and extend \u2014 core protocols & DI, config loading, FastAPI HTTP",
     "id": "boozallen/foundry-agent-packages",
     "language": "Python",
@@ -9,21 +81,12 @@
     "url": "https://github.com/boozallen/foundry-agent-packages"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-01T19:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
     "id": "bide-ai/bide",
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 3,
-    "updated_at": "2026-10-01T19:00:01Z",
+    "updated_at": "2026-10-01T19:15:26Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -40,7 +103,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8604,
+    "stars": 8605,
     "updated_at": "2026-10-01T18:59:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-01T18:56:40Z",
+    "updated_at": "2026-10-01T19:07:23Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 43,
-    "updated_at": "2026-10-01T18:54:52Z",
+    "updated_at": "2026-10-01T19:05:01Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 255,
     "updated_at": "2026-10-01T18:54:45Z",
     "url": "https://github.com/tinyhumansai/tinycortex"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1356,
-    "updated_at": "2026-10-01T19:00:16Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -180,21 +234,12 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T18:51:17Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35730,
-    "updated_at": "2026-10-01T18:58:35Z",
+    "updated_at": "2026-10-01T19:12:14Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 4970,
     "updated_at": "2026-10-01T18:42:06Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "Shell",
-    "name": "aeonfun/aeon",
-    "stars": 760,
-    "updated_at": "2026-10-01T18:59:34Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
@@ -369,15 +405,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 8,
-    "updated_at": "2026-10-01T18:55:18Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -396,21 +423,12 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3927,
-    "updated_at": "2026-10-01T18:57:41Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20328,
-    "updated_at": "2026-10-01T18:43:30Z",
+    "updated_at": "2026-10-01T19:08:20Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T18:19:45Z",
     "url": "https://github.com/Asceticrefractoryperiod28/Foundry"
-  },
-  {
-    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
-    "id": "xmor/ara",
-    "language": "Java",
-    "name": "xmor/ara",
-    "stars": 6,
-    "updated_at": "2026-10-01T18:19:32Z",
-    "url": "https://github.com/xmor/ara"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 13,
-    "updated_at": "2026-10-01T18:19:06Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   }
 ]
