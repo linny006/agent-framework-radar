@@ -1,5 +1,122 @@
 [
   {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-01T17:59:03Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-01T17:58:59Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2249,
+    "updated_at": "2026-10-01T17:58:55Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 4,
+    "updated_at": "2026-10-01T17:58:31Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-01T17:59:18Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
+    "id": "jianchen08/Agent-os-open",
+    "language": "Python",
+    "name": "jianchen08/Agent-os-open",
+    "stars": 7,
+    "updated_at": "2026-10-01T17:58:22Z",
+    "url": "https://github.com/jianchen08/Agent-os-open"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8603,
+    "updated_at": "2026-10-01T17:55:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 3,
+    "updated_at": "2026-10-01T17:54:24Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20327,
+    "updated_at": "2026-10-01T18:00:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48725,
+    "updated_at": "2026-10-01T17:51:08Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 106,
+    "updated_at": "2026-10-01T17:59:32Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T17:58:21Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-01T17:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Phone local agent",
     "id": "HaohanHe/Opedrgent",
     "language": "Kotlin",
@@ -9,40 +126,13 @@
     "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T17:43:55Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10399,
-    "updated_at": "2026-10-01T17:42:04Z",
+    "stars": 10400,
+    "updated_at": "2026-10-01T17:59:52Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T17:41:40Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48724,
-    "updated_at": "2026-10-01T17:41:05Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -72,15 +162,6 @@
     "url": "https://github.com/wmcmahan/cycgraph"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8602,
-    "updated_at": "2026-10-01T17:38:37Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
@@ -99,24 +180,6 @@
     "url": "https://github.com/yehuzi2026/workbuddy-skills-hub"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20326,
-    "updated_at": "2026-10-01T17:33:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
-    "id": "jianchen08/Agent-os-open",
-    "language": "Python",
-    "name": "jianchen08/Agent-os-open",
-    "stars": 7,
-    "updated_at": "2026-10-01T17:31:35Z",
-    "url": "https://github.com/jianchen08/Agent-os-open"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -124,15 +187,6 @@
     "stars": 23,
     "updated_at": "2026-10-01T17:30:50Z",
     "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-01T17:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1356,
-    "updated_at": "2026-10-01T17:45:00Z",
+    "updated_at": "2026-10-01T17:59:12Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "Akagilnc/ak-pi-workflow-roles",
     "stars": 5,
-    "updated_at": "2026-10-01T17:16:01Z",
+    "updated_at": "2026-10-01T17:50:49Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2249,
-    "updated_at": "2026-10-01T17:07:07Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -270,21 +315,12 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-01T17:39:05Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
     "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
     "id": "aequitas-labs/lobstah",
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-10-01T16:58:38Z",
+    "updated_at": "2026-10-01T17:59:00Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -400,7 +436,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 2796,
+    "stars": 2797,
     "updated_at": "2026-10-01T16:32:08Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T16:31:16Z",
     "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
-  },
-  {
-    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
-    "id": "jin-bo/agentao",
-    "language": "Python",
-    "name": "jin-bo/agentao",
-    "stars": 307,
-    "updated_at": "2026-10-01T16:29:47Z",
-    "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "AYGENT is an Open Source AI Agent Harness with built-in security, memory, cron, and parallel threads.",
-    "id": "masonleetompkins/aygent-core",
-    "language": "Rust",
-    "name": "masonleetompkins/aygent-core",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:29:31Z",
-    "url": "https://github.com/masonleetompkins/aygent-core"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 3,
-    "updated_at": "2026-10-01T17:43:49Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "OOAT \u2014 Object-Oriented Agent Team: an open framework that decides per task whether a team of AI agents is worth its cost",
-    "id": "pegner-ag/ooat",
-    "language": "Python",
-    "name": "pegner-ag/ooat",
-    "stars": 0,
-    "updated_at": "2026-10-01T17:23:39Z",
-    "url": "https://github.com/pegner-ag/ooat"
   }
 ]
