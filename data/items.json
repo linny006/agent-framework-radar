@@ -1,11 +1,74 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-01T03:54:46Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 121,
+    "updated_at": "2026-10-01T03:54:41Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
+    "id": "Pal-AI-Lab/Cortico",
+    "language": "TypeScript",
+    "name": "Pal-AI-Lab/Cortico",
+    "stars": 168,
+    "updated_at": "2026-10-01T03:49:47Z",
+    "url": "https://github.com/Pal-AI-Lab/Cortico"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-01T03:51:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 56,
+    "updated_at": "2026-10-01T03:46:10Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-10-01T03:46:08Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-01T03:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
     "id": "jlcatonjr/agentteams",
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-10-01T03:44:40Z",
+    "updated_at": "2026-10-01T03:56:43Z",
     "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1048,
-    "updated_at": "2026-10-01T03:43:59Z",
+    "updated_at": "2026-10-01T03:55:47Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2794,
-    "updated_at": "2026-10-01T03:40:57Z",
+    "updated_at": "2026-10-01T04:00:01Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35725,
-    "updated_at": "2026-10-01T03:38:08Z",
+    "updated_at": "2026-10-01T03:45:33Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 20,
-    "updated_at": "2026-10-01T03:36:56Z",
+    "updated_at": "2026-10-01T03:45:52Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 54,
-    "updated_at": "2026-10-01T03:39:01Z",
+    "updated_at": "2026-10-01T03:59:27Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -108,21 +171,12 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-01T03:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
     "id": "converge-ai-labs/agent-foundation",
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 120,
-    "updated_at": "2026-10-01T03:34:48Z",
+    "updated_at": "2026-10-01T03:59:21Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-01T03:33:52Z",
+    "updated_at": "2026-10-01T03:58:57Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10380,
-    "updated_at": "2026-10-01T03:25:03Z",
+    "updated_at": "2026-10-01T03:54:12Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 33,
     "updated_at": "2026-10-01T03:06:29Z",
     "url": "https://github.com/PeterGreenAppliedAI/Invarail"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T03:34:54Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
@@ -403,50 +448,5 @@
     "stars": 13887,
     "updated_at": "2026-10-01T02:40:24Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 168,
-    "updated_at": "2026-10-01T03:43:45Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:37:11Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-10-01T02:36:50Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-01T02:35:45Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-10-01T02:30:08Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
