@@ -1,12 +1,165 @@
 [
   {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-02T18:14:09Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 55,
+    "updated_at": "2026-10-02T18:13:23Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-10-02T18:13:15Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-10-02T18:13:13Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
     "description": "Local-first AI agent runtime: durable execution (write-ahead tool ledger), enforced budgets, context compaction, explici",
     "id": "111wukong/wukong",
     "language": "Python",
     "name": "111wukong/wukong",
     "stars": 0,
-    "updated_at": "2026-10-02T18:00:08Z",
+    "updated_at": "2026-10-02T18:11:30Z",
     "url": "https://github.com/111wukong/wukong"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35729,
+    "updated_at": "2026-10-02T18:10:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8625,
+    "updated_at": "2026-10-02T18:10:36Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A community driven directory of paseo.sh plugins",
+    "id": "paseo-cafe/paseo-cafe",
+    "language": "TypeScript",
+    "name": "paseo-cafe/paseo-cafe",
+    "stars": 39,
+    "updated_at": "2026-10-02T18:10:33Z",
+    "url": "https://github.com/paseo-cafe/paseo-cafe"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1075,
+    "updated_at": "2026-10-02T18:08:07Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Composition root for production agent services \u2014 fork, customize, ship. Built on the foundry-agent-* packages.",
+    "id": "boozallen/strands-base-agent",
+    "language": "Python",
+    "name": "boozallen/strands-base-agent",
+    "stars": 14,
+    "updated_at": "2026-10-02T18:07:08Z",
+    "url": "https://github.com/boozallen/strands-base-agent"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-02T18:13:45Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6376,
+    "updated_at": "2026-10-02T18:06:59Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2253,
+    "updated_at": "2026-10-02T18:03:32Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-10-02T18:02:50Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-10-02T18:01:51Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
+    "id": "swsgbl/hmharness",
+    "language": "TypeScript",
+    "name": "swsgbl/hmharness",
+    "stars": 1,
+    "updated_at": "2026-10-02T18:01:12Z",
+    "url": "https://github.com/swsgbl/hmharness"
+  },
+  {
+    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
+    "id": "AmritaBot/AmritaCore",
+    "language": "Python",
+    "name": "AmritaBot/AmritaCore",
+    "stars": 12,
+    "updated_at": "2026-10-02T18:02:05Z",
+    "url": "https://github.com/AmritaBot/AmritaCore"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-02T18:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -32,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-02T17:56:59Z",
+    "updated_at": "2026-10-02T18:12:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -45,39 +198,12 @@
     "url": "https://github.com/rjaskonis/pi-feats"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35730,
-    "updated_at": "2026-10-02T17:56:34Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2253,
-    "updated_at": "2026-10-02T17:55:44Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8625,
-    "updated_at": "2026-10-02T17:54:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 33,
-    "updated_at": "2026-10-02T17:54:56Z",
+    "updated_at": "2026-10-02T18:03:15Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -86,44 +212,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-02T17:59:49Z",
+    "updated_at": "2026-10-02T18:11:33Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1075,
-    "updated_at": "2026-10-02T17:58:15Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-02T17:54:45Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6376,
-    "updated_at": "2026-10-02T17:46:29Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
-    "id": "swsgbl/hmharness",
-    "language": "TypeScript",
-    "name": "swsgbl/hmharness",
-    "stars": 1,
-    "updated_at": "2026-10-02T17:46:25Z",
-    "url": "https://github.com/swsgbl/hmharness"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -133,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-10-02T17:45:36Z",
     "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-02T17:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10419,
-    "updated_at": "2026-10-02T17:52:53Z",
+    "updated_at": "2026-10-02T18:04:02Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -185,7 +266,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 23,
-    "updated_at": "2026-10-02T17:53:43Z",
+    "updated_at": "2026-10-02T18:15:20Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20360,
-    "updated_at": "2026-10-02T17:51:35Z",
+    "updated_at": "2026-10-02T18:15:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -225,24 +306,6 @@
     "url": "https://github.com/leanneexperimental3016/Models-Cowork"
   },
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-10-02T17:30:14Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-02T17:53:25Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
     "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
     "id": "lottieepigastric889/lucky-block-script-hub",
     "language": "HTML",
@@ -257,7 +320,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-10-02T17:49:30Z",
+    "updated_at": "2026-10-02T18:10:00Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 80,
     "updated_at": "2026-10-02T17:28:16Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Next Generation Agent Runtime / \u6b21\u4e16\u4ee3Agent\u8fd0\u884c\u65f6",
-    "id": "AmritaBot/AmritaCore",
-    "language": "Python",
-    "name": "AmritaBot/AmritaCore",
-    "stars": 12,
-    "updated_at": "2026-10-02T17:25:48Z",
-    "url": "https://github.com/AmritaBot/AmritaCore"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -394,59 +448,5 @@
     "stars": 48742,
     "updated_at": "2026-10-02T17:16:55Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-10-02T17:16:38Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 55,
-    "updated_at": "2026-10-02T17:16:09Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-10-02T17:15:28Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-10-02T17:15:16Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-10-02T17:15:10Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 1,
-    "updated_at": "2026-10-02T17:14:45Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
   }
 ]
