@@ -1,5 +1,113 @@
 [
   {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 3,
+    "updated_at": "2026-10-02T10:14:07Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "The authoritative standard and developer skill for DeepSeek Harness (DSH 0.2.0-rc.2) & Cordis plugin development.",
+    "id": "Wenaixi/dsh-plugin-dev",
+    "language": "JavaScript",
+    "name": "Wenaixi/dsh-plugin-dev",
+    "stars": 0,
+    "updated_at": "2026-10-02T10:13:52Z",
+    "url": "https://github.com/Wenaixi/dsh-plugin-dev"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 13905,
+    "updated_at": "2026-10-02T10:13:19Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15456,
+    "updated_at": "2026-10-02T10:12:18Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-10-02T10:13:29Z",
+    "url": "https://github.com/delivstat/swarmkit"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-02T10:06:47Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35735,
+    "updated_at": "2026-10-02T10:04:41Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1069,
+    "updated_at": "2026-10-02T10:03:25Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
+    "id": "use-brian/use-brian",
+    "language": "TypeScript",
+    "name": "use-brian/use-brian",
+    "stars": 26,
+    "updated_at": "2026-10-02T10:03:08Z",
+    "url": "https://github.com/use-brian/use-brian"
+  },
+  {
+    "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
+    "id": "fierceX/mink",
+    "language": "Rust",
+    "name": "fierceX/mink",
+    "stars": 1,
+    "updated_at": "2026-10-02T10:02:03Z",
+    "url": "https://github.com/fierceX/mink"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-02T10:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10418,
+    "updated_at": "2026-10-02T09:59:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
@@ -45,24 +153,6 @@
     "url": "https://github.com/agent-fox-dev/agentkit-go"
   },
   {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-02T09:55:54Z",
-    "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35734,
-    "updated_at": "2026-10-02T09:56:20Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
     "id": "iyulab/ironhive-host",
     "language": "C#",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T09:58:38Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1069,
-    "updated_at": "2026-10-02T09:54:26Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -90,15 +171,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "The authoritative standard and developer skill for DeepSeek Harness (DSH 0.2.0-rc.2) & Cordis plugin development.",
-    "id": "Wenaixi/dsh-plugin-dev",
-    "language": "JavaScript",
-    "name": "Wenaixi/dsh-plugin-dev",
-    "stars": 0,
-    "updated_at": "2026-10-02T09:53:27Z",
-    "url": "https://github.com/Wenaixi/dsh-plugin-dev"
-  },
-  {
     "description": "My personal multi agent lead generation assistant.",
     "id": "NoxelS/malg",
     "language": "Python",
@@ -108,13 +180,13 @@
     "url": "https://github.com/NoxelS/malg"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10416,
-    "updated_at": "2026-10-02T09:59:55Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "deepset-ai/haystack",
+    "stars": 26641,
+    "updated_at": "2026-10-02T09:46:50Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -124,15 +196,6 @@
     "stars": 78,
     "updated_at": "2026-10-02T09:45:35Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-02T09:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
@@ -160,42 +223,6 @@
     "stars": 14,
     "updated_at": "2026-10-02T09:53:08Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26640,
-    "updated_at": "2026-10-02T09:46:50Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-02T09:57:42Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15456,
-    "updated_at": "2026-10-02T09:53:36Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Lightweight AI coding agent \u2014 Rust native, terminal-first, embeddable as a library. Optimized for DeepSeek / OpenAI-comp",
-    "id": "fierceX/mink",
-    "language": "Rust",
-    "name": "fierceX/mink",
-    "stars": 1,
-    "updated_at": "2026-10-02T09:36:59Z",
-    "url": "https://github.com/fierceX/mink"
   },
   {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
@@ -265,7 +292,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 2820,
+    "stars": 2822,
     "updated_at": "2026-10-02T09:26:35Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -277,15 +304,6 @@
     "stars": 315,
     "updated_at": "2026-10-02T09:59:12Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
-    "id": "use-brian/use-brian",
-    "language": "TypeScript",
-    "name": "use-brian/use-brian",
-    "stars": 26,
-    "updated_at": "2026-10-02T09:56:39Z",
-    "url": "https://github.com/use-brian/use-brian"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -331,15 +349,6 @@
     "stars": 307,
     "updated_at": "2026-10-02T09:17:28Z",
     "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13905,
-    "updated_at": "2026-10-02T09:59:14Z",
-    "url": "https://github.com/microsoft/agent-framework"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -439,14 +448,5 @@
     "stars": 19,
     "updated_at": "2026-10-02T08:41:50Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 56,
-    "updated_at": "2026-10-02T08:41:19Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   }
 ]
