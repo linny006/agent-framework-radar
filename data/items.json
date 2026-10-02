@@ -1,5 +1,95 @@
 [
   {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1068,
+    "updated_at": "2026-10-02T04:15:21Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35733,
+    "updated_at": "2026-10-02T04:13:27Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
+    "id": "converge-ai-labs/agent-foundation",
+    "language": "Python",
+    "name": "converge-ai-labs/agent-foundation",
+    "stars": 129,
+    "updated_at": "2026-10-02T04:09:46Z",
+    "url": "https://github.com/converge-ai-labs/agent-foundation"
+  },
+  {
+    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
+    "id": "agenthatch/agenthatch",
+    "language": "Python",
+    "name": "agenthatch/agenthatch",
+    "stars": 71,
+    "updated_at": "2026-10-02T04:08:45Z",
+    "url": "https://github.com/agenthatch/agenthatch"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T04:12:57Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-10-02T04:06:11Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 1,
+    "updated_at": "2026-10-02T04:04:58Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/hali",
+    "language": "C++",
+    "name": "chrisws/hali",
+    "stars": 5,
+    "updated_at": "2026-10-02T04:02:22Z",
+    "url": "https://github.com/chrisws/hali"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 3,
+    "updated_at": "2026-10-02T04:01:53Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-02T04:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
     "id": "Pal-AI-Lab/Cortico",
     "language": "TypeScript",
@@ -9,21 +99,12 @@
     "url": "https://github.com/Pal-AI-Lab/Cortico"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1068,
-    "updated_at": "2026-10-02T03:59:41Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-02T03:56:44Z",
+    "updated_at": "2026-10-02T04:12:56Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -54,21 +135,12 @@
     "url": "https://github.com/RexHuang/novus"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35733,
-    "updated_at": "2026-10-02T03:49:31Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 20,
-    "updated_at": "2026-10-02T03:49:16Z",
+    "updated_at": "2026-10-02T04:14:29Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -77,7 +149,7 @@
     "language": "HTML",
     "name": "SunrisesIllNeverSee/agent-universe",
     "stars": 1,
-    "updated_at": "2026-10-02T03:59:03Z",
+    "updated_at": "2026-10-02T04:15:03Z",
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 56,
     "updated_at": "2026-10-02T03:46:08Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-02T03:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-02T03:44:22Z",
+    "updated_at": "2026-10-02T04:14:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10412,
-    "updated_at": "2026-10-02T03:58:45Z",
+    "updated_at": "2026-10-02T04:06:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -148,7 +211,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 48737,
+    "stars": 48738,
     "updated_at": "2026-10-02T03:36:35Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -180,15 +243,6 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-02T03:49:35Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -196,33 +250,6 @@
     "stars": 2807,
     "updated_at": "2026-10-02T03:28:37Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Phone local agent",
-    "id": "HaohanHe/Opedrgent",
-    "language": "Kotlin",
-    "name": "HaohanHe/Opedrgent",
-    "stars": 3,
-    "updated_at": "2026-10-02T03:24:53Z",
-    "url": "https://github.com/HaohanHe/Opedrgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-02T03:52:43Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agents, mem",
-    "id": "converge-ai-labs/agent-foundation",
-    "language": "Python",
-    "name": "converge-ai-labs/agent-foundation",
-    "stars": 128,
-    "updated_at": "2026-10-02T03:22:25Z",
-    "url": "https://github.com/converge-ai-labs/agent-foundation"
   },
   {
     "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
@@ -277,15 +304,6 @@
     "stars": 2249,
     "updated_at": "2026-10-02T03:13:49Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
-    "id": "agenthatch/agenthatch",
-    "language": "Python",
-    "name": "agenthatch/agenthatch",
-    "stars": 71,
-    "updated_at": "2026-10-02T03:11:54Z",
-    "url": "https://github.com/agenthatch/agenthatch"
   },
   {
     "description": "Autonomous Operations War Room, Byzantine Deliberation Engine, and Atlas 2.0 Goal-Directed DAG.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T02:41:19Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Orchestrate multi-agent workflows using Codex, Claude, and Gemini with verified cross-audits, source tracking, and struc",
-    "id": "sloppy-yeast840/tri-party-framework",
-    "language": "Shell",
-    "name": "sloppy-yeast840/tri-party-framework",
-    "stars": 0,
-    "updated_at": "2026-10-02T02:41:12Z",
-    "url": "https://github.com/sloppy-yeast840/tri-party-framework"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-10-02T02:41:06Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
