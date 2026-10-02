@@ -1,11 +1,119 @@
 [
   {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15456,
+    "updated_at": "2026-10-02T12:59:58Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2345,
+    "updated_at": "2026-10-02T12:58:06Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-02T12:58:00Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "Shell",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:56:58Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
+    "id": "shipiit/shipit_agent",
+    "language": "Python",
+    "name": "shipiit/shipit_agent",
+    "stars": 3,
+    "updated_at": "2026-10-02T12:57:45Z",
+    "url": "https://github.com/shipiit/shipit_agent"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:53:54Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:50:28Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "\u53ef\u72ec\u7acb\u8fd0\u884c\u7684\u6570\u5b66\u5efa\u6a21\u5de5\u4f5c\u53f0, \u540c\u65f6\u63d0\u4f9bskill\u6d41\u7a0b\u548c\u771f\u5b9e\u591aagent\u8fd0\u884c\u65f6",
+    "id": "SoFarSoGoodya/mathmodel-weave",
+    "language": "Python",
+    "name": "SoFarSoGoodya/mathmodel-weave",
+    "stars": 2,
+    "updated_at": "2026-10-02T12:48:53Z",
+    "url": "https://github.com/SoFarSoGoodya/mathmodel-weave"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 3,
+    "updated_at": "2026-10-02T12:47:53Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-10-02T12:46:17Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-02T12:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48750,
+    "updated_at": "2026-10-02T12:44:51Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
     "id": "neomjs/neo-agent-institution",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-02T12:44:48Z",
+    "updated_at": "2026-10-02T12:53:03Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "apowerb/apowerb",
     "stars": 41,
-    "updated_at": "2026-10-02T12:44:44Z",
+    "updated_at": "2026-10-02T12:45:30Z",
     "url": "https://github.com/apowerb/apowerb"
   },
   {
@@ -41,7 +149,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-02T12:42:01Z",
+    "updated_at": "2026-10-02T12:59:58Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -52,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T12:39:21Z",
     "url": "https://github.com/tinyhumansai/tinymcp"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2345,
-    "updated_at": "2026-10-02T12:38:16Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
@@ -95,17 +194,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 315,
-    "updated_at": "2026-10-02T12:33:34Z",
+    "updated_at": "2026-10-02T12:48:27Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-02T12:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T12:30:05Z",
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
-    "id": "xsyetopz/dotclaude",
-    "language": "Shell",
-    "name": "xsyetopz/dotclaude",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:29:56Z",
-    "url": "https://github.com/xsyetopz/dotclaude"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -140,17 +221,8 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35740,
-    "updated_at": "2026-10-02T12:40:22Z",
+    "updated_at": "2026-10-02T12:55:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:28:55Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
     "description": "Eco Agent - \u9762\u5411\u751f\u6001\u73af\u5883\u5782\u76f4\u9886\u57df\u7684 AI \u667a\u80fd\u4f53",
@@ -160,24 +232,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T12:28:46Z",
     "url": "https://github.com/xiejianjun000/eco-agent"
-  },
-  {
-    "description": "Phone local agent",
-    "id": "HaohanHe/Opedrgent",
-    "language": "Kotlin",
-    "name": "HaohanHe/Opedrgent",
-    "stars": 3,
-    "updated_at": "2026-10-02T12:28:14Z",
-    "url": "https://github.com/HaohanHe/Opedrgent"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-02T12:27:07Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -196,15 +250,6 @@
     "stars": 309,
     "updated_at": "2026-10-02T12:25:06Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15456,
-    "updated_at": "2026-10-02T12:22:15Z",
-    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -230,7 +275,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 43,
-    "updated_at": "2026-10-02T12:17:04Z",
+    "updated_at": "2026-10-02T12:58:10Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 3,
-    "updated_at": "2026-10-02T12:42:22Z",
+    "updated_at": "2026-10-02T12:51:18Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T11:59:01Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 8,
-    "updated_at": "2026-10-02T11:57:46Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:57:46Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:56:41Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:55:32Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:55:24Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
