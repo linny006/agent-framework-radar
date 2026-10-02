@@ -1,12 +1,102 @@
 [
   {
+    "description": "ShadowScan discovers evidence of AI agents across code, identity, gateways, low-code, SaaS, and cloud. Live or offline.",
+    "id": "aisecnomad/Project-Nexus",
+    "language": "Python",
+    "name": "aisecnomad/Project-Nexus",
+    "stars": 10,
+    "updated_at": "2026-10-02T20:28:00Z",
+    "url": "https://github.com/aisecnomad/Project-Nexus"
+  },
+  {
     "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
     "id": "IAmNo1Special/mvgeos",
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-02T20:15:10Z",
+    "updated_at": "2026-10-02T20:27:07Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1077,
+    "updated_at": "2026-10-02T20:25:49Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35731,
+    "updated_at": "2026-10-02T20:25:13Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
+    "id": "ubunatic/harnez",
+    "language": "Go",
+    "name": "ubunatic/harnez",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:23:17Z",
+    "url": "https://github.com/ubunatic/harnez"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 23,
+    "updated_at": "2026-10-02T20:22:54Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 1,
+    "updated_at": "2026-10-02T20:20:27Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 121,
+    "updated_at": "2026-10-02T20:18:12Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2253,
+    "updated_at": "2026-10-02T20:16:24Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-02T20:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1891,
+    "updated_at": "2026-10-02T20:29:48Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
     "description": "A self-hosted web interface for the pi coding agent.",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 23,
-    "updated_at": "2026-10-02T20:13:56Z",
+    "updated_at": "2026-10-02T20:27:30Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -23,7 +113,7 @@
     "language": "Go",
     "name": "ionalpha/flynn",
     "stars": 3,
-    "updated_at": "2026-10-02T20:13:34Z",
+    "updated_at": "2026-10-02T20:29:23Z",
     "url": "https://github.com/ionalpha/flynn"
   },
   {
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 33,
-    "updated_at": "2026-10-02T20:13:27Z",
+    "updated_at": "2026-10-02T20:18:18Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -45,13 +135,13 @@
     "url": "https://github.com/xuxueli/xxl-ai"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35731,
-    "updated_at": "2026-10-02T20:12:13Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 759,
+    "updated_at": "2026-10-02T20:29:30Z",
+    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -85,54 +175,18 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 20360,
-    "updated_at": "2026-10-02T20:02:40Z",
+    "stars": 20361,
+    "updated_at": "2026-10-02T20:16:47Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-02T20:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1077,
-    "updated_at": "2026-10-02T20:03:38Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:55:57Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8626,
-    "updated_at": "2026-10-02T19:53:43Z",
+    "stars": 8627,
+    "updated_at": "2026-10-02T20:26:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "Shell",
-    "name": "aeonfun/aeon",
-    "stars": 758,
-    "updated_at": "2026-10-02T20:07:38Z",
-    "url": "https://github.com/aeonfun/aeon"
   },
   {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
@@ -140,7 +194,7 @@
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-10-02T20:11:53Z",
+    "updated_at": "2026-10-02T20:27:18Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -207,13 +261,13 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 23,
-    "updated_at": "2026-10-02T20:07:47Z",
-    "url": "https://github.com/kh0pper/crow"
+    "description": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb Grow your abilities with Bowerloom \ud83c\udf3f",
+    "id": "sageadvicellc/bowerloom",
+    "language": "\u2014",
+    "name": "sageadvicellc/bowerloom",
+    "stars": 1,
+    "updated_at": "2026-10-02T19:32:55Z",
+    "url": "https://github.com/sageadvicellc/bowerloom"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -223,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T20:08:38Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2253,
-    "updated_at": "2026-10-02T19:29:48Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-02T19:28:14Z",
+    "updated_at": "2026-10-02T20:19:04Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T19:10:46Z",
     "url": "https://github.com/monahright467/harness-books"
-  },
-  {
-    "description": "Measure, monitor, and improve AI agent reliability with SRE-style tools for production agent systems",
-    "id": "jesayas7817/agent-reliability-engineering",
-    "language": "Shell",
-    "name": "jesayas7817/agent-reliability-engineering",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:09:42Z",
-    "url": "https://github.com/jesayas7817/agent-reliability-engineering"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4973,
-    "updated_at": "2026-10-02T19:09:25Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:08:37Z",
-    "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:07:33Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:07:16Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
