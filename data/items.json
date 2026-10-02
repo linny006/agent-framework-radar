@@ -1,5 +1,122 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-02T00:00:02Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.",
+    "id": "kodustech/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "kodustech/awesome-agent-skills",
+    "stars": 105,
+    "updated_at": "2026-10-01T23:58:47Z",
+    "url": "https://github.com/kodustech/awesome-agent-skills"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-10-01T23:59:48Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-01T23:56:55Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20332,
+    "updated_at": "2026-10-02T00:00:20Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-01T23:48:49Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
+    "id": "PiloTracer/pilo.ai.logicbison",
+    "language": "Shell",
+    "name": "PiloTracer/pilo.ai.logicbison",
+    "stars": 0,
+    "updated_at": "2026-10-01T23:48:28Z",
+    "url": "https://github.com/PiloTracer/pilo.ai.logicbison"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-10-01T23:48:13Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
+    "id": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
+    "language": "\u2014",
+    "name": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
+    "stars": 0,
+    "updated_at": "2026-10-01T23:47:35Z",
+    "url": "https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review"
+  },
+  {
+    "description": "Orchestrate hierarchical agents in OpenCode with dependency-aware boards, parallel builders, and evidence-gated completi",
+    "id": "ygudoshnikov-debug/opencode-agent-foundry",
+    "language": "TypeScript",
+    "name": "ygudoshnikov-debug/opencode-agent-foundry",
+    "stars": 0,
+    "updated_at": "2026-10-01T23:47:28Z",
+    "url": "https://github.com/ygudoshnikov-debug/opencode-agent-foundry"
+  },
+  {
+    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
+    "id": "autocatalytic-quartette9513/agent-git",
+    "language": "\u2014",
+    "name": "autocatalytic-quartette9513/agent-git",
+    "stars": 0,
+    "updated_at": "2026-10-01T23:47:15Z",
+    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
+  },
+  {
+    "description": "A compass for autonomous agents, not an operating manual.",
+    "id": "tachyon-r/first-principles-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/first-principles-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-10-01T23:47:12Z",
+    "url": "https://github.com/tachyon-r/first-principles-agent-soul"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-01T23:45:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
     "id": "pingpongballbouncingbetty737/embabel-agent",
     "language": "\u2014",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-01T23:42:03Z",
+    "updated_at": "2026-10-01T23:47:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,17 +149,8 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2802,
-    "updated_at": "2026-10-01T23:41:42Z",
+    "updated_at": "2026-10-01T23:53:08Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20332,
-    "updated_at": "2026-10-01T23:44:50Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Agent context compressor and memory persistent orchestration",
@@ -77,7 +185,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10409,
-    "updated_at": "2026-10-01T23:39:18Z",
+    "updated_at": "2026-10-01T23:57:14Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -117,24 +225,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-01T23:39:01Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 78,
-    "updated_at": "2026-10-01T23:44:14Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
     "id": "crmne/ruby_llm",
     "language": "Ruby",
@@ -153,15 +243,6 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Portable process framework for software teams shipping with coding agents (Cursor, Claude Code, Codex, opencode). Skills",
-    "id": "PiloTracer/pilo.ai.logicbison",
-    "language": "Shell",
-    "name": "PiloTracer/pilo.ai.logicbison",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:32:46Z",
-    "url": "https://github.com/PiloTracer/pilo.ai.logicbison"
-  },
-  {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
     "id": "breastless-andcircuit638/lean-loop",
     "language": "\u2014",
@@ -178,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T23:31:27Z",
     "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-01T23:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
@@ -329,7 +401,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 3,
-    "updated_at": "2026-10-01T23:40:07Z",
+    "updated_at": "2026-10-01T23:47:36Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -360,15 +432,6 @@
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-01T22:34:47Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
     "id": "Tachion-Oy/roboz",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T22:24:52Z",
     "url": "https://github.com/B-A-M-N/tsmigrate"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-01T22:28:16Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 121,
-    "updated_at": "2026-10-01T22:17:14Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "hrabanazviking/hrabanazviking",
-    "language": "\u2014",
-    "name": "hrabanazviking/hrabanazviking",
-    "stars": 4,
-    "updated_at": "2026-10-01T22:14:16Z",
-    "url": "https://github.com/hrabanazviking/hrabanazviking"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-10-01T23:38:41Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-10-01T21:57:17Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 223,
-    "updated_at": "2026-10-01T21:56:28Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Review uncommitted and branch changes, PRs, or paths in Codex with configurable depth, optional fixes, and GitHub inline",
-    "id": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
-    "language": "\u2014",
-    "name": "Irrationalmotivedanielmorgan3016/claude-like-codex-code-review",
-    "stars": 0,
-    "updated_at": "2026-10-01T21:56:20Z",
-    "url": "https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review"
   }
 ]
