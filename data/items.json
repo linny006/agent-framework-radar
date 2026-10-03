@@ -1,21 +1,30 @@
 [
   {
-    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
-    "id": "fmuecke/agent-win-sandbox",
-    "language": "PowerShell",
-    "name": "fmuecke/agent-win-sandbox",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:20:53Z",
-    "url": "https://github.com/fmuecke/agent-win-sandbox"
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-10-03T13:28:55Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
+    "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
+    "id": "imcreazy/DeepSeek-Fengcode",
+    "language": "Python",
+    "name": "imcreazy/DeepSeek-Fengcode",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:28:42Z",
+    "url": "https://github.com/imcreazy/DeepSeek-Fengcode"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "autopus-ai/autopus-adk",
     "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-03T13:20:25Z",
-    "url": "https://github.com/manishiitg/agentworks"
+    "name": "autopus-ai/autopus-adk",
+    "stars": 111,
+    "updated_at": "2026-10-03T13:28:33Z",
+    "url": "https://github.com/autopus-ai/autopus-adk"
   },
   {
     "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
@@ -23,8 +32,62 @@
     "language": "Python",
     "name": "Tachion-Oy/roboz",
     "stars": 0,
-    "updated_at": "2026-10-03T13:19:53Z",
+    "updated_at": "2026-10-03T13:29:35Z",
     "url": "https://github.com/Tachion-Oy/roboz"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-10-03T13:27:53Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 39,
+    "updated_at": "2026-10-03T13:23:21Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 13,
+    "updated_at": "2026-10-03T13:26:36Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35730,
+    "updated_at": "2026-10-03T13:28:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T13:21:08Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
+    "id": "fmuecke/agent-win-sandbox",
+    "language": "PowerShell",
+    "name": "fmuecke/agent-win-sandbox",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:20:53Z",
+    "url": "https://github.com/fmuecke/agent-win-sandbox"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -41,7 +104,7 @@
     "language": "Go",
     "name": "Quilzo/Quilzo",
     "stars": 2,
-    "updated_at": "2026-10-03T13:18:43Z",
+    "updated_at": "2026-10-03T13:25:26Z",
     "url": "https://github.com/Quilzo/Quilzo"
   },
   {
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 33,
-    "updated_at": "2026-10-03T13:20:43Z",
+    "updated_at": "2026-10-03T13:22:14Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -61,24 +124,6 @@
     "stars": 109,
     "updated_at": "2026-10-03T13:15:49Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T13:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35730,
-    "updated_at": "2026-10-03T13:11:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -216,15 +261,6 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "autopus-ai/autopus-adk",
-    "language": "Go",
-    "name": "autopus-ai/autopus-adk",
-    "stars": 111,
-    "updated_at": "2026-10-03T12:56:22Z",
-    "url": "https://github.com/autopus-ai/autopus-adk"
-  },
-  {
     "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
     "id": "lifishard/wickrunAI",
     "language": "JavaScript",
@@ -248,7 +284,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1082,
-    "updated_at": "2026-10-03T13:20:57Z",
+    "updated_at": "2026-10-03T13:21:48Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -275,7 +311,7 @@
     "language": "C++",
     "name": "Hazer-BJTU/simplex-cpp",
     "stars": 0,
-    "updated_at": "2026-10-03T13:13:25Z",
+    "updated_at": "2026-10-03T13:25:18Z",
     "url": "https://github.com/Hazer-BJTU/simplex-cpp"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 50,
     "updated_at": "2026-10-03T12:29:51Z",
     "url": "https://github.com/Azzurroooo/rind"
-  },
-  {
-    "description": "Build a production-grade multi-agent AI framework for collaborative software development with clean orchestration and re",
-    "id": "berrettabadger966/genesis-pantheon",
-    "language": "Python",
-    "name": "berrettabadger966/genesis-pantheon",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:29:19Z",
-    "url": "https://github.com/berrettabadger966/genesis-pantheon"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:28:56Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 607,
-    "updated_at": "2026-10-03T12:29:39Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Search your local documents with semantic search in any MCP client, no API keys, no cloud access",
-    "id": "Ansellwaxlike187/cowork-semantic-search",
-    "language": "Python",
-    "name": "Ansellwaxlike187/cowork-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:26:55Z",
-    "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
   }
 ]
