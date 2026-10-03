@@ -1,12 +1,12 @@
 [
   {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-03T09:15:11Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T09:29:07Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
@@ -14,8 +14,107 @@
     "language": "Python",
     "name": "musokean/forge",
     "stars": 1,
-    "updated_at": "2026-10-03T09:15:11Z",
+    "updated_at": "2026-10-03T09:28:24Z",
     "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 229,
+    "updated_at": "2026-10-03T09:26:53Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1082,
+    "updated_at": "2026-10-03T09:30:17Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:29:43Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4425,
+    "updated_at": "2026-10-03T09:25:39Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
+    "id": "imcreazy/DeepSeek-Fengcode",
+    "language": "Python",
+    "name": "imcreazy/DeepSeek-Fengcode",
+    "stars": 0,
+    "updated_at": "2026-10-03T09:24:40Z",
+    "url": "https://github.com/imcreazy/DeepSeek-Fengcode"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 14,
+    "updated_at": "2026-10-03T09:24:03Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-10-03T09:23:29Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-03T09:17:43Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 80,
+    "updated_at": "2026-10-03T09:16:58Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-03T09:17:55Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T09:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48751,
-    "updated_at": "2026-10-03T09:15:11Z",
+    "updated_at": "2026-10-03T09:19:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 32,
-    "updated_at": "2026-10-03T09:12:32Z",
+    "updated_at": "2026-10-03T09:19:41Z",
     "url": "https://github.com/shaharia-lab/agento"
   },
   {
@@ -61,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T09:13:29Z",
     "url": "https://github.com/XUYE23/agent-tool-budget"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-03T09:10:45Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 80,
-    "updated_at": "2026-10-03T09:08:38Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T09:01:08Z",
     "url": "https://github.com/V1sMu21/OpenZen"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T09:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
@@ -234,24 +306,6 @@
     "url": "https://github.com/DevKumar57-67/AgentGuard"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T08:42:10Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
-    "id": "imcreazy/DeepSeek-Fengcode",
-    "language": "Python",
-    "name": "imcreazy/DeepSeek-Fengcode",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:31:31Z",
-    "url": "https://github.com/imcreazy/DeepSeek-Fengcode"
-  },
-  {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
     "id": "Dr-SoloDev/Lab-solocorp-os2.4",
     "language": "Python",
@@ -274,27 +328,9 @@
     "id": "livecontext-ai/livecontext-ce",
     "language": "Java",
     "name": "livecontext-ai/livecontext-ce",
-    "stars": 642,
+    "stars": 643,
     "updated_at": "2026-10-03T08:28:32Z",
     "url": "https://github.com/livecontext-ai/livecontext-ce"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1082,
-    "updated_at": "2026-10-03T09:11:37Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4425,
-    "updated_at": "2026-10-03T08:26:31Z",
-    "url": "https://github.com/crmne/ruby_llm"
   },
   {
     "description": "Landing page for heros-agent.space \u2014 Heros, \u963f\u6865, FORGE, Vera and Aoi",
@@ -360,15 +396,6 @@
     "url": "https://github.com/chjm-ai/vococo"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 14,
-    "updated_at": "2026-10-03T09:00:26Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
     "id": "conn-castle/agent-outbox",
     "language": "JavaScript",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 10,
-    "updated_at": "2026-10-03T08:15:39Z",
+    "updated_at": "2026-10-03T09:25:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T07:49:20Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when",
-    "id": "jackispm/nausicaa-harness",
-    "language": "TypeScript",
-    "name": "jackispm/nausicaa-harness",
-    "stars": 33,
-    "updated_at": "2026-10-03T07:43:57Z",
-    "url": "https://github.com/jackispm/nausicaa-harness"
-  },
-  {
-    "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
-    "id": "leanneexperimental3016/Models-Cowork",
-    "language": "Python",
-    "name": "leanneexperimental3016/Models-Cowork",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:43:12Z",
-    "url": "https://github.com/leanneexperimental3016/Models-Cowork"
-  },
-  {
-    "description": "AgentOps control plane for AI agent execution. Rust policy plane, hash-chained audit, deny-by-default tool allowlists an",
-    "id": "sattyamjjain/ferrumdeck",
-    "language": "TypeScript",
-    "name": "sattyamjjain/ferrumdeck",
-    "stars": 8,
-    "updated_at": "2026-10-03T07:42:03Z",
-    "url": "https://github.com/sattyamjjain/ferrumdeck"
   }
 ]
