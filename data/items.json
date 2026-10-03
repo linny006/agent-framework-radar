@@ -1,12 +1,57 @@
 [
   {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-10-03T13:44:45Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Open-source platform for building, running and supervising agents and chatbots: a declaration each agent cannot exceed, ",
+    "id": "Quilzo/Quilzo",
+    "language": "Go",
+    "name": "Quilzo/Quilzo",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:44:32Z",
+    "url": "https://github.com/Quilzo/Quilzo"
+  },
+  {
     "description": "An agent runtime.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
     "name": "shadow3aaa/DaatLocus",
     "stars": 7,
-    "updated_at": "2026-10-03T13:28:55Z",
+    "updated_at": "2026-10-03T13:43:48Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Python",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:43:22Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:41:23Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35731,
+    "updated_at": "2026-10-03T13:41:16Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "imcreazy/DeepSeek-Fengcode",
     "stars": 0,
-    "updated_at": "2026-10-03T13:28:42Z",
+    "updated_at": "2026-10-03T13:38:47Z",
     "url": "https://github.com/imcreazy/DeepSeek-Fengcode"
+  },
+  {
+    "description": "An open-source marketplace and auction framework for autonomous agents.",
+    "id": "Yashjindal11/auctionsi",
+    "language": "Python",
+    "name": "Yashjindal11/auctionsi",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:33:30Z",
+    "url": "https://github.com/Yashjindal11/auctionsi"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-03T13:43:23Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T13:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -32,17 +104,8 @@
     "language": "Python",
     "name": "Tachion-Oy/roboz",
     "stars": 0,
-    "updated_at": "2026-10-03T13:29:35Z",
+    "updated_at": "2026-10-03T13:44:56Z",
     "url": "https://github.com/Tachion-Oy/roboz"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-03T13:27:53Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
@@ -63,24 +126,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35730,
-    "updated_at": "2026-10-03T13:28:32Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T13:21:08Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
     "id": "fmuecke/agent-win-sandbox",
     "language": "PowerShell",
@@ -99,21 +144,12 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Open-source platform for building, running and supervising agents and chatbots: a declaration each agent cannot exceed, ",
-    "id": "Quilzo/Quilzo",
-    "language": "Go",
-    "name": "Quilzo/Quilzo",
-    "stars": 2,
-    "updated_at": "2026-10-03T13:25:26Z",
-    "url": "https://github.com/Quilzo/Quilzo"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 33,
-    "updated_at": "2026-10-03T13:22:14Z",
+    "updated_at": "2026-10-03T13:41:17Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 116,
-    "updated_at": "2026-10-03T13:01:54Z",
+    "updated_at": "2026-10-03T13:45:02Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1082,
-    "updated_at": "2026-10-03T13:21:48Z",
+    "updated_at": "2026-10-03T13:33:50Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -293,17 +329,8 @@
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 136,
-    "updated_at": "2026-10-03T13:01:46Z",
+    "updated_at": "2026-10-03T13:33:27Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:54:49Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:30:09Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:30:03Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:30:02Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Lightweight AI coding agent for the terminal, with one-shot automation, persistent agent teams, and a small reusable Ope",
-    "id": "Azzurroooo/rind",
-    "language": "Python",
-    "name": "Azzurroooo/rind",
-    "stars": 50,
-    "updated_at": "2026-10-03T12:29:51Z",
-    "url": "https://github.com/Azzurroooo/rind"
   }
 ]
