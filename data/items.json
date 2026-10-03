@@ -1,5 +1,77 @@
 [
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48751,
+    "updated_at": "2026-10-03T08:57:04Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
+    "language": "Python",
+    "name": "musokean/forge",
+    "stars": 1,
+    "updated_at": "2026-10-03T08:55:43Z",
+    "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
+    "id": "llm-works/llm-gent",
+    "language": "Python",
+    "name": "llm-works/llm-gent",
+    "stars": 0,
+    "updated_at": "2026-10-03T08:49:02Z",
+    "url": "https://github.com/llm-works/llm-gent"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-10-03T08:49:00Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
+    "id": "Tachion-Oy/roboz",
+    "language": "Python",
+    "name": "Tachion-Oy/roboz",
+    "stars": 0,
+    "updated_at": "2026-10-03T08:48:54Z",
+    "url": "https://github.com/Tachion-Oy/roboz"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-03T08:48:07Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-03T08:51:02Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T08:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agent runtime.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -13,18 +85,9 @@
     "id": "pqpo/pragma",
     "language": "TypeScript",
     "name": "pqpo/pragma",
-    "stars": 240,
+    "stars": 241,
     "updated_at": "2026-10-03T08:43:25Z",
     "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-03T08:44:16Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
     "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
@@ -36,21 +99,12 @@
     "url": "https://github.com/franktsaodev/Frank-AI-Agent"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-03T08:41:25Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
     "id": "osovv/vv-opencode",
     "language": "TypeScript",
     "name": "osovv/vv-opencode",
     "stars": 13,
-    "updated_at": "2026-10-03T08:41:22Z",
+    "updated_at": "2026-10-03T08:45:41Z",
     "url": "https://github.com/osovv/vv-opencode"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T08:39:44Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-03T08:38:24Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
@@ -108,15 +153,6 @@
     "url": "https://github.com/DevKumar57-67/AgentGuard"
   },
   {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-03T08:37:55Z",
-    "url": "https://github.com/musokean/forge"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T08:31:31Z",
     "url": "https://github.com/imcreazy/DeepSeek-Fengcode"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T08:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
@@ -176,7 +203,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1082,
-    "updated_at": "2026-10-03T08:27:57Z",
+    "updated_at": "2026-10-03T08:55:39Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 43,
-    "updated_at": "2026-10-03T08:23:07Z",
+    "updated_at": "2026-10-03T08:57:41Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48751,
-    "updated_at": "2026-10-03T07:46:53Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
     "id": "kangwoo/aimon-core",
     "language": "Java",
@@ -391,7 +409,7 @@
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
-    "stars": 108,
+    "stars": 109,
     "updated_at": "2026-10-03T07:40:16Z",
     "url": "https://github.com/futuregene/future-os"
   },
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35735,
-    "updated_at": "2026-10-03T07:35:38Z",
+    "updated_at": "2026-10-03T08:53:01Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-10-03T07:34:44Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Manage project.md files using a single CLI tool to track tasks and coordinate work between humans and AI agents without ",
-    "id": "Liny9941/projectsmd",
-    "language": "Rust",
-    "name": "Liny9941/projectsmd",
-    "stars": 2,
-    "updated_at": "2026-10-03T07:33:36Z",
-    "url": "https://github.com/Liny9941/projectsmd"
   }
 ]
