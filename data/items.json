@@ -1,5 +1,86 @@
 [
   {
+    "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
+    "id": "jigjoy-ai/mozaik",
+    "language": "TypeScript",
+    "name": "jigjoy-ai/mozaik",
+    "stars": 160,
+    "updated_at": "2026-10-03T21:43:03Z",
+    "url": "https://github.com/jigjoy-ai/mozaik"
+  },
+  {
+    "description": "Nessy \u2014 an AI agent harness framework for Java",
+    "id": "jwcarman/nessy",
+    "language": "Java",
+    "name": "jwcarman/nessy",
+    "stars": 2,
+    "updated_at": "2026-10-03T21:42:11Z",
+    "url": "https://github.com/jwcarman/nessy"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:39:31Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 43,
+    "updated_at": "2026-10-03T21:39:29Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 762,
+    "updated_at": "2026-10-03T21:37:45Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 112,
+    "updated_at": "2026-10-03T21:34:46Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "Auditor\u00eda y reparaci\u00f3n continua para tu repositorio con agentes locales: hallazgos con evidencia, verificaci\u00f3n contra tu",
+    "id": "MadManJohnSmith/Improvement",
+    "language": "Python",
+    "name": "MadManJohnSmith/Improvement",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:32:43Z",
+    "url": "https://github.com/MadManJohnSmith/Improvement"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:31:34Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T21:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
     "id": "fmuecke/agent-win-sandbox",
     "language": "PowerShell",
@@ -23,7 +104,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1083,
-    "updated_at": "2026-10-03T21:29:06Z",
+    "updated_at": "2026-10-03T21:37:41Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 5,
-    "updated_at": "2026-10-03T21:25:29Z",
+    "updated_at": "2026-10-03T21:31:05Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10449,
-    "updated_at": "2026-10-03T21:29:56Z",
+    "updated_at": "2026-10-03T21:43:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 4427,
     "updated_at": "2026-10-03T21:16:34Z",
     "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T21:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -153,21 +225,12 @@
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "Shell",
-    "name": "aeonfun/aeon",
-    "stars": 762,
-    "updated_at": "2026-10-03T20:58:19Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "A small, provider-neutral agent harness written in Rust",
     "id": "tinyhumansai/tinyagents",
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 116,
-    "updated_at": "2026-10-03T20:54:08Z",
+    "updated_at": "2026-10-03T21:33:27Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 315,
-    "updated_at": "2026-10-03T20:54:07Z",
+    "updated_at": "2026-10-03T21:30:53Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -234,15 +297,6 @@
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
   },
   {
-    "description": "Nessy \u2014 an AI agent harness framework for Java",
-    "id": "jwcarman/nessy",
-    "language": "Java",
-    "name": "jwcarman/nessy",
-    "stars": 2,
-    "updated_at": "2026-10-03T20:35:40Z",
-    "url": "https://github.com/jwcarman/nessy"
-  },
-  {
     "description": "Merchant acquiring intelligence suite built on a deterministic agentic workflow for pre-checks, KYB, credit decisioning ",
     "id": "NitinRawat26/MerchantIntelligence",
     "language": "C#",
@@ -288,21 +342,12 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 112,
-    "updated_at": "2026-10-03T21:11:32Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
     "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
     "id": "Tachion-Oy/roboz",
     "language": "Python",
     "name": "Tachion-Oy/roboz",
     "stars": 0,
-    "updated_at": "2026-10-03T21:26:27Z",
+    "updated_at": "2026-10-03T21:34:54Z",
     "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 23,
-    "updated_at": "2026-10-03T21:14:50Z",
+    "updated_at": "2026-10-03T21:38:39Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -356,7 +401,7 @@
     "language": "JavaScript",
     "name": "lifishard/wickrunAI",
     "stars": 0,
-    "updated_at": "2026-10-03T20:03:56Z",
+    "updated_at": "2026-10-03T21:40:16Z",
     "url": "https://github.com/lifishard/wickrunAI"
   },
   {
@@ -367,15 +412,6 @@
     "stars": 6,
     "updated_at": "2026-10-03T20:00:10Z",
     "url": "https://github.com/zkysar1/Claude-Mind"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-03T21:14:54Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
     "description": "Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing",
@@ -412,41 +448,5 @@
     "stars": 4974,
     "updated_at": "2026-10-03T19:43:36Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:43:24Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-03T19:43:23Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-03T19:43:21Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
-    "id": "xmor/ara",
-    "language": "Java",
-    "name": "xmor/ara",
-    "stars": 6,
-    "updated_at": "2026-10-03T19:38:11Z",
-    "url": "https://github.com/xmor/ara"
   }
 ]
