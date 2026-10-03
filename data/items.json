@@ -1,5 +1,59 @@
 [
   {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:00:04Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "Open source AI agent harness & agentic AI runtime in TypeScript. 6-phase state machine, 24 tools, human-in-the-loop perm",
+    "id": "RajdeepDevelopment/smoke-monkey-harness",
+    "language": "TypeScript",
+    "name": "RajdeepDevelopment/smoke-monkey-harness",
+    "stars": 2,
+    "updated_at": "2026-10-03T03:57:24Z",
+    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
+  },
+  {
+    "description": "A local coding agent whose tools, models, memory, and interfaces are replaceable Lenso plugins.",
+    "id": "LioRael/lenso-agent",
+    "language": "Rust",
+    "name": "LioRael/lenso-agent",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:53:05Z",
+    "url": "https://github.com/LioRael/lenso-agent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10427,
+    "updated_at": "2026-10-03T03:50:42Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1081,
+    "updated_at": "2026-10-03T03:50:10Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T03:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
     "id": "franktsaodev/Frank-AI-Agent",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-03T03:41:30Z",
+    "updated_at": "2026-10-03T03:54:13Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T03:39:23Z",
     "url": "https://github.com/liuqingman/dsh-somni"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1081,
-    "updated_at": "2026-10-03T03:39:19Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -68,26 +113,8 @@
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 1,
-    "updated_at": "2026-10-03T03:31:55Z",
+    "updated_at": "2026-10-03T03:53:53Z",
     "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "Open source AI agent harness & agentic AI runtime in TypeScript. 6-phase state machine, 24 tools, human-in-the-loop perm",
-    "id": "RajdeepDevelopment/smoke-monkey-harness",
-    "language": "TypeScript",
-    "name": "RajdeepDevelopment/smoke-monkey-harness",
-    "stars": 2,
-    "updated_at": "2026-10-03T03:31:37Z",
-    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T03:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Phone local agent",
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35731,
-    "updated_at": "2026-10-03T03:31:52Z",
+    "updated_at": "2026-10-03T03:50:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 61,
-    "updated_at": "2026-10-03T03:26:41Z",
+    "updated_at": "2026-10-03T03:55:06Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20369,
-    "updated_at": "2026-10-03T03:44:02Z",
+    "updated_at": "2026-10-03T04:00:17Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T02:57:04Z",
     "url": "https://github.com/damonleelcx/play-with-agents"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10426,
-    "updated_at": "2026-10-03T02:54:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
@@ -313,15 +331,6 @@
     "stars": 308,
     "updated_at": "2026-10-03T02:32:07Z",
     "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:30:04Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-03T02:16:46Z",
     "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "Run local, reproducible agent evaluations with quickbench for accuracy, latency, fairness, and signed reports",
-    "id": "Messa8301/quickbench",
-    "language": "\u2014",
-    "name": "Messa8301/quickbench",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:16:28Z",
-    "url": "https://github.com/Messa8301/quickbench"
   }
 ]
