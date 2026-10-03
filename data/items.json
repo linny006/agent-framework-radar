@@ -1,12 +1,21 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10445,
-    "updated_at": "2026-10-03T21:14:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
+    "id": "fmuecke/agent-win-sandbox",
+    "language": "PowerShell",
+    "name": "fmuecke/agent-win-sandbox",
+    "stars": 1,
+    "updated_at": "2026-10-03T21:29:37Z",
+    "url": "https://github.com/fmuecke/agent-win-sandbox"
+  },
+  {
+    "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
+    "id": "inkeep/agents",
+    "language": "TypeScript",
+    "name": "inkeep/agents",
+    "stars": 1448,
+    "updated_at": "2026-10-03T21:29:18Z",
+    "url": "https://github.com/inkeep/agents"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -14,8 +23,71 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1083,
-    "updated_at": "2026-10-03T21:15:04Z",
+    "updated_at": "2026-10-03T21:29:06Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 5,
+    "updated_at": "2026-10-03T21:25:29Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 312,
+    "updated_at": "2026-10-03T21:23:34Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10449,
+    "updated_at": "2026-10-03T21:29:56Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 70,
+    "updated_at": "2026-10-03T21:20:32Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 55,
+    "updated_at": "2026-10-03T21:18:32Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4427,
+    "updated_at": "2026-10-03T21:16:34Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T21:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 34,
-    "updated_at": "2026-10-03T21:13:49Z",
+    "updated_at": "2026-10-03T21:28:43Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -59,35 +131,17 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 263,
-    "updated_at": "2026-10-03T21:08:37Z",
+    "updated_at": "2026-10-03T21:20:09Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 70,
-    "updated_at": "2026-10-03T21:08:03Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35738,
+    "stars": 35739,
     "updated_at": "2026-10-03T21:02:10Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T21:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T20:48:35Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
-    "id": "fmuecke/agent-win-sandbox",
-    "language": "PowerShell",
-    "name": "fmuecke/agent-win-sandbox",
-    "stars": 1,
-    "updated_at": "2026-10-03T20:48:07Z",
-    "url": "https://github.com/fmuecke/agent-win-sandbox"
   },
   {
     "description": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb Grow your capabilities with Bowerloom \ud83c\udf3f",
@@ -257,17 +302,8 @@
     "language": "Python",
     "name": "Tachion-Oy/roboz",
     "stars": 0,
-    "updated_at": "2026-10-03T20:19:58Z",
+    "updated_at": "2026-10-03T21:26:27Z",
     "url": "https://github.com/Tachion-Oy/roboz"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 312,
-    "updated_at": "2026-10-03T21:05:16Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -277,15 +313,6 @@
     "stars": 2258,
     "updated_at": "2026-10-03T20:18:51Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat",
-    "language": "Go",
-    "name": "KPO-Tech/seshat",
-    "stars": 5,
-    "updated_at": "2026-10-03T21:13:00Z",
-    "url": "https://github.com/KPO-Tech/seshat"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-03T19:38:11Z",
     "url": "https://github.com/xmor/ara"
-  },
-  {
-    "description": "An open-source marketplace and auction framework for autonomous agents.",
-    "id": "Yashjindal11/auctionsi",
-    "language": "Python",
-    "name": "Yashjindal11/auctionsi",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:37:26Z",
-    "url": "https://github.com/Yashjindal11/auctionsi"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-03T19:40:44Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-10-03T20:43:07Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
   }
 ]
