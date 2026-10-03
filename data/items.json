@@ -1,12 +1,30 @@
 [
   {
+    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
+    "id": "fmuecke/agent-win-sandbox",
+    "language": "PowerShell",
+    "name": "fmuecke/agent-win-sandbox",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:20:53Z",
+    "url": "https://github.com/fmuecke/agent-win-sandbox"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-10-03T13:14:37Z",
+    "updated_at": "2026-10-03T13:20:25Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
+    "id": "Tachion-Oy/roboz",
+    "language": "Python",
+    "name": "Tachion-Oy/roboz",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:19:53Z",
+    "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -14,8 +32,26 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2256,
-    "updated_at": "2026-10-03T13:14:16Z",
+    "updated_at": "2026-10-03T13:18:52Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Open-source platform for building, running and supervising agents and chatbots: a declaration each agent cannot exceed, ",
+    "id": "Quilzo/Quilzo",
+    "language": "Go",
+    "name": "Quilzo/Quilzo",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:18:43Z",
+    "url": "https://github.com/Quilzo/Quilzo"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 33,
+    "updated_at": "2026-10-03T13:20:43Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -23,8 +59,17 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 109,
-    "updated_at": "2026-10-03T13:15:18Z",
+    "updated_at": "2026-10-03T13:15:49Z",
     "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T13:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T13:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
     "id": "Dr-SoloDev/Lab-solocorp-os2.4",
     "language": "Python",
@@ -189,15 +225,6 @@
     "url": "https://github.com/autopus-ai/autopus-adk"
   },
   {
-    "description": "Open-source platform for building, running and supervising agents and chatbots: a declaration each agent cannot exceed, ",
-    "id": "Quilzo/Quilzo",
-    "language": "Go",
-    "name": "Quilzo/Quilzo",
-    "stars": 2,
-    "updated_at": "2026-10-03T13:13:18Z",
-    "url": "https://github.com/Quilzo/Quilzo"
-  },
-  {
     "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
     "id": "lifishard/wickrunAI",
     "language": "JavaScript",
@@ -216,21 +243,12 @@
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 33,
-    "updated_at": "2026-10-03T13:02:15Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1082,
-    "updated_at": "2026-10-03T13:05:24Z",
+    "updated_at": "2026-10-03T13:20:57Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -274,7 +292,7 @@
     "id": "crmne/ruby_llm",
     "language": "Ruby",
     "name": "crmne/ruby_llm",
-    "stars": 4426,
+    "stars": 4427,
     "updated_at": "2026-10-03T12:45:35Z",
     "url": "https://github.com/crmne/ruby_llm"
   },
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:40:52Z",
     "url": "https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store"
-  },
-  {
-    "description": "RoboZ is a framework for building llm powered agents. The main idea is that every tool may be chained conditionally to a",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:15:08Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:26:55Z",
     "url": "https://github.com/Ansellwaxlike187/cowork-semantic-search"
-  },
-  {
-    "description": "Learn Harness Engineering with notes, concepts, and hands-on practice for building AI agent workflows and constraint-dri",
-    "id": "fathirn6263/harness-engineering",
-    "language": "\u2014",
-    "name": "fathirn6263/harness-engineering",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:26:49Z",
-    "url": "https://github.com/fathirn6263/harness-engineering"
   }
 ]
