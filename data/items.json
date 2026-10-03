@@ -1,12 +1,129 @@
 [
   {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1899,
+    "updated_at": "2026-10-03T19:29:50Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Gideon is a persistent career agent built on Project David. It owns the job-search campaign end to end; discovery, candi",
+    "id": "project-david-ai/project-gideon",
+    "language": "Python",
+    "name": "project-david-ai/project-gideon",
+    "stars": 0,
+    "updated_at": "2026-10-03T19:28:38Z",
+    "url": "https://github.com/project-david-ai/project-gideon"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 23,
+    "updated_at": "2026-10-03T19:28:16Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-10-03T19:27:43Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35737,
+    "updated_at": "2026-10-03T19:27:28Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 312,
+    "updated_at": "2026-10-03T19:26:39Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing",
+    "id": "alpercodes/alms",
+    "language": "Rust",
+    "name": "alpercodes/alms",
+    "stars": 4,
+    "updated_at": "2026-10-03T19:29:18Z",
+    "url": "https://github.com/alpercodes/alms"
+  },
+  {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-03T19:14:24Z",
+    "updated_at": "2026-10-03T19:29:27Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10437,
+    "updated_at": "2026-10-03T19:30:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-03T19:25:18Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-03T19:23:39Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-10-03T19:22:11Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20388,
+    "updated_at": "2026-10-03T19:25:44Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T19:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
@@ -16,15 +133,6 @@
     "stars": 32,
     "updated_at": "2026-10-03T19:13:34Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-03T19:12:36Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 112,
-    "updated_at": "2026-10-03T19:08:55Z",
+    "updated_at": "2026-10-03T19:18:43Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/ellmos-ai/usmc"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10437,
-    "updated_at": "2026-10-03T19:13:14Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Self-hosted agent runtime in Rust \u2014 deploy autonomous AI agents from your terminal. 40 channels, 60 skills, 50+ models, ",
     "id": "toxicwind/rig",
     "language": "Rust",
@@ -88,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T19:03:09Z",
     "url": "https://github.com/toxicwind/rig"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T19:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 312,
-    "updated_at": "2026-10-03T18:59:34Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Agentic Development Lifecycle",
@@ -153,15 +234,6 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-03T19:07:23Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
     "id": "tinyhumansai/tinyhivemind",
     "language": "Rust",
@@ -207,12 +279,21 @@
     "url": "https://github.com/TresPies-source/AgenticGatewayByDojoGenesis"
   },
   {
+    "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "id": "agentjido/jido",
+    "language": "Elixir",
+    "name": "agentjido/jido",
+    "stars": 1873,
+    "updated_at": "2026-10-03T18:49:30Z",
+    "url": "https://github.com/agentjido/jido"
+  },
+  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 34,
-    "updated_at": "2026-10-03T19:14:06Z",
+    "updated_at": "2026-10-03T19:29:46Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -221,7 +302,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1083,
-    "updated_at": "2026-10-03T18:50:26Z",
+    "updated_at": "2026-10-03T19:23:20Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -252,24 +333,6 @@
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-10-03T18:42:36Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20388,
-    "updated_at": "2026-10-03T18:38:27Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "ShadowScan discovers evidence of AI agents across code, identity, gateways, low-code, SaaS, and cloud. Live or offline.",
     "id": "aisecnomad/Project-Nexus",
     "language": "Python",
@@ -277,15 +340,6 @@
     "stars": 11,
     "updated_at": "2026-10-03T19:07:47Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
-  },
-  {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 23,
-    "updated_at": "2026-10-03T19:13:20Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
     "description": "Local-first AI agent runtime: durable execution (write-ahead tool ledger), enforced budgets, context compaction, explici",
@@ -342,24 +396,6 @@
     "url": "https://github.com/crmne/ruby_llm"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35737,
-    "updated_at": "2026-10-03T19:14:31Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1899,
-    "updated_at": "2026-10-03T19:11:17Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 2257,
     "updated_at": "2026-10-03T18:12:48Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:11:10Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Xaibo is a modular agent framework designed for building flexible AI systems with clean protocol-based interfaces.",
-    "id": "XpressAI/xaibo",
-    "language": "Python",
-    "name": "XpressAI/xaibo",
-    "stars": 15,
-    "updated_at": "2026-10-03T18:10:26Z",
-    "url": "https://github.com/XpressAI/xaibo"
-  },
-  {
-    "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 42,
-    "updated_at": "2026-10-03T18:07:03Z",
-    "url": "https://github.com/ahwurm/localharness"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:05:34Z",
-    "url": "https://github.com/Smita6756/Hbrain"
   }
 ]
