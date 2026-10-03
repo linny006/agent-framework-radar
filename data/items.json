@@ -1,12 +1,39 @@
 [
   {
-    "description": "Phone local agent",
-    "id": "HaohanHe/Opedrgent",
-    "language": "Kotlin",
-    "name": "HaohanHe/Opedrgent",
-    "stars": 3,
-    "updated_at": "2026-10-03T03:30:13Z",
-    "url": "https://github.com/HaohanHe/Opedrgent"
+    "description": "A modular AI agent framework with memory, tool calling, plugin architecture, tracing, session management, FastAPI, and D",
+    "id": "franktsaodev/Frank-AI-Agent",
+    "language": "Python",
+    "name": "franktsaodev/Frank-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:45:13Z",
+    "url": "https://github.com/franktsaodev/Frank-AI-Agent"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:45:10Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:43:13Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-03T03:41:30Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Sleep-consolidated long-term memory for DeepSeek Harness (DSH) agents: episodic / semantic / prospective / procedural me",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "liuqingman/dsh-somni",
     "stars": 0,
-    "updated_at": "2026-10-03T03:30:13Z",
+    "updated_at": "2026-10-03T03:39:23Z",
     "url": "https://github.com/liuqingman/dsh-somni"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1081,
+    "updated_at": "2026-10-03T03:39:19Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2254,
+    "updated_at": "2026-10-03T03:37:54Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:31:55Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
+    "description": "Open source AI agent harness & agentic AI runtime in TypeScript. 6-phase state machine, 24 tools, human-in-the-loop perm",
+    "id": "RajdeepDevelopment/smoke-monkey-harness",
+    "language": "TypeScript",
+    "name": "RajdeepDevelopment/smoke-monkey-harness",
+    "stars": 2,
+    "updated_at": "2026-10-03T03:31:37Z",
+    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-03T03:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Phone local agent",
+    "id": "HaohanHe/Opedrgent",
+    "language": "Kotlin",
+    "name": "HaohanHe/Opedrgent",
+    "stars": 3,
+    "updated_at": "2026-10-03T03:30:13Z",
+    "url": "https://github.com/HaohanHe/Opedrgent"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -27,21 +108,12 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-03T03:28:19Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35731,
-    "updated_at": "2026-10-03T03:26:58Z",
+    "updated_at": "2026-10-03T03:31:52Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -54,24 +126,6 @@
     "url": "https://github.com/vincemakes/kiso"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1080,
-    "updated_at": "2026-10-03T03:30:19Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2254,
-    "updated_at": "2026-10-03T03:22:19Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -79,15 +133,6 @@
     "stars": 42,
     "updated_at": "2026-10-03T03:16:21Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-03T03:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -106,15 +151,6 @@
     "stars": 39,
     "updated_at": "2026-10-03T03:12:55Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:10:37Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
     "description": "Fengcode \u2014\u2014 \u529f\u80fd\u5168\u9762\u7684\u4e2d\u6587 AI Agent \u5e73\u53f0\uff08\u684c\u9762\u7aef + CLI + Web UI\uff09",
@@ -158,17 +194,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20369,
-    "updated_at": "2026-10-03T03:26:04Z",
+    "updated_at": "2026-10-03T03:44:02Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Open source AI agent harness & agentic AI runtime in TypeScript. 6-phase state machine, 24 tools, human-in-the-loop perm",
-    "id": "RajdeepDevelopment/smoke-monkey-harness",
-    "language": "TypeScript",
-    "name": "RajdeepDevelopment/smoke-monkey-harness",
-    "stars": 2,
-    "updated_at": "2026-10-03T03:06:07Z",
-    "url": "https://github.com/RajdeepDevelopment/smoke-monkey-harness"
   },
   {
     "description": "Open-source AI agent for Windows \u2014 background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T02:16:28Z",
     "url": "https://github.com/Messa8301/quickbench"
-  },
-  {
-    "description": "Secure AI agent swarms with cryptographic identity, namespaced shared state, and optimistic concurrency control",
-    "id": "Avesrarity821/robopotato",
-    "language": "\u2014",
-    "name": "Avesrarity821/robopotato",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:13:56Z",
-    "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-10-03T02:13:25Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-10-03T02:13:13Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
   }
 ]
