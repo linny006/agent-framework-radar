@@ -1,11 +1,20 @@
 [
   {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-10-04T11:29:12Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-10-04T11:15:09Z",
+    "updated_at": "2026-10-04T11:28:54Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -14,15 +23,60 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35735,
-    "updated_at": "2026-10-04T11:14:21Z",
+    "updated_at": "2026-10-04T11:29:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:20:24Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-04T11:17:59Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 13,
+    "updated_at": "2026-10-04T11:20:00Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-04T11:15:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DeepSeek Harness \u684c\u9762\u58f3\uff1a\u5185\u5d4c Web UI\u3001\u5f15\u64ce\u81ea\u52a8\u4fdd\u6301\u6700\u65b0\u3001\u9884\u7f6e 4 \u4e2a\u63d2\u4ef6\u3001\u63d2\u4ef6\u88c5\u574f\u80fd\u81ea\u6108\u3002\u53e6\u6709 Linux AppImage / zip \u4ea7\u7269\uff08CI \u6784\u5efa\uff0c\u672a\u5b9e\u673a\u9a8c\u8bc1\uff09\u3002",
+    "id": "itchenshi/dsh-ready-gui",
+    "language": "JavaScript",
+    "name": "itchenshi/dsh-ready-gui",
+    "stars": 3,
+    "updated_at": "2026-10-04T11:15:17Z",
+    "url": "https://github.com/itchenshi/dsh-ready-gui"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10479,
+    "stars": 10480,
     "updated_at": "2026-10-04T11:09:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -54,15 +108,6 @@
     "url": "https://github.com/crmne/ruby_llm"
   },
   {
-    "description": "DeepSeek Harness \u684c\u9762\u58f3\uff1a\u5185\u5d4c Web UI\u3001\u5f15\u64ce\u81ea\u52a8\u4fdd\u6301\u6700\u65b0\u3001\u9884\u7f6e 4 \u4e2a\u63d2\u4ef6\u3001\u63d2\u4ef6\u88c5\u574f\u80fd\u81ea\u6108\u3002\u53e6\u6709 Linux AppImage / zip \u4ea7\u7269\uff08CI \u6784\u5efa\uff0c\u672a\u5b9e\u673a\u9a8c\u8bc1\uff09\u3002",
-    "id": "itchenshi/dsh-ready-gui",
-    "language": "JavaScript",
-    "name": "itchenshi/dsh-ready-gui",
-    "stars": 3,
-    "updated_at": "2026-10-04T11:15:17Z",
-    "url": "https://github.com/itchenshi/dsh-ready-gui"
-  },
-  {
     "description": "Declarative, signed, sandboxed standard for AI agents & workflows (DAM v0.1 + DWM v0.1), compiled into LangChain Deep Ag",
     "id": "seismael/aeromesh",
     "language": "Python",
@@ -81,21 +126,12 @@
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-04T11:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
     "id": "Hazer-BJTU/simplex-cpp",
     "language": "C++",
     "name": "Hazer-BJTU/simplex-cpp",
     "stars": 0,
-    "updated_at": "2026-10-04T10:58:29Z",
+    "updated_at": "2026-10-04T11:22:22Z",
     "url": "https://github.com/Hazer-BJTU/simplex-cpp"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "pegner-ag/ooat",
     "stars": 0,
-    "updated_at": "2026-10-04T10:55:40Z",
+    "updated_at": "2026-10-04T11:27:31Z",
     "url": "https://github.com/pegner-ag/ooat"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1084,
-    "updated_at": "2026-10-04T11:14:35Z",
+    "updated_at": "2026-10-04T11:29:24Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 5,
-    "updated_at": "2026-10-04T10:59:46Z",
+    "updated_at": "2026-10-04T11:27:20Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48778,
-    "updated_at": "2026-10-04T11:11:08Z",
+    "updated_at": "2026-10-04T11:17:48Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 83,
-    "updated_at": "2026-10-04T11:06:54Z",
+    "updated_at": "2026-10-04T11:17:56Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4975,
-    "updated_at": "2026-10-04T09:57:45Z",
+    "updated_at": "2026-10-04T11:27:29Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "jianchen08/Agent-os-open",
     "stars": 7,
-    "updated_at": "2026-10-04T10:59:32Z",
+    "updated_at": "2026-10-04T11:24:26Z",
     "url": "https://github.com/jianchen08/Agent-os-open"
   },
   {
@@ -367,15 +403,6 @@
     "stars": 2259,
     "updated_at": "2026-10-04T09:53:56Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 4,
-    "updated_at": "2026-10-04T09:42:56Z",
-    "url": "https://github.com/Ecro/harness-maker"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -421,32 +448,5 @@
     "stars": 39,
     "updated_at": "2026-10-04T09:32:14Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-04T09:41:30Z",
-    "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "AI agent workflow OS . Constrained, validated, replayable execution. Predictability over autonomy.",
-    "id": "tya5/reyn",
-    "language": "Python",
-    "name": "tya5/reyn",
-    "stars": 10,
-    "updated_at": "2026-10-04T09:30:33Z",
-    "url": "https://github.com/tya5/reyn"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:25:08Z",
-    "url": "https://github.com/uukuguy/capstone"
   }
 ]
