@@ -1,12 +1,102 @@
 [
   {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
+    "language": "TypeScript",
+    "name": "vincemakes/kiso",
+    "stars": 61,
+    "updated_at": "2026-10-04T01:45:05Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 32,
+    "updated_at": "2026-10-04T01:43:27Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
+    "id": "jin-bo/agentao",
+    "language": "Python",
+    "name": "jin-bo/agentao",
+    "stars": 308,
+    "updated_at": "2026-10-04T01:43:07Z",
+    "url": "https://github.com/jin-bo/agentao"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-04T01:42:10Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "JavaScript",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:41:40Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35741,
+    "updated_at": "2026-10-04T01:39:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1899,
+    "updated_at": "2026-10-04T01:38:21Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2258,
+    "updated_at": "2026-10-04T01:37:53Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
     "description": "Self-hosted agent runtime in Rust \u2014 deploy autonomous AI agents from your terminal. 40 channels, 60 skills, 50+ models, ",
     "id": "toxicwind/rig",
     "language": "Rust",
     "name": "toxicwind/rig",
     "stars": 0,
-    "updated_at": "2026-10-04T01:30:14Z",
+    "updated_at": "2026-10-04T01:35:44Z",
     "url": "https://github.com/toxicwind/rig"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:30:33Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-04T01:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "DeepSeek Harness (dsh) \u4ece 0 \u5230 1 \u6df1\u5ea6\u624b\u518c\uff1a\u5b89\u88c5/\u63d2\u4ef6\u5f00\u53d1/\u6027\u80fd\u8c03\u4f18/\u5b9e\u6d4b\u6848\u4f8b/\u540c\u6a21\u578b\u591a Agent \u5b9e\u6d4b\u5bf9\u6bd4\uff08\u4e2d\u6587 + \u82f1\u6587 PDF\uff09",
@@ -18,24 +108,6 @@
     "url": "https://github.com/Electricitysheep/dsh-handbook"
   },
   {
-    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
-    "id": "xsyetopz/dotclaude",
-    "language": "JavaScript",
-    "name": "xsyetopz/dotclaude",
-    "stars": 0,
-    "updated_at": "2026-10-04T01:27:49Z",
-    "url": "https://github.com/xsyetopz/dotclaude"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1899,
-    "updated_at": "2026-10-04T01:26:04Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
     "description": "Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails.",
     "id": "LATTIX-IO/lattix-locus",
     "language": "Python",
@@ -45,21 +117,12 @@
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-04T01:25:41Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
     "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
     "id": "KPO-Tech/seshat",
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 5,
-    "updated_at": "2026-10-04T01:23:17Z",
+    "updated_at": "2026-10-04T01:34:14Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -90,40 +153,13 @@
     "url": "https://github.com/carlosmartinezt/chloejs"
   },
   {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2258,
-    "updated_at": "2026-10-04T01:16:13Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-04T01:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
-    "id": "shaharia-lab/agento",
-    "language": "Rust",
-    "name": "shaharia-lab/agento",
-    "stars": 32,
-    "updated_at": "2026-10-04T01:13:37Z",
-    "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
-    "id": "jin-bo/agentao",
-    "language": "Python",
-    "name": "jin-bo/agentao",
-    "stars": 308,
-    "updated_at": "2026-10-04T01:11:38Z",
-    "url": "https://github.com/jin-bo/agentao"
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 3,
+    "updated_at": "2026-10-04T01:41:59Z",
+    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "Agentic Development Lifecycle",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10460,
-    "updated_at": "2026-10-04T01:10:20Z",
+    "updated_at": "2026-10-04T01:44:35Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 3,
-    "updated_at": "2026-10-04T01:19:31Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
     "id": "llm-works/llm-gent",
     "language": "Python",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T01:06:53Z",
     "url": "https://github.com/llm-works/llm-gent"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35740,
-    "updated_at": "2026-10-04T01:04:30Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T01:26:06Z",
+    "updated_at": "2026-10-04T01:39:45Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-04T00:54:37Z",
+    "updated_at": "2026-10-04T01:39:31Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -428,25 +446,7 @@
     "language": "PowerShell",
     "name": "Azure/agent-landing-zone",
     "stars": 1181,
-    "updated_at": "2026-10-03T23:57:10Z",
+    "updated_at": "2026-10-04T01:34:52Z",
     "url": "https://github.com/Azure/agent-landing-zone"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:35:44Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 34,
-    "updated_at": "2026-10-03T23:57:00Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
   }
 ]
