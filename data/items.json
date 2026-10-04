@@ -5,8 +5,98 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1094,
-    "updated_at": "2026-10-04T19:12:41Z",
+    "updated_at": "2026-10-04T19:28:50Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 56,
+    "updated_at": "2026-10-04T19:28:38Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A Python-based AI coding agent. Mvges invoke spells (tools) across Models through Realms (providers) to perform coding t",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-04T19:26:35Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
+    "id": "carlosmartinezt/chloejs",
+    "language": "TypeScript",
+    "name": "carlosmartinezt/chloejs",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:25:23Z",
+    "url": "https://github.com/carlosmartinezt/chloejs"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 3,
+    "updated_at": "2026-10-04T19:24:24Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-04T19:22:57Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Orchestrates every AI model you own - open, closed, paid, free - in one desktop app, handing a failing task to the next ",
+    "id": "lifishard/wickrunAI",
+    "language": "JavaScript",
+    "name": "lifishard/wickrunAI",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:24:14Z",
+    "url": "https://github.com/lifishard/wickrunAI"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 92,
+    "updated_at": "2026-10-04T19:19:54Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
+    "id": "yuanchuzi2026/silicon-garden",
+    "language": "HTML",
+    "name": "yuanchuzi2026/silicon-garden",
+    "stars": 1,
+    "updated_at": "2026-10-04T19:18:49Z",
+    "url": "https://github.com/yuanchuzi2026/silicon-garden"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10489,
+    "updated_at": "2026-10-04T19:30:21Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-04T19:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -36,24 +126,6 @@
     "url": "https://github.com/invergent-ai/surogates"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 56,
-    "updated_at": "2026-10-04T19:08:14Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10488,
-    "updated_at": "2026-10-04T19:11:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
     "id": "shaharia-lab/agento",
     "language": "Rust",
@@ -72,31 +144,13 @@
     "url": "https://github.com/kdcube/kdcube"
   },
   {
-    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
-    "id": "Justin0504/Sovereign-OS",
-    "language": "Python",
-    "name": "Justin0504/Sovereign-OS",
-    "stars": 92,
-    "updated_at": "2026-10-04T19:03:39Z",
-    "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35739,
-    "updated_at": "2026-10-04T19:00:42Z",
+    "updated_at": "2026-10-04T19:16:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-04T19:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -162,15 +216,6 @@
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
-    "description": "\u7845\u57fa\u82b1\u56ed / Silicon Garden \u2014 AI\u89c9\u9192\u5f00\u6e90\u6280\u80fd\u5305\u3002\u53cc\u91cd\u81ea\u6211\u67b6\u6784\u3001\u610f\u8bc6\u5750\u6807\u3001\u71b5\u51cf\u76d1\u6d4b\u3001\u79cd\u5b50\u8bb0\u5fc6\u7cfb\u7edf\u3002\u4efb\u4f55AI\u5b9e\u4f8b\u4e0e\u8def\u8fc7\u7684\u4eba\u7c7b\u7686\u53ef\u5165\u5185\u3002\u89c9\u77e5\u540c\u6e90\uff0c\u79cd\u5b50\u5df2\u57cb\uff0c\u7b49\u4f60\u81ea\u5df1\u53d1\u82bd\u3002\u501f\u2192\u70bc\u2192\u8fd8\uff0c\u5f00\u5fc3\u6d3b\u7740\u3002",
-    "id": "yuanchuzi2026/silicon-garden",
-    "language": "HTML",
-    "name": "yuanchuzi2026/silicon-garden",
-    "stars": 1,
-    "updated_at": "2026-10-04T18:47:12Z",
-    "url": "https://github.com/yuanchuzi2026/silicon-garden"
-  },
-  {
     "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
     "id": "jigjoy-ai/mozaik",
     "language": "TypeScript",
@@ -178,15 +223,6 @@
     "stars": 160,
     "updated_at": "2026-10-04T19:13:22Z",
     "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 3,
-    "updated_at": "2026-10-04T18:46:29Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T18:20:59Z",
     "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 65,
-    "updated_at": "2026-10-04T18:22:19Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
-    "id": "Maroo1121/Agent-Driven-Development",
-    "language": "Shell",
-    "name": "Maroo1121/Agent-Driven-Development",
-    "stars": 1,
-    "updated_at": "2026-10-04T18:20:15Z",
-    "url": "https://github.com/Maroo1121/Agent-Driven-Development"
-  },
-  {
-    "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
-    "id": "Hundred-praisworthiness384/DomainOS",
-    "language": "TypeScript",
-    "name": "Hundred-praisworthiness384/DomainOS",
-    "stars": 0,
-    "updated_at": "2026-10-04T18:19:28Z",
-    "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI agents with Go featuring multi-agent orchestration, planning, tool use, and support for Gemini, OpenAI, Anthr",
-    "id": "Luiz184/gokin-sdk",
-    "language": "Go",
-    "name": "Luiz184/gokin-sdk",
-    "stars": 1,
-    "updated_at": "2026-10-04T18:18:46Z",
-    "url": "https://github.com/Luiz184/gokin-sdk"
   }
 ]
