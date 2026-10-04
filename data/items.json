@@ -1,11 +1,92 @@
 [
   {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 312,
+    "updated_at": "2026-10-04T00:57:46Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:55:45Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Self-hosted agent runtime in Rust \u2014 deploy autonomous AI agents from your terminal. 40 channels, 60 skills, 50+ models, ",
+    "id": "toxicwind/rig",
+    "language": "Rust",
+    "name": "toxicwind/rig",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:54:25Z",
+    "url": "https://github.com/toxicwind/rig"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1639,
+    "updated_at": "2026-10-04T00:53:40Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Suppo",
+    "id": "DougTrajano/pydantic-ai-skills",
+    "language": "Python",
+    "name": "DougTrajano/pydantic-ai-skills",
+    "stars": 377,
+    "updated_at": "2026-10-04T00:50:41Z",
+    "url": "https://github.com/DougTrajano/pydantic-ai-skills"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-04T00:49:35Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 6,
+    "updated_at": "2026-10-04T00:49:09Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-10-04T00:45:44Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-04T00:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails.",
     "id": "LATTIX-IO/lattix-locus",
     "language": "Python",
     "name": "LATTIX-IO/lattix-locus",
     "stars": 1,
-    "updated_at": "2026-10-04T00:43:34Z",
+    "updated_at": "2026-10-04T00:48:07Z",
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
@@ -36,24 +117,6 @@
     "url": "https://github.com/falkenslab/agent-kit"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 312,
-    "updated_at": "2026-10-04T00:38:59Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Suppo",
-    "id": "DougTrajano/pydantic-ai-skills",
-    "language": "Python",
-    "name": "DougTrajano/pydantic-ai-skills",
-    "stars": 376,
-    "updated_at": "2026-10-04T00:41:57Z",
-    "url": "https://github.com/DougTrajano/pydantic-ai-skills"
-  },
-  {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
     "id": "iyulab/ironhive-host",
     "language": "C#",
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:37:17Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-04T00:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Self-hosted agent runtime in Rust \u2014 deploy autonomous AI agents from your terminal. 40 channels, 60 skills, 50+ models, ",
-    "id": "toxicwind/rig",
-    "language": "Rust",
-    "name": "toxicwind/rig",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:30:05Z",
-    "url": "https://github.com/toxicwind/rig"
   },
   {
     "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
@@ -157,7 +202,7 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10454,
+    "stars": 10458,
     "updated_at": "2026-10-04T00:12:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-04T00:42:04Z",
+    "updated_at": "2026-10-04T00:56:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-04T00:26:34Z",
+    "updated_at": "2026-10-04T00:54:37Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1083,
     "updated_at": "2026-10-04T00:41:41Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
-    "id": "sarkar4777/abenix",
-    "language": "Python",
-    "name": "sarkar4777/abenix",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:48:24Z",
-    "url": "https://github.com/sarkar4777/abenix"
-  },
-  {
-    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 39,
-    "updated_at": "2026-10-03T22:48:14Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-10-03T22:42:03Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 122,
-    "updated_at": "2026-10-03T22:40:55Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse",
-    "id": "lysy01528-hash/dkyj-director",
-    "language": "\u2014",
-    "name": "lysy01528-hash/dkyj-director",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:37:38Z",
-    "url": "https://github.com/lysy01528-hash/dkyj-director"
   }
 ]
