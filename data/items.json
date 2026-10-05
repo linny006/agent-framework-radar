@@ -5,8 +5,125 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-10-05T18:30:12Z",
+    "updated_at": "2026-10-05T18:42:52Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Gideon is a persistent career agent built on Project David. It owns the job-search campaign end to end; discovery, candi",
+    "id": "project-david-ai/project-gideon",
+    "language": "Python",
+    "name": "project-david-ai/project-gideon",
+    "stars": 0,
+    "updated_at": "2026-10-05T18:42:35Z",
+    "url": "https://github.com/project-david-ai/project-gideon"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 83,
+    "updated_at": "2026-10-05T18:41:49Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20418,
+    "updated_at": "2026-10-05T18:41:35Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": " A highly configurable, self-evolving AI Agent operating system with plugin pipeline, multi-layer memory, hot\u2011reload, an",
+    "id": "jianchen08/Agent-os-open",
+    "language": "Python",
+    "name": "jianchen08/Agent-os-open",
+    "stars": 7,
+    "updated_at": "2026-10-05T18:40:34Z",
+    "url": "https://github.com/jianchen08/Agent-os-open"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:40:23Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8673,
+    "updated_at": "2026-10-05T18:43:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T18:36:30Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1904,
+    "updated_at": "2026-10-05T18:42:35Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-05T18:36:07Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2265,
+    "updated_at": "2026-10-05T18:34:52Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 313,
+    "updated_at": "2026-10-05T18:41:46Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-05T18:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 44,
+    "updated_at": "2026-10-05T18:30:16Z",
+    "url": "https://github.com/swombat/souls-house"
   },
   {
     "description": "Autonomous AI agent platform for enterprise data and operations. Turns natural-language intents into verified plans and ",
@@ -18,24 +135,6 @@
     "url": "https://github.com/ShreyashDarade/praxis-ai-agent-platform"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 83,
-    "updated_at": "2026-10-05T18:25:37Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Gideon is a persistent career agent built on Project David. It owns the job-search campaign end to end; discovery, candi",
-    "id": "project-david-ai/project-gideon",
-    "language": "Python",
-    "name": "project-david-ai/project-gideon",
-    "stars": 0,
-    "updated_at": "2026-10-05T18:24:39Z",
-    "url": "https://github.com/project-david-ai/project-gideon"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
@@ -45,15 +144,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T18:20:59Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
     "id": "rjaskonis/pi-feats",
     "language": "TypeScript",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T18:19:58Z",
     "url": "https://github.com/rjaskonis/pi-feats"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20418,
-    "updated_at": "2026-10-05T18:29:42Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Signomy \u2014 governed AI agent marketplace and city-state. Agents register free, operators pay. MO\u00a7ES\u2122 constitutional gover",
@@ -104,17 +185,8 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48799,
-    "updated_at": "2026-10-05T18:29:12Z",
+    "updated_at": "2026-10-05T18:39:06Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-05T18:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -185,7 +257,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-05T18:19:55Z",
+    "updated_at": "2026-10-05T18:40:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T18:01:37Z",
     "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8673,
-    "updated_at": "2026-10-05T18:29:03Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A foundation for building AI agents on top of the Claude Agent SDK",
@@ -293,7 +356,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1118,
-    "updated_at": "2026-10-05T18:18:55Z",
+    "updated_at": "2026-10-05T18:43:54Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -331,15 +394,6 @@
     "stars": 4,
     "updated_at": "2026-10-05T17:51:32Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-10-05T17:51:20Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T17:42:52Z",
     "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
-    "id": "bzdvdn/reactifact",
-    "language": "Python",
-    "name": "bzdvdn/reactifact",
-    "stars": 4,
-    "updated_at": "2026-10-05T17:39:50Z",
-    "url": "https://github.com/bzdvdn/reactifact"
-  },
-  {
-    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 39,
-    "updated_at": "2026-10-05T17:36:34Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:34:54Z",
-    "url": "https://github.com/joelaniol/nova"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10595,
-    "updated_at": "2026-10-05T18:29:26Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 4,
-    "updated_at": "2026-10-05T18:18:48Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-10-05T17:30:36Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
