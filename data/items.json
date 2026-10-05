@@ -1,12 +1,75 @@
 [
   {
+    "description": "Reproduction package for \"Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity\" \u2014 ten agent arm",
+    "id": "jaz-lang/jaz-evals",
+    "language": "Python",
+    "name": "jaz-lang/jaz-evals",
+    "stars": 17,
+    "updated_at": "2026-10-05T05:43:56Z",
+    "url": "https://github.com/jaz-lang/jaz-evals"
+  },
+  {
+    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
+    "id": "go-steer/mast",
+    "language": "Go",
+    "name": "go-steer/mast",
+    "stars": 1,
+    "updated_at": "2026-10-05T05:43:28Z",
+    "url": "https://github.com/go-steer/mast"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35739,
+    "updated_at": "2026-10-05T05:42:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 8,
+    "updated_at": "2026-10-05T05:42:10Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-05T05:40:55Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-10-05T05:34:40Z",
+    "updated_at": "2026-10-05T05:39:34Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-10-05T05:35:33Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Outcome-driven control protocol for long-running AI agents: explicit contracts, safe replanning, independent verificatio",
+    "id": "ccygod/long-mission",
+    "language": "Python",
+    "name": "ccygod/long-mission",
+    "stars": 0,
+    "updated_at": "2026-10-05T05:35:21Z",
+    "url": "https://github.com/ccygod/long-mission"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 7,
-    "updated_at": "2026-10-05T05:30:44Z",
+    "updated_at": "2026-10-05T05:35:16Z",
     "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-05T05:19:12Z",
+    "updated_at": "2026-10-05T05:42:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10539,
-    "updated_at": "2026-10-05T05:16:44Z",
+    "updated_at": "2026-10-05T05:42:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-10-05T05:12:53Z",
     "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 8,
-    "updated_at": "2026-10-05T05:12:22Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "Open Agent Spec is a declarative YAML standard and CLI for defining and generating AI agents. One spec, any LLM engine (",
@@ -104,7 +158,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1105,
-    "updated_at": "2026-10-05T05:11:41Z",
+    "updated_at": "2026-10-05T05:38:19Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -189,15 +243,6 @@
     "url": "https://github.com/ranxi2001/zero2Agent"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35740,
-    "updated_at": "2026-10-05T05:19:16Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
     "id": "bbvch-ai/aihub-core",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T04:33:57Z",
     "url": "https://github.com/anjijava16/jev-multiagent-retail"
-  },
-  {
-    "description": "Outcome-driven control protocol for long-running AI agents: explicit contracts, safe replanning, independent verificatio",
-    "id": "ccygod/long-mission",
-    "language": "Python",
-    "name": "ccygod/long-mission",
-    "stars": 0,
-    "updated_at": "2026-10-05T04:33:34Z",
-    "url": "https://github.com/ccygod/long-mission"
   },
   {
     "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T04:18:47Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-05T04:11:35Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
-    "id": "breastless-andcircuit638/lean-loop",
-    "language": "\u2014",
-    "name": "breastless-andcircuit638/lean-loop",
-    "stars": 1,
-    "updated_at": "2026-10-05T04:09:37Z",
-    "url": "https://github.com/breastless-andcircuit638/lean-loop"
-  },
-  {
-    "description": "Deploy autonomous AI streamers on Kick with one command, automating chat, voice, avatar, and OBS streaming setup in unde",
-    "id": "yhlyblys66-art/moltstream",
-    "language": "TypeScript",
-    "name": "yhlyblys66-art/moltstream",
-    "stars": 3,
-    "updated_at": "2026-10-05T04:08:42Z",
-    "url": "https://github.com/yhlyblys66-art/moltstream"
-  },
-  {
-    "description": "Map and organize AI agents to help users find tools for coding, automation, research, workflows, assistance, and develop",
-    "id": "gatherfigtree740/ai-agent-landscape",
-    "language": "\u2014",
-    "name": "gatherfigtree740/ai-agent-landscape",
-    "stars": 3,
-    "updated_at": "2026-10-05T04:07:01Z",
-    "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
   }
 ]
