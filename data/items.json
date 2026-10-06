@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-06T20:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
     "id": "open1s/bos",
     "language": "Rust",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20450,
-    "updated_at": "2026-10-06T20:14:21Z",
+    "updated_at": "2026-10-06T20:15:42Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10623,
-    "updated_at": "2026-10-06T20:13:56Z",
+    "updated_at": "2026-10-06T20:15:44Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T20:01:29Z",
     "url": "https://github.com/pegner-ag/ooat"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-06T20:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-06T20:13:10Z",
+    "updated_at": "2026-10-06T20:15:36Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
