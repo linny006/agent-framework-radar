@@ -1,12 +1,12 @@
 [
   {
-    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-    "id": "Cobra-bit-prog/agent-guard",
-    "language": "TypeScript",
-    "name": "Cobra-bit-prog/agent-guard",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:30:35Z",
-    "url": "https://github.com/Cobra-bit-prog/agent-guard"
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-10-06T17:45:18Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -14,17 +14,170 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-06T17:29:39Z",
+    "updated_at": "2026-10-06T17:44:26Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 23,
+    "updated_at": "2026-10-06T17:44:18Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Brevet: Change control for what AI agents learn",
+    "id": "BrightbeamAI/brevet",
+    "language": "Python",
+    "name": "BrightbeamAI/brevet",
+    "stars": 1,
+    "updated_at": "2026-10-06T17:43:47Z",
+    "url": "https://github.com/BrightbeamAI/brevet"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2897,
+    "updated_at": "2026-10-06T17:43:04Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4978,
+    "updated_at": "2026-10-06T17:43:03Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 767,
+    "updated_at": "2026-10-06T17:43:01Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
+    "id": "rhein1/agoragentic-integrations",
+    "language": "JavaScript",
+    "name": "rhein1/agoragentic-integrations",
+    "stars": 40,
+    "updated_at": "2026-10-06T17:45:07Z",
+    "url": "https://github.com/rhein1/agoragentic-integrations"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 112,
+    "updated_at": "2026-10-06T17:42:28Z",
+    "url": "https://github.com/assafkip/kipi-system"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 20441,
-    "updated_at": "2026-10-06T17:29:12Z",
+    "stars": 20443,
+    "updated_at": "2026-10-06T17:41:07Z",
     "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10621,
+    "updated_at": "2026-10-06T17:44:19Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1132,
+    "updated_at": "2026-10-06T17:40:33Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:39:06Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
+    "id": "conn-castle/agent-outbox",
+    "language": "JavaScript",
+    "name": "conn-castle/agent-outbox",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:37:55Z",
+    "url": "https://github.com/conn-castle/agent-outbox"
+  },
+  {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:36:21Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-10-06T17:37:51Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 21,
+    "updated_at": "2026-10-06T17:36:08Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+    "id": "open1s/bos",
+    "language": "Rust",
+    "name": "open1s/bos",
+    "stars": 1,
+    "updated_at": "2026-10-06T17:35:26Z",
+    "url": "https://github.com/open1s/bos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-06T17:30:47Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
+    "id": "Cobra-bit-prog/agent-guard",
+    "language": "TypeScript",
+    "name": "Cobra-bit-prog/agent-guard",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:32:49Z",
+    "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
     "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
@@ -36,40 +189,13 @@
     "url": "https://github.com/swsgbl/hmharness"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10620,
-    "updated_at": "2026-10-06T17:27:30Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
     "id": "jlcatonjr/agentteams",
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-10-06T17:26:45Z",
+    "updated_at": "2026-10-06T17:39:19Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:25:51Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-10-06T17:25:22Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
     "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
@@ -90,15 +216,6 @@
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1132,
-    "updated_at": "2026-10-06T17:28:47Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -113,7 +230,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8693,
-    "updated_at": "2026-10-06T17:23:55Z",
+    "updated_at": "2026-10-06T17:40:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -144,6 +261,15 @@
     "url": "https://github.com/uukuguy/asterion"
   },
   {
+    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
+    "id": "Prescott-Data/jarviscore-framework",
+    "language": "Python",
+    "name": "Prescott-Data/jarviscore-framework",
+    "stars": 130,
+    "updated_at": "2026-10-06T17:17:54Z",
+    "url": "https://github.com/Prescott-Data/jarviscore-framework"
+  },
+  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -151,24 +277,6 @@
     "stars": 312,
     "updated_at": "2026-10-06T17:17:33Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "Shell",
-    "name": "aeonfun/aeon",
-    "stars": 767,
-    "updated_at": "2026-10-06T17:19:19Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
-    "id": "Prescott-Data/jarviscore-framework",
-    "language": "Python",
-    "name": "Prescott-Data/jarviscore-framework",
-    "stars": 129,
-    "updated_at": "2026-10-06T17:17:54Z",
-    "url": "https://github.com/Prescott-Data/jarviscore-framework"
   },
   {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
@@ -180,15 +288,6 @@
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-06T17:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -198,21 +297,12 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
-    "id": "Spitfire-Products/nexus-cortex",
-    "language": "TypeScript",
-    "name": "Spitfire-Products/nexus-cortex",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:13:47Z",
-    "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48827,
-    "updated_at": "2026-10-06T17:12:23Z",
+    "updated_at": "2026-10-06T17:32:05Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -302,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T17:29:47Z",
+    "updated_at": "2026-10-06T17:44:56Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -333,15 +423,6 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:16:37Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
     "description": "Async-first Python SDK for multi-provider AI systems, durable agents, tools, workflows, safety, and observability.",
     "id": "Zhivex/zhivex-ai-sdk-py",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-06T16:49:16Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6397,
-    "updated_at": "2026-10-06T16:44:51Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
-    "id": "open1s/bos",
-    "language": "Rust",
-    "name": "open1s/bos",
-    "stars": 1,
-    "updated_at": "2026-10-06T16:40:53Z",
-    "url": "https://github.com/open1s/bos"
-  },
-  {
-    "description": "Public adapters and discovery catalog for Triptych OS (Agent OS): agent frameworks, MCP/A2A/x402 protocols, workflows, w",
-    "id": "rhein1/agoragentic-integrations",
-    "language": "JavaScript",
-    "name": "rhein1/agoragentic-integrations",
-    "stars": 40,
-    "updated_at": "2026-10-06T17:10:09Z",
-    "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 13965,
-    "updated_at": "2026-10-06T16:56:26Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 4,
-    "updated_at": "2026-10-06T16:40:16Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 745,
-    "updated_at": "2026-10-06T16:36:00Z",
-    "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:35:16Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 10,
-    "updated_at": "2026-10-06T16:33:14Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-06T16:32:39Z",
-    "url": "https://github.com/manishiitg/agentworks"
   }
 ]
