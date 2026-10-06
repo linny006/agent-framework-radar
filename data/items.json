@@ -1,5 +1,41 @@
 [
   {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 267,
+    "updated_at": "2026-10-06T01:43:46Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2268,
+    "updated_at": "2026-10-06T01:41:53Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20422,
+    "updated_at": "2026-10-06T01:41:32Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-06T01:37:00Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The control plane for AI coding agents.",
     "id": "codeaholicguy/ai-devkit",
     "language": "TypeScript",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-06T01:32:39Z",
+    "updated_at": "2026-10-06T01:41:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -50,17 +86,8 @@
     "language": "C#",
     "name": "iyulab/ironhive-host",
     "stars": 0,
-    "updated_at": "2026-10-06T01:31:53Z",
+    "updated_at": "2026-10-06T01:40:07Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-06T01:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -86,17 +113,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10601,
-    "updated_at": "2026-10-06T01:36:03Z",
+    "updated_at": "2026-10-06T01:45:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20422,
-    "updated_at": "2026-10-06T01:34:49Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -104,7 +122,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35740,
-    "updated_at": "2026-10-06T01:26:43Z",
+    "updated_at": "2026-10-06T01:43:41Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T01:14:52Z",
     "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2268,
-    "updated_at": "2026-10-06T01:14:38Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-06T01:31:09Z",
+    "updated_at": "2026-10-06T01:38:20Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -284,7 +293,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 23,
-    "updated_at": "2026-10-06T01:32:31Z",
+    "updated_at": "2026-10-06T01:41:08Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T00:56:22Z",
     "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-    "id": "Cobra-bit-prog/agent-guard",
-    "language": "TypeScript",
-    "name": "Cobra-bit-prog/agent-guard",
-    "stars": 0,
-    "updated_at": "2026-10-06T00:54:28Z",
-    "url": "https://github.com/Cobra-bit-prog/agent-guard"
   }
 ]
