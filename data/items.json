@@ -1,5 +1,86 @@
 [
   {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-10-06T15:15:20Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-06T15:14:53Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
+    "id": "jin-bo/agentao",
+    "language": "Python",
+    "name": "jin-bo/agentao",
+    "stars": 308,
+    "updated_at": "2026-10-06T15:12:35Z",
+    "url": "https://github.com/jin-bo/agentao"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20439,
+    "updated_at": "2026-10-06T15:15:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1641,
+    "updated_at": "2026-10-06T15:14:04Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 46,
+    "updated_at": "2026-10-06T15:09:38Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-06T15:09:20Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
+    "id": "Cobra-bit-prog/agent-guard",
+    "language": "TypeScript",
+    "name": "Cobra-bit-prog/agent-guard",
+    "stars": 0,
+    "updated_at": "2026-10-06T15:08:48Z",
+    "url": "https://github.com/Cobra-bit-prog/agent-guard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-06T15:07:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Peer-to-peer coordination fabric for agents, services, and the people who work with them",
     "id": "badmonkeyai/AgentSpaces",
     "language": "Java",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2271,
-    "updated_at": "2026-10-06T15:06:21Z",
+    "updated_at": "2026-10-06T15:13:27Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35742,
-    "updated_at": "2026-10-06T15:06:06Z",
+    "updated_at": "2026-10-06T15:14:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10618,
-    "updated_at": "2026-10-06T15:03:15Z",
+    "updated_at": "2026-10-06T15:10:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 81,
     "updated_at": "2026-10-06T15:02:50Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
-    "id": "jin-bo/agentao",
-    "language": "Python",
-    "name": "jin-bo/agentao",
-    "stars": 308,
-    "updated_at": "2026-10-06T15:06:47Z",
-    "url": "https://github.com/jin-bo/agentao"
   },
   {
     "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
@@ -117,15 +189,6 @@
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-06T15:00:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
     "id": "musokean/forge",
     "language": "Python",
@@ -140,7 +203,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-06T14:59:43Z",
+    "updated_at": "2026-10-06T15:14:02Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -149,17 +212,8 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 65,
-    "updated_at": "2026-10-06T15:04:41Z",
+    "updated_at": "2026-10-06T15:14:31Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20439,
-    "updated_at": "2026-10-06T14:58:25Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
@@ -176,7 +230,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1128,
-    "updated_at": "2026-10-06T15:07:25Z",
+    "updated_at": "2026-10-06T15:15:08Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 13,
     "updated_at": "2026-10-06T14:55:15Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1641,
-    "updated_at": "2026-10-06T15:07:24Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   },
   {
     "description": "Modular AI agent runtime for explainable, stateful, and bounded workflows with explicit module, capability, and executio",
@@ -229,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8690,
+    "stars": 8691,
     "updated_at": "2026-10-06T14:53:23Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 13964,
-    "updated_at": "2026-10-06T14:47:22Z",
+    "updated_at": "2026-10-06T15:13:11Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 62,
-    "updated_at": "2026-10-06T14:51:15Z",
+    "updated_at": "2026-10-06T15:14:41Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -347,17 +392,8 @@
     "language": "JavaScript",
     "name": "rhein1/agoragentic-integrations",
     "stars": 40,
-    "updated_at": "2026-10-06T14:36:57Z",
+    "updated_at": "2026-10-06T15:09:49Z",
     "url": "https://github.com/rhein1/agoragentic-integrations"
-  },
-  {
-    "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 46,
-    "updated_at": "2026-10-06T14:36:53Z",
-    "url": "https://github.com/ahwurm/localharness"
   },
   {
     "description": "A small, simple Python runtime for LLM agents: provider-neutral model and tool loop, typed tools, streaming events, sess",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T14:26:49Z",
     "url": "https://github.com/Duckz289/tarkov-radar-lite"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:57:34Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1565,
-    "updated_at": "2026-10-06T14:18:18Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "The AI Agent framework for enterprises and agencies",
-    "id": "frogbotai/frogbot",
-    "language": "TypeScript",
-    "name": "frogbotai/frogbot",
-    "stars": 4,
-    "updated_at": "2026-10-06T14:14:49Z",
-    "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-06T14:14:48Z",
-    "url": "https://github.com/delivstat/swarmkit"
   }
 ]
