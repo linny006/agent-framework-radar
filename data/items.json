@@ -1,21 +1,120 @@
 [
   {
-    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
-    "id": "carlosmartinezt/chloejs",
-    "language": "TypeScript",
-    "name": "carlosmartinezt/chloejs",
-    "stars": 0,
-    "updated_at": "2026-10-05T23:45:16Z",
-    "url": "https://github.com/carlosmartinezt/chloejs"
-  },
-  {
     "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
     "id": "vstorm-co/pydantic-deepagents",
     "language": "Python",
     "name": "vstorm-co/pydantic-deepagents",
     "stars": 1076,
-    "updated_at": "2026-10-05T23:45:06Z",
+    "updated_at": "2026-10-05T23:59:40Z",
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 56,
+    "updated_at": "2026-10-05T23:57:35Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10600,
+    "updated_at": "2026-10-05T23:59:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T23:55:07Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-10-05T23:55:58Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
+    "id": "carlosmartinezt/chloejs",
+    "language": "TypeScript",
+    "name": "carlosmartinezt/chloejs",
+    "stars": 0,
+    "updated_at": "2026-10-05T23:54:41Z",
+    "url": "https://github.com/carlosmartinezt/chloejs"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35740,
+    "updated_at": "2026-10-05T23:54:12Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8677,
+    "updated_at": "2026-10-05T23:59:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-05T23:51:22Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-10-05T23:53:25Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-10-05T23:49:10Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 4,
+    "updated_at": "2026-10-05T23:46:03Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-05T23:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -27,13 +126,13 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 56,
-    "updated_at": "2026-10-05T23:44:21Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2885,
+    "updated_at": "2026-10-05T23:42:51Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "The authority plane for local AI agents: a governed, self-hosted agent built so a 7\u201330B model on your own GPU can drive ",
@@ -90,49 +189,13 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2884,
-    "updated_at": "2026-10-05T23:42:51Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-10-05T23:34:56Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-05T23:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1120,
-    "updated_at": "2026-10-05T23:33:14Z",
+    "updated_at": "2026-10-05T23:59:51Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8676,
-    "updated_at": "2026-10-05T23:23:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
@@ -142,15 +205,6 @@
     "stars": 61,
     "updated_at": "2026-10-05T23:40:51Z",
     "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
-    "id": "falkenslab/agent-kit",
-    "language": "TypeScript",
-    "name": "falkenslab/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-05T23:16:12Z",
-    "url": "https://github.com/falkenslab/agent-kit"
   },
   {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
@@ -216,15 +270,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10600,
-    "updated_at": "2026-10-05T23:45:13Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -232,15 +277,6 @@
     "stars": 312,
     "updated_at": "2026-10-05T22:58:34Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T22:56:58Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -310,18 +346,9 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 319,
+    "stars": 320,
     "updated_at": "2026-10-05T22:36:25Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35740,
-    "updated_at": "2026-10-05T22:33:10Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T22:05:39Z",
     "url": "https://github.com/Liny9941/projectsmd"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:05:34Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Govern Claude Code with automated verification, strict review gates, and completion enforcement to ensure reliable AI ag",
-    "id": "floccose-burner9185/wow-harness",
-    "language": "Python",
-    "name": "floccose-burner9185/wow-harness",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:04:54Z",
-    "url": "https://github.com/floccose-burner9185/wow-harness"
-  },
-  {
-    "description": "Monitor AI agent decisions and logic flows through a transparent framework built on LangGraph for full visibility into a",
-    "id": "Fast-newengland468/CyberClaw",
-    "language": "\u2014",
-    "name": "Fast-newengland468/CyberClaw",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:04:21Z",
-    "url": "https://github.com/Fast-newengland468/CyberClaw"
   }
 ]
