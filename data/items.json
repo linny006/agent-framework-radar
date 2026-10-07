@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1360,
+    "updated_at": "2026-10-07T17:43:59Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 56,
+    "updated_at": "2026-10-07T17:43:04Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A curated list of AI agent infrastructure: memory stores, vector databases, execution sandboxes, MCP servers, tool regis",
+    "id": "backblaze-labs/awesome-agent-infrastructure",
+    "language": "\u2014",
+    "name": "backblaze-labs/awesome-agent-infrastructure",
+    "stars": 8,
+    "updated_at": "2026-10-07T17:42:36Z",
+    "url": "https://github.com/backblaze-labs/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
+    "id": "fmuecke/agent-win-sandbox",
+    "language": "PowerShell",
+    "name": "fmuecke/agent-win-sandbox",
+    "stars": 2,
+    "updated_at": "2026-10-07T17:38:32Z",
+    "url": "https://github.com/fmuecke/agent-win-sandbox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-07T17:37:11Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A multi-agent research system for the humanities and social sciences.",
     "id": "Luciole-Studio/Misaka-Agent",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 44,
-    "updated_at": "2026-10-07T17:34:25Z",
+    "updated_at": "2026-10-07T17:40:39Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -50,7 +95,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-07T17:33:46Z",
+    "updated_at": "2026-10-07T17:38:53Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat",
     "stars": 5,
-    "updated_at": "2026-10-07T17:33:05Z",
+    "updated_at": "2026-10-07T17:42:57Z",
     "url": "https://github.com/KPO-Tech/seshat"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-07T17:33:20Z",
+    "updated_at": "2026-10-07T17:39:11Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 24,
     "updated_at": "2026-10-07T17:33:44Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-07T17:30:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
@@ -189,6 +225,15 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10647,
+    "updated_at": "2026-10-07T17:23:53Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
     "id": "jlcatonjr/agentteams",
     "language": "Python",
@@ -239,7 +284,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1145,
-    "updated_at": "2026-10-07T17:29:50Z",
+    "updated_at": "2026-10-07T17:44:39Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T17:19:12Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 56,
-    "updated_at": "2026-10-07T17:12:00Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Voice-controlled classroom assistant for teachers",
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 677,
-    "updated_at": "2026-10-07T17:36:12Z",
+    "updated_at": "2026-10-07T17:44:28Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-07T16:31:36Z",
     "url": "https://github.com/yunhai89/trss-agent-plugin"
-  },
-  {
-    "description": "Autonomous AI agent platform for enterprise data and operations. Turns natural-language intents into verified plans and ",
-    "id": "ShreyashDarade/praxis-ai-agent-platform",
-    "language": "Python",
-    "name": "ShreyashDarade/praxis-ai-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-10-07T16:28:05Z",
-    "url": "https://github.com/ShreyashDarade/praxis-ai-agent-platform"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20470,
-    "updated_at": "2026-10-07T17:35:21Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
-    "id": "vincemakes/kiso",
-    "language": "TypeScript",
-    "name": "vincemakes/kiso",
-    "stars": 63,
-    "updated_at": "2026-10-07T17:26:02Z",
-    "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-07T16:23:36Z",
-    "url": "https://github.com/manishiitg/agentworks"
   }
 ]
