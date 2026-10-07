@@ -1,12 +1,111 @@
 [
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35743,
+    "updated_at": "2026-10-07T07:13:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-07T07:12:51Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-07T07:11:28Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10635,
+    "updated_at": "2026-10-07T07:12:13Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Nessy \u2014 an AI agent harness framework for Java",
+    "id": "jwcarman/nessy",
+    "language": "Java",
+    "name": "jwcarman/nessy",
+    "stars": 3,
+    "updated_at": "2026-10-07T07:10:33Z",
+    "url": "https://github.com/jwcarman/nessy"
+  },
+  {
+    "description": "SentraBot is an artificial intelligence-powered digital assistant designed specifically to help you find answers, soluti",
+    "id": "drferdi/Sentrabot",
+    "language": "TypeScript",
+    "name": "drferdi/Sentrabot",
+    "stars": 3,
+    "updated_at": "2026-10-07T07:12:13Z",
+    "url": "https://github.com/drferdi/Sentrabot"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 5,
+    "updated_at": "2026-10-07T07:09:35Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1139,
+    "updated_at": "2026-10-07T07:11:59Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 13974,
-    "updated_at": "2026-10-07T06:59:16Z",
+    "stars": 13976,
+    "updated_at": "2026-10-07T07:11:08Z",
     "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-10-07T07:08:24Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-07T07:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:00:18Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
@@ -23,7 +122,7 @@
     "language": "Rust",
     "name": "hibuka-labs/phi-agent",
     "stars": 15,
-    "updated_at": "2026-10-07T06:58:16Z",
+    "updated_at": "2026-10-07T07:00:58Z",
     "url": "https://github.com/hibuka-labs/phi-agent"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 152,
-    "updated_at": "2026-10-07T06:56:59Z",
+    "updated_at": "2026-10-07T07:03:22Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-10-07T06:55:54Z",
+    "updated_at": "2026-10-07T07:15:02Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -68,17 +167,8 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2903,
-    "updated_at": "2026-10-07T06:55:40Z",
+    "updated_at": "2026-10-07T07:05:14Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "SentraBot is an artificial intelligence-powered digital assistant designed specifically to help you find answers, soluti",
-    "id": "drferdi/Sentrabot",
-    "language": "TypeScript",
-    "name": "drferdi/Sentrabot",
-    "stars": 3,
-    "updated_at": "2026-10-07T06:58:42Z",
-    "url": "https://github.com/drferdi/Sentrabot"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -86,7 +176,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 676,
-    "updated_at": "2026-10-07T06:56:48Z",
+    "updated_at": "2026-10-07T07:11:15Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/CarlosCaPe/octorato"
   },
   {
-    "description": "Nessy \u2014 an AI agent harness framework for Java",
-    "id": "jwcarman/nessy",
-    "language": "Java",
-    "name": "jwcarman/nessy",
-    "stars": 3,
-    "updated_at": "2026-10-07T06:53:43Z",
-    "url": "https://github.com/jwcarman/nessy"
-  },
-  {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
     "id": "iyulab/ironhive-host",
     "language": "C#",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T06:55:29Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1139,
-    "updated_at": "2026-10-07T06:59:11Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -149,26 +221,8 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 118,
-    "updated_at": "2026-10-07T06:49:30Z",
+    "updated_at": "2026-10-07T07:03:33Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
-  },
-  {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-10-07T06:47:45Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35744,
-    "updated_at": "2026-10-07T06:59:04Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 109,
-    "updated_at": "2026-10-07T06:59:07Z",
+    "updated_at": "2026-10-07T07:14:34Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T06:51:32Z",
     "url": "https://github.com/bzdvdn/reactifact"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-07T06:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AutoYou is the only Server that works safer than prod, safer than cloud, runs on your laptop or mini PCs. AutoYou create",
@@ -232,15 +277,6 @@
     "stars": 11,
     "updated_at": "2026-10-07T06:43:49Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10635,
-    "updated_at": "2026-10-07T06:57:38Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "SKILL.md compatibility and execution written in rust",
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-07T06:48:02Z",
+    "updated_at": "2026-10-07T07:13:22Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -320,7 +356,7 @@
     "language": "C++",
     "name": "Hazer-BJTU/simplex-cpp",
     "stars": 0,
-    "updated_at": "2026-10-07T06:41:16Z",
+    "updated_at": "2026-10-07T07:14:54Z",
     "url": "https://github.com/Hazer-BJTU/simplex-cpp"
   },
   {
@@ -365,7 +401,7 @@
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-10-07T06:25:13Z",
+    "updated_at": "2026-10-07T07:12:23Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-07T06:09:22Z",
     "url": "https://github.com/tinyhumansai/tinychannels"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20464,
-    "updated_at": "2026-10-07T06:57:07Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 126,
-    "updated_at": "2026-10-07T06:04:18Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 234,
-    "updated_at": "2026-10-07T06:03:49Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48831,
-    "updated_at": "2026-10-07T06:50:32Z",
-    "url": "https://github.com/HKUDS/nanobot"
   }
 ]
