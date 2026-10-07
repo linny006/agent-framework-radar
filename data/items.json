@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+    "id": "open1s/bos",
+    "language": "Rust",
+    "name": "open1s/bos",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:26:59Z",
+    "url": "https://github.com/open1s/bos"
+  },
+  {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
+    "language": "TypeScript",
+    "name": "vincemakes/kiso",
+    "stars": 62,
+    "updated_at": "2026-10-07T01:26:36Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2272,
+    "updated_at": "2026-10-07T01:26:05Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-10-07T01:23:35Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20455,
+    "updated_at": "2026-10-07T01:23:00Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 2,
+    "updated_at": "2026-10-07T01:26:32Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
-    "stars": 1135,
-    "updated_at": "2026-10-07T01:15:23Z",
+    "stars": 1136,
+    "updated_at": "2026-10-07T01:28:23Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "\ud83d\ude80 Xenon 0.9.2 \u2014 \u53ef\u9a8c\u8bc1\u7684 AI coding agent runtime\uff1a\u5355\u4e00\u4efb\u52a1\u72b6\u6001\u673a\u3001\u8bc1\u636e\u9a71\u52a8\u6267\u884c\u30017 \u79cd\u63a8\u7406\u8303\u5f0f\u3001MCP\u3001\u591a\u6a21\u578b\u4e0e Windows/GBK \u517c\u5bb9\u3002",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-10-07T01:18:09Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:16:37Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-07T01:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Turn feature specs into merged PRs with a self-supervising swarm of coding agents \u2014 parallel execution, isolated sandbox",
+    "id": "kivo360/OmoiOS",
+    "language": "Python",
+    "name": "kivo360/OmoiOS",
+    "stars": 80,
+    "updated_at": "2026-10-07T01:15:15Z",
+    "url": "https://github.com/kivo360/OmoiOS"
   },
   {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
@@ -27,21 +117,12 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-07T01:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35742,
-    "updated_at": "2026-10-07T01:13:48Z",
+    "updated_at": "2026-10-07T01:21:39Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -54,31 +135,13 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20454,
-    "updated_at": "2026-10-07T01:03:02Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10631,
-    "updated_at": "2026-10-07T01:15:16Z",
+    "updated_at": "2026-10-07T01:30:07Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-10-07T00:49:22Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "xujian519/sati",
     "stars": 1,
-    "updated_at": "2026-10-07T00:38:01Z",
+    "updated_at": "2026-10-07T01:28:02Z",
     "url": "https://github.com/xujian519/sati"
   },
   {
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 20,
-    "updated_at": "2026-10-07T01:01:25Z",
+    "updated_at": "2026-10-07T01:29:57Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/kh0pper/crow"
   },
   {
-    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
-    "id": "open1s/bos",
-    "language": "Rust",
-    "name": "open1s/bos",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:29:43Z",
-    "url": "https://github.com/open1s/bos"
-  },
-  {
     "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
     "id": "conn-castle/agent-outbox",
     "language": "JavaScript",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T00:27:08Z",
     "url": "https://github.com/SiliconCoderJames/MiderHive"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2272,
-    "updated_at": "2026-10-07T00:25:52Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-10-07T00:18:08Z",
+    "updated_at": "2026-10-07T01:25:48Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 11,
-    "updated_at": "2026-10-07T01:11:52Z",
+    "updated_at": "2026-10-07T01:22:01Z",
     "url": "https://github.com/dzhioev/bro"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:10:04Z",
     "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
-    "id": "kdcube/kdcube",
-    "language": "Python",
-    "name": "kdcube/kdcube",
-    "stars": 25,
-    "updated_at": "2026-10-07T01:12:44Z",
-    "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:04:04Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
-  },
-  {
-    "description": "Provide a customizable AI assistant on Telegram with multiple tools, skills, and monitors that runs locally using hybrid",
-    "id": "Rayan55050/progressive-agent",
-    "language": "Python",
-    "name": "Rayan55050/progressive-agent",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:03:48Z",
-    "url": "https://github.com/Rayan55050/progressive-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:01:51Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage AI-driven SRE agents to automate operations tasks with natural language and integrated monitoring too",
-    "id": "tareksyria/SREAgents",
-    "language": "JavaScript",
-    "name": "tareksyria/SREAgents",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:01:20Z",
-    "url": "https://github.com/tareksyria/SREAgents"
   }
 ]
