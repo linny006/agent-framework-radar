@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-07T05:44:39Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-07T05:43:12Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 13,
-    "updated_at": "2026-10-07T05:30:01Z",
+    "updated_at": "2026-10-07T05:43:06Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35743,
+    "updated_at": "2026-10-07T05:41:42Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A multi-agent research system for the humanities and social sciences.",
+    "id": "Luciole-Studio/Misaka-Agent",
+    "language": "Python",
+    "name": "Luciole-Studio/Misaka-Agent",
+    "stars": 125,
+    "updated_at": "2026-10-07T05:40:14Z",
+    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1205,
+    "updated_at": "2026-10-07T05:37:34Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10635,
+    "updated_at": "2026-10-07T05:42:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 78,
+    "updated_at": "2026-10-07T05:34:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
+    "id": "fmuecke/agent-win-sandbox",
+    "language": "PowerShell",
+    "name": "fmuecke/agent-win-sandbox",
+    "stars": 2,
+    "updated_at": "2026-10-07T05:33:15Z",
+    "url": "https://github.com/fmuecke/agent-win-sandbox"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-07T05:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open platform for running Managed Agents at scale",
@@ -32,7 +113,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1137,
-    "updated_at": "2026-10-07T05:28:51Z",
+    "updated_at": "2026-10-07T05:39:53Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T05:26:27Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 125,
-    "updated_at": "2026-10-07T05:26:23Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35742,
-    "updated_at": "2026-10-07T05:26:11Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -86,17 +149,8 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 118,
-    "updated_at": "2026-10-07T05:29:56Z",
+    "updated_at": "2026-10-07T05:45:10Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:20:52Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "DIY your own agent team harness for long-horizon agent work",
@@ -142,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T05:23:26Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-07T05:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re",
@@ -238,7 +283,7 @@
     "id": "Sidiora-Labs/centra-gideon-agent",
     "language": "Python",
     "name": "Sidiora-Labs/centra-gideon-agent",
-    "stars": 129,
+    "stars": 130,
     "updated_at": "2026-10-07T05:06:05Z",
     "url": "https://github.com/Sidiora-Labs/centra-gideon-agent"
   },
@@ -356,7 +401,7 @@
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-10-07T05:00:20Z",
+    "updated_at": "2026-10-07T05:44:40Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T04:53:16Z",
     "url": "https://github.com/tareksyria/SREAgents"
-  },
-  {
-    "description": "\ud83e\udd16 Build modular AI agents with Alphora, a production-ready framework that simplifies creating powerful and maintainable ",
-    "id": "RONIN511/alphora",
-    "language": "Python",
-    "name": "RONIN511/alphora",
-    "stars": 2,
-    "updated_at": "2026-10-07T04:52:14Z",
-    "url": "https://github.com/RONIN511/alphora"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10634,
-    "updated_at": "2026-10-07T05:29:25Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-07T05:14:31Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Where agents build agents. An agentic build system for agentic systems. Ontology-grounded, auditable, one Rust binary.",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 39,
-    "updated_at": "2026-10-07T04:49:08Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:48:40Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
   }
 ]
