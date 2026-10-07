@@ -1,11 +1,119 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20472,
+    "updated_at": "2026-10-07T20:15:02Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Voice-controlled classroom assistant for teachers",
+    "id": "ChidcGithub/Neo",
+    "language": "Rust",
+    "name": "ChidcGithub/Neo",
+    "stars": 1,
+    "updated_at": "2026-10-07T20:14:09Z",
+    "url": "https://github.com/ChidcGithub/Neo"
+  },
+  {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "Shell",
+    "name": "aeonfun/aeon",
+    "stars": 767,
+    "updated_at": "2026-10-07T20:11:55Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-07T20:12:11Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
+    "id": "tinyhumansai/tinymemory",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymemory",
+    "stars": 10,
+    "updated_at": "2026-10-07T20:09:19Z",
+    "url": "https://github.com/tinyhumansai/tinymemory"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10649,
+    "updated_at": "2026-10-07T20:13:05Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-10-07T20:07:57Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 13,
+    "updated_at": "2026-10-07T20:07:19Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-07T20:06:32Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8722,
+    "updated_at": "2026-10-07T20:04:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-07T20:01:28Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 7,
+    "updated_at": "2026-10-07T20:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-07T19:58:25Z",
+    "updated_at": "2026-10-07T20:14:45Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -16,15 +124,6 @@
     "stars": 51,
     "updated_at": "2026-10-07T19:58:38Z",
     "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-10-07T19:58:33Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -63,51 +162,6 @@
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 13,
-    "updated_at": "2026-10-07T19:53:02Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20472,
-    "updated_at": "2026-10-07T19:53:32Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Voice-controlled classroom assistant for teachers",
-    "id": "ChidcGithub/Neo",
-    "language": "Rust",
-    "name": "ChidcGithub/Neo",
-    "stars": 1,
-    "updated_at": "2026-10-07T19:49:49Z",
-    "url": "https://github.com/ChidcGithub/Neo"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-07T19:49:33Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8722,
-    "updated_at": "2026-10-07T19:51:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -115,24 +169,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T19:47:15Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-07T19:46:48Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 7,
-    "updated_at": "2026-10-07T19:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
@@ -202,7 +238,7 @@
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
-    "stars": 336,
+    "stars": 337,
     "updated_at": "2026-10-07T19:33:32Z",
     "url": "https://github.com/yologdev/yoagent"
   },
@@ -212,17 +248,8 @@
     "language": "JavaScript",
     "name": "wrg32786/aigent-os",
     "stars": 19,
-    "updated_at": "2026-10-07T19:59:24Z",
+    "updated_at": "2026-10-07T20:12:14Z",
     "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 10,
-    "updated_at": "2026-10-07T19:32:16Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
   },
   {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "fastagent-sh/fastagent",
     "stars": 65,
-    "updated_at": "2026-10-07T19:54:46Z",
+    "updated_at": "2026-10-07T20:15:18Z",
     "url": "https://github.com/fastagent-sh/fastagent"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-07T19:59:35Z",
+    "updated_at": "2026-10-07T20:14:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10648,
-    "updated_at": "2026-10-07T19:57:50Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship.",
     "id": "shyftlabs/continuum",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-10-07T19:58:52Z",
+    "updated_at": "2026-10-07T20:08:10Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T18:53:42Z",
     "url": "https://github.com/autocatalytic-quartette9513/agent-git"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:51:19Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Build intelligent Java agents for the Embabel Hub with this powerful, annotation-driven framework offering seamless inte",
-    "id": "pingpongballbouncingbetty737/embabel-agent",
-    "language": "\u2014",
-    "name": "pingpongballbouncingbetty737/embabel-agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:51:15Z",
-    "url": "https://github.com/pingpongballbouncingbetty737/embabel-agent"
   }
 ]
