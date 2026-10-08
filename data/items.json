@@ -1,5 +1,86 @@
 [
   {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-08T23:12:52Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1185,
+    "updated_at": "2026-10-08T23:11:38Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10684,
+    "updated_at": "2026-10-08T23:13:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 2,
+    "updated_at": "2026-10-08T23:06:51Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:12:09Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-10-08T23:03:17Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Self-evolution for any agent harness. Plug in. Evolve. Measure.",
+    "id": "proteus-evolve/Proteus",
+    "language": "Python",
+    "name": "proteus-evolve/Proteus",
+    "stars": 108,
+    "updated_at": "2026-10-08T23:01:06Z",
+    "url": "https://github.com/proteus-evolve/Proteus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-08T23:01:02Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
+    "id": "lucasmailland/orchester",
+    "language": "TypeScript",
+    "name": "lucasmailland/orchester",
+    "stars": 1,
+    "updated_at": "2026-10-08T23:05:48Z",
+    "url": "https://github.com/lucasmailland/orchester"
+  },
+  {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
     "id": "fworks-tech/agenthood",
     "language": "TypeScript",
@@ -61,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T22:56:28Z",
     "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10684,
-    "updated_at": "2026-10-08T22:57:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -216,15 +288,6 @@
     "url": "https://github.com/jesayas7817/agent-reliability-engineering"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-08T22:45:35Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agentic LLM shell aimed at low cost GPUs",
     "id": "chrisws/hali",
     "language": "C++",
@@ -275,7 +338,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-08T22:53:02Z",
+    "updated_at": "2026-10-08T23:03:39Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T22:40:25Z",
+    "updated_at": "2026-10-08T23:04:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-08T22:34:59Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:35:27Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents for seamless teamwork in software development, enabling efficient collaboration through dependab",
-    "id": "cuteecarrot/AgentHub",
-    "language": "Python",
-    "name": "cuteecarrot/AgentHub",
-    "stars": 5,
-    "updated_at": "2026-10-08T22:32:51Z",
-    "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-10-08T22:32:00Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-08T22:42:36Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:31:09Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-10-08T22:31:06Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:32:46Z",
-    "url": "https://github.com/iyulab/ironhive-host"
   }
 ]
