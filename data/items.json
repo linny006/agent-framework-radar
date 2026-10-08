@@ -1,12 +1,156 @@
 [
   {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 8,
+    "updated_at": "2026-10-08T19:14:29Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
+    "id": "tinyhumansai/tinymemory",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymemory",
+    "stars": 10,
+    "updated_at": "2026-10-08T19:14:15Z",
+    "url": "https://github.com/tinyhumansai/tinymemory"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:14:15Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-08T19:13:40Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Shadow Sepulcher - integrity monitoring for agent instruction files and configs. Forked from hermes-config-guardian.",
+    "id": "mooserini/shadow-sepulcher",
+    "language": "Swift",
+    "name": "mooserini/shadow-sepulcher",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:12:55Z",
+    "url": "https://github.com/mooserini/shadow-sepulcher"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1181,
+    "updated_at": "2026-10-08T19:12:38Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 677,
-    "updated_at": "2026-10-08T19:00:18Z",
+    "updated_at": "2026-10-08T19:12:37Z",
     "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "A calibrated System One decision layer for existing LLM agents - Jev decides, the LLM writes, and the decision is enforc",
+    "id": "iamvazghen/jev-governor",
+    "language": "Python",
+    "name": "iamvazghen/jev-governor",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:10:07Z",
+    "url": "https://github.com/iamvazghen/jev-governor"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 56,
+    "updated_at": "2026-10-08T19:14:22Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8743,
+    "updated_at": "2026-10-08T19:08:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:08:14Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 4,
+    "updated_at": "2026-10-08T19:08:00Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2931,
+    "updated_at": "2026-10-08T19:06:08Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Modular AI agent runtime for explainable, stateful, and bounded workflows with explicit module, capability, and executio",
+    "id": "beesyst/beeagent",
+    "language": "Python",
+    "name": "beesyst/beeagent",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:05:23Z",
+    "url": "https://github.com/beesyst/beeagent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 341,
+    "updated_at": "2026-10-08T19:03:07Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Open Model Hardware Protocol: an MCP-style open protocol for AI agents to find, understand and safely operate lab and fa",
+    "id": "kushalsinha/openmhp",
+    "language": "Python",
+    "name": "kushalsinha/openmhp",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:00:57Z",
+    "url": "https://github.com/kushalsinha/openmhp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-08T19:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -23,17 +167,8 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-10-08T18:59:29Z",
+    "updated_at": "2026-10-08T19:02:04Z",
     "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
-    "description": "Shadow Sepulcher - integrity monitoring for agent instruction files and configs. Forked from hermes-config-guardian.",
-    "id": "mooserini/shadow-sepulcher",
-    "language": "Swift",
-    "name": "mooserini/shadow-sepulcher",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:59:23Z",
-    "url": "https://github.com/mooserini/shadow-sepulcher"
   },
   {
     "description": "High-performance modular Micro-Tools & MCP-compatible execution engines for Autonomous AI Agents. Sharded, zero-bloat, s",
@@ -52,15 +187,6 @@
     "stars": 16,
     "updated_at": "2026-10-08T18:57:49Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8741,
-    "updated_at": "2026-10-08T18:57:29Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -117,31 +243,13 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Open Model Hardware Protocol: an MCP-style open protocol for AI agents to find, understand and safely operate lab and fa",
-    "id": "kushalsinha/openmhp",
-    "language": "Python",
-    "name": "kushalsinha/openmhp",
-    "stars": 2,
-    "updated_at": "2026-10-08T18:52:31Z",
-    "url": "https://github.com/kushalsinha/openmhp"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2284,
-    "updated_at": "2026-10-08T18:50:18Z",
+    "updated_at": "2026-10-08T19:07:05Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 56,
-    "updated_at": "2026-10-08T19:00:17Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -162,33 +270,6 @@
     "url": "https://github.com/sageox/agent-toolkit"
   },
   {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 10,
-    "updated_at": "2026-10-08T18:46:03Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2930,
-    "updated_at": "2026-10-08T18:45:30Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-08T18:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -196,15 +277,6 @@
     "stars": 312,
     "updated_at": "2026-10-08T18:44:40Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "A calibrated System One decision layer for existing LLM agents - Jev decides, the LLM writes, and the decision is enforc",
-    "id": "iamvazghen/jev-governor",
-    "language": "Python",
-    "name": "iamvazghen/jev-governor",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:44:25Z",
-    "url": "https://github.com/iamvazghen/jev-governor"
   },
   {
     "description": "AutoYou is the only Server that works safer than prod, safer than cloud, runs on your laptop or mini PCs. AutoYou create",
@@ -221,7 +293,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 44,
-    "updated_at": "2026-10-08T18:41:10Z",
+    "updated_at": "2026-10-08T19:14:59Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T18:42:08Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "Svelte",
-    "name": "qbtrix/ripple-iui",
-    "stars": 8,
-    "updated_at": "2026-10-08T18:59:45Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
   },
   {
     "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
@@ -257,7 +320,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T18:54:12Z",
+    "updated_at": "2026-10-08T19:07:24Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -270,31 +333,13 @@
     "url": "https://github.com/ellmos-ai/open-compute-mcp"
   },
   {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 4,
-    "updated_at": "2026-10-08T18:41:22Z",
-    "url": "https://github.com/bakw00ds/yakos"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-08T18:59:37Z",
+    "updated_at": "2026-10-08T19:12:47Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
-    "id": "falkenslab/agent-kit",
-    "language": "TypeScript",
-    "name": "falkenslab/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:29:59Z",
-    "url": "https://github.com/falkenslab/agent-kit"
   },
   {
     "description": "Embodied AI agents runtime",
@@ -304,24 +349,6 @@
     "stars": 4,
     "updated_at": "2026-10-08T18:28:27Z",
     "url": "https://github.com/LamantinAI/octo"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1180,
-    "updated_at": "2026-10-08T19:00:01Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:45:57Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
     "description": "The companion AI agent that learns, adapts and gets the work done no matter the task",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 319,
-    "updated_at": "2026-10-08T18:19:08Z",
+    "updated_at": "2026-10-08T19:06:26Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T18:32:30Z",
+    "updated_at": "2026-10-08T19:04:48Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10683,
-    "updated_at": "2026-10-08T18:54:50Z",
+    "updated_at": "2026-10-08T19:03:42Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T18:32:05Z",
     "url": "https://github.com/go-steer/mast"
-  },
-  {
-    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
-    "id": "aequitas-labs/lobstah",
-    "language": "TypeScript",
-    "name": "aequitas-labs/lobstah",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:57:02Z",
-    "url": "https://github.com/aequitas-labs/lobstah"
-  },
-  {
-    "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
-    "id": "linjiejim/greenhouse",
-    "language": "TypeScript",
-    "name": "linjiejim/greenhouse",
-    "stars": 2,
-    "updated_at": "2026-10-08T18:08:15Z",
-    "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
-    "id": "leanneexperimental3016/Models-Cowork",
-    "language": "Python",
-    "name": "leanneexperimental3016/Models-Cowork",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:53:49Z",
-    "url": "https://github.com/leanneexperimental3016/Models-Cowork"
   }
 ]
