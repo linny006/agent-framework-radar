@@ -1,12 +1,66 @@
 [
   {
+    "description": "Agentium is a TypeScript agent framework for Node.js: models, tools, memory, teams, workflows, and runtime integrations ",
+    "id": "agentiumOS/agentium",
+    "language": "TypeScript",
+    "name": "agentiumOS/agentium",
+    "stars": 7,
+    "updated_at": "2026-10-08T09:00:16Z",
+    "url": "https://github.com/agentiumOS/agentium"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-08T08:58:40Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5887,
+    "updated_at": "2026-10-08T08:59:55Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "One repo, one skill: a self-improving experience layer for AI agents - multi-dataset session retrieval, on-device triage",
+    "id": "romangalaxys10-spec/fable",
+    "language": "TypeScript",
+    "name": "romangalaxys10-spec/fable",
+    "stars": 4,
+    "updated_at": "2026-10-08T08:57:10Z",
+    "url": "https://github.com/romangalaxys10-spec/fable"
+  },
+  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
-    "stars": 1149,
-    "updated_at": "2026-10-08T08:54:40Z",
+    "stars": 1150,
+    "updated_at": "2026-10-08T08:54:54Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-08T08:54:50Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35749,
+    "updated_at": "2026-10-08T08:54:46Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26694,
-    "updated_at": "2026-10-08T08:51:11Z",
+    "updated_at": "2026-10-08T08:55:26Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T08:51:03Z",
     "url": "https://github.com/autoyou-ai/AutoYou-Server"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-08T08:53:01Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
@@ -72,15 +117,6 @@
     "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35750,
-    "updated_at": "2026-10-08T08:54:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
     "id": "luandapipi91/Wa-PiAgent",
     "language": "TypeScript",
@@ -88,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T08:46:41Z",
     "url": "https://github.com/luandapipi91/Wa-PiAgent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-08T08:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -108,12 +135,21 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48856,
+    "updated_at": "2026-10-08T08:43:54Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
     "id": "aomi-labs/aomi",
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 13,
-    "updated_at": "2026-10-08T08:41:40Z",
+    "updated_at": "2026-10-08T08:58:55Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 14000,
-    "updated_at": "2026-10-08T08:40:39Z",
+    "updated_at": "2026-10-08T08:58:51Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10670,
-    "updated_at": "2026-10-08T08:46:24Z",
+    "updated_at": "2026-10-08T08:59:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 64,
-    "updated_at": "2026-10-08T08:53:22Z",
+    "updated_at": "2026-10-08T08:55:40Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T08:53:15Z",
+    "updated_at": "2026-10-08T08:55:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 315,
     "updated_at": "2026-10-08T08:26:59Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Mozaik is a TypeScript runtime for building and sharing AI agents.",
-    "id": "jigjoy-ai/mozaik",
-    "language": "TypeScript",
-    "name": "jigjoy-ai/mozaik",
-    "stars": 162,
-    "updated_at": "2026-10-08T07:57:21Z",
-    "url": "https://github.com/jigjoy-ai/mozaik"
-  },
-  {
-    "description": "Open-source, self-hosted AI agents on your own machine \u2014 multi-agent group chat with memory, file tools, MCP and local i",
-    "id": "UClone-AI/uclone-x",
-    "language": "Python",
-    "name": "UClone-AI/uclone-x",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:56:05Z",
-    "url": "https://github.com/UClone-AI/uclone-x"
-  },
-  {
-    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 1,
-    "updated_at": "2026-10-08T07:55:54Z",
-    "url": "https://github.com/joelaniol/nova"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-08T07:52:50Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
