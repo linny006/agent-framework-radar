@@ -1,12 +1,129 @@
 [
   {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-08T19:45:01Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Open-source AI agent for Windows \u2014 background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 5,
+    "updated_at": "2026-10-08T19:44:24Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-10-08T19:43:02Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-10-08T19:42:46Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-08T19:40:43Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:44:04Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1181,
+    "updated_at": "2026-10-08T19:42:33Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-08T19:45:07Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1964,
+    "updated_at": "2026-10-08T19:40:54Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-10-08T19:35:20Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-08T19:33:52Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15477,
+    "updated_at": "2026-10-08T19:36:57Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-10-08T19:29:34Z",
+    "updated_at": "2026-10-08T19:31:04Z",
     "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-08T19:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
@@ -14,7 +131,7 @@
     "language": "Go",
     "name": "bakw00ds/yakos",
     "stars": 4,
-    "updated_at": "2026-10-08T19:28:24Z",
+    "updated_at": "2026-10-08T19:33:33Z",
     "url": "https://github.com/bakw00ds/yakos"
   },
   {
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 81,
-    "updated_at": "2026-10-08T19:26:09Z",
+    "updated_at": "2026-10-08T19:37:46Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -90,15 +207,6 @@
     "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-08T19:30:09Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Agent friendly memory system. Route any memory system into a standardized interface",
     "id": "tinyhumansai/tinymemory",
     "language": "Rust",
@@ -117,31 +225,13 @@
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-08T19:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
     "id": "qbtrix/ripple-iui",
     "language": "Svelte",
     "name": "qbtrix/ripple-iui",
     "stars": 8,
-    "updated_at": "2026-10-08T19:14:29Z",
+    "updated_at": "2026-10-08T19:42:48Z",
     "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-10-08T19:13:40Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
     "description": "Shadow Sepulcher - integrity monitoring for agent instruction files and configs. Forked from hermes-config-guardian.",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T19:12:55Z",
     "url": "https://github.com/mooserini/shadow-sepulcher"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1181,
-    "updated_at": "2026-10-08T19:24:53Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -194,8 +275,17 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-10-08T19:28:37Z",
+    "updated_at": "2026-10-08T19:43:19Z",
     "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 320,
+    "updated_at": "2026-10-08T19:06:26Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -221,7 +311,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 341,
-    "updated_at": "2026-10-08T19:27:44Z",
+    "updated_at": "2026-10-08T19:31:51Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -261,15 +351,6 @@
     "url": "https://github.com/flowork-os/AGENT-TOOLS"
   },
   {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-08T18:57:49Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
     "id": "ourostack/ouroboros",
     "language": "TypeScript",
@@ -292,7 +373,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35749,
+    "stars": 35748,
     "updated_at": "2026-10-08T18:55:54Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -333,15 +414,6 @@
     "url": "https://github.com/sageox/agent-toolkit"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-10-08T18:44:40Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "AutoYou is the only Server that works safer than prod, safer than cloud, runs on your laptop or mini PCs. AutoYou create",
     "id": "autoyou-ai/AutoYou-Server",
     "language": "Python",
@@ -356,7 +428,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 44,
-    "updated_at": "2026-10-08T19:20:00Z",
+    "updated_at": "2026-10-08T19:43:06Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-08T19:23:26Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "npm launcher for the open-compute MCP server: model-agnostic computer-use (screenshot, safety-gated actions, Windows UIA",
     "id": "ellmos-ai/open-compute-mcp",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T18:35:22Z",
     "url": "https://github.com/ellmos-ai/open-compute-mcp"
-  },
-  {
-    "description": "Embodied AI agents runtime",
-    "id": "LamantinAI/octo",
-    "language": "Rust",
-    "name": "LamantinAI/octo",
-    "stars": 4,
-    "updated_at": "2026-10-08T18:28:27Z",
-    "url": "https://github.com/LamantinAI/octo"
-  },
-  {
-    "description": "The companion AI agent that learns, adapts and gets the work done no matter the task",
-    "id": "Sidiora-Labs/centra-gideon-agent",
-    "language": "Python",
-    "name": "Sidiora-Labs/centra-gideon-agent",
-    "stars": 208,
-    "updated_at": "2026-10-08T18:22:27Z",
-    "url": "https://github.com/Sidiora-Labs/centra-gideon-agent"
-  },
-  {
-    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
-    "id": "AndersonBY/vv-agent",
-    "language": "Python",
-    "name": "AndersonBY/vv-agent",
-    "stars": 2,
-    "updated_at": "2026-10-08T18:19:59Z",
-    "url": "https://github.com/AndersonBY/vv-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 319,
-    "updated_at": "2026-10-08T19:06:26Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-08T19:04:48Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 315,
-    "updated_at": "2026-10-08T19:24:23Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Workflow slash commands for AI coding agents. Spec-driven. Guardrails, not autocomplete.",
-    "id": "rajdeepratan/SlashForge",
-    "language": "JavaScript",
-    "name": "rajdeepratan/SlashForge",
-    "stars": 5,
-    "updated_at": "2026-10-08T18:12:06Z",
-    "url": "https://github.com/rajdeepratan/SlashForge"
   }
 ]
