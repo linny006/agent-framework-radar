@@ -1,12 +1,48 @@
 [
   {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 44,
-    "updated_at": "2026-10-08T08:44:04Z",
-    "url": "https://github.com/swombat/souls-house"
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1149,
+    "updated_at": "2026-10-08T08:54:40Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Reactive, artifact-driven agent runtime: agents transform versioned, typed, provenance-aware artifacts inside an evolvin",
+    "id": "bzdvdn/reactifact",
+    "language": "Python",
+    "name": "bzdvdn/reactifact",
+    "stars": 4,
+    "updated_at": "2026-10-08T08:54:17Z",
+    "url": "https://github.com/bzdvdn/reactifact"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-08T08:51:17Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26694,
+    "updated_at": "2026-10-08T08:51:11Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "AutoYou is the only Server that works safer than prod, safer than cloud, runs on your laptop or mini PCs. AutoYou create",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:51:03Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,26 +50,62 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-08T08:44:03Z",
+    "updated_at": "2026-10-08T08:53:01Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 65,
+    "updated_at": "2026-10-08T08:53:44Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 299,
+    "updated_at": "2026-10-08T08:50:21Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35748,
-    "updated_at": "2026-10-08T08:43:00Z",
+    "stars": 35750,
+    "updated_at": "2026-10-08T08:54:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1149,
-    "updated_at": "2026-10-08T08:42:36Z",
-    "url": "https://github.com/autonomous-ai/openharness"
+    "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
+    "id": "luandapipi91/Wa-PiAgent",
+    "language": "TypeScript",
+    "name": "luandapipi91/Wa-PiAgent",
+    "stars": 3,
+    "updated_at": "2026-10-08T08:46:41Z",
+    "url": "https://github.com/luandapipi91/Wa-PiAgent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-08T08:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 44,
+    "updated_at": "2026-10-08T08:44:04Z",
+    "url": "https://github.com/swombat/souls-house"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "xujian519/sati",
     "stars": 1,
-    "updated_at": "2026-10-08T08:41:12Z",
+    "updated_at": "2026-10-08T08:51:18Z",
     "url": "https://github.com/xujian519/sati"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 14000,
     "updated_at": "2026-10-08T08:40:39Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-08T08:39:16Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "linora-u/AgentLoom",
     "stars": 168,
-    "updated_at": "2026-10-08T08:37:52Z",
+    "updated_at": "2026-10-08T08:49:38Z",
     "url": "https://github.com/linora-u/AgentLoom"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T08:36:18Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
-    "id": "luandapipi91/Wa-PiAgent",
-    "language": "TypeScript",
-    "name": "luandapipi91/Wa-PiAgent",
-    "stars": 3,
-    "updated_at": "2026-10-08T08:35:57Z",
-    "url": "https://github.com/luandapipi91/Wa-PiAgent"
   },
   {
     "description": "multi model capable single harness orchestrator. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in,",
@@ -153,21 +207,12 @@
     "url": "https://github.com/tinyhumansai/tinymemory"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-08T08:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10670,
-    "updated_at": "2026-10-08T08:40:08Z",
+    "updated_at": "2026-10-08T08:46:24Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-08T08:44:02Z",
+    "updated_at": "2026-10-08T08:53:27Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 157,
-    "updated_at": "2026-10-08T08:19:35Z",
+    "updated_at": "2026-10-08T08:52:03Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 64,
-    "updated_at": "2026-10-08T08:17:14Z",
+    "updated_at": "2026-10-08T08:53:22Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 14,
-    "updated_at": "2026-10-08T08:23:15Z",
+    "updated_at": "2026-10-08T08:52:00Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-08T08:30:32Z",
+    "updated_at": "2026-10-08T08:53:15Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "AndersonBY/vv-agent",
     "stars": 2,
-    "updated_at": "2026-10-08T07:57:54Z",
+    "updated_at": "2026-10-08T08:50:30Z",
     "url": "https://github.com/AndersonBY/vv-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-08T07:52:50Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4434,
-    "updated_at": "2026-10-08T07:47:47Z",
-    "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Agentic LLM shell aimed at low cost GPUs",
-    "id": "chrisws/hali",
-    "language": "C++",
-    "name": "chrisws/hali",
-    "stars": 5,
-    "updated_at": "2026-10-08T07:43:42Z",
-    "url": "https://github.com/chrisws/hali"
-  },
-  {
-    "description": "FastAPI server and CLI for Agentflow. Auto-generates a REST API from your agent graph, with JWT/custom auth, RBAC author",
-    "id": "10xGraph/10xgraph-api",
-    "language": "Python",
-    "name": "10xGraph/10xgraph-api",
-    "stars": 5,
-    "updated_at": "2026-10-08T07:42:28Z",
-    "url": "https://github.com/10xGraph/10xgraph-api"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 1,
-    "updated_at": "2026-10-08T07:42:12Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
-    "id": "databricks-solutions/consort",
-    "language": "TypeScript",
-    "name": "databricks-solutions/consort",
-    "stars": 32,
-    "updated_at": "2026-10-08T07:41:09Z",
-    "url": "https://github.com/databricks-solutions/consort"
   }
 ]
