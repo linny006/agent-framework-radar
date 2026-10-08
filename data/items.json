@@ -1,21 +1,57 @@
 [
   {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "Svelte",
-    "name": "qbtrix/ripple-iui",
-    "stars": 8,
-    "updated_at": "2026-10-08T19:14:29Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:29:34Z",
+    "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
-    "id": "tinyhumansai/tinymemory",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymemory",
-    "stars": 10,
-    "updated_at": "2026-10-08T19:14:15Z",
-    "url": "https://github.com/tinyhumansai/tinymemory"
+    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
+    "id": "bakw00ds/yakos",
+    "language": "Go",
+    "name": "bakw00ds/yakos",
+    "stars": 4,
+    "updated_at": "2026-10-08T19:28:24Z",
+    "url": "https://github.com/bakw00ds/yakos"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 56,
+    "updated_at": "2026-10-08T19:26:58Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 81,
+    "updated_at": "2026-10-08T19:26:09Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-08T19:25:26Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 29,
+    "updated_at": "2026-10-08T19:25:11Z",
+    "url": "https://github.com/thenaxon/somora_agent"
   },
   {
     "description": "A foundation for building AI agents on top of the Claude Agent SDK",
@@ -23,8 +59,80 @@
     "language": "TypeScript",
     "name": "falkenslab/agent-kit",
     "stars": 0,
-    "updated_at": "2026-10-08T19:14:15Z",
+    "updated_at": "2026-10-08T19:24:46Z",
     "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "OAuth integrations & connectors for agents",
+    "id": "tinyhumansai/tinyconnectors",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyconnectors",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:22:51Z",
+    "url": "https://github.com/tinyhumansai/tinyconnectors"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 55,
+    "updated_at": "2026-10-08T19:22:10Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Python framework for typed LLM agents with conditional tool chaining.",
+    "id": "Tachion-Oy/roboz",
+    "language": "Python",
+    "name": "Tachion-Oy/roboz",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:21:49Z",
+    "url": "https://github.com/Tachion-Oy/roboz"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:30:09Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agent friendly memory system. Route any memory system into a standardized interface",
+    "id": "tinyhumansai/tinymemory",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymemory",
+    "stars": 10,
+    "updated_at": "2026-10-08T19:20:44Z",
+    "url": "https://github.com/tinyhumansai/tinymemory"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6412,
+    "updated_at": "2026-10-08T19:19:04Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-08T19:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "Svelte",
+    "name": "qbtrix/ripple-iui",
+    "stars": 8,
+    "updated_at": "2026-10-08T19:14:29Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -50,7 +158,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1181,
-    "updated_at": "2026-10-08T19:12:38Z",
+    "updated_at": "2026-10-08T19:24:53Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -59,7 +167,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 677,
-    "updated_at": "2026-10-08T19:12:37Z",
+    "updated_at": "2026-10-08T19:15:36Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -70,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T19:10:07Z",
     "url": "https://github.com/iamvazghen/jev-governor"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 56,
-    "updated_at": "2026-10-08T19:14:22Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -95,17 +194,8 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-10-08T19:08:14Z",
+    "updated_at": "2026-10-08T19:28:37Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "Multi-runtime agent framework (Claude Code, Codex, Antigravity) with hard/soft controls, audit-first hooks, and multi-de",
-    "id": "bakw00ds/yakos",
-    "language": "Go",
-    "name": "bakw00ds/yakos",
-    "stars": 4,
-    "updated_at": "2026-10-08T19:08:00Z",
-    "url": "https://github.com/bakw00ds/yakos"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -131,7 +221,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 341,
-    "updated_at": "2026-10-08T19:03:07Z",
+    "updated_at": "2026-10-08T19:27:44Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T19:00:57Z",
     "url": "https://github.com/kushalsinha/openmhp"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-08T19:00:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -176,7 +257,7 @@
     "language": "JavaScript",
     "name": "flowork-os/AGENT-TOOLS",
     "stars": 0,
-    "updated_at": "2026-10-08T18:58:57Z",
+    "updated_at": "2026-10-08T19:29:44Z",
     "url": "https://github.com/flowork-os/AGENT-TOOLS"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T18:57:28Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-10-08T18:57:18Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -252,15 +324,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-08T18:46:40Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
     "id": "sageox/agent-toolkit",
     "language": "TypeScript",
@@ -293,7 +356,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 44,
-    "updated_at": "2026-10-08T19:14:59Z",
+    "updated_at": "2026-10-08T19:20:00Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -306,21 +369,12 @@
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
-    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 29,
-    "updated_at": "2026-10-08T18:36:48Z",
-    "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-08T19:07:24Z",
+    "updated_at": "2026-10-08T19:23:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T18:35:22Z",
     "url": "https://github.com/ellmos-ai/open-compute-mcp"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-08T19:12:47Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Embodied AI agents runtime",
@@ -355,7 +400,7 @@
     "id": "Sidiora-Labs/centra-gideon-agent",
     "language": "Python",
     "name": "Sidiora-Labs/centra-gideon-agent",
-    "stars": 207,
+    "stars": 208,
     "updated_at": "2026-10-08T18:22:27Z",
     "url": "https://github.com/Sidiora-Labs/centra-gideon-agent"
   },
@@ -392,7 +437,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 315,
-    "updated_at": "2026-10-08T18:12:55Z",
+    "updated_at": "2026-10-08T19:24:23Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-08T18:12:06Z",
     "url": "https://github.com/rajdeepratan/SlashForge"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-10-08T18:08:58Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10683,
-    "updated_at": "2026-10-08T19:03:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
-    "id": "Azure/agent-landing-zone",
-    "language": "Python",
-    "name": "Azure/agent-landing-zone",
-    "stars": 1187,
-    "updated_at": "2026-10-08T18:14:20Z",
-    "url": "https://github.com/Azure/agent-landing-zone"
-  },
-  {
-    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
-    "id": "Prescott-Data/jarviscore-framework",
-    "language": "Python",
-    "name": "Prescott-Data/jarviscore-framework",
-    "stars": 231,
-    "updated_at": "2026-10-08T18:06:06Z",
-    "url": "https://github.com/Prescott-Data/jarviscore-framework"
-  },
-  {
-    "description": "Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o",
-    "id": "go-steer/mast",
-    "language": "Go",
-    "name": "go-steer/mast",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:32:05Z",
-    "url": "https://github.com/go-steer/mast"
   }
 ]
