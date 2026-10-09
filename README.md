@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-09 01:12 UTC
+> ⏰ Last updated: 2026-10-09 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AmritaBot/AmritaCore](https://github.com/AmritaBot/AmritaCore) | 12 | Python | 2026-10-09 | Next Generation Agent Runtime / 次世代Agent运行时 |
-| 2 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35752 | Go | 2026-10-09 | A reliable coding agent for complex software engineering tasks. |
-| 3 | [damonleelcx/play-with-agents](https://github.com/damonleelcx/play-with-agents) | 0 | Go | 2026-10-09 | A game table that is always full. Play Texas Hold'em and board games with friends, with AI agents, or both — and describ |
-| 4 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-10-09 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
-| 5 | [kh0pper/crow](https://github.com/kh0pper/crow) | 23 | JavaScript | 2026-10-09 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude |
-| 6 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 56 | TypeScript | 2026-10-09 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
-| 7 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-10-09 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
+| 2 | [AmritaBot/AmritaCore](https://github.com/AmritaBot/AmritaCore) | 12 | Python | 2026-10-09 | Next Generation Agent Runtime / 次世代Agent运行时 |
+| 3 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-09 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35752 | Go | 2026-10-09 | A reliable coding agent for complex software engineering tasks. |
+| 5 | [damonleelcx/play-with-agents](https://github.com/damonleelcx/play-with-agents) | 0 | Go | 2026-10-09 | A game table that is always full. Play Texas Hold'em and board games with friends, with AI agents, or both — and describ |
+| 6 | [kh0pper/crow](https://github.com/kh0pper/crow) | 23 | JavaScript | 2026-10-09 | Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude |
+| 7 | [griffinwork40/agent-afk](https://github.com/griffinwork40/agent-afk) | 56 | TypeScript | 2026-10-09 | The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and |
 | 8 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 22 | Kotlin | 2026-10-09 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
 | 9 | [masonleetompkins/aygent-core](https://github.com/masonleetompkins/aygent-core) | 1 | Rust | 2026-10-09 | AYGENT is an Open Source AI Agent Harness with built-in security, memory, cron, and parallel threads. |
 | 10 | [gogoingai/DarwinAgent](https://github.com/gogoingai/DarwinAgent) | 2 | Python | 2026-10-09 | Evolution for the Agent Era. Inspired by Darwin, an open framework for experience-driven recursive self-improvement of A |
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [daretodave/nexus](https://github.com/daretodave/nexus) | 4 | JavaScript | 2026-10-09 | a methodology for autonomous projects that ship themselves (hands off) |
 | 35 | [morethanrealio/brambit](https://github.com/morethanrealio/brambit) | 0 | JavaScript | 2026-10-09 | Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec |
 | 36 | [go-steer/mast](https://github.com/go-steer/mast) | 1 | Go | 2026-10-09 | Agent infrastructure for unattended, library-embedded, multi-provider, durable workloads. Go, built on ADK v2. Sibling o |
-| 37 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 307 | Python | 2026-10-09 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 37 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 308 | Python | 2026-10-09 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
 | 38 | [stevederico/dotbot](https://github.com/stevederico/dotbot) | 2 | TypeScript | 2026-10-09 | agent harness — multi-provider, streaming, 47 tools, autonomous tasks |
 | 39 | [IAmNo1Special/mvgeos](https://github.com/IAmNo1Special/mvgeos) | 1 | Python | 2026-10-09 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
 | 40 | [AshishKumar4/Nimbus](https://github.com/AshishKumar4/Nimbus) | 16 | JavaScript | 2026-10-09 | Free unlimited POSIX sandboxes on Cloudflare |
