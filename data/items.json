@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 122,
+    "updated_at": "2026-10-09T20:44:36Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T20:44:35Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 7,
+    "updated_at": "2026-10-09T20:43:33Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 678,
+    "updated_at": "2026-10-09T20:43:53Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10705,
+    "updated_at": "2026-10-09T20:43:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-10-09T20:33:12Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-09T20:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
     "id": "ayman3000/SwiftAgentKit",
     "language": "Swift",
@@ -18,31 +81,13 @@
     "url": "https://github.com/bhodgens/meept"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10705,
-    "updated_at": "2026-10-09T20:29:43Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20509,
-    "updated_at": "2026-10-09T20:30:17Z",
+    "updated_at": "2026-10-09T20:43:58Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 678,
-    "updated_at": "2026-10-09T20:30:21Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-09T20:28:04Z",
+    "updated_at": "2026-10-09T20:44:52Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-09T20:29:14Z",
+    "updated_at": "2026-10-09T20:38:39Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-10-09T20:22:14Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-09T20:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "kdcube/kdcube",
     "stars": 25,
-    "updated_at": "2026-10-09T20:21:41Z",
+    "updated_at": "2026-10-09T20:39:20Z",
     "url": "https://github.com/kdcube/kdcube"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T19:55:08Z",
     "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-10-09T19:55:07Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-09T19:47:56Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:47:40Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-09T19:45:37Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Run autonomous AI agents with tool-calling via a Go microservice that connects Laravel and LLM providers, streaming real",
-    "id": "Unknown384-come/agent-runner",
-    "language": "Go",
-    "name": "Unknown384-come/agent-runner",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:44:44Z",
-    "url": "https://github.com/Unknown384-come/agent-runner"
   }
 ]
