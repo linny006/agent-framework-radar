@@ -1,11 +1,119 @@
 [
   {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvgeos",
+    "language": "Python",
+    "name": "IAmNo1Special/mvgeos",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:28:30Z",
+    "url": "https://github.com/IAmNo1Special/mvgeos"
+  },
+  {
+    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
+    "id": "carlosmartinezt/chloejs",
+    "language": "TypeScript",
+    "name": "carlosmartinezt/chloejs",
+    "stars": 2,
+    "updated_at": "2026-10-09T23:29:06Z",
+    "url": "https://github.com/carlosmartinezt/chloejs"
+  },
+  {
+    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
+    "id": "dzhioev/bro",
+    "language": "Python",
+    "name": "dzhioev/bro",
+    "stars": 11,
+    "updated_at": "2026-10-09T23:27:39Z",
+    "url": "https://github.com/dzhioev/bro"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 27,
+    "updated_at": "2026-10-09T23:27:02Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "Local-first platform for persistent autonomous AI agents. The model is replaceable; the agent is durable: identity, memo",
+    "id": "ShiftAboveCtrl/ai17z",
+    "language": "TypeScript",
+    "name": "ShiftAboveCtrl/ai17z",
+    "stars": 6,
+    "updated_at": "2026-10-09T23:26:32Z",
+    "url": "https://github.com/ShiftAboveCtrl/ai17z"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1575,
+    "updated_at": "2026-10-09T23:24:25Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 321,
+    "updated_at": "2026-10-09T23:23:07Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "An agent that makes sense of the world and acts on it",
+    "id": "ghassan-ai-projects/tamoz",
+    "language": "Ruby",
+    "name": "ghassan-ai-projects/tamoz",
+    "stars": 0,
+    "updated_at": "2026-10-09T23:19:53Z",
+    "url": "https://github.com/ghassan-ai-projects/tamoz"
+  },
+  {
+    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:19:35Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 266,
+    "updated_at": "2026-10-09T23:17:50Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 313,
+    "updated_at": "2026-10-09T23:15:33Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-09T23:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
     "id": "Pal-AI-Lab/Cortico",
     "language": "TypeScript",
     "name": "Pal-AI-Lab/Cortico",
     "stars": 194,
-    "updated_at": "2026-10-09T23:15:05Z",
+    "updated_at": "2026-10-09T23:18:22Z",
     "url": "https://github.com/Pal-AI-Lab/Cortico"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
-    "id": "dzhioev/bro",
-    "language": "Python",
-    "name": "dzhioev/bro",
-    "stars": 11,
-    "updated_at": "2026-10-09T23:13:23Z",
-    "url": "https://github.com/dzhioev/bro"
-  },
-  {
     "description": "A general-purpose agentic harness. Structured context slots, observational-memory compaction, tools, permissions, skills",
     "id": "Craigtut/cortex",
     "language": "TypeScript",
@@ -63,21 +162,12 @@
     "url": "https://github.com/Craigtut/cortex"
   },
   {
-    "description": "An agent that makes sense of the world and acts on it",
-    "id": "ghassan-ai-projects/tamoz",
-    "language": "Ruby",
-    "name": "ghassan-ai-projects/tamoz",
-    "stars": 0,
-    "updated_at": "2026-10-09T23:06:10Z",
-    "url": "https://github.com/ghassan-ai-projects/tamoz"
-  },
-  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-09T23:12:38Z",
+    "updated_at": "2026-10-09T23:15:57Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
@@ -86,7 +176,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-09T23:09:07Z",
+    "updated_at": "2026-10-09T23:15:27Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/retrychx/agentia"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-09T23:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -135,15 +216,6 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 313,
-    "updated_at": "2026-10-09T22:55:44Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10706,
-    "updated_at": "2026-10-09T23:13:40Z",
+    "updated_at": "2026-10-09T23:28:23Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -194,26 +266,8 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2293,
-    "updated_at": "2026-10-09T22:38:32Z",
+    "updated_at": "2026-10-09T23:16:49Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:34:53Z",
-    "url": "https://github.com/joelaniol/nova"
-  },
-  {
-    "description": "Open platform for running Managed Agents at scale",
-    "id": "invergent-ai/surogates",
-    "language": "Python",
-    "name": "invergent-ai/surogates",
-    "stars": 27,
-    "updated_at": "2026-10-09T22:34:32Z",
-    "url": "https://github.com/invergent-ai/surogates"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -232,15 +286,6 @@
     "stars": 14,
     "updated_at": "2026-10-09T22:50:23Z",
     "url": "https://github.com/Zuga-Technologies/zugamind"
-  },
-  {
-    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
-    "id": "carlosmartinezt/chloejs",
-    "language": "TypeScript",
-    "name": "carlosmartinezt/chloejs",
-    "stars": 2,
-    "updated_at": "2026-10-09T22:41:32Z",
-    "url": "https://github.com/carlosmartinezt/chloejs"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:55:34Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
-    "id": "ayman3000/SwiftAgentKit",
-    "language": "Swift",
-    "name": "ayman3000/SwiftAgentKit",
-    "stars": 1,
-    "updated_at": "2026-10-09T21:52:13Z",
-    "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-10-09T22:34:13Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:49:49Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:48:13Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:48:07Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
   }
 ]
