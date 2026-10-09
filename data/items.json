@@ -1,12 +1,120 @@
 [
   {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-09T05:44:44Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 19,
+    "updated_at": "2026-10-09T05:43:37Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Go AI agent framework \u2014 reversible effects, reactive service loading.",
+    "id": "Luo-root/pulse",
+    "language": "Go",
+    "name": "Luo-root/pulse",
+    "stars": 7,
+    "updated_at": "2026-10-09T05:44:43Z",
+    "url": "https://github.com/Luo-root/pulse"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-10-09T05:42:17Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-10-09T05:45:02Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-09T05:30:20Z",
+    "updated_at": "2026-10-09T05:44:12Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 5,
+    "updated_at": "2026-10-09T05:39:39Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-09T05:36:11Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83c\udfc6 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 1114,
+    "updated_at": "2026-10-09T05:36:17Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "Agentium is a TypeScript agent framework for Node.js: models, tools, memory, teams, workflows, and runtime integrations ",
+    "id": "agentiumOS/agentium",
+    "language": "TypeScript",
+    "name": "agentiumOS/agentium",
+    "stars": 7,
+    "updated_at": "2026-10-09T05:34:54Z",
+    "url": "https://github.com/agentiumOS/agentium"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48884,
+    "updated_at": "2026-10-09T05:32:33Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1190,
+    "updated_at": "2026-10-09T05:41:51Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-09T05:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightweight AI coding agent for the terminal, with one-shot automation, persistent agent teams, and a small reusable Ope",
@@ -27,6 +135,15 @@
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
+    "description": "A small, provider-neutral agent harness written in Rust",
+    "id": "tinyhumansai/tinyagents",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyagents",
+    "stars": 120,
+    "updated_at": "2026-10-09T05:39:26Z",
+    "url": "https://github.com/tinyhumansai/tinyagents"
+  },
+  {
     "description": "Open-source, self-hosted AI agent workbench. One tool layer powers your team's chat, your app's agent, and any MCP clien",
     "id": "linjiejim/greenhouse",
     "language": "TypeScript",
@@ -34,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T05:26:57Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1189,
-    "updated_at": "2026-10-09T05:30:20Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -54,33 +162,6 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-10-09T05:24:04Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Agentium is a TypeScript agent framework for Node.js: models, tools, memory, teams, workflows, and runtime integrations ",
-    "id": "agentiumOS/agentium",
-    "language": "TypeScript",
-    "name": "agentiumOS/agentium",
-    "stars": 7,
-    "updated_at": "2026-10-09T05:20:17Z",
-    "url": "https://github.com/agentiumOS/agentium"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48884,
-    "updated_at": "2026-10-09T05:18:31Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "autopus-ai/autopus-adk",
     "language": "Go",
@@ -90,30 +171,12 @@
     "url": "https://github.com/autopus-ai/autopus-adk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-09T05:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A small, provider-neutral agent harness written in Rust",
-    "id": "tinyhumansai/tinyagents",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyagents",
-    "stars": 119,
-    "updated_at": "2026-10-09T05:28:12Z",
-    "url": "https://github.com/tinyhumansai/tinyagents"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-09T05:30:20Z",
+    "updated_at": "2026-10-09T05:34:21Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10690,
-    "updated_at": "2026-10-09T05:28:33Z",
+    "updated_at": "2026-10-09T05:37:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -193,7 +256,7 @@
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 6414,
+    "stars": 6415,
     "updated_at": "2026-10-09T05:02:53Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -203,17 +266,8 @@
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 64,
-    "updated_at": "2026-10-09T04:56:46Z",
+    "updated_at": "2026-10-09T05:36:53Z",
     "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-10-09T05:22:29Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
   },
   {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-09T05:24:26Z",
+    "updated_at": "2026-10-09T05:43:53Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 23,
-    "updated_at": "2026-10-09T04:47:56Z",
+    "updated_at": "2026-10-09T05:41:05Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -365,17 +419,8 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15479,
-    "updated_at": "2026-10-09T05:26:18Z",
+    "updated_at": "2026-10-09T05:42:48Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 19,
-    "updated_at": "2026-10-09T04:20:12Z",
-    "url": "https://github.com/devoidfury/hotdog"
   },
   {
     "description": "Model-agnostic agent harness for Elixir",
@@ -401,52 +446,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-09T05:27:20Z",
+    "updated_at": "2026-10-09T05:39:41Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
-    "id": "synapse-ai-hub/Forge",
-    "language": "Python",
-    "name": "synapse-ai-hub/Forge",
-    "stars": 4,
-    "updated_at": "2026-10-09T04:29:32Z",
-    "url": "https://github.com/synapse-ai-hub/Forge"
-  },
-  {
-    "description": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
-    "id": "bubbuild/bub",
-    "language": "Python",
-    "name": "bubbuild/bub",
-    "stars": 1680,
-    "updated_at": "2026-10-09T04:12:09Z",
-    "url": "https://github.com/bubbuild/bub"
-  },
-  {
-    "description": "A zbus-style message bus that keeps external integrations out of the OpenHuman kernel's dependency graph.",
-    "id": "tinyhumansai/tinybus",
-    "language": "Rust",
-    "name": "tinyhumansai/tinybus",
-    "stars": 2,
-    "updated_at": "2026-10-09T04:07:38Z",
-    "url": "https://github.com/tinyhumansai/tinybus"
-  },
-  {
-    "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
-    "id": "leanneexperimental3016/Models-Cowork",
-    "language": "Python",
-    "name": "leanneexperimental3016/Models-Cowork",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:05:31Z",
-    "url": "https://github.com/leanneexperimental3016/Models-Cowork"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-10-09T04:04:56Z",
-    "url": "https://github.com/ellmos-ai/bach"
   }
 ]
