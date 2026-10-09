@@ -1,5 +1,302 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20507,
+    "updated_at": "2026-10-09T16:00:00Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-09T15:59:55Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 312,
+    "updated_at": "2026-10-09T15:58:43Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8752,
+    "updated_at": "2026-10-09T15:57:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:57:21Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
+    "id": "Pal-AI-Lab/Cortico",
+    "language": "TypeScript",
+    "name": "Pal-AI-Lab/Cortico",
+    "stars": 194,
+    "updated_at": "2026-10-09T15:59:33Z",
+    "url": "https://github.com/Pal-AI-Lab/Cortico"
+  },
+  {
+    "description": "Self-hosted multi-agent coding pipeline with an enforced review gate and a cost ledger \u2014 you don't ship what the agent d",
+    "id": "Kairos-ai-agent/kairos-code",
+    "language": "Python",
+    "name": "Kairos-ai-agent/kairos-code",
+    "stars": 2,
+    "updated_at": "2026-10-09T15:54:43Z",
+    "url": "https://github.com/Kairos-ai-agent/kairos-code"
+  },
+  {
+    "description": "Industrial-grade C++23 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming (Continuo trans",
+    "id": "dqsjqian/AriaAgent",
+    "language": "C++",
+    "name": "dqsjqian/AriaAgent",
+    "stars": 5,
+    "updated_at": "2026-10-09T15:54:07Z",
+    "url": "https://github.com/dqsjqian/AriaAgent"
+  },
+  {
+    "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 46,
+    "updated_at": "2026-10-09T15:53:46Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "Keeps a Mac that runs a fleet of agents healthy: memory, disk and process rules, checked on a schedule.",
+    "id": "siso-os/siso-laptop-health",
+    "language": "Python",
+    "name": "siso-os/siso-laptop-health",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:53:01Z",
+    "url": "https://github.com/siso-os/siso-laptop-health"
+  },
+  {
+    "description": "Keeps a machine full of agent repos in order: one map, a register of every repo, front doors, backups and a doctor.",
+    "id": "siso-os/siso-estate",
+    "language": "Python",
+    "name": "siso-os/siso-estate",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:52:49Z",
+    "url": "https://github.com/siso-os/siso-estate"
+  },
+  {
+    "description": "A project team in a box: a project Agent Zero, owners, contracts and a task spine for any repo.",
+    "id": "siso-os/siso-project-team",
+    "language": "Shell",
+    "name": "siso-os/siso-project-team",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:52:35Z",
+    "url": "https://github.com/siso-os/siso-project-team"
+  },
+  {
+    "description": "Scan a QR code and your agents can read and answer WhatsApp.",
+    "id": "siso-os/siso-whatsapp-link",
+    "language": "Go",
+    "name": "siso-os/siso-whatsapp-link",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:52:23Z",
+    "url": "https://github.com/siso-os/siso-whatsapp-link"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 44,
+    "updated_at": "2026-10-09T15:52:15Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10702,
+    "updated_at": "2026-10-09T15:59:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 25,
+    "updated_at": "2026-10-09T15:52:57Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
+    "id": "jaylfc/taOS",
+    "language": "Python",
+    "name": "jaylfc/taOS",
+    "stars": 557,
+    "updated_at": "2026-10-09T15:55:12Z",
+    "url": "https://github.com/jaylfc/taOS"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15482,
+    "updated_at": "2026-10-09T15:48:37Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 321,
+    "updated_at": "2026-10-09T15:48:30Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1361,
+    "updated_at": "2026-10-09T15:58:00Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "An MCP server that gives ChatGPT and Claude real file, shell and job tools on your own machines.",
+    "id": "siso-os/siso-workspace",
+    "language": "TypeScript",
+    "name": "siso-os/siso-workspace",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:48:12Z",
+    "url": "https://github.com/siso-os/siso-workspace"
+  },
+  {
+    "description": "A whole-project ownership prompt for frontier agents: give it a messy repo, get back one that ships.",
+    "id": "siso-os/unfuck-the-project",
+    "language": "Shell",
+    "name": "siso-os/unfuck-the-project",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:47:58Z",
+    "url": "https://github.com/siso-os/unfuck-the-project"
+  },
+  {
+    "description": "An agent-first operating system for one project: tasks, a docs spine and UI campaigns.",
+    "id": "siso-os/siso-project-os",
+    "language": "JavaScript",
+    "name": "siso-os/siso-project-os",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:47:46Z",
+    "url": "https://github.com/siso-os/siso-project-os"
+  },
+  {
+    "description": "Turns Claude and Codex session files into redacted, evidence-backed lessons your agents can learn from.",
+    "id": "siso-os/siso-session-intelligence",
+    "language": "Python",
+    "name": "siso-os/siso-session-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:47:33Z",
+    "url": "https://github.com/siso-os/siso-session-intelligence"
+  },
+  {
+    "description": "Repeatable multi-agent operating scenarios: how to run a fleet of agents under a budget.",
+    "id": "siso-os/siso-agent-playbook-public",
+    "language": "Shell",
+    "name": "siso-os/siso-agent-playbook-public",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:47:20Z",
+    "url": "https://github.com/siso-os/siso-agent-playbook-public"
+  },
+  {
+    "description": "Experimental adapters around the agent stack, each with an explicit path to promotion.",
+    "id": "siso-os/siso-agent-integrations",
+    "language": "JavaScript",
+    "name": "siso-os/siso-agent-integrations",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:47:08Z",
+    "url": "https://github.com/siso-os/siso-agent-integrations"
+  },
+  {
+    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
+    "id": "chjm-ai/vococo",
+    "language": "Python",
+    "name": "chjm-ai/vococo",
+    "stars": 41,
+    "updated_at": "2026-10-09T15:47:08Z",
+    "url": "https://github.com/chjm-ai/vococo"
+  },
+  {
+    "description": "Shared state for a fleet of agents: tasks, artifacts, memories, timeline and heartbeats in one service.",
+    "id": "siso-os/siso-agent-brain",
+    "language": "Python",
+    "name": "siso-os/siso-agent-brain",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:46:55Z",
+    "url": "https://github.com/siso-os/siso-agent-brain"
+  },
+  {
+    "description": "A provider-neutral shell for running coding agents: configuration, composed profiles and context budgets.",
+    "id": "siso-os/siso-agent-runtime",
+    "language": "JavaScript",
+    "name": "siso-os/siso-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:46:41Z",
+    "url": "https://github.com/siso-os/siso-agent-runtime"
+  },
+  {
+    "description": "Portable lifecycle hooks for Claude Code and Codex: state, checkpoints and context guards, verified on install.",
+    "id": "siso-os/siso-agent-hooks",
+    "language": "JavaScript",
+    "name": "siso-os/siso-agent-hooks",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:46:28Z",
+    "url": "https://github.com/siso-os/siso-agent-hooks"
+  },
+  {
+    "description": "One version-pinned Claude Code and Codex stack: skills, hooks, playbooks, profiles and runtime, installed together.",
+    "id": "siso-os/siso-agent-stack",
+    "language": "JavaScript",
+    "name": "siso-os/siso-agent-stack",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:46:14Z",
+    "url": "https://github.com/siso-os/siso-agent-stack"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-09T15:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48904,
+    "updated_at": "2026-10-09T15:45:18Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "The AI Agent framework for enterprises and agencies",
     "id": "frogbotai/frogbot",
     "language": "TypeScript",
@@ -14,7 +311,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 56,
-    "updated_at": "2026-10-09T15:45:07Z",
+    "updated_at": "2026-10-09T15:53:30Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -45,21 +342,12 @@
     "url": "https://github.com/nanhudev/agent2llm"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20507,
-    "updated_at": "2026-10-09T15:45:16Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
     "id": "jin-bo/agentao",
     "language": "Python",
     "name": "jin-bo/agentao",
     "stars": 307,
-    "updated_at": "2026-10-09T15:43:27Z",
+    "updated_at": "2026-10-09T15:48:41Z",
     "url": "https://github.com/jin-bo/agentao"
   },
   {
@@ -68,7 +356,7 @@
     "language": "Python",
     "name": "aisecnomad/Project-Nexus",
     "stars": 11,
-    "updated_at": "2026-10-09T15:45:07Z",
+    "updated_at": "2026-10-09T15:48:57Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
   },
   {
@@ -77,7 +365,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-09T15:40:48Z",
+    "updated_at": "2026-10-09T15:53:50Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -104,7 +392,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-09T15:42:01Z",
+    "updated_at": "2026-10-09T15:47:27Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -126,21 +414,12 @@
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
   },
   {
-    "description": "Industrial-grade C++23 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming (Continuo trans",
-    "id": "dqsjqian/AriaAgent",
-    "language": "C++",
-    "name": "dqsjqian/AriaAgent",
-    "stars": 5,
-    "updated_at": "2026-10-09T15:35:02Z",
-    "url": "https://github.com/dqsjqian/AriaAgent"
-  },
-  {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
     "id": "vincemakes/kiso",
     "language": "TypeScript",
     "name": "vincemakes/kiso",
     "stars": 64,
-    "updated_at": "2026-10-09T15:44:01Z",
+    "updated_at": "2026-10-09T15:46:57Z",
     "url": "https://github.com/vincemakes/kiso"
   },
   {
@@ -153,21 +432,12 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-09T15:33:44Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1199,
-    "updated_at": "2026-10-09T15:41:12Z",
+    "updated_at": "2026-10-09T15:58:31Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -178,275 +448,5 @@
     "stars": 2292,
     "updated_at": "2026-10-09T15:32:46Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1361,
-    "updated_at": "2026-10-09T15:45:06Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules,",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 18,
-    "updated_at": "2026-10-09T15:33:25Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-09T15:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 44,
-    "updated_at": "2026-10-09T15:42:49Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 678,
-    "updated_at": "2026-10-09T15:43:32Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Build your team of AI agents without the pain of prompt chaos, wide-open keys, MCP overload, and a free-for-all on your ",
-    "id": "dzhioev/bro",
-    "language": "Python",
-    "name": "dzhioev/bro",
-    "stars": 11,
-    "updated_at": "2026-10-09T15:27:41Z",
-    "url": "https://github.com/dzhioev/bro"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T15:44:45Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-10-09T15:27:23Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 246,
-    "updated_at": "2026-10-09T15:25:20Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-10-09T15:24:42Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
-    "id": "Prescott-Data/jarviscore-framework",
-    "language": "Python",
-    "name": "Prescott-Data/jarviscore-framework",
-    "stars": 276,
-    "updated_at": "2026-10-09T15:22:57Z",
-    "url": "https://github.com/Prescott-Data/jarviscore-framework"
-  },
-  {
-    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-    "id": "morethanrealio/brambit",
-    "language": "JavaScript",
-    "name": "morethanrealio/brambit",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:22:44Z",
-    "url": "https://github.com/morethanrealio/brambit"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10702,
-    "updated_at": "2026-10-09T15:27:06Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 312,
-    "updated_at": "2026-10-09T15:22:23Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 4,
-    "updated_at": "2026-10-09T15:35:16Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Open platform for running Managed Agents at scale",
-    "id": "invergent-ai/surogates",
-    "language": "Python",
-    "name": "invergent-ai/surogates",
-    "stars": 27,
-    "updated_at": "2026-10-09T15:20:34Z",
-    "url": "https://github.com/invergent-ai/surogates"
-  },
-  {
-    "description": "Keeps a Mac that runs a fleet of agents healthy: memory, disk and process rules, checked on a schedule.",
-    "id": "siso-os/siso-laptop-health",
-    "language": "Python",
-    "name": "siso-os/siso-laptop-health",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:19:57Z",
-    "url": "https://github.com/siso-os/siso-laptop-health"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-09T15:38:10Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Keeps a machine full of agent repos in order: one map, a register of every repo, front doors, backups and a doctor.",
-    "id": "siso-os/siso-estate",
-    "language": "Python",
-    "name": "siso-os/siso-estate",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:19:39Z",
-    "url": "https://github.com/siso-os/siso-estate"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48904,
-    "updated_at": "2026-10-09T15:45:18Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Managing a Docker environment as a sandbox for running agent-cli (like claude or codex)",
-    "id": "zzjha-cn/agent_sandbox",
-    "language": "Go",
-    "name": "zzjha-cn/agent_sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:15:55Z",
-    "url": "https://github.com/zzjha-cn/agent_sandbox"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 25,
-    "updated_at": "2026-10-09T15:15:14Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 2,
-    "updated_at": "2026-10-09T15:14:35Z",
-    "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26707,
-    "updated_at": "2026-10-09T15:12:51Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:12:01Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:11:46Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 14035,
-    "updated_at": "2026-10-09T15:10:13Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8752,
-    "updated_at": "2026-10-09T15:08:57Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A dependency-free Go agent SDK, the engine behind agent-fox.",
-    "id": "agent-fox-dev/agentkit-go",
-    "language": "Go",
-    "name": "agent-fox-dev/agentkit-go",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:08:20Z",
-    "url": "https://github.com/agent-fox-dev/agentkit-go"
-  },
-  {
-    "description": "Local-first platform for persistent autonomous AI agents. The model is replaceable; the agent is durable: identity, memo",
-    "id": "ShiftAboveCtrl/ai17z",
-    "language": "TypeScript",
-    "name": "ShiftAboveCtrl/ai17z",
-    "stars": 6,
-    "updated_at": "2026-10-09T15:07:43Z",
-    "url": "https://github.com/ShiftAboveCtrl/ai17z"
   }
 ]
