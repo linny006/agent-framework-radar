@@ -1,5 +1,23 @@
 [
   {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 32,
+    "updated_at": "2026-10-09T14:30:10Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-09T14:28:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -16,6 +34,15 @@
     "stars": 2292,
     "updated_at": "2026-10-09T14:27:30Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Universal Brain x Harness collaboration framework \u2014 CLI-first, adapter-first, local-first. \u8ba9\u6700\u5f3a\u7684\u6a21\u578b\u601d\u8003\uff0c\u8ba9\u4f60\u987a\u624b\u7684 Agent \u5e72\u6d3b\u3002",
+    "id": "nanhudev/agent2llm",
+    "language": "TypeScript",
+    "name": "nanhudev/agent2llm",
+    "stars": 1,
+    "updated_at": "2026-10-09T14:27:21Z",
+    "url": "https://github.com/nanhudev/agent2llm"
   },
   {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "rajdeepratan/SlashForge",
     "stars": 5,
-    "updated_at": "2026-10-09T14:26:20Z",
+    "updated_at": "2026-10-09T14:28:57Z",
     "url": "https://github.com/rajdeepratan/SlashForge"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10700,
-    "updated_at": "2026-10-09T14:23:32Z",
+    "updated_at": "2026-10-09T14:28:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 20,
     "updated_at": "2026-10-09T14:21:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-09T14:15:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first platform for persistent autonomous AI agents. The model is replaceable; the agent is durable: identity, memo",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T13:56:17Z",
     "url": "https://github.com/siso-os/siso-agent-hooks"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-10-09T13:56:15Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "One version-pinned Claude Code and Codex stack: skills, hooks, playbooks, profiles and runtime, installed together.",
-    "id": "siso-os/siso-agent-stack",
-    "language": "JavaScript",
-    "name": "siso-os/siso-agent-stack",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:55:59Z",
-    "url": "https://github.com/siso-os/siso-agent-stack"
   }
 ]
