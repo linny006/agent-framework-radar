@@ -1,5 +1,95 @@
 [
   {
+    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
+    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "language": "Python",
+    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
+    "stars": 0,
+    "updated_at": "2026-10-09T06:00:05Z",
+    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T05:58:22Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5894,
+    "updated_at": "2026-10-09T05:54:25Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
+    "id": "AndersonBY/vv-agent",
+    "language": "Python",
+    "name": "AndersonBY/vv-agent",
+    "stars": 2,
+    "updated_at": "2026-10-09T05:52:35Z",
+    "url": "https://github.com/AndersonBY/vv-agent"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-09T05:56:06Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
+    "id": "luandapipi91/Wa-PiAgent",
+    "language": "TypeScript",
+    "name": "luandapipi91/Wa-PiAgent",
+    "stars": 3,
+    "updated_at": "2026-10-09T05:47:31Z",
+    "url": "https://github.com/luandapipi91/Wa-PiAgent"
+  },
+  {
+    "description": "Open-source Agentic workflows built using Rust",
+    "id": "tinyhumansai/tinyflows",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyflows",
+    "stars": 54,
+    "updated_at": "2026-10-09T05:59:12Z",
+    "url": "https://github.com/tinyhumansai/tinyflows"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 44,
+    "updated_at": "2026-10-09T05:46:25Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Go AI agent framework \u2014 reversible effects, reactive service loading.",
+    "id": "Luo-root/pulse",
+    "language": "Go",
+    "name": "Luo-root/pulse",
+    "stars": 7,
+    "updated_at": "2026-10-09T05:51:10Z",
+    "url": "https://github.com/Luo-root/pulse"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-09T05:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
@@ -18,15 +108,6 @@
     "url": "https://github.com/devoidfury/hotdog"
   },
   {
-    "description": "Go AI agent framework \u2014 reversible effects, reactive service loading.",
-    "id": "Luo-root/pulse",
-    "language": "Go",
-    "name": "Luo-root/pulse",
-    "stars": 7,
-    "updated_at": "2026-10-09T05:44:43Z",
-    "url": "https://github.com/Luo-root/pulse"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -36,22 +117,22 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "Dart",
+    "name": "autonomous-ai/openharness",
+    "stars": 1191,
+    "updated_at": "2026-10-09T05:58:33Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
     "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
     "id": "BlocUnited-LLC/mozaiks",
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-09T05:45:02Z",
+    "updated_at": "2026-10-09T05:54:28Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-09T05:44:12Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
@@ -94,27 +175,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 48884,
-    "updated_at": "2026-10-09T05:32:33Z",
+    "stars": 48887,
+    "updated_at": "2026-10-09T05:59:38Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "Dart",
-    "name": "autonomous-ai/openharness",
-    "stars": 1190,
-    "updated_at": "2026-10-09T05:41:51Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-09T05:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Lightweight AI coding agent for the terminal, with one-shot automation, persistent agent teams, and a small reusable Ope",
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 120,
-    "updated_at": "2026-10-09T05:39:26Z",
+    "updated_at": "2026-10-09T05:57:44Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/linjiejim/greenhouse"
   },
   {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 44,
-    "updated_at": "2026-10-09T05:26:02Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "autopus-ai/autopus-adk",
     "language": "Go",
@@ -169,6 +223,15 @@
     "stars": 110,
     "updated_at": "2026-10-09T05:18:00Z",
     "url": "https://github.com/autopus-ai/autopus-adk"
+  },
+  {
+    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
+    "id": "Prescott-Data/jarviscore-framework",
+    "language": "Python",
+    "name": "Prescott-Data/jarviscore-framework",
+    "stars": 254,
+    "updated_at": "2026-10-09T05:14:54Z",
+    "url": "https://github.com/Prescott-Data/jarviscore-framework"
   },
   {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10690,
-    "updated_at": "2026-10-09T05:37:09Z",
+    "updated_at": "2026-10-09T05:47:05Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -279,15 +342,6 @@
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
-    "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
-    "id": "luandapipi91/Wa-PiAgent",
-    "language": "TypeScript",
-    "name": "luandapipi91/Wa-PiAgent",
-    "stars": 3,
-    "updated_at": "2026-10-09T04:52:28Z",
-    "url": "https://github.com/luandapipi91/Wa-PiAgent"
-  },
-  {
     "description": "Protocol-oriented Swift package for building tool-using AI agents on top of LLMProviderKit.",
     "id": "ayman3000/SwiftAgentKit",
     "language": "Swift",
@@ -295,24 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T04:49:37Z",
     "url": "https://github.com/ayman3000/SwiftAgentKit"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T05:43:53Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
-    "id": "Prescott-Data/jarviscore-framework",
-    "language": "Python",
-    "name": "Prescott-Data/jarviscore-framework",
-    "stars": 253,
-    "updated_at": "2026-10-09T05:14:54Z",
-    "url": "https://github.com/Prescott-Data/jarviscore-framework"
   },
   {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
@@ -340,15 +376,6 @@
     "stars": 81,
     "updated_at": "2026-10-09T04:31:14Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:30:27Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
     "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
@@ -421,32 +448,5 @@
     "stars": 15479,
     "updated_at": "2026-10-09T05:42:48Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Model-agnostic agent harness for Elixir",
-    "id": "alloy-ex/alloy",
-    "language": "Elixir",
-    "name": "alloy-ex/alloy",
-    "stars": 90,
-    "updated_at": "2026-10-09T04:20:42Z",
-    "url": "https://github.com/alloy-ex/alloy"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 56,
-    "updated_at": "2026-10-09T04:16:42Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-09T05:39:41Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
   }
 ]
