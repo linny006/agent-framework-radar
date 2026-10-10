@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [openamer/openamer](https://github.com/openamer/openamer) | 5 | Python | 2026-10-10 | Open-source AI agent for Windows — background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc |
-| 2 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 344 | Python | 2026-10-10 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 3 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 315 | TypeScript | 2026-10-10 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
-| 4 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 313 | TypeScript | 2026-10-10 | DIY your own agent team harness for long-horizon agent work |
-| 5 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1210 | Dart | 2026-10-10 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co |
-| 6 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-10-10 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
-| 7 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35754 | Go | 2026-10-10 | A reliable coding agent for complex software engineering tasks. |
-| 8 | [ZJU-REAL/HugAgentOS](https://github.com/ZJU-REAL/HugAgentOS) | 1126 | Python | 2026-10-10 | HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning |
-| 9 | [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) | 1204 | Ruby | 2026-10-10 | The most Token-efficient open-source AI Agent |
-| 10 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2295 | TypeScript | 2026-10-10 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
-| 11 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-10 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [openamer/openamer](https://github.com/openamer/openamer) | 5 | Python | 2026-10-10 | Open-source AI agent for Windows — background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc |
+| 3 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 344 | Python | 2026-10-10 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 4 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 315 | TypeScript | 2026-10-10 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
+| 5 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 313 | TypeScript | 2026-10-10 | DIY your own agent team harness for long-horizon agent work |
+| 6 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1210 | Dart | 2026-10-10 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co |
+| 7 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-10-10 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
+| 8 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35754 | Go | 2026-10-10 | A reliable coding agent for complex software engineering tasks. |
+| 9 | [ZJU-REAL/HugAgentOS](https://github.com/ZJU-REAL/HugAgentOS) | 1126 | Python | 2026-10-10 | HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning |
+| 10 | [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) | 1204 | Ruby | 2026-10-10 | The most Token-efficient open-source AI Agent |
+| 11 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2295 | TypeScript | 2026-10-10 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
 | 12 | [tuanductran/soulmap-ai](https://github.com/tuanductran/soulmap-ai) | 2 | Python | 2026-10-10 | SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t |
 | 13 | [Rakshit64w43/agent-gateway-hub](https://github.com/Rakshit64w43/agent-gateway-hub) | 4 | HTML | 2026-10-10 | 🚀 Opendray v2 2026 – Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk) |
 | 14 | [MaiHongPhong2010/Hydra-Harness](https://github.com/MaiHongPhong2010/Hydra-Harness) | 0 | TypeScript | 2026-10-10 | Open-source AI agent workspace for Web, Desktop and CLI, with browser tools, durable sessions and Cordis plugins. |
