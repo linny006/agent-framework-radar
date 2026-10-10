@@ -1,12 +1,120 @@
 [
   {
+    "description": "Agentic Development Lifecycle",
+    "id": "voodootikigod/adlc",
+    "language": "JavaScript",
+    "name": "voodootikigod/adlc",
+    "stars": 22,
+    "updated_at": "2026-10-10T11:59:49Z",
+    "url": "https://github.com/voodootikigod/adlc"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2296,
-    "updated_at": "2026-10-10T11:45:08Z",
+    "updated_at": "2026-10-10T11:59:15Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Python",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:58:47Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-10T11:58:16Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Python framework for typed LLM agents with conditional tool chaining.",
+    "id": "Tachion-Oy/roboz",
+    "language": "Python",
+    "name": "Tachion-Oy/roboz",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:57:55Z",
+    "url": "https://github.com/Tachion-Oy/roboz"
+  },
+  {
+    "description": "The foundation layer for agentic intelligence.",
+    "id": "promptise-com/Foundry",
+    "language": "Python",
+    "name": "promptise-com/Foundry",
+    "stars": 873,
+    "updated_at": "2026-10-10T11:54:26Z",
+    "url": "https://github.com/promptise-com/Foundry"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-10-10T11:51:55Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 14,
+    "updated_at": "2026-10-10T11:51:53Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:57:48Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
+    "id": "jin-bo/agentao",
+    "language": "Python",
+    "name": "jin-bo/agentao",
+    "stars": 309,
+    "updated_at": "2026-10-10T11:49:16Z",
+    "url": "https://github.com/jin-bo/agentao"
+  },
+  {
+    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
+    "id": "tuanductran/soulmap-ai",
+    "language": "Python",
+    "name": "tuanductran/soulmap-ai",
+    "stars": 2,
+    "updated_at": "2026-10-10T12:00:08Z",
+    "url": "https://github.com/tuanductran/soulmap-ai"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 1,
+    "updated_at": "2026-10-10T11:47:56Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-10T11:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
@@ -23,26 +131,8 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-10-10T11:42:20Z",
+    "updated_at": "2026-10-10T11:58:11Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-10T11:41:45Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
-    "id": "jin-bo/agentao",
-    "language": "Python",
-    "name": "jin-bo/agentao",
-    "stars": 309,
-    "updated_at": "2026-10-10T11:41:15Z",
-    "url": "https://github.com/jin-bo/agentao"
   },
   {
     "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
@@ -67,7 +157,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35754,
+    "stars": 35755,
     "updated_at": "2026-10-10T11:33:38Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -88,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:32:04Z",
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-10T11:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The foundation layer for agentic intelligence.",
-    "id": "promptise-com/Foundry",
-    "language": "Python",
-    "name": "promptise-com/Foundry",
-    "stars": 873,
-    "updated_at": "2026-10-10T11:30:11Z",
-    "url": "https://github.com/promptise-com/Foundry"
   },
   {
     "description": "Open platform for running Managed Agents at scale",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "tuliplabs-ai/tulip-agents",
     "stars": 1,
-    "updated_at": "2026-10-10T11:29:37Z",
+    "updated_at": "2026-10-10T11:58:00Z",
     "url": "https://github.com/tuliplabs-ai/tulip-agents"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 111,
     "updated_at": "2026-10-10T11:18:55Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 1,
-    "updated_at": "2026-10-10T11:40:35Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
     "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-10T10:46:52Z",
     "url": "https://github.com/gatherfigtree740/ai-agent-landscape"
-  },
-  {
-    "description": "Provide a lightweight, cross-platform AI agent with TUI and GUI support, optimized for performance and flexible tool int",
-    "id": "duduard/saneagent",
-    "language": "\u2014",
-    "name": "duduard/saneagent",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:46:22Z",
-    "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 1,
-    "updated_at": "2026-10-10T10:52:47Z",
-    "url": "https://github.com/xujian519/sati"
-  },
-  {
-    "description": "Storage-backed file tools and Markdown knowledge-graph context for Microsoft Agent Framework",
-    "id": "managedcode/FileContext",
-    "language": "C#",
-    "name": "managedcode/FileContext",
-    "stars": 2,
-    "updated_at": "2026-10-10T10:46:30Z",
-    "url": "https://github.com/managedcode/FileContext"
-  },
-  {
-    "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
-    "id": "rxnzyor/patchpilot",
-    "language": "Python",
-    "name": "rxnzyor/patchpilot",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:44:30Z",
-    "url": "https://github.com/rxnzyor/patchpilot"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 313,
-    "updated_at": "2026-10-10T10:44:24Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Define a clear methodology to build, test, and deploy AI agent software with rigorous engineering standards.",
-    "id": "Maroo1121/Agent-Driven-Development",
-    "language": "Shell",
-    "name": "Maroo1121/Agent-Driven-Development",
-    "stars": 1,
-    "updated_at": "2026-10-10T10:43:05Z",
-    "url": "https://github.com/Maroo1121/Agent-Driven-Development"
-  },
-  {
-    "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
-    "id": "Hundred-praisworthiness384/DomainOS",
-    "language": "TypeScript",
-    "name": "Hundred-praisworthiness384/DomainOS",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:42:22Z",
-    "url": "https://github.com/Hundred-praisworthiness384/DomainOS"
   }
 ]
