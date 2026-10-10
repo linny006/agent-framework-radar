@@ -1,5 +1,104 @@
 [
   {
+    "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:29:58Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:28:41Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:26:51Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-10T09:26:15Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 122,
+    "updated_at": "2026-10-10T09:24:29Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 183,
+    "updated_at": "2026-10-10T09:24:32Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-10T09:23:40Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 417,
+    "updated_at": "2026-10-10T09:19:18Z",
+    "url": "https://github.com/GizClaw/flowcraft"
+  },
+  {
+    "description": "A small, provider-neutral agent harness written in Rust",
+    "id": "tinyhumansai/tinyagents",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyagents",
+    "stars": 120,
+    "updated_at": "2026-10-10T09:17:40Z",
+    "url": "https://github.com/tinyhumansai/tinyagents"
+  },
+  {
+    "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+    "id": "open1s/bos",
+    "language": "Rust",
+    "name": "open1s/bos",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:16:15Z",
+    "url": "https://github.com/open1s/bos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-10T09:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source AI agent for Windows \u2014 background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc",
     "id": "openamer/openamer",
     "language": "Python",
@@ -27,13 +126,13 @@
     "url": "https://github.com/sunilp/aip"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 111,
-    "updated_at": "2026-10-10T09:13:06Z",
-    "url": "https://github.com/futuregene/future-os"
+    "description": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
+    "id": "bubbuild/bub",
+    "language": "Python",
+    "name": "bubbuild/bub",
+    "stars": 1682,
+    "updated_at": "2026-10-10T09:13:44Z",
+    "url": "https://github.com/bubbuild/bub"
   },
   {
     "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
@@ -49,8 +148,8 @@
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10713,
-    "updated_at": "2026-10-10T09:11:32Z",
+    "stars": 10715,
+    "updated_at": "2026-10-10T09:26:50Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -63,21 +162,12 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "A small, provider-neutral agent harness written in Rust",
-    "id": "tinyhumansai/tinyagents",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyagents",
-    "stars": 120,
-    "updated_at": "2026-10-10T09:10:33Z",
-    "url": "https://github.com/tinyhumansai/tinyagents"
-  },
-  {
     "description": "a13n - An open-source library and self-hosted platform for building and running your own agent systems\u2014with managed agen",
     "id": "converge-ai-labs/agent-foundation",
     "language": "Python",
     "name": "converge-ai-labs/agent-foundation",
     "stars": 172,
-    "updated_at": "2026-10-10T09:07:47Z",
+    "updated_at": "2026-10-10T09:17:37Z",
     "url": "https://github.com/converge-ai-labs/agent-foundation"
   },
   {
@@ -108,21 +198,12 @@
     "url": "https://github.com/Kairos-ai-agent/kairos-code"
   },
   {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:13:24Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 5166,
-    "updated_at": "2026-10-10T09:04:38Z",
+    "updated_at": "2026-10-10T09:22:06Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -180,21 +261,12 @@
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-10T09:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35754,
-    "updated_at": "2026-10-10T09:12:16Z",
+    "updated_at": "2026-10-10T09:26:48Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -202,7 +274,7 @@
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
-    "stars": 344,
+    "stars": 345,
     "updated_at": "2026-10-10T08:56:52Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
@@ -230,7 +302,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1211,
-    "updated_at": "2026-10-10T08:55:07Z",
+    "updated_at": "2026-10-10T09:30:12Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-10T08:36:19Z",
     "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-10T08:57:32Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "18 departments. 55+ agents. One operating system \u2014 SoloCorp OS turns a single AI into a structured workforce. CFO, Legal",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:30:05Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "Multi-agent LLM harness in Rust: local vector search, message board, skills self-learning, agent sessions, Tauri control",
-    "id": "lzcdr/nano_harness",
-    "language": "Rust",
-    "name": "lzcdr/nano_harness",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:29:27Z",
-    "url": "https://github.com/lzcdr/nano_harness"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 417,
-    "updated_at": "2026-10-10T09:07:26Z",
-    "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 14,
-    "updated_at": "2026-10-10T08:29:03Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:26:30Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
-    "id": "Hazer-BJTU/simplex-cpp",
-    "language": "C++",
-    "name": "Hazer-BJTU/simplex-cpp",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:11:29Z",
-    "url": "https://github.com/Hazer-BJTU/simplex-cpp"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-10-10T08:18:40Z",
-    "url": "https://github.com/vgp7758/Agt"
   }
 ]
