@@ -1,5 +1,50 @@
 [
   {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 32,
+    "updated_at": "2026-10-11T07:33:37Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-11T07:32:44Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 81,
+    "updated_at": "2026-10-11T07:32:13Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 44,
+    "updated_at": "2026-10-11T07:33:07Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T07:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A self-hosted web interface for the pi coding agent.",
     "id": "laurentftech/pi-outpost",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T07:29:20Z",
+    "updated_at": "2026-10-11T07:33:28Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 1222,
     "updated_at": "2026-10-11T07:29:10Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-11T07:29:58Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Structure AI-assisted TDD with a plan-apply-unify loop for clearer tests, tighter context, and steady code progress",
@@ -153,15 +189,6 @@
     "url": "https://github.com/Maroo1121/Agent-Driven-Development"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-11T07:27:40Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Build and manage AI-driven workflows with private data control, multi-provider LLM support, and local-first architecture",
     "id": "Hundred-praisworthiness384/DomainOS",
     "language": "TypeScript",
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 15,
-    "updated_at": "2026-10-11T07:16:43Z",
+    "updated_at": "2026-10-11T07:30:25Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -234,21 +261,12 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T07:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
     "id": "cerredz/Vidbyte-SDK",
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-10-11T07:14:28Z",
+    "updated_at": "2026-10-11T07:33:25Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -279,20 +297,11 @@
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
   {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 44,
-    "updated_at": "2026-10-11T07:23:02Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35759,
+    "stars": 35758,
     "updated_at": "2026-10-11T07:05:26Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-11T06:39:27Z",
     "url": "https://github.com/Gi-Tuu/yai-agent-core"
-  },
-  {
-    "description": "Decision model (JEV) based harness to perform Desktop & Browser automation. Written in Rust. ",
-    "id": "tinyhumansai/tinycomputer",
-    "language": "Rust",
-    "name": "tinyhumansai/tinycomputer",
-    "stars": 6,
-    "updated_at": "2026-10-11T06:35:31Z",
-    "url": "https://github.com/tinyhumansai/tinycomputer"
   }
 ]
