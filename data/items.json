@@ -1,11 +1,119 @@
 [
   {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-11T19:29:36Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-11T19:29:24Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "High-performance modular Micro-Tools & MCP-compatible execution engines for Autonomous AI Agents. Sharded, zero-bloat, s",
+    "id": "flowork-os/AGENT-TOOLS",
+    "language": "JavaScript",
+    "name": "flowork-os/AGENT-TOOLS",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:28:53Z",
+    "url": "https://github.com/flowork-os/AGENT-TOOLS"
+  },
+  {
+    "description": "Project-scoped rule memory for coding agents.",
+    "id": "viktorg1/lore",
+    "language": "Python",
+    "name": "viktorg1/lore",
+    "stars": 1,
+    "updated_at": "2026-10-11T19:27:48Z",
+    "url": "https://github.com/viktorg1/lore"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T19:27:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
+    "id": "ellmos-ai/marblerun",
+    "language": "Python",
+    "name": "ellmos-ai/marblerun",
+    "stars": 1,
+    "updated_at": "2026-10-11T19:27:17Z",
+    "url": "https://github.com/ellmos-ai/marblerun"
+  },
+  {
+    "description": "The foundation layer for agentic intelligence.",
+    "id": "promptise-com/Foundry",
+    "language": "Python",
+    "name": "promptise-com/Foundry",
+    "stars": 873,
+    "updated_at": "2026-10-11T19:27:13Z",
+    "url": "https://github.com/promptise-com/Foundry"
+  },
+  {
+    "description": "All the various messaging channels for OpenHuman",
+    "id": "tinyhumansai/tinychannels",
+    "language": "Rust",
+    "name": "tinyhumansai/tinychannels",
+    "stars": 8,
+    "updated_at": "2026-10-11T19:26:02Z",
+    "url": "https://github.com/tinyhumansai/tinychannels"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:26:11Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 14,
+    "updated_at": "2026-10-11T19:25:11Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:24:27Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "OAuth integrations & connectors for agents",
+    "id": "tinyhumansai/tinyconnectors",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyconnectors",
+    "stars": 2,
+    "updated_at": "2026-10-11T19:29:53Z",
+    "url": "https://github.com/tinyhumansai/tinyconnectors"
+  },
+  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 677,
-    "updated_at": "2026-10-11T19:15:11Z",
+    "updated_at": "2026-10-11T19:21:58Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -14,8 +122,26 @@
     "language": "Rust",
     "name": "tinyhumansai/tinymcp",
     "stars": 3,
-    "updated_at": "2026-10-11T19:15:04Z",
+    "updated_at": "2026-10-11T19:20:26Z",
     "url": "https://github.com/tinyhumansai/tinymcp"
+  },
+  {
+    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4453,
+    "updated_at": "2026-10-11T19:18:01Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T19:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
@@ -54,21 +180,12 @@
     "url": "https://github.com/Gi-Tuu/yai-agent-core"
   },
   {
-    "description": "All the various messaging channels for OpenHuman",
-    "id": "tinyhumansai/tinychannels",
-    "language": "Rust",
-    "name": "tinyhumansai/tinychannels",
-    "stars": 8,
-    "updated_at": "2026-10-11T19:13:08Z",
-    "url": "https://github.com/tinyhumansai/tinychannels"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T19:15:16Z",
+    "updated_at": "2026-10-11T19:22:29Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -104,7 +221,7 @@
     "language": "JavaScript",
     "name": "morethanrealio/brambit",
     "stars": 2,
-    "updated_at": "2026-10-11T19:10:50Z",
+    "updated_at": "2026-10-11T19:26:37Z",
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
@@ -113,7 +230,7 @@
     "language": "Python",
     "name": "al2m4n/TheYgent",
     "stars": 4,
-    "updated_at": "2026-10-11T19:11:16Z",
+    "updated_at": "2026-10-11T19:19:04Z",
     "url": "https://github.com/al2m4n/TheYgent"
   },
   {
@@ -122,7 +239,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 45,
-    "updated_at": "2026-10-11T19:07:39Z",
+    "updated_at": "2026-10-11T19:23:04Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -142,24 +259,6 @@
     "stars": 5,
     "updated_at": "2026-10-11T19:11:55Z",
     "url": "https://github.com/KPO-Tech/seshat"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T19:04:34Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-11T19:06:53Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Open platform for running Managed Agents at scale",
@@ -194,7 +293,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 22,
-    "updated_at": "2026-10-11T19:01:11Z",
+    "updated_at": "2026-10-11T19:29:54Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -221,17 +320,17 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 120,
-    "updated_at": "2026-10-11T18:56:53Z",
+    "updated_at": "2026-10-11T19:26:01Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
-    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4453,
-    "updated_at": "2026-10-11T18:56:37Z",
-    "url": "https://github.com/crmne/ruby_llm"
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35766,
+    "updated_at": "2026-10-11T19:23:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -250,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T18:50:11Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:48:42Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "Self-evolving AI agent runtime \u2014 RSI under tiered authority, reversible hash-chained ledger, capability security, and cr",
@@ -288,15 +378,6 @@
     "url": "https://github.com/xujian519/sati"
   },
   {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:00:38Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -304,15 +385,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T18:41:11Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35765,
-    "updated_at": "2026-10-11T18:55:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83c\udfc6 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
@@ -338,7 +410,7 @@
     "language": "TypeScript",
     "name": "qbtrix/ripple-iui",
     "stars": 8,
-    "updated_at": "2026-10-11T18:49:32Z",
+    "updated_at": "2026-10-11T19:28:29Z",
     "url": "https://github.com/qbtrix/ripple-iui"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 22,
     "updated_at": "2026-10-11T18:51:41Z",
     "url": "https://github.com/voodootikigod/adlc"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 59,
-    "updated_at": "2026-10-11T18:20:59Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Tool schema and agent friendly defaults",
-    "id": "tinyhumansai/tinytools",
-    "language": "Rust",
-    "name": "tinyhumansai/tinytools",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:17:36Z",
-    "url": "https://github.com/tinyhumansai/tinytools"
-  },
-  {
-    "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
-    "id": "ozgurulukir/rubik",
-    "language": "Ruby",
-    "name": "ozgurulukir/rubik",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:13:47Z",
-    "url": "https://github.com/ozgurulukir/rubik"
-  },
-  {
-    "description": "Coordinate AI coding models with task assignment, conflict prevention, and proof-checked handoffs across five tools.",
-    "id": "leanneexperimental3016/Models-Cowork",
-    "language": "Python",
-    "name": "leanneexperimental3016/Models-Cowork",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:13:45Z",
-    "url": "https://github.com/leanneexperimental3016/Models-Cowork"
-  },
-  {
-    "description": "Automate Be a Lucky Block with targeting assistance and instant inventory liquidation for streamlined PC gameplay.",
-    "id": "lottieepigastric889/lucky-block-script-hub",
-    "language": "HTML",
-    "name": "lottieepigastric889/lucky-block-script-hub",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:11:47Z",
-    "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
-  },
-  {
-    "description": "Unlock automated targeting, instant item liquidation, and low-latency execution with this lightweight HTML script hub fo",
-    "id": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "language": "HTML",
-    "name": "diatomic-uterinevein550/be-a-lucky-block-script-hub",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:11:44Z",
-    "url": "https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub"
-  },
-  {
-    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
-    "id": "xmor/ara",
-    "language": "Java",
-    "name": "xmor/ara",
-    "stars": 6,
-    "updated_at": "2026-10-11T18:04:53Z",
-    "url": "https://github.com/xmor/ara"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-11T18:04:43Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
   }
 ]
