@@ -1,12 +1,48 @@
 [
   {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 1,
+    "updated_at": "2026-10-11T00:00:18Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-11T00:00:15Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 1,
+    "updated_at": "2026-10-10T23:59:19Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 677,
-    "updated_at": "2026-10-10T23:44:30Z",
+    "updated_at": "2026-10-10T23:58:50Z",
     "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-10T23:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -16,6 +52,15 @@
     "stars": 80,
     "updated_at": "2026-10-10T23:43:11Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10735,
+    "updated_at": "2026-10-10T23:42:22Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Local-first platform for persistent autonomous AI agents. Identity, memory, relationships, beliefs, knowledge and policy",
@@ -50,17 +95,8 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 86,
-    "updated_at": "2026-10-10T23:37:43Z",
+    "updated_at": "2026-10-10T23:53:14Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:39:43Z",
-    "url": "https://github.com/prismal-ai/prismal"
   },
   {
     "description": "Open-source AI agent for Windows \u2014 background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc",
@@ -77,26 +113,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 321,
-    "updated_at": "2026-10-10T23:38:35Z",
+    "updated_at": "2026-10-10T23:47:25Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:44:48Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-10T23:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A small, provider-neutral agent harness written in Rust",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "IAmNo1Special/mvgeos",
     "stars": 1,
-    "updated_at": "2026-10-10T23:18:28Z",
+    "updated_at": "2026-10-10T23:57:34Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Dart",
     "name": "autonomous-ai/openharness",
     "stars": 1219,
-    "updated_at": "2026-10-10T23:03:25Z",
+    "updated_at": "2026-10-10T23:51:24Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 346,
     "updated_at": "2026-10-10T22:28:46Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10734,
-    "updated_at": "2026-10-10T23:42:22Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Curated, star-ranked catalog of AI agent frameworks, coding-agent harnesses and workflow platforms (EN/\u4e2d\u6587), auto-refresh",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T21:41:39Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
-    "id": "hibuka-labs/phi-agent",
-    "language": "Rust",
-    "name": "hibuka-labs/phi-agent",
-    "stars": 15,
-    "updated_at": "2026-10-10T21:39:15Z",
-    "url": "https://github.com/hibuka-labs/phi-agent"
   }
 ]
