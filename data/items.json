@@ -1,5 +1,59 @@
 [
   {
+    "description": "Run a fleet of personal AI agents \u2014 each a complete, self-contained git repo \u2014 behind one connector and a web client.",
+    "id": "DenisSud/apiary",
+    "language": "TypeScript",
+    "name": "DenisSud/apiary",
+    "stars": 0,
+    "updated_at": "2026-10-11T23:15:21Z",
+    "url": "https://github.com/DenisSud/apiary"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 59,
+    "updated_at": "2026-10-11T23:14:08Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 20,
+    "updated_at": "2026-10-11T23:12:34Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-11T23:11:15Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
+    "id": "Pal-AI-Lab/Cortico",
+    "language": "TypeScript",
+    "name": "Pal-AI-Lab/Cortico",
+    "stars": 203,
+    "updated_at": "2026-10-11T23:02:02Z",
+    "url": "https://github.com/Pal-AI-Lab/Cortico"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T23:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 120,
-    "updated_at": "2026-10-11T22:56:45Z",
+    "updated_at": "2026-10-11T23:14:45Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/flowork-os/AGENT-TOOLS"
   },
   {
-    "description": "Run a fleet of personal AI agents \u2014 each a complete, self-contained git repo \u2014 behind one connector and a web client.",
-    "id": "DenisSud/apiary",
-    "language": "TypeScript",
-    "name": "DenisSud/apiary",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:52:28Z",
-    "url": "https://github.com/DenisSud/apiary"
-  },
-  {
     "description": "MCP loader and registry written in rust",
     "id": "tinyhumansai/tinymcp",
     "language": "Rust",
@@ -61,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-11T22:52:18Z",
     "url": "https://github.com/tinyhumansai/tinymcp"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T22:51:42Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2962,
-    "updated_at": "2026-10-11T22:49:10Z",
+    "updated_at": "2026-10-11T23:12:29Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -140,17 +176,8 @@
     "language": "Rust",
     "name": "tinyhumansai/tinychannels",
     "stars": 8,
-    "updated_at": "2026-10-11T22:43:49Z",
+    "updated_at": "2026-10-11T23:08:30Z",
     "url": "https://github.com/tinyhumansai/tinychannels"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 59,
-    "updated_at": "2026-10-11T22:37:17Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "OOAT \u2014 Object-Oriented Agent Team: an open framework that decides per task whether a team of AI agents is worth its cost",
@@ -207,15 +234,6 @@
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 203,
-    "updated_at": "2026-10-11T22:49:28Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T22:27:46Z",
     "url": "https://github.com/sageadvicellc/bowerloom"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-11T22:52:23Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A self-hosted web interface for the pi coding agent.",
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 321,
-    "updated_at": "2026-10-11T22:17:27Z",
+    "updated_at": "2026-10-11T23:02:41Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinybus",
     "stars": 2,
-    "updated_at": "2026-10-11T22:16:29Z",
+    "updated_at": "2026-10-11T23:15:19Z",
     "url": "https://github.com/tinyhumansai/tinybus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T22:07:44Z",
     "url": "https://github.com/Avesrarity821/robopotato"
-  },
-  {
-    "description": "Automate After Effects with an AI agent platform that runs any model or endpoint under your control",
-    "id": "smooth-snarl702/AE-agent",
-    "language": "JavaScript",
-    "name": "smooth-snarl702/AE-agent",
-    "stars": 1,
-    "updated_at": "2026-10-11T22:07:30Z",
-    "url": "https://github.com/smooth-snarl702/AE-agent"
   }
 ]
