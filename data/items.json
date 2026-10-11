@@ -1,11 +1,119 @@
 [
   {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 3,
+    "updated_at": "2026-10-11T04:44:57Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-11T04:43:55Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35758,
+    "updated_at": "2026-10-11T04:44:37Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-11T04:41:17Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 83,
+    "updated_at": "2026-10-11T04:39:45Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "All the various messaging channels for OpenHuman",
+    "id": "tinyhumansai/tinychannels",
+    "language": "Rust",
+    "name": "tinyhumansai/tinychannels",
+    "stars": 8,
+    "updated_at": "2026-10-11T04:37:03Z",
+    "url": "https://github.com/tinyhumansai/tinychannels"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 313,
+    "updated_at": "2026-10-11T04:36:27Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Decision model (JEV) based harness to perform Desktop & Browser automation. Written in Rust. ",
+    "id": "tinyhumansai/tinycomputer",
+    "language": "Rust",
+    "name": "tinyhumansai/tinycomputer",
+    "stars": 6,
+    "updated_at": "2026-10-11T04:36:12Z",
+    "url": "https://github.com/tinyhumansai/tinycomputer"
+  },
+  {
+    "description": "MCP loader and registry written in rust",
+    "id": "tinyhumansai/tinymcp",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymcp",
+    "stars": 3,
+    "updated_at": "2026-10-11T04:35:33Z",
+    "url": "https://github.com/tinyhumansai/tinymcp"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:33:25Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-10-11T04:41:41Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T04:30:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-11T04:28:59Z",
+    "updated_at": "2026-10-11T04:44:26Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 313,
-    "updated_at": "2026-10-11T04:24:12Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "Agent friendly memory system. Route any memory system into a standardized interface",
     "id": "tinyhumansai/tinymemory",
     "language": "Rust",
@@ -61,15 +160,6 @@
     "stars": 10,
     "updated_at": "2026-10-11T04:23:36Z",
     "url": "https://github.com/tinyhumansai/tinymemory"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:29:07Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "Hive mind mechanics for agents. A step closer towards AGI",
@@ -86,7 +176,7 @@
     "language": "C++",
     "name": "Hazer-BJTU/simplex-cpp",
     "stars": 0,
-    "updated_at": "2026-10-11T04:21:17Z",
+    "updated_at": "2026-10-11T04:35:25Z",
     "url": "https://github.com/Hazer-BJTU/simplex-cpp"
   },
   {
@@ -115,24 +205,6 @@
     "stars": 321,
     "updated_at": "2026-10-11T04:26:25Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T04:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-11T04:14:26Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
     "description": "Async Python runtime for agents that survive failure, persist evidence, and pause for the real world.",
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "vamsiramakrishnan/gemini-rs",
     "stars": 3,
-    "updated_at": "2026-10-11T04:29:02Z",
+    "updated_at": "2026-10-11T04:42:37Z",
     "url": "https://github.com/vamsiramakrishnan/gemini-rs"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/hertz-ai/HARTOS"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35760,
-    "updated_at": "2026-10-11T04:29:21Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
     "id": "fastagent-sh/fastagent",
     "language": "TypeScript",
@@ -268,15 +331,6 @@
     "stars": 65,
     "updated_at": "2026-10-11T03:49:04Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-10-11T04:12:41Z",
-    "url": "https://github.com/ourostack/ouroboros"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -328,7 +382,7 @@
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
-    "stars": 80,
+    "stars": 81,
     "updated_at": "2026-10-11T03:29:31Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
@@ -347,7 +401,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T04:25:51Z",
+    "updated_at": "2026-10-11T04:43:26Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "BlocUnited-LLC/mozaiks",
     "stars": 24,
-    "updated_at": "2026-10-11T04:22:56Z",
+    "updated_at": "2026-10-11T04:39:55Z",
     "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 83,
-    "updated_at": "2026-10-11T03:14:43Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Self-evolving AI agent runtime \u2014 RSI under tiered authority, reversible hash-chained ledger, capability security, and cr",
-    "id": "vicfei/naga",
-    "language": "Python",
-    "name": "vicfei/naga",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:13:40Z",
-    "url": "https://github.com/vicfei/naga"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 677,
-    "updated_at": "2026-10-11T03:12:29Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2300,
-    "updated_at": "2026-10-11T04:27:02Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Open-source AI agent for Windows \u2014 background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 6,
-    "updated_at": "2026-10-11T03:05:41Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "A self-evolving agent that lives on your phone and commands a fleet of servers",
-    "id": "RexHuang/novus",
-    "language": "TypeScript",
-    "name": "RexHuang/novus",
-    "stars": 7,
-    "updated_at": "2026-10-11T03:04:38Z",
-    "url": "https://github.com/RexHuang/novus"
   }
 ]
