@@ -1,12 +1,111 @@
 [
   {
+    "description": "The Fastest AI Memory Model - Your Second Brain",
+    "id": "tinyhumansai/tinycortex",
+    "language": "Rust",
+    "name": "tinyhumansai/tinycortex",
+    "stars": 260,
+    "updated_at": "2026-10-11T19:42:16Z",
+    "url": "https://github.com/tinyhumansai/tinycortex"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-11T19:29:36Z",
+    "updated_at": "2026-10-11T19:40:25Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T19:39:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Autonomous multi-agent coordination for the JVM",
+    "id": "mauro-mura/agenor",
+    "language": "Java",
+    "name": "mauro-mura/agenor",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:35:43Z",
+    "url": "https://github.com/mauro-mura/agenor"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "TypeScript",
+    "name": "qbtrix/ripple-iui",
+    "stars": 8,
+    "updated_at": "2026-10-11T19:37:51Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4453,
+    "updated_at": "2026-10-11T19:35:29Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10747,
+    "updated_at": "2026-10-11T19:37:41Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 6,
+    "updated_at": "2026-10-11T19:33:23Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2303,
+    "updated_at": "2026-10-11T19:32:11Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "All the various messaging channels for OpenHuman",
+    "id": "tinyhumansai/tinychannels",
+    "language": "Rust",
+    "name": "tinyhumansai/tinychannels",
+    "stars": 8,
+    "updated_at": "2026-10-11T19:30:49Z",
+    "url": "https://github.com/tinyhumansai/tinychannels"
+  },
+  {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:30:32Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T19:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -14,7 +113,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-10-11T19:29:24Z",
+    "updated_at": "2026-10-11T19:31:27Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -36,15 +135,6 @@
     "url": "https://github.com/viktorg1/lore"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-11T19:27:38Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "MarbleRun / llmauto: local-first Claude Code automation for autonomous LLM agent chains",
     "id": "ellmos-ai/marblerun",
     "language": "Python",
@@ -59,17 +149,8 @@
     "language": "Python",
     "name": "promptise-com/Foundry",
     "stars": 873,
-    "updated_at": "2026-10-11T19:27:13Z",
+    "updated_at": "2026-10-11T19:32:24Z",
     "url": "https://github.com/promptise-com/Foundry"
-  },
-  {
-    "description": "All the various messaging channels for OpenHuman",
-    "id": "tinyhumansai/tinychannels",
-    "language": "Rust",
-    "name": "tinyhumansai/tinychannels",
-    "stars": 8,
-    "updated_at": "2026-10-11T19:26:02Z",
-    "url": "https://github.com/tinyhumansai/tinychannels"
   },
   {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
@@ -86,7 +167,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 14,
-    "updated_at": "2026-10-11T19:25:11Z",
+    "updated_at": "2026-10-11T19:33:38Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -104,7 +185,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyconnectors",
     "stars": 2,
-    "updated_at": "2026-10-11T19:29:53Z",
+    "updated_at": "2026-10-11T19:38:33Z",
     "url": "https://github.com/tinyhumansai/tinyconnectors"
   },
   {
@@ -124,42 +205,6 @@
     "stars": 3,
     "updated_at": "2026-10-11T19:20:26Z",
     "url": "https://github.com/tinyhumansai/tinymcp"
-  },
-  {
-    "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4453,
-    "updated_at": "2026-10-11T19:18:01Z",
-    "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T19:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 6,
-    "updated_at": "2026-10-11T19:14:50Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
-    "id": "autoyou-ai/AutoYou-Server",
-    "language": "Python",
-    "name": "autoyou-ai/AutoYou-Server",
-    "stars": 0,
-    "updated_at": "2026-10-11T19:15:01Z",
-    "url": "https://github.com/autoyou-ai/AutoYou-Server"
   },
   {
     "description": "Mochi: a minimal, fast, autonomous coding agent. TypeScript harness with goals, task DAGs, teams, persistent daemon, run",
@@ -239,7 +284,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 45,
-    "updated_at": "2026-10-11T19:23:04Z",
+    "updated_at": "2026-10-11T19:45:16Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 120,
-    "updated_at": "2026-10-11T19:26:01Z",
+    "updated_at": "2026-10-11T19:32:31Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T18:37:30Z",
     "url": "https://github.com/Meet-Arlo/adult-supervision"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "TypeScript",
-    "name": "qbtrix/ripple-iui",
-    "stars": 8,
-    "updated_at": "2026-10-11T19:28:29Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1225,
-    "updated_at": "2026-10-11T18:42:28Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
-    "id": "Justin0504/Sovereign-OS",
-    "language": "Python",
-    "name": "Justin0504/Sovereign-OS",
-    "stars": 93,
-    "updated_at": "2026-10-11T18:24:25Z",
-    "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 59,
-    "updated_at": "2026-10-11T18:21:16Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Agentic Development Lifecycle",
-    "id": "voodootikigod/adlc",
-    "language": "JavaScript",
-    "name": "voodootikigod/adlc",
-    "stars": 22,
-    "updated_at": "2026-10-11T18:51:41Z",
-    "url": "https://github.com/voodootikigod/adlc"
   }
 ]
