@@ -1,12 +1,84 @@
 [
   {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-10-11T04:00:08Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "   Production-minded agent framework built from scratch: tool use, memory, guardrails, tracing, multi-agent orchestratio",
+    "id": "MuhammadSyaiful16/agentforge",
+    "language": "Python",
+    "name": "MuhammadSyaiful16/agentforge",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:56:04Z",
+    "url": "https://github.com/MuhammadSyaiful16/agentforge"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-11T03:45:07Z",
+    "updated_at": "2026-10-11T04:00:11Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A self-hosted AI operator platform featuring multi-specialist workers, durable task execution, sandboxed code/browser to",
+    "id": "iamaanahmad/agentforge",
+    "language": "Python",
+    "name": "iamaanahmad/agentforge",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:58:41Z",
+    "url": "https://github.com/iamaanahmad/agentforge"
+  },
+  {
+    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
+    "id": "vamsiramakrishnan/gemini-rs",
+    "language": "Rust",
+    "name": "vamsiramakrishnan/gemini-rs",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:53:01Z",
+    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-10-11T03:52:54Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35760,
+    "updated_at": "2026-10-11T03:57:40Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 65,
+    "updated_at": "2026-10-11T03:49:04Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T03:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
@@ -14,7 +86,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-11T03:44:38Z",
+    "updated_at": "2026-10-11T03:55:27Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-11T03:44:34Z",
+    "updated_at": "2026-10-11T03:51:17Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -63,24 +135,6 @@
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
-    "description": "   Production-minded agent framework built from scratch: tool use, memory, guardrails, tracing, multi-agent orchestratio",
-    "id": "MuhammadSyaiful16/agentforge",
-    "language": "Python",
-    "name": "MuhammadSyaiful16/agentforge",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:39:47Z",
-    "url": "https://github.com/MuhammadSyaiful16/agentforge"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-10-11T03:42:37Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
     "description": "VE Harness \u2014 run Claude Code for hours without babysitting it. A hosted task board that survives the session, hooks that",
     "id": "HuntsDesk/ve-kit",
     "language": "Shell",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-10-11T03:43:58Z",
+    "updated_at": "2026-10-11T03:55:28Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 1220,
     "updated_at": "2026-10-11T03:31:07Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T03:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T03:28:23Z",
+    "updated_at": "2026-10-11T03:58:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -175,7 +220,7 @@
     "id": "tinyhumansai/medulla",
     "language": "Rust",
     "name": "tinyhumansai/medulla",
-    "stars": 33,
+    "stars": 34,
     "updated_at": "2026-10-11T03:28:03Z",
     "url": "https://github.com/tinyhumansai/medulla"
   },
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T03:28:25Z",
     "url": "https://github.com/autoyou-ai/AutoYou-Server"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35760,
-    "updated_at": "2026-10-11T03:44:51Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "OuroborosCollective/Sovereign-Studio-ato",
     "stars": 1,
-    "updated_at": "2026-10-11T03:39:28Z",
+    "updated_at": "2026-10-11T03:59:13Z",
     "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato"
   },
   {
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "linjiejim/greenhouse",
     "stars": 2,
-    "updated_at": "2026-10-11T03:16:11Z",
+    "updated_at": "2026-10-11T03:55:38Z",
     "url": "https://github.com/linjiejim/greenhouse"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/tinyhumansai/tinyconnectors"
   },
   {
-    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
-    "id": "hertz-ai/HARTOS",
-    "language": "Python",
-    "name": "hertz-ai/HARTOS",
-    "stars": 51,
-    "updated_at": "2026-10-11T03:02:49Z",
-    "url": "https://github.com/hertz-ai/HARTOS"
-  },
-  {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
     "id": "iyulab/ironhive-host",
     "language": "C#",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyhivemind",
     "stars": 15,
-    "updated_at": "2026-10-11T03:26:26Z",
+    "updated_at": "2026-10-11T03:53:11Z",
     "url": "https://github.com/tinyhumansai/tinyhivemind"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 266,
-    "updated_at": "2026-10-11T02:46:46Z",
+    "updated_at": "2026-10-11T03:58:04Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T02:46:20Z",
     "url": "https://github.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review"
-  },
-  {
-    "description": "Orchestrate hierarchical agents in OpenCode with dependency-aware boards, parallel builders, and evidence-gated completi",
-    "id": "ygudoshnikov-debug/opencode-agent-foundry",
-    "language": "TypeScript",
-    "name": "ygudoshnikov-debug/opencode-agent-foundry",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:46:10Z",
-    "url": "https://github.com/ygudoshnikov-debug/opencode-agent-foundry"
-  },
-  {
-    "description": "Version, share, and resume AI coding sessions from Claude Code, Codex, OpenCode, or Cursor.",
-    "id": "autocatalytic-quartette9513/agent-git",
-    "language": "\u2014",
-    "name": "autocatalytic-quartette9513/agent-git",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:46:05Z",
-    "url": "https://github.com/autocatalytic-quartette9513/agent-git"
-  },
-  {
-    "description": "ShadowScan discovers evidence of AI agents across code, identity, gateways, low-code, SaaS, and cloud. Live or offline.",
-    "id": "aisecnomad/Project-Nexus",
-    "language": "Python",
-    "name": "aisecnomad/Project-Nexus",
-    "stars": 11,
-    "updated_at": "2026-10-11T03:41:27Z",
-    "url": "https://github.com/aisecnomad/Project-Nexus"
   }
 ]
