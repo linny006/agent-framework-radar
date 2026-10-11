@@ -1,11 +1,137 @@
 [
   {
+    "description": "All the various messaging channels for OpenHuman",
+    "id": "tinyhumansai/tinychannels",
+    "language": "Rust",
+    "name": "tinyhumansai/tinychannels",
+    "stars": 8,
+    "updated_at": "2026-10-11T09:59:31Z",
+    "url": "https://github.com/tinyhumansai/tinychannels"
+  },
+  {
+    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
+    "id": "thenaxon/somora_agent",
+    "language": "TypeScript",
+    "name": "thenaxon/somora_agent",
+    "stars": 30,
+    "updated_at": "2026-10-11T09:59:26Z",
+    "url": "https://github.com/thenaxon/somora_agent"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 86,
+    "updated_at": "2026-10-11T09:58:45Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 316,
+    "updated_at": "2026-10-11T09:56:21Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1223,
+    "updated_at": "2026-10-11T09:56:06Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and ",
+    "id": "weftgo/weft",
+    "language": "Go",
+    "name": "weftgo/weft",
+    "stars": 2,
+    "updated_at": "2026-10-11T09:56:00Z",
+    "url": "https://github.com/weftgo/weft"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 2,
+    "updated_at": "2026-10-11T09:53:55Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 313,
+    "updated_at": "2026-10-11T09:52:53Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 5,
+    "updated_at": "2026-10-11T09:52:31Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 6,
+    "updated_at": "2026-10-11T09:51:04Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 345,
+    "updated_at": "2026-10-11T10:00:20Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 48951,
+    "updated_at": "2026-10-11T09:48:58Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 33,
+    "updated_at": "2026-10-11T09:53:01Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T09:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-11T09:44:25Z",
+    "updated_at": "2026-10-11T09:58:36Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T09:43:49Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 5,
-    "updated_at": "2026-10-11T09:42:47Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
@@ -86,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T09:38:27Z",
+    "updated_at": "2026-10-11T09:45:45Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -153,15 +270,6 @@
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 313,
-    "updated_at": "2026-10-11T09:33:20Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "Tool schema and agent friendly defaults",
     "id": "tinyhumansai/tinytools",
     "language": "Rust",
@@ -189,15 +297,6 @@
     "url": "https://github.com/ellmos-ai/marblerun"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T09:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
     "id": "hertz-ai/HARTOS",
     "language": "Python",
@@ -221,7 +320,7 @@
     "language": "C++",
     "name": "Hazer-BJTU/simplex-cpp",
     "stars": 0,
-    "updated_at": "2026-10-11T09:28:31Z",
+    "updated_at": "2026-10-11T09:49:36Z",
     "url": "https://github.com/Hazer-BJTU/simplex-cpp"
   },
   {
@@ -266,7 +365,7 @@
     "language": "Python",
     "name": "jin-bo/agentao",
     "stars": 309,
-    "updated_at": "2026-10-11T09:23:08Z",
+    "updated_at": "2026-10-11T09:55:01Z",
     "url": "https://github.com/jin-bo/agentao"
   },
   {
@@ -288,15 +387,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "All the various messaging channels for OpenHuman",
-    "id": "tinyhumansai/tinychannels",
-    "language": "Rust",
-    "name": "tinyhumansai/tinychannels",
-    "stars": 8,
-    "updated_at": "2026-10-11T09:21:43Z",
-    "url": "https://github.com/tinyhumansai/tinychannels"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -304,15 +394,6 @@
     "stars": 81,
     "updated_at": "2026-10-11T09:21:17Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 86,
-    "updated_at": "2026-10-11T09:20:37Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
@@ -351,15 +432,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1223,
-    "updated_at": "2026-10-11T09:14:27Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -374,79 +446,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 677,
-    "updated_at": "2026-10-11T09:35:12Z",
+    "updated_at": "2026-10-11T09:53:39Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-11T09:44:25Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 86,
-    "updated_at": "2026-10-11T09:07:21Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 48950,
-    "updated_at": "2026-10-11T09:06:40Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 20,
-    "updated_at": "2026-10-11T09:08:53Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
-    "id": "jiayan-xu/agent-core",
-    "language": "Rust",
-    "name": "jiayan-xu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-10-11T09:02:23Z",
-    "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "The foundation layer for agentic intelligence.",
-    "id": "promptise-com/Foundry",
-    "language": "Python",
-    "name": "promptise-com/Foundry",
-    "stars": 873,
-    "updated_at": "2026-10-11T09:33:03Z",
-    "url": "https://github.com/promptise-com/Foundry"
-  },
-  {
-    "description": "BACH v3.13.0-bluesky: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP server",
-    "id": "ellmos-ai/bach",
-    "language": "Python",
-    "name": "ellmos-ai/bach",
-    "stars": 7,
-    "updated_at": "2026-10-11T09:43:38Z",
-    "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and ",
-    "id": "weftgo/weft",
-    "language": "Go",
-    "name": "weftgo/weft",
-    "stars": 2,
-    "updated_at": "2026-10-11T08:55:26Z",
-    "url": "https://github.com/weftgo/weft"
   }
 ]
