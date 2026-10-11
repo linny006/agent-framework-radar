@@ -1,11 +1,83 @@
 [
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 347,
+    "updated_at": "2026-10-11T22:59:11Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "AgentBridge is a Python SDK for defining an agent once and running it across multiple agent frameworks.",
+    "id": "0sparsh2/AgentBridge",
+    "language": "Python",
+    "name": "0sparsh2/AgentBridge",
+    "stars": 4,
+    "updated_at": "2026-10-11T22:58:25Z",
+    "url": "https://github.com/0sparsh2/AgentBridge"
+  },
+  {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:57:57Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
+    "description": "A small, provider-neutral agent harness written in Rust",
+    "id": "tinyhumansai/tinyagents",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyagents",
+    "stars": 120,
+    "updated_at": "2026-10-11T22:56:45Z",
+    "url": "https://github.com/tinyhumansai/tinyagents"
+  },
+  {
+    "description": "High-performance modular Micro-Tools & MCP-compatible execution engines for Autonomous AI Agents. Sharded, zero-bloat, s",
+    "id": "flowork-os/AGENT-TOOLS",
+    "language": "JavaScript",
+    "name": "flowork-os/AGENT-TOOLS",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:55:47Z",
+    "url": "https://github.com/flowork-os/AGENT-TOOLS"
+  },
+  {
+    "description": "Run a fleet of personal AI agents \u2014 each a complete, self-contained git repo \u2014 behind one connector and a web client.",
+    "id": "DenisSud/apiary",
+    "language": "TypeScript",
+    "name": "DenisSud/apiary",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:52:28Z",
+    "url": "https://github.com/DenisSud/apiary"
+  },
+  {
+    "description": "MCP loader and registry written in rust",
+    "id": "tinyhumansai/tinymcp",
+    "language": "Rust",
+    "name": "tinyhumansai/tinymcp",
+    "stars": 3,
+    "updated_at": "2026-10-11T22:52:18Z",
+    "url": "https://github.com/tinyhumansai/tinymcp"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T22:51:42Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35768,
-    "updated_at": "2026-10-11T22:51:39Z",
+    "updated_at": "2026-10-11T22:58:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T22:45:29Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T22:39:58Z",
     "url": "https://github.com/cmcoffee/gohort"
-  },
-  {
-    "description": "MCP loader and registry written in rust",
-    "id": "tinyhumansai/tinymcp",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymcp",
-    "stars": 3,
-    "updated_at": "2026-10-11T22:51:14Z",
-    "url": "https://github.com/tinyhumansai/tinymcp"
   },
   {
     "description": "All the various messaging channels for OpenHuman",
@@ -135,15 +189,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "High-performance modular Micro-Tools & MCP-compatible execution engines for Autonomous AI Agents. Sharded, zero-bloat, s",
-    "id": "flowork-os/AGENT-TOOLS",
-    "language": "JavaScript",
-    "name": "flowork-os/AGENT-TOOLS",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:32:55Z",
-    "url": "https://github.com/flowork-os/AGENT-TOOLS"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 20,
-    "updated_at": "2026-10-11T22:30:29Z",
+    "updated_at": "2026-10-11T22:52:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T22:20:47Z",
     "url": "https://github.com/lottieepigastric889/lucky-block-script-hub"
-  },
-  {
-    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
-    "id": "autoyou-ai/AutoYou-Server",
-    "language": "Python",
-    "name": "autoyou-ai/AutoYou-Server",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:39:05Z",
-    "url": "https://github.com/autoyou-ai/AutoYou-Server"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T22:07:30Z",
     "url": "https://github.com/smooth-snarl702/AE-agent"
-  },
-  {
-    "description": "Build agent apps with a batteries-included harness for tools, memory, and control flow",
-    "id": "GamerBoiyzz/deepagents",
-    "language": "Python",
-    "name": "GamerBoiyzz/deepagents",
-    "stars": 1,
-    "updated_at": "2026-10-11T22:07:27Z",
-    "url": "https://github.com/GamerBoiyzz/deepagents"
-  },
-  {
-    "description": "Visualize and manage AI models with a lightweight dashboard that connects providers to a live graph-based execution and ",
-    "id": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "language": "\u2014",
-    "name": "osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:06:56Z",
-    "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 45,
-    "updated_at": "2026-10-11T22:09:57Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Open-source AI agent workspace for Web, Desktop and CLI, with browser tools, durable sessions and Cordis plugins.",
-    "id": "MaiHongPhong2010/Hydra-Harness",
-    "language": "TypeScript",
-    "name": "MaiHongPhong2010/Hydra-Harness",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:06:29Z",
-    "url": "https://github.com/MaiHongPhong2010/Hydra-Harness"
   }
 ]
