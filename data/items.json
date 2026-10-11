@@ -1,12 +1,102 @@
 [
   {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4988,
+    "updated_at": "2026-10-11T06:13:10Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-10-11T06:12:54Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 321,
+    "updated_at": "2026-10-11T06:12:48Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1222,
+    "updated_at": "2026-10-11T06:12:15Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 14,
+    "updated_at": "2026-10-11T06:09:46Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
+    "id": "SparkElf/deepseek-harness-plus",
+    "language": "TypeScript",
+    "name": "SparkElf/deepseek-harness-plus",
+    "stars": 1,
+    "updated_at": "2026-10-11T06:10:18Z",
+    "url": "https://github.com/SparkElf/deepseek-harness-plus"
+  },
+  {
     "description": "Open-source AI agent for Windows \u2014 background computer-use, 40+ security skills, self-improving. Bug-Triage Agent produc",
     "id": "openamer/openamer",
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 6,
-    "updated_at": "2026-10-11T05:55:51Z",
+    "updated_at": "2026-10-11T06:04:22Z",
     "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
+    "id": "aloth/awesome-ai-agents",
+    "language": "\u2014",
+    "name": "aloth/awesome-ai-agents",
+    "stars": 63,
+    "updated_at": "2026-10-11T06:03:45Z",
+    "url": "https://github.com/aloth/awesome-ai-agents"
+  },
+  {
+    "description": "An AI-native OS. Models run on your own hardware, nodes federate peer-to-peer with no broker, and the API is OpenAI-comp",
+    "id": "hertz-ai/HARTOS",
+    "language": "Python",
+    "name": "hertz-ai/HARTOS",
+    "stars": 51,
+    "updated_at": "2026-10-11T06:03:02Z",
+    "url": "https://github.com/hertz-ai/HARTOS"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 4,
+    "updated_at": "2026-10-11T06:00:50Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-11T06:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
@@ -59,7 +149,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-11T05:48:21Z",
+    "updated_at": "2026-10-11T06:14:17Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -79,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T05:46:01Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-10-11T05:51:38Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-11T05:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -153,15 +225,6 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 321,
-    "updated_at": "2026-10-11T05:57:32Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 48941,
-    "updated_at": "2026-10-11T05:40:14Z",
+    "updated_at": "2026-10-11T06:04:37Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35759,
-    "updated_at": "2026-10-11T05:38:39Z",
+    "updated_at": "2026-10-11T06:11:32Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -225,21 +288,12 @@
     "url": "https://github.com/yhlyblys66-art/moltstream"
   },
   {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-11T05:34:26Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-11T05:50:06Z",
+    "updated_at": "2026-10-11T06:04:32Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T05:32:22Z",
     "url": "https://github.com/duduard/saneagent"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 1,
-    "updated_at": "2026-10-11T05:32:20Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
   },
   {
     "description": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "aisecnomad/Project-Nexus",
     "stars": 11,
-    "updated_at": "2026-10-11T05:42:45Z",
+    "updated_at": "2026-10-11T06:05:26Z",
     "url": "https://github.com/aisecnomad/Project-Nexus"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T05:03:07Z",
     "url": "https://github.com/CocoRoF/geny-executor"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 362,
-    "updated_at": "2026-10-11T04:53:24Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-10-11T04:50:49Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 83,
-    "updated_at": "2026-10-11T04:49:18Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2300,
-    "updated_at": "2026-10-11T04:49:00Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "MCP loader and registry written in rust",
-    "id": "tinyhumansai/tinymcp",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymcp",
-    "stars": 3,
-    "updated_at": "2026-10-11T04:45:49Z",
-    "url": "https://github.com/tinyhumansai/tinymcp"
   }
 ]
