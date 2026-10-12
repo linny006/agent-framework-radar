@@ -5,8 +5,116 @@
     "language": "JavaScript",
     "name": "xanstomper/mochi",
     "stars": 0,
-    "updated_at": "2026-10-12T22:14:30Z",
+    "updated_at": "2026-10-12T22:29:18Z",
     "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20582,
+    "updated_at": "2026-10-12T22:29:15Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-12T22:27:07Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 7,
+    "updated_at": "2026-10-12T22:25:23Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:26:38Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "MOSS \u2014 Your AI IT department.",
+    "id": "Dan5672/MOSS",
+    "language": "TypeScript",
+    "name": "Dan5672/MOSS",
+    "stars": 0,
+    "updated_at": "2026-10-12T22:20:06Z",
+    "url": "https://github.com/Dan5672/MOSS"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 23,
+    "updated_at": "2026-10-12T22:19:40Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-12T22:29:39Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 677,
+    "updated_at": "2026-10-12T22:16:56Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "A Go framework for the microagents architecture with dynamic discovery \u2014 specialized agents and tools that register thei",
+    "id": "truvaagents/truva-g3",
+    "language": "Go",
+    "name": "truvaagents/truva-g3",
+    "stars": 13,
+    "updated_at": "2026-10-12T22:16:46Z",
+    "url": "https://github.com/truvaagents/truva-g3"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2316,
+    "updated_at": "2026-10-12T22:16:37Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-10-12T22:18:33Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-12T22:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -27,15 +135,6 @@
     "url": "https://github.com/DrobyshevDev/glia"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20582,
-    "updated_at": "2026-10-12T22:11:35Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
     "id": "xuiltul/animaworks",
     "language": "Python",
@@ -43,24 +142,6 @@
     "stars": 266,
     "updated_at": "2026-10-12T22:11:28Z",
     "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 677,
-    "updated_at": "2026-10-12T22:12:36Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:10:04Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "The official web interface for apowerb \u2014 build an agent, give it tools and knowledge, run it, and watch what it did.",
@@ -72,21 +153,12 @@
     "url": "https://github.com/apowerb/apowerb-ui"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-12T22:14:03Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10768,
-    "updated_at": "2026-10-12T22:11:57Z",
+    "updated_at": "2026-10-12T22:21:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -113,17 +185,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 321,
-    "updated_at": "2026-10-12T22:05:50Z",
+    "updated_at": "2026-10-12T22:23:18Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 7,
-    "updated_at": "2026-10-12T22:02:23Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "DIY your own agent team harness for long-horizon agent work",
@@ -133,24 +196,6 @@
     "stars": 313,
     "updated_at": "2026-10-12T22:01:31Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-12T22:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-12T22:13:40Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
@@ -169,15 +214,6 @@
     "stars": 350,
     "updated_at": "2026-10-12T21:52:21Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2316,
-    "updated_at": "2026-10-12T21:51:36Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "evalstate/fast-agent",
     "stars": 3931,
-    "updated_at": "2026-10-12T22:09:42Z",
+    "updated_at": "2026-10-12T22:26:36Z",
     "url": "https://github.com/evalstate/fast-agent"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-12T22:07:06Z",
+    "updated_at": "2026-10-12T22:23:18Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-12T21:57:54Z",
+    "updated_at": "2026-10-12T22:16:12Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-10-12T21:11:27Z",
+    "updated_at": "2026-10-12T22:29:18Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "Rovinos-PoC/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-12T22:13:34Z",
+    "updated_at": "2026-10-12T22:28:31Z",
     "url": "https://github.com/Rovinos-PoC/rovinos-ai-harness"
   },
   {
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-12T21:54:14Z",
+    "updated_at": "2026-10-12T22:28:21Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T20:44:55Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept.",
-    "id": "Smita6756/Hbrain",
-    "language": "Python",
-    "name": "Smita6756/Hbrain",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:44:29Z",
-    "url": "https://github.com/Smita6756/Hbrain"
-  },
-  {
-    "description": "Manage durable agent memory using a simple markdown workspace with inspectable files instead of complex frameworks.",
-    "id": "carlososoriopulgar/agent-kernel",
-    "language": "\u2014",
-    "name": "carlososoriopulgar/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:42:55Z",
-    "url": "https://github.com/carlososoriopulgar/agent-kernel"
-  },
-  {
-    "description": "Play an agent-native maze game where an AI uses your local files and memory to build traps and challenge your survival.",
-    "id": "peruzzo3265/ClawTrap",
-    "language": "JavaScript",
-    "name": "peruzzo3265/ClawTrap",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:42:45Z",
-    "url": "https://github.com/peruzzo3265/ClawTrap"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:42:44Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
