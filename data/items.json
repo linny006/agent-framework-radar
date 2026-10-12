@@ -1,12 +1,39 @@
 [
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
     "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 313,
-    "updated_at": "2026-10-12T00:29:16Z",
-    "url": "https://github.com/yangheng95/opencorvus"
+    "name": "autonomous-ai/openharness",
+    "stars": 1226,
+    "updated_at": "2026-10-12T00:44:54Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
+    "id": "cmcoffee/gohort",
+    "language": "Go",
+    "name": "cmcoffee/gohort",
+    "stars": 2,
+    "updated_at": "2026-10-12T00:42:49Z",
+    "url": "https://github.com/cmcoffee/gohort"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-10-12T00:42:35Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 7,
+    "updated_at": "2026-10-12T00:41:28Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -14,8 +41,62 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35769,
-    "updated_at": "2026-10-12T00:27:47Z",
+    "updated_at": "2026-10-12T00:39:58Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Auditor\u00eda y reparaci\u00f3n continua para tu repositorio con agentes locales: hallazgos con evidencia, verificaci\u00f3n contra tu",
+    "id": "MadManJohnSmith/Improvement",
+    "language": "Python",
+    "name": "MadManJohnSmith/Improvement",
+    "stars": 0,
+    "updated_at": "2026-10-12T00:37:19Z",
+    "url": "https://github.com/MadManJohnSmith/Improvement"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-12T00:35:35Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "zDSH-Go \u2014 the out-of-the-box, fully integrated zDSH distribution. A fork of deepseek-ai/deepseek-harness with all self-d",
+    "id": "zsagi1368/zDSH-Go",
+    "language": "TypeScript",
+    "name": "zsagi1368/zDSH-Go",
+    "stars": 0,
+    "updated_at": "2026-10-12T00:45:18Z",
+    "url": "https://github.com/zsagi1368/zDSH-Go"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 321,
+    "updated_at": "2026-10-12T00:42:03Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-12T00:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 313,
+    "updated_at": "2026-10-12T00:29:16Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Brain, agent, workflows, and docs. Local framework to automate your work.",
@@ -36,22 +117,13 @@
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1226,
-    "updated_at": "2026-10-12T00:26:32Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-10-12T00:24:53Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10752,
+    "updated_at": "2026-10-12T00:36:25Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
@@ -90,30 +162,12 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10751,
-    "updated_at": "2026-10-12T00:23:08Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-12T00:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails.",
     "id": "LATTIX-IO/lattix-locus",
     "language": "Python",
     "name": "LATTIX-IO/lattix-locus",
     "stars": 1,
-    "updated_at": "2026-10-12T00:16:11Z",
+    "updated_at": "2026-10-12T00:40:11Z",
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2305,
-    "updated_at": "2026-10-11T23:56:16Z",
+    "updated_at": "2026-10-12T00:42:49Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-10-12T00:27:55Z",
+    "updated_at": "2026-10-12T00:43:49Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-11T23:48:15Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 59,
-    "updated_at": "2026-10-11T23:48:02Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "\ud83e\udde0 Transform ideas into structured insights with MiroThinker, a powerful tool for enhancing creativity and collaboration ",
-    "id": "TonCerqueira/MiroThinker",
-    "language": "Python",
-    "name": "TonCerqueira/MiroThinker",
-    "stars": 1,
-    "updated_at": "2026-10-11T23:46:43Z",
-    "url": "https://github.com/TonCerqueira/MiroThinker"
-  },
-  {
-    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
-    "id": "thesiddguy/GenAI",
-    "language": "HTML",
-    "name": "thesiddguy/GenAI",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:44:52Z",
-    "url": "https://github.com/thesiddguy/GenAI"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1983,
-    "updated_at": "2026-10-11T23:44:04Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 203,
-    "updated_at": "2026-10-11T23:43:56Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
-    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
-    "id": "cmcoffee/gohort",
-    "language": "Go",
-    "name": "cmcoffee/gohort",
-    "stars": 2,
-    "updated_at": "2026-10-11T23:43:29Z",
-    "url": "https://github.com/cmcoffee/gohort"
   }
 ]
