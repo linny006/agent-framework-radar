@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 10:45 UTC
+> ⏰ Last updated: 2026-10-12 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tinyhumansai/tinyconnectors](https://github.com/tinyhumansai/tinyconnectors) | 2 | Rust | 2026-10-12 | OAuth integrations & connectors for agents |
-| 2 | [tinyhumansai/tinychannels](https://github.com/tinyhumansai/tinychannels) | 8 | Rust | 2026-10-12 | All the various messaging channels for OpenHuman |
-| 3 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 37 | Kotlin | 2026-10-12 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
-| 4 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 14 | Go | 2026-10-12 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
-| 5 | [LiSheng5/dsh-taskforce](https://github.com/LiSheng5/dsh-taskforce) | 0 | JavaScript | 2026-10-12 |  |
-| 6 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-12 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 7 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-10-12 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
-| 8 | [LeonQin-ai/cognitive-os-agent](https://github.com/LeonQin-ai/cognitive-os-agent) | 2 | C | 2026-10-12 | Cognitive OS Agent Runtime in pure C11 — LLM is the accelerator, not the OS. 认知智能体操作系统：认知内核 · Memory OS · 多智能体编排 · 事务执行  |
-| 9 | [tinyhumansai/tinybus](https://github.com/tinyhumansai/tinybus) | 2 | Rust | 2026-10-12 | A zbus-style message bus that keeps external integrations out of the OpenHuman kernel's dependency graph. |
-| 10 | [apowerb/apowerb](https://github.com/apowerb/apowerb) | 67 | Python | 2026-10-12 | The open-source agentic framework to build, orchestrate, and operate production AI agents. |
-| 11 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1229 | TypeScript | 2026-10-12 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co |
-| 12 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26725 | Python | 2026-10-12 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 13 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2312 | TypeScript | 2026-10-12 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 1 | [openamer/openamer](https://github.com/openamer/openamer) | 6 | Python | 2026-10-12 | Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac |
+| 2 | [Gi-Tuu/yai-agent-core](https://github.com/Gi-Tuu/yai-agent-core) | 3 | Python | 2026-10-12 | Embeddable self-adaptive agent kernel for host applications |
+| 3 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10758 | Python | 2026-10-12 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 4 | [bbvch-ai/aihub-core](https://github.com/bbvch-ai/aihub-core) | 14 | Python | 2026-10-12 | The open-source AI infrastructure stack for Swiss enterprises. |
+| 5 | [Siwendelimao/Nis](https://github.com/Siwendelimao/Nis) | 1 | TypeScript | 2026-10-12 | Self-hosted AI agent workbench - long-term memory, knowledge base, full toolchain. Desktop + mobile web + QQ/WeChat, bri |
+| 6 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 14 | Go | 2026-10-12 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
+| 7 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-10-12 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
+| 8 | [cortexkit/magic-context](https://github.com/cortexkit/magic-context) | 2313 | TypeScript | 2026-10-12 | Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK |
+| 9 | [ellmos-ai/usmc](https://github.com/ellmos-ai/usmc) | 1 | Python | 2026-10-12 | Local SQLite memory for LLM agents and cross-agent context sharing |
+| 10 | [bubbuild/bub](https://github.com/bubbuild/bub) | 1685 | Python | 2026-10-12 | Bub it. Build it. A tiny agent runtime, composable with plugins. |
+| 11 | [arcships/rutis](https://github.com/arcships/rutis) | 140 | Rust | 2026-10-12 | A plugin runtime for software that iterates on itself — the substrate where agents write, swap and hot-reload their own  |
+| 12 | [apowerb/apowerb](https://github.com/apowerb/apowerb) | 67 | Python | 2026-10-12 | The open-source agentic framework to build, orchestrate, and operate production AI agents. |
+| 13 | [bide-ai/bide](https://github.com/bide-ai/bide) | 4 | Go | 2026-10-12 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
 | 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35770 | Go | 2026-10-12 | A reliable coding agent for complex software engineering tasks. |
-| 15 | [aomi-labs/aomi-sdk](https://github.com/aomi-labs/aomi-sdk) | 4 | Rust | 2026-10-12 | Standalone SDK workspace for building Aomi dynamic plugins. |
-| 16 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 30 | Python | 2026-10-12 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
-| 17 | [LATTIX-IO/lattix-locus](https://github.com/LATTIX-IO/lattix-locus) | 1 | Python | 2026-10-12 | Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails. |
-| 18 | [arcships/rutis](https://github.com/arcships/rutis) | 140 | Rust | 2026-10-12 | A plugin runtime for software that iterates on itself — the substrate where agents write, swap and hot-reload their own  |
-| 19 | [KPO-Tech/seshat-runtime](https://github.com/KPO-Tech/seshat-runtime) | 5 | Go | 2026-10-12 | Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b |
-| 20 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 313 | TypeScript | 2026-10-12 | DIY your own agent team harness for long-horizon agent work |
-| 21 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 317 | TypeScript | 2026-10-12 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
-| 22 | [opencue/cuecards](https://github.com/opencue/cuecards) | 6 | TypeScript | 2026-10-12 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
-| 23 | [bide-ai/bide](https://github.com/bide-ai/bide) | 4 | Go | 2026-10-12 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
-| 24 | [kota-kawa/Marmo-Core](https://github.com/kota-kawa/Marmo-Core) | 0 | Python | 2026-10-12 | Python kernel and CLI for AI agents: route a goal to the right Memory, Skill, Tool, and Agent resources, then run them t |
-| 25 | [tedix-hq/tedix](https://github.com/tedix-hq/tedix) | 5 | TypeScript | 2026-10-12 | Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d |
-| 26 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 27 | [retrychx/agentia](https://github.com/retrychx/agentia) | 3 | TypeScript | 2026-10-12 | 面向应用开发的声明式 agent 服务开发框架：装饰器 + DI 声明四类能力，主 agent 编排执行；每次 run 产出结构化结果与可观测调用树（trace、成本、指标），交付可直接上线的服务。 |
-| 28 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 15501 | TypeScript | 2026-10-12 | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex |
-| 29 | [colmugx/posoco-extension](https://github.com/colmugx/posoco-extension) | 2 | MoonBit | 2026-10-12 | Official extension collection for posoco |
-| 30 | [cerredz/Vidbyte-SDK](https://github.com/cerredz/Vidbyte-SDK) | 0 | Python | 2026-10-12 | Python SDK for building, evaluating, and debugging reliable AI agent harnesses. |
-| 31 | [ozgurulukir/rubik](https://github.com/ozgurulukir/rubik) | 0 | Ruby | 2026-10-12 | Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP  |
-| 32 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 5184 | Java | 2026-10-12 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
-| 33 | [Gi-Tuu/yai-agent-core](https://github.com/Gi-Tuu/yai-agent-core) | 3 | Python | 2026-10-12 | Embeddable self-adaptive agent kernel for host applications |
-| 34 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-10-12 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
-| 35 | [ourostack/ouroboros](https://github.com/ourostack/ouroboros) | 3 | TypeScript | 2026-10-12 | TypeScript harness for building personal AI agents with durable memory — agents that live across your channels (CLI, Tea |
-| 36 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 266 | Python | 2026-10-12 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
-| 37 | [yunhai89/trss-agent-plugin](https://github.com/yunhai89/trss-agent-plugin) | 3 | JavaScript | 2026-10-12 | 基于 TRSS-Yunzai 的 AI Agent 插件框架：LLM 对话·工具调用·长期记忆·MCP·工具进化 \| A modular AI Agent runtime for TRSS-Yunzai with self-evolving |
-| 38 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 10758 | Python | 2026-10-12 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 39 | [lysy01528-hash/dkyj-director](https://github.com/lysy01528-hash/dkyj-director) | 0 | — | 2026-10-12 | Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse |
-| 40 | [xujian519/sati](https://github.com/xujian519/sati) | 2 | TypeScript | 2026-10-12 | 面向专利代理人、专利律师与知识产权从业者的桌面端专利智能体 |
-| 41 | [daniel06s6995/deepseek-harness-software-OPC](https://github.com/daniel06s6995/deepseek-harness-software-OPC) | 0 | JavaScript | 2026-10-12 | Transform DeepSeek Harness into a software company with 13 specialist departments, visualized on a live dashboard for re |
-| 42 | [Pericardiac-podzolsoil527/deepseek-plugin-store](https://github.com/Pericardiac-podzolsoil527/deepseek-plugin-store) | 0 | — | 2026-10-12 | 发现、安装 DeepSeek Harness 生态中的社区插件、工具与扩展，探索 1493+ 精选主题插件并实时更新目录。 |
-| 43 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-10-12 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
-| 44 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5939 | Java | 2026-10-12 | Build distributed, production-grade, long-running agents. |
-| 45 | [inclusionAI/AWorld](https://github.com/inclusionAI/AWorld) | 1242 | Python | 2026-10-12 | Search, understand, reproduce, and improve an idea with ease |
-| 46 | [NarraFork/NarraFork](https://github.com/NarraFork/NarraFork) | 81 | TypeScript | 2026-10-12 | An efficient durable harness for collaboration across people, models, and devices |
-| 47 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 2967 | Python | 2026-10-12 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 48 | [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) | 1202 | Ruby | 2026-10-12 | The most Token-efficient open-source AI Agent |
-| 49 | [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | 417 | Go | 2026-10-12 | Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice — runnable as a lib |
-| 50 | [Smita6756/Hbrain](https://github.com/Smita6756/Hbrain) | 0 | Python | 2026-10-12 | Orchestrate multiple AI specialists to process one query in parallel and generate a single integrated concept. |
+| 15 | [aomi-labs/aomi](https://github.com/aomi-labs/aomi) | 14 | TypeScript | 2026-10-12 | The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library. |
+| 16 | [NarraFork/NarraFork](https://github.com/NarraFork/NarraFork) | 81 | TypeScript | 2026-10-12 | An efficient durable harness for collaboration across people, models, and devices |
+| 17 | [pegner-ag/ooat](https://github.com/pegner-ag/ooat) | 0 | Python | 2026-10-12 | OOAT — Object-Oriented Agent Team: an open framework that decides per task whether a team of AI agents is worth its cost |
+| 18 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 313 | TypeScript | 2026-10-12 | DIY your own agent team harness for long-horizon agent work |
+| 19 | [luandapipi91/Wa-PiAgent](https://github.com/luandapipi91/Wa-PiAgent) | 3 | TypeScript | 2026-10-12 | A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team — MCP, skills, memory, IM channels. macOS  |
+| 20 | [LeonQin-ai/cognitive-os-agent](https://github.com/LeonQin-ai/cognitive-os-agent) | 2 | C | 2026-10-12 | Cognitive OS Agent Runtime in pure C11 — LLM is the accelerator, not the OS. 认知智能体操作系统：认知内核 · Memory OS · 多智能体编排 · 事务执行  |
+| 21 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-12 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 22 | [tinyhumansai/tinyconnectors](https://github.com/tinyhumansai/tinyconnectors) | 2 | Rust | 2026-10-12 | OAuth integrations & connectors for agents |
+| 23 | [tinyhumansai/tinychannels](https://github.com/tinyhumansai/tinychannels) | 8 | Rust | 2026-10-12 | All the various messaging channels for OpenHuman |
+| 24 | [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | 37 | Kotlin | 2026-10-12 | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic |
+| 25 | [LiSheng5/dsh-taskforce](https://github.com/LiSheng5/dsh-taskforce) | 0 | JavaScript | 2026-10-12 |  |
+| 26 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 20 | Rust | 2026-10-12 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 27 | [vgp7758/Agt](https://github.com/vgp7758/Agt) | 1 | Python | 2026-10-12 | An AI agent framework that builds itself — multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w |
+| 28 | [tinyhumansai/tinybus](https://github.com/tinyhumansai/tinybus) | 2 | Rust | 2026-10-12 | A zbus-style message bus that keeps external integrations out of the OpenHuman kernel's dependency graph. |
+| 29 | [autonomous-ai/openharness](https://github.com/autonomous-ai/openharness) | 1229 | TypeScript | 2026-10-12 | The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co |
+| 30 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26725 | Python | 2026-10-12 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
+| 31 | [aomi-labs/aomi-sdk](https://github.com/aomi-labs/aomi-sdk) | 4 | Rust | 2026-10-12 | Standalone SDK workspace for building Aomi dynamic plugins. |
+| 32 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 30 | Python | 2026-10-12 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 33 | [LATTIX-IO/lattix-locus](https://github.com/LATTIX-IO/lattix-locus) | 1 | Python | 2026-10-12 | Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails. |
+| 34 | [KPO-Tech/seshat-runtime](https://github.com/KPO-Tech/seshat-runtime) | 5 | Go | 2026-10-12 | Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b |
+| 35 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 317 | TypeScript | 2026-10-12 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
+| 36 | [opencue/cuecards](https://github.com/opencue/cuecards) | 6 | TypeScript | 2026-10-12 | Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load |
+| 37 | [kota-kawa/Marmo-Core](https://github.com/kota-kawa/Marmo-Core) | 0 | Python | 2026-10-12 | Python kernel and CLI for AI agents: route a goal to the right Memory, Skill, Tool, and Agent resources, then run them t |
+| 38 | [tedix-hq/tedix](https://github.com/tedix-hq/tedix) | 5 | TypeScript | 2026-10-12 | Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d |
+| 39 | [retrychx/agentia](https://github.com/retrychx/agentia) | 3 | TypeScript | 2026-10-12 | 面向应用开发的声明式 agent 服务开发框架：装饰器 + DI 声明四类能力，主 agent 编排执行；每次 run 产出结构化结果与可观测调用树（trace、成本、指标），交付可直接上线的服务。 |
+| 40 | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 15501 | TypeScript | 2026-10-12 | Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex |
+| 41 | [colmugx/posoco-extension](https://github.com/colmugx/posoco-extension) | 2 | MoonBit | 2026-10-12 | Official extension collection for posoco |
+| 42 | [ozgurulukir/rubik](https://github.com/ozgurulukir/rubik) | 0 | Ruby | 2026-10-12 | Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP  |
+| 43 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 5184 | Java | 2026-10-12 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
+| 44 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-10-12 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
+| 45 | [ourostack/ouroboros](https://github.com/ourostack/ouroboros) | 3 | TypeScript | 2026-10-12 | TypeScript harness for building personal AI agents with durable memory — agents that live across your channels (CLI, Tea |
+| 46 | [xuiltul/animaworks](https://github.com/xuiltul/animaworks) | 266 | Python | 2026-10-12 | Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model  |
+| 47 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 48966 | Python | 2026-10-12 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 48 | [yunhai89/trss-agent-plugin](https://github.com/yunhai89/trss-agent-plugin) | 3 | JavaScript | 2026-10-12 | 基于 TRSS-Yunzai 的 AI Agent 插件框架：LLM 对话·工具调用·长期记忆·MCP·工具进化 \| A modular AI Agent runtime for TRSS-Yunzai with self-evolving |
+| 49 | [lysy01528-hash/dkyj-director](https://github.com/lysy01528-hash/dkyj-director) | 0 | — | 2026-10-12 | Build and rehearse cinematic previs in Blender with your own AI agent, then direct a virtual camera live from any browse |
+| 50 | [xujian519/sati](https://github.com/xujian519/sati) | 2 | TypeScript | 2026-10-12 | 面向专利代理人、专利律师与知识产权从业者的桌面端专利智能体 |
 <!-- TRACKER_TABLE_END -->
 
 ---
