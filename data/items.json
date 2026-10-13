@@ -1,30 +1,12 @@
 [
   {
-    "description": "Marg \u2014 the Agent Development Kit for conversational agents that finish a job: runtime-owned steps, typed decisions, eval",
-    "id": "marg-adk/marg",
-    "language": "TypeScript",
-    "name": "marg-adk/marg",
-    "stars": 0,
-    "updated_at": "2026-10-13T20:45:03Z",
-    "url": "https://github.com/marg-adk/marg"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10785,
-    "updated_at": "2026-10-13T20:45:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-13T20:44:24Z",
-    "url": "https://github.com/bide-ai/bide"
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 123,
+    "updated_at": "2026-10-13T20:58:57Z",
+    "url": "https://github.com/skerry699/agent-symphony"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -32,26 +14,26 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 14,
-    "updated_at": "2026-10-13T20:44:33Z",
+    "updated_at": "2026-10-13T20:59:01Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
-    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
-    "id": "Rovinos-AI/rovinos-ai-harness",
+    "description": "Marg \u2014 the Agent Development Kit for conversational agents that finish a job: runtime-owned steps, typed decisions, eval",
+    "id": "marg-adk/marg",
     "language": "TypeScript",
-    "name": "Rovinos-AI/rovinos-ai-harness",
+    "name": "marg-adk/marg",
     "stars": 0,
-    "updated_at": "2026-10-13T20:44:40Z",
-    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+    "updated_at": "2026-10-13T20:58:46Z",
+    "url": "https://github.com/marg-adk/marg"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35778,
-    "updated_at": "2026-10-13T20:43:38Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    "description": "AYGENT is an Open Source AI Agent Harness with built-in security, memory, cron, and parallel threads.",
+    "id": "masonleetompkins/aygent-core",
+    "language": "Rust",
+    "name": "masonleetompkins/aygent-core",
+    "stars": 2,
+    "updated_at": "2026-10-13T20:58:34Z",
+    "url": "https://github.com/masonleetompkins/aygent-core"
   },
   {
     "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
@@ -59,8 +41,89 @@
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
     "stars": 8,
-    "updated_at": "2026-10-13T20:41:38Z",
+    "updated_at": "2026-10-13T20:57:40Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
+    "id": "Justin0504/Sovereign-OS",
+    "language": "Python",
+    "name": "Justin0504/Sovereign-OS",
+    "stars": 93,
+    "updated_at": "2026-10-13T20:56:55Z",
+    "url": "https://github.com/Justin0504/Sovereign-OS"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-13T20:56:31Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20595,
+    "updated_at": "2026-10-13T20:55:13Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4993,
+    "updated_at": "2026-10-13T21:00:25Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35778,
+    "updated_at": "2026-10-13T20:56:10Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10786,
+    "updated_at": "2026-10-13T20:59:28Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-13T20:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-13T20:59:40Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-13T20:57:53Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T20:39:22Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-13T20:38:55Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-13T20:33:43Z",
+    "updated_at": "2026-10-13T20:55:45Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 23,
-    "updated_at": "2026-10-13T20:36:49Z",
+    "updated_at": "2026-10-13T21:00:22Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/joelaniol/nova"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20594,
-    "updated_at": "2026-10-13T20:44:03Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -401,52 +446,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinyagents",
     "stars": 122,
-    "updated_at": "2026-10-13T20:38:35Z",
+    "updated_at": "2026-10-13T20:50:34Z",
     "url": "https://github.com/tinyhumansai/tinyagents"
-  },
-  {
-    "description": "Lightweight TypeScript framework for building agentic tools.",
-    "id": "Tom-R-Main/openFunctions",
-    "language": "TypeScript",
-    "name": "Tom-R-Main/openFunctions",
-    "stars": 4,
-    "updated_at": "2026-10-13T19:48:43Z",
-    "url": "https://github.com/Tom-R-Main/openFunctions"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-10-13T19:44:30Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
-    "id": "carlosmartinezt/chloejs",
-    "language": "TypeScript",
-    "name": "carlosmartinezt/chloejs",
-    "stars": 2,
-    "updated_at": "2026-10-13T19:46:16Z",
-    "url": "https://github.com/carlosmartinezt/chloejs"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-13T19:42:43Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Python framework for typed LLM agents with conditional tool chaining.",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-13T19:39:39Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
   }
 ]
