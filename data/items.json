@@ -1,5 +1,32 @@
 [
   {
+    "description": "Give an AI team a goal and watch it plan, hand off and deliver. Missions, live public-API tools, 3D-style agents. No API",
+    "id": "Rajeshkadali97/agencyforge",
+    "language": "TypeScript",
+    "name": "Rajeshkadali97/agencyforge",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:44:17Z",
+    "url": "https://github.com/Rajeshkadali97/agencyforge"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-13T00:42:39Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-13T00:41:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
     "id": "dryvist/ai-assistant-instructions",
     "language": "Shell",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-10-13T00:39:39Z",
+    "updated_at": "2026-10-13T00:43:08Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-13T00:39:08Z",
+    "updated_at": "2026-10-13T00:44:25Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:39:41Z",
     "url": "https://github.com/Rovinos-PoC/rovinos-ai-harness"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-13T00:36:04Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -113,17 +131,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10770,
-    "updated_at": "2026-10-13T00:30:53Z",
+    "updated_at": "2026-10-13T00:41:36Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-13T00:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2974,
-    "updated_at": "2026-10-13T00:32:54Z",
+    "updated_at": "2026-10-13T00:43:38Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1234,
-    "updated_at": "2026-10-13T00:16:05Z",
+    "updated_at": "2026-10-13T00:42:31Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-13T00:01:47Z",
     "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-10-12T23:59:59Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
   }
 ]
