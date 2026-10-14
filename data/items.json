@@ -1,12 +1,174 @@
 [
   {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-14T14:29:48Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26739,
+    "updated_at": "2026-10-14T14:29:41Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:29:40Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
+    "id": "fabbrik/AgentExperience.NET",
+    "language": "C#",
+    "name": "fabbrik/AgentExperience.NET",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:29:34Z",
+    "url": "https://github.com/fabbrik/AgentExperience.NET"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 42,
+    "updated_at": "2026-10-14T14:29:52Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35795,
+    "updated_at": "2026-10-14T14:29:13Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "SKILL.md compatibility and execution written in rust",
+    "id": "tinyhumansai/tinyskills",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyskills",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:27:03Z",
+    "url": "https://github.com/tinyhumansai/tinyskills"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 5980,
+    "updated_at": "2026-10-14T14:26:44Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "stars": 3,
+    "updated_at": "2026-10-14T14:25:53Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
+  },
+  {
+    "description": "Marg \u2014 the Agent Development Kit for conversational agents that finish a job: runtime-owned steps, typed decisions, eval",
+    "id": "marg-adk/marg",
+    "language": "TypeScript",
+    "name": "marg-adk/marg",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:23:50Z",
+    "url": "https://github.com/marg-adk/marg"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 21,
+    "updated_at": "2026-10-14T14:24:53Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 60,
-    "updated_at": "2026-10-14T14:15:15Z",
+    "updated_at": "2026-10-14T14:21:59Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
+    "id": "Spitfire-Products/nexus-cortex",
+    "language": "TypeScript",
+    "name": "Spitfire-Products/nexus-cortex",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:21:48Z",
+    "url": "https://github.com/Spitfire-Products/nexus-cortex"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10806,
+    "updated_at": "2026-10-14T14:23:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-14T14:20:31Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
+    "id": "junebuild/june",
+    "language": "TypeScript",
+    "name": "junebuild/june",
+    "stars": 4,
+    "updated_at": "2026-10-14T14:18:11Z",
+    "url": "https://github.com/junebuild/june"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 17,
+    "updated_at": "2026-10-14T14:17:15Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Python",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:18:16Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-14T14:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83c\udf93 LEAP Framework \u2014 a state-driven agentic tutoring runtime for AI agents, exposed over MCP. Server-side State Guard, evi",
@@ -32,7 +194,7 @@
     "language": "Python",
     "name": "polycog/cognition",
     "stars": 7,
-    "updated_at": "2026-10-14T14:13:12Z",
+    "updated_at": "2026-10-14T14:23:58Z",
     "url": "https://github.com/polycog/cognition"
   },
   {
@@ -41,26 +203,8 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 14126,
-    "updated_at": "2026-10-14T14:12:19Z",
+    "updated_at": "2026-10-14T14:27:37Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "Marg \u2014 the Agent Development Kit for conversational agents that finish a job: runtime-owned steps, typed decisions, eval",
-    "id": "marg-adk/marg",
-    "language": "TypeScript",
-    "name": "marg-adk/marg",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:15:18Z",
-    "url": "https://github.com/marg-adk/marg"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-14T14:14:35Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Decision model (JEV) based harness to perform Desktop & Browser automation. Written in Rust. ",
@@ -121,7 +265,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8807,
+    "stars": 8808,
     "updated_at": "2026-10-14T14:06:47Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -131,26 +275,17 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-14T14:12:41Z",
+    "updated_at": "2026-10-14T14:19:23Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35796,
-    "updated_at": "2026-10-14T14:01:41Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-14T14:01:14Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1253,
+    "updated_at": "2026-10-14T14:27:04Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Open platform for running Managed Agents at scale",
@@ -176,7 +311,7 @@
     "language": "TypeScript",
     "name": "NarraFork/NarraFork",
     "stars": 81,
-    "updated_at": "2026-10-14T13:58:30Z",
+    "updated_at": "2026-10-14T14:26:15Z",
     "url": "https://github.com/NarraFork/NarraFork"
   },
   {
@@ -196,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T14:15:03Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10806,
-    "updated_at": "2026-10-14T14:11:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
@@ -238,7 +364,7 @@
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 318,
+    "stars": 319,
     "updated_at": "2026-10-14T13:54:37Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
@@ -250,15 +376,6 @@
     "stars": 309,
     "updated_at": "2026-10-14T13:54:21Z",
     "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26739,
-    "updated_at": "2026-10-14T13:56:16Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -288,21 +405,12 @@
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-14T14:07:59Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 324,
-    "updated_at": "2026-10-14T13:47:13Z",
+    "updated_at": "2026-10-14T14:18:13Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -311,17 +419,8 @@
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 99,
-    "updated_at": "2026-10-14T14:06:19Z",
+    "updated_at": "2026-10-14T14:20:03Z",
     "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:42:57Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "Open Autonomy library skills to interact with Olas Marketplace",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:38:23Z",
     "url": "https://github.com/lzcdr/nano_harness"
-  },
-  {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "TypeScript",
-    "name": "qbtrix/ripple-iui",
-    "stars": 8,
-    "updated_at": "2026-10-14T14:12:58Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
-    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
-    "id": "vincemakes/kiso",
-    "language": "TypeScript",
-    "name": "vincemakes/kiso",
-    "stars": 70,
-    "updated_at": "2026-10-14T14:08:12Z",
-    "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 678,
-    "updated_at": "2026-10-14T14:05:02Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15536,
-    "updated_at": "2026-10-14T13:33:24Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-14T13:32:33Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
-    "id": "neomjs/neo-agent-institution",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-institution",
-    "stars": 11,
-    "updated_at": "2026-10-14T13:32:08Z",
-    "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 45,
-    "updated_at": "2026-10-14T13:27:43Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "The React framework for building agents into real apps \u2014 one definition serves humans (streamed HTML, zero client JS) an",
-    "id": "junebuild/june",
-    "language": "TypeScript",
-    "name": "junebuild/june",
-    "stars": 4,
-    "updated_at": "2026-10-14T14:10:50Z",
-    "url": "https://github.com/junebuild/june"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 2,
-    "updated_at": "2026-10-14T13:58:39Z",
-    "url": "https://github.com/xujian519/sati"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20612,
-    "updated_at": "2026-10-14T13:53:54Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2369,
-    "updated_at": "2026-10-14T13:25:00Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
