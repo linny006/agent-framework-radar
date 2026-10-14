@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-14T14:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 14,
+    "updated_at": "2026-10-14T14:00:21Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
     "description": "Open platform for running Managed Agents at scale",
     "id": "invergent-ai/surogates",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "carlosmartinezt/chloejs",
     "stars": 5,
-    "updated_at": "2026-10-14T13:58:44Z",
+    "updated_at": "2026-10-14T14:01:04Z",
     "url": "https://github.com/carlosmartinezt/chloejs"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-14T13:59:05Z",
+    "updated_at": "2026-10-14T14:00:51Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -144,15 +162,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 14,
-    "updated_at": "2026-10-14T14:00:21Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
     "id": "uukuguy/capstone",
     "language": "Python",
@@ -169,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-10-14T13:47:31Z",
     "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-14T13:45:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -329,7 +329,7 @@
     "language": "TypeScript",
     "name": "junebuild/june",
     "stars": 4,
-    "updated_at": "2026-10-14T13:50:57Z",
+    "updated_at": "2026-10-14T14:00:37Z",
     "url": "https://github.com/junebuild/june"
   },
   {

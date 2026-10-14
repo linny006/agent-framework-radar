@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 14:00 UTC
+> ⏰ Last updated: 2026-10-14 14:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [invergent-ai/surogates](https://github.com/invergent-ai/surogates) | 28 | Python | 2026-10-14 | Open platform for running Managed Agents at scale |
-| 2 | [carlosmartinezt/chloejs](https://github.com/carlosmartinezt/chloejs) | 5 | TypeScript | 2026-10-14 | TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th |
-| 3 | [NarraFork/NarraFork](https://github.com/NarraFork/NarraFork) | 81 | TypeScript | 2026-10-14 | An efficient durable harness for collaboration across people, models, and devices |
-| 4 | [weftgo/weft](https://github.com/weftgo/weft) | 3 | Go | 2026-10-14 | Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and  |
-| 5 | [bide-ai/bide](https://github.com/bide-ai/bide) | 4 | Go | 2026-10-14 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
-| 6 | [Rovinos-AI/rovinos-ai-harness](https://github.com/Rovinos-AI/rovinos-ai-harness) | 0 | TypeScript | 2026-10-14 | Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t |
-| 7 | [tmk-computers/vps-infra](https://github.com/tmk-computers/vps-infra) | 1 | Shell | 2026-10-14 | Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul |
-| 8 | [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) | 8 | Rust | 2026-10-14 | A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. |
-| 9 | [tinyhumansai/tinyflows](https://github.com/tinyhumansai/tinyflows) | 72 | Rust | 2026-10-14 | Open-source Agentic workflows built using Rust |
-| 10 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 317 | TypeScript | 2026-10-14 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
-| 11 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 309 | Python | 2026-10-14 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
-| 12 | [tinyhumansai/tinymcp](https://github.com/tinyhumansai/tinymcp) | 3 | Rust | 2026-10-14 | MCP loader and registry written in rust |
-| 13 | [marg-adk/marg](https://github.com/marg-adk/marg) | 0 | TypeScript | 2026-10-14 | Marg — the Agent Development Kit for conversational agents that finish a job: runtime-owned steps, typed decisions, eval |
-| 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35796 | Go | 2026-10-14 | A reliable coding agent for complex software engineering tasks. |
-| 15 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26739 | Python | 2026-10-14 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 16 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-10-14 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
-| 17 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 14 | Go | 2026-10-14 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
-| 18 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-10-14 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
-| 19 | [ek33450505/claude-agent-team](https://github.com/ek33450505/claude-agent-team) | 8 | Shell | 2026-10-14 | Local-first governance layer for Claude Code, built entirely on its native primitives — hooks, subagents, skills, MCP. T |
-| 20 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-14 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 1 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-14 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 14 | Go | 2026-10-14 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
+| 3 | [invergent-ai/surogates](https://github.com/invergent-ai/surogates) | 28 | Python | 2026-10-14 | Open platform for running Managed Agents at scale |
+| 4 | [carlosmartinezt/chloejs](https://github.com/carlosmartinezt/chloejs) | 5 | TypeScript | 2026-10-14 | TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th |
+| 5 | [NarraFork/NarraFork](https://github.com/NarraFork/NarraFork) | 81 | TypeScript | 2026-10-14 | An efficient durable harness for collaboration across people, models, and devices |
+| 6 | [weftgo/weft](https://github.com/weftgo/weft) | 3 | Go | 2026-10-14 | Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and  |
+| 7 | [bide-ai/bide](https://github.com/bide-ai/bide) | 4 | Go | 2026-10-14 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
+| 8 | [Rovinos-AI/rovinos-ai-harness](https://github.com/Rovinos-AI/rovinos-ai-harness) | 0 | TypeScript | 2026-10-14 | Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t |
+| 9 | [tmk-computers/vps-infra](https://github.com/tmk-computers/vps-infra) | 1 | Shell | 2026-10-14 | Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul |
+| 10 | [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) | 8 | Rust | 2026-10-14 | A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. |
+| 11 | [tinyhumansai/tinyflows](https://github.com/tinyhumansai/tinyflows) | 72 | Rust | 2026-10-14 | Open-source Agentic workflows built using Rust |
+| 12 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 317 | TypeScript | 2026-10-14 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
+| 13 | [jin-bo/agentao](https://github.com/jin-bo/agentao) | 309 | Python | 2026-10-14 | Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, |
+| 14 | [tinyhumansai/tinymcp](https://github.com/tinyhumansai/tinymcp) | 3 | Rust | 2026-10-14 | MCP loader and registry written in rust |
+| 15 | [marg-adk/marg](https://github.com/marg-adk/marg) | 0 | TypeScript | 2026-10-14 | Marg — the Agent Development Kit for conversational agents that finish a job: runtime-owned steps, typed decisions, eval |
+| 16 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35796 | Go | 2026-10-14 | A reliable coding agent for complex software engineering tasks. |
+| 17 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26739 | Python | 2026-10-14 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
+| 18 | [sytone/botnexus](https://github.com/sytone/botnexus) | 2 | C# | 2026-10-14 | BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in  |
+| 19 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-10-14 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
+| 20 | [ek33450505/claude-agent-team](https://github.com/ek33450505/claude-agent-team) | 8 | Shell | 2026-10-14 | Local-first governance layer for Claude Code, built entirely on its native primitives — hooks, subagents, skills, MCP. T |
 | 21 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-14 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
 | 22 | [cortexkit/aft](https://github.com/cortexkit/aft) | 324 | Rust | 2026-10-14 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
 | 23 | [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) | 99 | Python | 2026-10-14 | Sovereign Agentic AI Layer: your company's AI agents on your servers, models and rules. Skills, context files, 5700+ MCP |
