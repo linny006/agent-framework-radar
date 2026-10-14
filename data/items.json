@@ -1,5 +1,59 @@
 [
   {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-14T20:42:24Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 4996,
+    "updated_at": "2026-10-14T20:38:17Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Secure, local-first AI development platform with supply-chain security gate.  Run coding agents offline (Claude, ChatGPT",
+    "id": "francescopelizza-omega/PROMETHEUS",
+    "language": "TypeScript",
+    "name": "francescopelizza-omega/PROMETHEUS",
+    "stars": 1,
+    "updated_at": "2026-10-14T20:37:12Z",
+    "url": "https://github.com/francescopelizza-omega/PROMETHEUS"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 324,
+    "updated_at": "2026-10-14T20:43:43Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Tool schema and agent friendly defaults",
+    "id": "tinyhumansai/tinytools",
+    "language": "Rust",
+    "name": "tinyhumansai/tinytools",
+    "stars": 1,
+    "updated_at": "2026-10-14T20:31:36Z",
+    "url": "https://github.com/tinyhumansai/tinytools"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-14T20:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 23,
-    "updated_at": "2026-10-14T20:30:05Z",
+    "updated_at": "2026-10-14T20:45:18Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20618,
-    "updated_at": "2026-10-14T20:29:54Z",
+    "updated_at": "2026-10-14T20:37:24Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-14T20:30:19Z",
+    "updated_at": "2026-10-14T20:42:55Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -180,21 +234,12 @@
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-14T20:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8813,
-    "updated_at": "2026-10-14T20:14:22Z",
+    "updated_at": "2026-10-14T20:39:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T20:16:17Z",
+    "updated_at": "2026-10-14T20:37:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-14T20:28:27Z",
+    "updated_at": "2026-10-14T20:43:49Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/agents-inc/agents-inc"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4996,
-    "updated_at": "2026-10-14T20:01:26Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
     "id": "tmk-computers/vps-infra",
     "language": "Shell",
@@ -297,21 +333,12 @@
     "url": "https://github.com/tmk-computers/vps-infra"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 324,
-    "updated_at": "2026-10-14T20:29:02Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Agentic Development Lifecycle",
     "id": "voodootikigod/adlc",
     "language": "JavaScript",
     "name": "voodootikigod/adlc",
     "stars": 23,
-    "updated_at": "2026-10-14T20:29:53Z",
+    "updated_at": "2026-10-14T20:38:15Z",
     "url": "https://github.com/voodootikigod/adlc"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10812,
-    "updated_at": "2026-10-14T20:29:27Z",
+    "updated_at": "2026-10-14T20:41:49Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-14T19:35:26Z",
     "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 60,
-    "updated_at": "2026-10-14T19:28:44Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6427,
-    "updated_at": "2026-10-14T19:30:57Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "A zbus-style message bus that keeps external integrations out of the OpenHuman kernel's dependency graph.",
-    "id": "tinyhumansai/tinybus",
-    "language": "Rust",
-    "name": "tinyhumansai/tinybus",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:26:33Z",
-    "url": "https://github.com/tinyhumansai/tinybus"
   }
 ]
