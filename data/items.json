@@ -1,12 +1,12 @@
 [
   {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
+    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
+    "id": "aequitas-labs/lobstah",
     "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 678,
-    "updated_at": "2026-10-14T19:44:04Z",
-    "url": "https://github.com/framerslab/agentos"
+    "name": "aequitas-labs/lobstah",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:59:46Z",
+    "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -14,8 +14,89 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 60,
-    "updated_at": "2026-10-14T19:43:29Z",
+    "updated_at": "2026-10-14T19:57:45Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 324,
+    "updated_at": "2026-10-14T19:55:59Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Agentic Development Lifecycle",
+    "id": "voodootikigod/adlc",
+    "language": "JavaScript",
+    "name": "voodootikigod/adlc",
+    "stars": 23,
+    "updated_at": "2026-10-14T19:54:50Z",
+    "url": "https://github.com/voodootikigod/adlc"
+  },
+  {
+    "description": "DSPy Go implementation",
+    "id": "XiaoConstantine/dspy-go",
+    "language": "Go",
+    "name": "XiaoConstantine/dspy-go",
+    "stars": 199,
+    "updated_at": "2026-10-14T19:54:42Z",
+    "url": "https://github.com/XiaoConstantine/dspy-go"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35798,
+    "updated_at": "2026-10-14T19:59:08Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 678,
+    "updated_at": "2026-10-14T19:51:02Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Modular AI agent runtime for explainable, stateful, and bounded workflows with explicit module, capability, and executio",
+    "id": "beesyst/beeagent",
+    "language": "Python",
+    "name": "beesyst/beeagent",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:50:57Z",
+    "url": "https://github.com/beesyst/beeagent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 83,
+    "updated_at": "2026-10-14T19:46:25Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-14T19:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10812,
+    "updated_at": "2026-10-14T19:58:55Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20618,
-    "updated_at": "2026-10-14T19:43:03Z",
+    "updated_at": "2026-10-14T19:55:46Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -54,21 +135,12 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Modular AI agent runtime for explainable, stateful, and bounded workflows with explicit module, capability, and executio",
-    "id": "beesyst/beeagent",
-    "language": "Python",
-    "name": "beesyst/beeagent",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:40:11Z",
-    "url": "https://github.com/beesyst/beeagent"
-  },
-  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-14T19:42:12Z",
+    "updated_at": "2026-10-14T19:57:28Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -90,24 +162,6 @@
     "url": "https://github.com/thenaxon/somora_agent"
   },
   {
-    "description": "Agentic Development Lifecycle",
-    "id": "voodootikigod/adlc",
-    "language": "JavaScript",
-    "name": "voodootikigod/adlc",
-    "stars": 23,
-    "updated_at": "2026-10-14T19:38:01Z",
-    "url": "https://github.com/voodootikigod/adlc"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35797,
-    "updated_at": "2026-10-14T19:43:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
     "id": "aeonfun/aeon",
     "language": "JavaScript",
@@ -122,7 +176,7 @@
     "language": "Rust",
     "name": "matakartal/aikit-runtime",
     "stars": 1,
-    "updated_at": "2026-10-14T19:41:11Z",
+    "updated_at": "2026-10-14T19:46:52Z",
     "url": "https://github.com/matakartal/aikit-runtime"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T19:30:56Z",
+    "updated_at": "2026-10-14T19:55:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -160,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T19:30:51Z",
     "url": "https://github.com/tmk-computers/vps-infra"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-14T19:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 83,
-    "updated_at": "2026-10-14T19:30:11Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
@@ -234,15 +270,6 @@
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10810,
-    "updated_at": "2026-10-14T19:44:38Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
     "id": "jlcatonjr/agentteams",
     "language": "Python",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 4995,
-    "updated_at": "2026-10-14T19:18:31Z",
+    "updated_at": "2026-10-14T19:59:21Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -266,17 +293,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T19:34:16Z",
+    "updated_at": "2026-10-14T19:59:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 324,
-    "updated_at": "2026-10-14T19:38:03Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
@@ -373,7 +391,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 49030,
+    "stars": 49034,
     "updated_at": "2026-10-14T18:43:26Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "Tachion-Oy/roboz",
     "stars": 0,
-    "updated_at": "2026-10-14T18:31:17Z",
+    "updated_at": "2026-10-14T19:59:59Z",
     "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-14T18:21:03Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvgeos",
-    "language": "Python",
-    "name": "IAmNo1Special/mvgeos",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:20:03Z",
-    "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "Production-tested workflow system for Claude Code: 17 skills, 13 specialized agents, two-tier task tracking, and enforce",
-    "id": "ingimar-eyfjord/claude-code-agent-workflows",
-    "language": "JavaScript",
-    "name": "ingimar-eyfjord/claude-code-agent-workflows",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:19:29Z",
-    "url": "https://github.com/ingimar-eyfjord/claude-code-agent-workflows"
   }
 ]
