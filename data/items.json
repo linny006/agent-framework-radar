@@ -1,12 +1,12 @@
 [
   {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 678,
-    "updated_at": "2026-10-14T22:44:43Z",
-    "url": "https://github.com/framerslab/agentos"
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:57:55Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -14,8 +14,98 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 60,
-    "updated_at": "2026-10-14T22:45:13Z",
+    "updated_at": "2026-10-14T22:57:33Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:56:03Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 12,
+    "updated_at": "2026-10-14T22:53:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 678,
+    "updated_at": "2026-10-14T22:51:21Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10812,
+    "updated_at": "2026-10-14T22:54:47Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-14T22:49:21Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 104,
+    "updated_at": "2026-10-14T22:47:15Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-14T22:46:18Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-10-14T22:46:14Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-14T22:45:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 8,
+    "updated_at": "2026-10-14T22:45:15Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -25,24 +115,6 @@
     "stars": 358,
     "updated_at": "2026-10-14T22:43:17Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-14T22:43:06Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10812,
-    "updated_at": "2026-10-14T22:45:16Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby o",
@@ -68,17 +140,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 324,
-    "updated_at": "2026-10-14T22:40:28Z",
+    "updated_at": "2026-10-14T22:50:47Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-10-14T22:39:50Z",
-    "url": "https://github.com/sytone/botnexus"
   },
   {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
@@ -88,15 +151,6 @@
     "stars": 319,
     "updated_at": "2026-10-14T22:37:16Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 12,
-    "updated_at": "2026-10-14T22:44:30Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-14T22:32:27Z",
+    "updated_at": "2026-10-14T22:50:37Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -135,20 +189,11 @@
     "url": "https://github.com/tmk-computers/vps-infra"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-14T22:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
-    "stars": 8815,
+    "stars": 8816,
     "updated_at": "2026-10-14T22:30:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20619,
-    "updated_at": "2026-10-14T22:43:01Z",
+    "updated_at": "2026-10-14T22:59:39Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -207,21 +252,12 @@
     "url": "https://github.com/reda-baqechame/self-learning-24.7-agent"
   },
   {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-14T22:18:46Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
     "description": "Sovereign Agentic AI Layer: your company's AI agents on your servers, models and rules. Skills, context files, 5700+ MCP",
     "id": "vstorm-co/agenticos",
     "language": "Python",
     "name": "vstorm-co/agenticos",
     "stars": 100,
-    "updated_at": "2026-10-14T22:18:11Z",
+    "updated_at": "2026-10-14T22:58:27Z",
     "url": "https://github.com/vstorm-co/agenticos"
   },
   {
@@ -241,6 +277,15 @@
     "stars": 4996,
     "updated_at": "2026-10-14T22:14:43Z",
     "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1582,
+    "updated_at": "2026-10-14T22:10:50Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -295,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-10-14T21:52:49Z",
     "url": "https://github.com/Ecro/harness-maker"
-  },
-  {
-    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
-    "id": "autoyou-ai/AutoYou-Server",
-    "language": "Python",
-    "name": "autoyou-ai/AutoYou-Server",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:52:09Z",
-    "url": "https://github.com/autoyou-ai/AutoYou-Server"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:20:05Z",
     "url": "https://github.com/siso-os/siso-estate"
-  },
-  {
-    "description": "One app to run every coding agent you have: Claude Code, Codex and more, side by side.",
-    "id": "siso-os/agent-base",
-    "language": "TypeScript",
-    "name": "siso-os/agent-base",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:16:50Z",
-    "url": "https://github.com/siso-os/agent-base"
-  },
-  {
-    "description": "Autonomous multi-agent coordination for the JVM",
-    "id": "mauro-mura/agenor",
-    "language": "Java",
-    "name": "mauro-mura/agenor",
-    "stars": 0,
-    "updated_at": "2026-10-14T22:25:18Z",
-    "url": "https://github.com/mauro-mura/agenor"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:11:56Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-14T21:11:46Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
