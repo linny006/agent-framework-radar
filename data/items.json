@@ -1,12 +1,111 @@
 [
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35799,
+    "updated_at": "2026-10-14T21:29:59Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-14T21:15:19Z",
+    "updated_at": "2026-10-14T21:30:00Z",
     "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Research that compiles.",
+    "id": "grainulation/grainulator",
+    "language": "JavaScript",
+    "name": "grainulation/grainulator",
+    "stars": 86,
+    "updated_at": "2026-10-14T21:27:33Z",
+    "url": "https://github.com/grainulation/grainulator"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:27:40Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 23,
+    "updated_at": "2026-10-14T21:26:51Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:25:10Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 4,
+    "updated_at": "2026-10-14T21:23:57Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.",
+    "id": "agents-squads/squads-cli",
+    "language": "TypeScript",
+    "name": "agents-squads/squads-cli",
+    "stars": 54,
+    "updated_at": "2026-10-14T21:26:48Z",
+    "url": "https://github.com/agents-squads/squads-cli"
+  },
+  {
+    "description": "Keeps a machine full of agent repos in order: one map, a register of every repo, front doors, backups and a doctor.",
+    "id": "siso-os/siso-estate",
+    "language": "Python",
+    "name": "siso-os/siso-estate",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:20:05Z",
+    "url": "https://github.com/siso-os/siso-estate"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 8,
+    "updated_at": "2026-10-14T21:18:37Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "One app to run every coding agent you have: Claude Code, Codex and more, side by side.",
+    "id": "siso-os/agent-base",
+    "language": "TypeScript",
+    "name": "siso-os/agent-base",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:16:50Z",
+    "url": "https://github.com/siso-os/agent-base"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-14T21:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous multi-agent coordination for the JVM",
@@ -27,21 +126,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-14T21:13:59Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-14T21:14:44Z",
+    "updated_at": "2026-10-14T21:26:06Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -63,21 +153,12 @@
     "url": "https://github.com/111nathanlar/Agent-Worlds"
   },
   {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:15:17Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-14T21:11:17Z",
+    "updated_at": "2026-10-14T21:20:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -108,15 +189,6 @@
     "url": "https://github.com/tinyhumansai/tinyagents"
   },
   {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 23,
-    "updated_at": "2026-10-14T21:02:18Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
-  },
-  {
     "description": "Capable coding agents on local Ollama models \u2014 including the small ones. Task-based model routing, tolerant tool-call pa",
     "id": "CaYatur/cayadev-ai-hub",
     "language": "Rust",
@@ -124,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T21:01:42Z",
     "url": "https://github.com/CaYatur/cayadev-ai-hub"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-14T21:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
@@ -180,15 +243,6 @@
     "url": "https://github.com/showjihyun/aether"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35799,
-    "updated_at": "2026-10-14T20:50:59Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
@@ -221,17 +275,8 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8814,
-    "updated_at": "2026-10-14T20:46:05Z",
+    "updated_at": "2026-10-14T21:30:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 7,
-    "updated_at": "2026-10-14T20:46:02Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 2999,
-    "updated_at": "2026-10-14T21:02:27Z",
+    "updated_at": "2026-10-14T21:22:55Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20618,
-    "updated_at": "2026-10-14T21:12:38Z",
+    "updated_at": "2026-10-14T21:27:28Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "autoyou-ai/AutoYou-Server",
     "stars": 0,
-    "updated_at": "2026-10-14T20:27:00Z",
+    "updated_at": "2026-10-14T21:27:16Z",
     "url": "https://github.com/autoyou-ai/AutoYou-Server"
   },
   {
@@ -383,7 +428,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 60,
-    "updated_at": "2026-10-14T20:18:47Z",
+    "updated_at": "2026-10-14T21:22:57Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-14T20:16:11Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-14T21:07:52Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-10-14T20:13:37Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3934,
-    "updated_at": "2026-10-14T20:12:25Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Python framework for typed LLM agents with conditional tool chaining.",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:12:08Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
-  },
-  {
-    "description": "A dependency-free Go agent SDK, the engine behind agent-fox.",
-    "id": "agent-fox-dev/agentkit-go",
-    "language": "Go",
-    "name": "agent-fox-dev/agentkit-go",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:11:55Z",
-    "url": "https://github.com/agent-fox-dev/agentkit-go"
   }
 ]
