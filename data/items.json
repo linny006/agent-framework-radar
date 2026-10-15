@@ -1,21 +1,48 @@
 [
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-10-15T09:30:08Z",
-    "url": "https://github.com/vgp7758/Agt"
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-15T09:34:44Z",
+    "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
+    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
+    "id": "xujian519/sati",
     "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 10,
-    "updated_at": "2026-10-15T09:29:33Z",
-    "url": "https://github.com/tedix-hq/tedix"
+    "name": "xujian519/sati",
+    "stars": 2,
+    "updated_at": "2026-10-15T09:34:32Z",
+    "url": "https://github.com/xujian519/sati"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 110,
+    "updated_at": "2026-10-15T09:34:32Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26744,
+    "updated_at": "2026-10-15T09:32:28Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "Hermes Agent plugin: say 'make me a <role>' and your agent builds a complete, working Bot \u2014 name, face, SOUL.md, memory,",
+    "id": "BkashJEE/hermes-bot-forge",
+    "language": "Python",
+    "name": "BkashJEE/hermes-bot-forge",
+    "stars": 101,
+    "updated_at": "2026-10-15T09:31:26Z",
+    "url": "https://github.com/BkashJEE/hermes-bot-forge"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -23,8 +50,53 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 53,
-    "updated_at": "2026-10-15T09:28:22Z",
+    "updated_at": "2026-10-15T09:31:16Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 14,
+    "updated_at": "2026-10-15T09:30:46Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35802,
+    "updated_at": "2026-10-15T09:30:33Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-15T09:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 10,
+    "updated_at": "2026-10-15T09:30:59Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-15T09:30:08Z",
+    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
@@ -95,7 +167,7 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 141,
-    "updated_at": "2026-10-15T09:22:09Z",
+    "updated_at": "2026-10-15T09:34:22Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 110,
-    "updated_at": "2026-10-15T09:28:25Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
     "id": "linora-u/AgentLoom",
     "language": "Python",
@@ -169,15 +232,6 @@
     "stars": 169,
     "updated_at": "2026-10-15T09:17:41Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 45,
-    "updated_at": "2026-10-15T09:17:36Z",
-    "url": "https://github.com/swombat/souls-house"
   },
   {
     "description": "The Ruby AI framework.",
@@ -207,15 +261,6 @@
     "url": "https://github.com/iflytek/skillhub"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-15T09:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
@@ -223,15 +268,6 @@
     "stars": 1202,
     "updated_at": "2026-10-15T09:13:08Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26745,
-    "updated_at": "2026-10-15T09:26:20Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "paseo-cafe/paseo-cafe",
     "stars": 47,
-    "updated_at": "2026-10-15T09:11:07Z",
+    "updated_at": "2026-10-15T09:34:56Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
   },
   {
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1259,
-    "updated_at": "2026-10-15T09:25:52Z",
+    "updated_at": "2026-10-15T09:35:02Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-15T09:19:16Z",
+    "updated_at": "2026-10-15T09:35:22Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10820,
-    "updated_at": "2026-10-15T09:29:10Z",
+    "updated_at": "2026-10-15T09:34:18Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20628,
-    "updated_at": "2026-10-15T09:29:47Z",
+    "updated_at": "2026-10-15T09:31:57Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T08:50:32Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 43,
-    "updated_at": "2026-10-15T08:47:27Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 3,
-    "updated_at": "2026-10-15T08:47:25Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 121,
-    "updated_at": "2026-10-15T08:47:10Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeCh",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 355,
-    "updated_at": "2026-10-15T08:43:44Z",
-    "url": "https://github.com/shibing624/agentica"
   }
 ]
