@@ -1,5 +1,158 @@
 [
   {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 44,
+    "updated_at": "2026-10-15T14:44:44Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-15T14:44:19Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35806,
+    "updated_at": "2026-10-15T14:43:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 82,
+    "updated_at": "2026-10-15T14:42:32Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 89,
+    "updated_at": "2026-10-15T14:42:04Z",
+    "url": "https://github.com/NarraFork/NarraFork"
+  },
+  {
+    "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
+    "id": "ozgurulukir/rubik",
+    "language": "Ruby",
+    "name": "ozgurulukir/rubik",
+    "stars": 0,
+    "updated_at": "2026-10-15T14:41:52Z",
+    "url": "https://github.com/ozgurulukir/rubik"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 2,
+    "updated_at": "2026-10-15T14:41:51Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10825,
+    "updated_at": "2026-10-15T14:43:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "TypeScript SDK for building multi-agent LLM applications \u2014 event-sourced runtime, plugin-based tools, React client",
+    "id": "contember/roj",
+    "language": "TypeScript",
+    "name": "contember/roj",
+    "stars": 2,
+    "updated_at": "2026-10-15T14:39:02Z",
+    "url": "https://github.com/contember/roj"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4465,
+    "updated_at": "2026-10-15T14:38:07Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 110,
+    "updated_at": "2026-10-15T14:36:34Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Web API sample with Microsoft Agent Framework, Azure OpenAI, and SQL Server that adds persistent per-user memory to AI a",
+    "id": "marcominerva/AgentMemoryService",
+    "language": "C#",
+    "name": "marcominerva/AgentMemoryService",
+    "stars": 3,
+    "updated_at": "2026-10-15T14:35:39Z",
+    "url": "https://github.com/marcominerva/AgentMemoryService"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 88,
+    "updated_at": "2026-10-15T14:35:07Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Examples to demonstrate configuration and usage of basic agents and workflows from Microsoft Agent Framework, supporting",
+    "id": "marcominerva/AgentBasicService",
+    "language": "C#",
+    "name": "marcominerva/AgentBasicService",
+    "stars": 7,
+    "updated_at": "2026-10-15T14:34:57Z",
+    "url": "https://github.com/marcominerva/AgentBasicService"
+  },
+  {
+    "description": "The agent loop as a stateless HTTP service",
+    "id": "paveler/theloop",
+    "language": "TypeScript",
+    "name": "paveler/theloop",
+    "stars": 0,
+    "updated_at": "2026-10-15T14:33:52Z",
+    "url": "https://github.com/paveler/theloop"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 16,
+    "updated_at": "2026-10-15T14:32:40Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-15T14:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -23,7 +176,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 324,
-    "updated_at": "2026-10-15T14:29:29Z",
+    "updated_at": "2026-10-15T14:31:37Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -45,21 +198,12 @@
     "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
   },
   {
-    "description": "Web API sample with Microsoft Agent Framework, Azure OpenAI, and SQL Server that adds persistent per-user memory to AI a",
-    "id": "marcominerva/AgentMemoryService",
-    "language": "C#",
-    "name": "marcominerva/AgentMemoryService",
-    "stars": 3,
-    "updated_at": "2026-10-15T14:27:20Z",
-    "url": "https://github.com/marcominerva/AgentMemoryService"
-  },
-  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-15T14:26:13Z",
+    "updated_at": "2026-10-15T14:37:10Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -81,30 +225,12 @@
     "url": "https://github.com/tedix-hq/tedix"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35805,
-    "updated_at": "2026-10-15T14:24:33Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-15T14:24:04Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Agent and workflow runtime built on Microsoft Agent Framework, with portable YAML/JSON agents, MCP, Skills, Plugins and ",
     "id": "achappey/aihappey-agents",
     "language": "C#",
     "name": "achappey/aihappey-agents",
     "stars": 0,
-    "updated_at": "2026-10-15T14:22:33Z",
+    "updated_at": "2026-10-15T14:36:40Z",
     "url": "https://github.com/achappey/aihappey-agents"
   },
   {
@@ -124,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T14:21:01Z",
     "url": "https://github.com/xujian519/sati"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 110,
-    "updated_at": "2026-10-15T14:29:27Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "The Ruby AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4465,
-    "updated_at": "2026-10-15T14:17:42Z",
-    "url": "https://github.com/crmne/ruby_llm"
   },
   {
     "description": "A TypeScript framework for building AI-powered interactive applications with shared user-AI state, reliable tool executi",
@@ -180,15 +288,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "TypeScript SDK for building multi-agent LLM applications \u2014 event-sourced runtime, plugin-based tools, React client",
-    "id": "contember/roj",
-    "language": "TypeScript",
-    "name": "contember/roj",
-    "stars": 2,
-    "updated_at": "2026-10-15T14:14:35Z",
-    "url": "https://github.com/contember/roj"
-  },
-  {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
     "id": "lucasmailland/orchester",
     "language": "TypeScript",
@@ -221,17 +320,8 @@
     "language": "TypeScript",
     "name": "Eclipseic1848/CoreMind",
     "stars": 1,
-    "updated_at": "2026-10-15T14:10:08Z",
+    "updated_at": "2026-10-15T14:31:44Z",
     "url": "https://github.com/Eclipseic1848/CoreMind"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 88,
-    "updated_at": "2026-10-15T14:05:19Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -347,7 +437,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20635,
-    "updated_at": "2026-10-15T14:27:24Z",
+    "updated_at": "2026-10-15T14:37:30Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 678,
     "updated_at": "2026-10-15T13:52:59Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 435,
-    "updated_at": "2026-10-15T13:50:41Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 44,
-    "updated_at": "2026-10-15T14:23:57Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8823,
-    "updated_at": "2026-10-15T14:22:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15552,
-    "updated_at": "2026-10-15T13:47:11Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10824,
-    "updated_at": "2026-10-15T14:28:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2344,
-    "updated_at": "2026-10-15T13:46:22Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "AGENT OS System",
-    "id": "showjihyun/aether",
-    "language": "Python",
-    "name": "showjihyun/aether",
-    "stars": 0,
-    "updated_at": "2026-10-15T13:44:04Z",
-    "url": "https://github.com/showjihyun/aether"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1363,
-    "updated_at": "2026-10-15T14:26:16Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 16,
-    "updated_at": "2026-10-15T13:42:05Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
-    "id": "we-are-singular/aml",
-    "language": "TypeScript",
-    "name": "we-are-singular/aml",
-    "stars": 15,
-    "updated_at": "2026-10-15T13:44:52Z",
-    "url": "https://github.com/we-are-singular/aml"
   }
 ]
