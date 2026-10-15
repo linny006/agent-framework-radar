@@ -1,12 +1,21 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10831,
-    "updated_at": "2026-10-15T21:36:12Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:42:46Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 23,
+    "updated_at": "2026-10-15T21:42:21Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
     "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
@@ -14,8 +23,26 @@
     "language": "Rust",
     "name": "NekomyaDev/nudge",
     "stars": 17,
-    "updated_at": "2026-10-15T21:35:49Z",
+    "updated_at": "2026-10-15T21:41:36Z",
     "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:45:12Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-15T21:44:08Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -23,8 +50,35 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 60,
-    "updated_at": "2026-10-15T21:35:32Z",
+    "updated_at": "2026-10-15T21:36:57Z",
     "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-15T21:36:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Python framework for typed LLM agents with conditional tool chaining.",
+    "id": "Tachion-Oy/roboz",
+    "language": "Python",
+    "name": "Tachion-Oy/roboz",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:37:23Z",
+    "url": "https://github.com/Tachion-Oy/roboz"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10831,
+    "updated_at": "2026-10-15T21:39:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -77,8 +131,17 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-15T21:35:30Z",
+    "updated_at": "2026-10-15T21:40:08Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35806,
+    "updated_at": "2026-10-15T21:33:15Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
@@ -88,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-10-15T21:30:59Z",
     "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-15T21:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-15T21:26:23Z",
+    "updated_at": "2026-10-15T21:42:37Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:25:48Z",
     "url": "https://github.com/UweMyers20546/agent-symphony"
-  },
-  {
-    "description": "Python framework for typed LLM agents with conditional tool chaining.",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:36:24Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "Pal-AI-Lab/Cortico",
     "stars": 219,
-    "updated_at": "2026-10-15T21:35:52Z",
+    "updated_at": "2026-10-15T21:42:59Z",
     "url": "https://github.com/Pal-AI-Lab/Cortico"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 23,
-    "updated_at": "2026-10-15T21:17:30Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
-  },
-  {
     "description": "One app to run every coding agent you have: Claude Code, Codex and more, side by side.",
     "id": "siso-os/agent-base",
     "language": "TypeScript",
@@ -241,24 +277,6 @@
     "stars": 45,
     "updated_at": "2026-10-15T21:16:51Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:35:50Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:34:35Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
@@ -302,26 +320,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T21:26:56Z",
+    "updated_at": "2026-10-15T21:40:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35805,
-    "updated_at": "2026-10-15T21:33:15Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-15T21:31:41Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Sovereign Agentic AI Layer: your company's AI agents on your servers, models and rules. Skills, context files, 5700+ MCP",
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 12,
-    "updated_at": "2026-10-15T21:34:21Z",
+    "updated_at": "2026-10-15T21:39:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -410,7 +410,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20644,
-    "updated_at": "2026-10-15T21:33:38Z",
+    "updated_at": "2026-10-15T21:41:28Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -446,7 +446,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-15T21:32:46Z",
+    "updated_at": "2026-10-15T21:40:54Z",
     "url": "https://github.com/kh0pper/crow"
   }
 ]
