@@ -1,12 +1,120 @@
 [
   {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 0,
+    "updated_at": "2026-10-15T00:45:02Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-10-15T00:44:46Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 60,
+    "updated_at": "2026-10-15T00:45:18Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-15T00:42:03Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-15T00:41:57Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4464,
+    "updated_at": "2026-10-15T00:40:57Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-15T00:37:48Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10813,
+    "updated_at": "2026-10-15T00:39:50Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 189,
+    "updated_at": "2026-10-15T00:32:28Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Model-agnostic, embeddable agent kit \u2014 verification, adaptive context, effort routing, cache-aware cost model, cross-pla",
+    "id": "Audrey-cn/universal-agent-embedding-kit",
+    "language": "Python",
+    "name": "Audrey-cn/universal-agent-embedding-kit",
+    "stars": 0,
+    "updated_at": "2026-10-15T00:31:34Z",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20619,
+    "updated_at": "2026-10-15T00:42:04Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Agentic Development Lifecycle",
     "id": "voodootikigod/adlc",
     "language": "JavaScript",
     "name": "voodootikigod/adlc",
     "stars": 23,
-    "updated_at": "2026-10-15T00:30:10Z",
+    "updated_at": "2026-10-15T00:30:39Z",
     "url": "https://github.com/voodootikigod/adlc"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-15T00:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -27,15 +135,6 @@
     "url": "https://github.com/NekomyaDev/nudge"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 60,
-    "updated_at": "2026-10-15T00:29:50Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "Ecro/harness-maker",
     "stars": 4,
-    "updated_at": "2026-10-15T00:26:29Z",
+    "updated_at": "2026-10-15T00:37:42Z",
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
@@ -59,17 +158,8 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1257,
-    "updated_at": "2026-10-15T00:25:26Z",
+    "updated_at": "2026-10-15T00:42:27Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:22:59Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -90,15 +180,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-15T00:29:33Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
     "id": "Azure/agent-landing-zone",
     "language": "Python",
@@ -106,33 +187,6 @@
     "stars": 1187,
     "updated_at": "2026-10-15T00:17:52Z",
     "url": "https://github.com/Azure/agent-landing-zone"
-  },
-  {
-    "description": "The Ruby-native AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4464,
-    "updated_at": "2026-10-15T00:16:58Z",
-    "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-15T00:15:48Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10813,
-    "updated_at": "2026-10-15T00:27:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "",
@@ -185,17 +239,8 @@
     "language": "Rust",
     "name": "matakartal/aikit-runtime",
     "stars": 1,
-    "updated_at": "2026-10-15T00:16:32Z",
+    "updated_at": "2026-10-15T00:32:48Z",
     "url": "https://github.com/matakartal/aikit-runtime"
-  },
-  {
-    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
-    "id": "Rovinos-AI/rovinos-ai-harness",
-    "language": "TypeScript",
-    "name": "Rovinos-AI/rovinos-ai-harness",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:24:05Z",
-    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-15T00:30:04Z",
+    "updated_at": "2026-10-15T00:30:23Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -257,17 +302,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1362,
-    "updated_at": "2026-10-15T00:02:31Z",
+    "updated_at": "2026-10-15T00:36:49Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
-    "id": "autoyou-ai/AutoYou-Server",
-    "language": "Python",
-    "name": "autoyou-ai/AutoYou-Server",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:00:01Z",
-    "url": "https://github.com/autoyou-ai/AutoYou-Server"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T23:18:22Z",
     "url": "https://github.com/zlatko-lakisic/agentic-orchestration"
-  },
-  {
-    "description": "The provider-agnostic AI toolkit for Python",
-    "id": "yaitio/aichain",
-    "language": "Python",
-    "name": "yaitio/aichain",
-    "stars": 10,
-    "updated_at": "2026-10-14T23:17:20Z",
-    "url": "https://github.com/yaitio/aichain"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 43,
-    "updated_at": "2026-10-14T23:15:47Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Sovereign Agentic AI Layer: your company's AI agents on your servers, models and rules. Skills, context files, 5700+ MCP",
-    "id": "vstorm-co/agenticos",
-    "language": "Python",
-    "name": "vstorm-co/agenticos",
-    "stars": 101,
-    "updated_at": "2026-10-14T23:14:12Z",
-    "url": "https://github.com/vstorm-co/agenticos"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-14T23:13:16Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   }
 ]
