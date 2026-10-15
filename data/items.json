@@ -1,10 +1,118 @@
 [
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49040,
+    "updated_at": "2026-10-15T02:43:07Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
+    "id": "DavidCompute/AG-UI_Multi-Party",
+    "language": "C#",
+    "name": "DavidCompute/AG-UI_Multi-Party",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:41:40Z",
+    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 615,
+    "updated_at": "2026-10-15T02:41:02Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35802,
+    "updated_at": "2026-10-15T02:40:36Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 1,
+    "updated_at": "2026-10-15T02:40:14Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 31,
+    "updated_at": "2026-10-15T02:38:08Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 16,
+    "updated_at": "2026-10-15T02:37:44Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-15T02:35:53Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:35:18Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 2999,
+    "updated_at": "2026-10-15T02:34:32Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
+    "id": "Cobra-bit-prog/agent-guard",
+    "language": "TypeScript",
+    "name": "Cobra-bit-prog/agent-guard",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:30:28Z",
+    "url": "https://github.com/Cobra-bit-prog/agent-guard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-15T02:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
     "id": "microsoft/agent-governance-toolkit",
     "language": "Python",
     "name": "microsoft/agent-governance-toolkit",
-    "stars": 6427,
+    "stars": 6428,
     "updated_at": "2026-10-15T02:29:38Z",
     "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
@@ -23,17 +131,8 @@
     "language": "MoonBit",
     "name": "colmugx/posoco-extension",
     "stars": 2,
-    "updated_at": "2026-10-15T02:29:09Z",
+    "updated_at": "2026-10-15T02:45:17Z",
     "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35801,
-    "updated_at": "2026-10-15T02:29:07Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T02:27:45Z",
+    "updated_at": "2026-10-15T02:42:35Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -59,17 +158,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10814,
-    "updated_at": "2026-10-15T02:26:52Z",
+    "updated_at": "2026-10-15T02:42:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-    "id": "Cobra-bit-prog/agent-guard",
-    "language": "TypeScript",
-    "name": "Cobra-bit-prog/agent-guard",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:29:34Z",
-    "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -88,15 +178,6 @@
     "stars": 25,
     "updated_at": "2026-10-15T02:17:51Z",
     "url": "https://github.com/kdcube/kdcube"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-15T02:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -140,7 +221,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-15T02:26:43Z",
+    "updated_at": "2026-10-15T02:45:01Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -149,7 +230,7 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 9,
-    "updated_at": "2026-10-15T02:09:30Z",
+    "updated_at": "2026-10-15T02:37:51Z",
     "url": "https://github.com/maref-org/maref"
   },
   {
@@ -178,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T02:06:46Z",
     "url": "https://github.com/kazari-qwp/Nexarbor"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 16,
-    "updated_at": "2026-10-15T02:25:03Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
     "description": "ArchGraph \u2014 an architecture-graph driven framework for Agentic Engineering. A long-term memory for coding agents, built ",
@@ -230,17 +302,8 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-15T01:56:01Z",
+    "updated_at": "2026-10-15T02:43:42Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Open platform for running Managed Agents at scale",
-    "id": "invergent-ai/surogates",
-    "language": "Python",
-    "name": "invergent-ai/surogates",
-    "stars": 28,
-    "updated_at": "2026-10-15T01:55:45Z",
-    "url": "https://github.com/invergent-ai/surogates"
   },
   {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
@@ -248,17 +311,8 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-15T02:18:13Z",
+    "updated_at": "2026-10-15T02:44:22Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49040,
-    "updated_at": "2026-10-15T02:20:56Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -274,7 +328,7 @@
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 2333,
+    "stars": 2334,
     "updated_at": "2026-10-15T01:51:08Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -313,15 +367,6 @@
     "stars": 65,
     "updated_at": "2026-10-15T01:46:15Z",
     "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 2999,
-    "updated_at": "2026-10-15T01:42:41Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
@@ -403,50 +448,5 @@
     "stars": 5211,
     "updated_at": "2026-10-15T01:19:30Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1362,
-    "updated_at": "2026-10-15T01:14:42Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 11,
-    "updated_at": "2026-10-15T01:12:41Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Where agents build agents. An open-source Rust framework for complex agentic systems: ontology-grounded, auditable, one ",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 40,
-    "updated_at": "2026-10-15T01:09:38Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1257,
-    "updated_at": "2026-10-15T02:18:05Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "autopus-ai/autopus-adk",
-    "language": "Go",
-    "name": "autopus-ai/autopus-adk",
-    "stars": 110,
-    "updated_at": "2026-10-15T02:18:19Z",
-    "url": "https://github.com/autopus-ai/autopus-adk"
   }
 ]
