@@ -1,12 +1,30 @@
 [
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
+    "description": "Managing a Docker environment as a sandbox for running agent-cli (like claude or codex)",
+    "id": "zzjha-cn/agent_sandbox",
     "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-15T15:58:54Z",
-    "url": "https://github.com/manishiitg/agentworks"
+    "name": "zzjha-cn/agent_sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-15T16:13:22Z",
+    "url": "https://github.com/zzjha-cn/agent_sandbox"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-15T16:12:16Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-15T16:12:10Z",
+    "url": "https://github.com/invergent-ai/surogates"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -14,8 +32,125 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1363,
-    "updated_at": "2026-10-15T16:00:01Z",
+    "updated_at": "2026-10-15T16:12:16Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49057,
+    "updated_at": "2026-10-15T16:14:17Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 250,
+    "updated_at": "2026-10-15T16:09:08Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules,",
+    "id": "CarlosCaPe/octorato",
+    "language": "Python",
+    "name": "CarlosCaPe/octorato",
+    "stars": 18,
+    "updated_at": "2026-10-15T16:09:10Z",
+    "url": "https://github.com/CarlosCaPe/octorato"
+  },
+  {
+    "description": "TypeScript agent framework with zero runtime dependencies \u2014 agents, memory, workflows, durable agents, signals, schedule",
+    "id": "0xnicholas/oribos-framework",
+    "language": "TypeScript",
+    "name": "0xnicholas/oribos-framework",
+    "stars": 1,
+    "updated_at": "2026-10-15T16:07:41Z",
+    "url": "https://github.com/0xnicholas/oribos-framework"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35804,
+    "updated_at": "2026-10-15T16:12:24Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10828,
+    "updated_at": "2026-10-15T16:11:48Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Capable coding agents on local Ollama models \u2014 including the small ones. Task-based model routing, tolerant tool-call pa",
+    "id": "CaYatur/cayadev-ai-hub",
+    "language": "Rust",
+    "name": "CaYatur/cayadev-ai-hub",
+    "stars": 2,
+    "updated_at": "2026-10-15T16:05:46Z",
+    "url": "https://github.com/CaYatur/cayadev-ai-hub"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 88,
+    "updated_at": "2026-10-15T16:04:24Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-10-15T16:02:35Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
+    "id": "AgiMateIo/agimate-backend",
+    "language": "Java",
+    "name": "AgiMateIo/agimate-backend",
+    "stars": 6,
+    "updated_at": "2026-10-15T16:02:14Z",
+    "url": "https://github.com/AgiMateIo/agimate-backend"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20637,
+    "updated_at": "2026-10-15T16:08:46Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-15T16:00:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-15T16:11:29Z",
+    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Official extension collection for posoco",
@@ -90,21 +225,12 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49055,
-    "updated_at": "2026-10-15T15:51:03Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-15T15:59:15Z",
+    "updated_at": "2026-10-15T16:15:13Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -131,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-15T15:53:51Z",
+    "updated_at": "2026-10-15T16:14:59Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -140,7 +266,7 @@
     "language": "TypeScript",
     "name": "qbtrix/ripple-iui",
     "stars": 8,
-    "updated_at": "2026-10-15T15:55:23Z",
+    "updated_at": "2026-10-15T16:13:33Z",
     "url": "https://github.com/qbtrix/ripple-iui"
   },
   {
@@ -153,30 +279,12 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 88,
-    "updated_at": "2026-10-15T15:46:01Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-15T15:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
     "id": "arcships/rutis",
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 142,
-    "updated_at": "2026-10-15T15:44:47Z",
+    "updated_at": "2026-10-15T16:08:57Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -194,7 +302,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2346,
-    "updated_at": "2026-10-15T15:43:25Z",
+    "updated_at": "2026-10-15T16:05:40Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -202,7 +310,7 @@
     "id": "weisgnosis/weisgnosis-agents",
     "language": "Scala",
     "name": "weisgnosis/weisgnosis-agents",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-10-15T15:43:06Z",
     "url": "https://github.com/weisgnosis/weisgnosis-agents"
   },
@@ -212,7 +320,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 3,
-    "updated_at": "2026-10-15T15:40:53Z",
+    "updated_at": "2026-10-15T16:09:30Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -279,24 +387,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35805,
-    "updated_at": "2026-10-15T15:58:00Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "TypeScript agent framework with zero runtime dependencies \u2014 agents, memory, workflows, durable agents, signals, schedule",
-    "id": "0xnicholas/oribos-framework",
-    "language": "TypeScript",
-    "name": "0xnicholas/oribos-framework",
-    "stars": 1,
-    "updated_at": "2026-10-15T15:29:01Z",
-    "url": "https://github.com/0xnicholas/oribos-framework"
-  },
-  {
     "description": "Open-source platform for building teams of AI agents \u2014 orchestrator delegates, specialists execute, persistent memory le",
     "id": "lucasmailland/orchester",
     "language": "TypeScript",
@@ -338,7 +428,7 @@
     "language": "Go",
     "name": "genai-io/sdk-go",
     "stars": 1,
-    "updated_at": "2026-10-15T15:59:28Z",
+    "updated_at": "2026-10-15T16:04:50Z",
     "url": "https://github.com/genai-io/sdk-go"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-15T15:18:06Z",
     "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20636,
-    "updated_at": "2026-10-15T15:56:39Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 60,
-    "updated_at": "2026-10-15T15:29:05Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Agent and workflow runtime built on Microsoft Agent Framework, with portable YAML/JSON agents, MCP, Skills, Plugins and ",
-    "id": "achappey/aihappey-agents",
-    "language": "C#",
-    "name": "achappey/aihappey-agents",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:15:02Z",
-    "url": "https://github.com/achappey/aihappey-agents"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10828,
-    "updated_at": "2026-10-15T15:53:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 250,
-    "updated_at": "2026-10-15T15:13:15Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
-    "description": "Local-first governance layer for Claude Code, built entirely on its native primitives \u2014 hooks, subagents, skills, MCP. T",
-    "id": "ek33450505/claude-agent-team",
-    "language": "Shell",
-    "name": "ek33450505/claude-agent-team",
-    "stars": 8,
-    "updated_at": "2026-10-15T15:21:56Z",
-    "url": "https://github.com/ek33450505/claude-agent-team"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-15T15:59:37Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 89,
-    "updated_at": "2026-10-15T15:12:23Z",
-    "url": "https://github.com/NarraFork/NarraFork"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-15T15:11:37Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
-    "id": "Ecro/harness-maker",
-    "language": "Python",
-    "name": "Ecro/harness-maker",
-    "stars": 4,
-    "updated_at": "2026-10-15T15:41:22Z",
-    "url": "https://github.com/Ecro/harness-maker"
   }
 ]
