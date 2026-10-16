@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:42:45Z",
-    "url": "https://github.com/delivstat/swarmkit"
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 678,
+    "updated_at": "2026-10-16T12:45:08Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 13,
+    "updated_at": "2026-10-16T12:45:04Z",
+    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 32,
-    "updated_at": "2026-10-16T12:41:54Z",
+    "updated_at": "2026-10-16T12:45:04Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 193,
+    "updated_at": "2026-10-16T12:44:43Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:44:34Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:44:27Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "OOAT \u2014 Object-Oriented Agent Team: an open framework that decides per task whether a team of AI agents is worth its cost",
+    "id": "pegner-ag/ooat",
+    "language": "Python",
+    "name": "pegner-ag/ooat",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:44:03Z",
+    "url": "https://github.com/pegner-ag/ooat"
+  },
+  {
+    "description": "Open-source Agentic workflows built using Rust",
+    "id": "tinyhumansai/tinyflows",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyflows",
+    "stars": 83,
+    "updated_at": "2026-10-16T12:43:39Z",
+    "url": "https://github.com/tinyhumansai/tinyflows"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-16T12:43:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
+    "id": "delivstat/swarmkit",
+    "language": "Python",
+    "name": "delivstat/swarmkit",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:42:45Z",
+    "url": "https://github.com/delivstat/swarmkit"
   },
   {
     "description": "An efficient durable harness for collaboration across people, models, and devices",
@@ -54,21 +126,12 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 13,
-    "updated_at": "2026-10-16T12:41:40Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35819,
-    "updated_at": "2026-10-16T12:40:46Z",
+    "updated_at": "2026-10-16T12:45:05Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T12:39:50Z",
     "url": "https://github.com/haifa-agent/haifa-agent-super-harness"
-  },
-  {
-    "description": "Open-source Agentic workflows built using Rust",
-    "id": "tinyhumansai/tinyflows",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyflows",
-    "stars": 83,
-    "updated_at": "2026-10-16T12:38:56Z",
-    "url": "https://github.com/tinyhumansai/tinyflows"
   },
   {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
@@ -106,15 +160,6 @@
     "stars": 1202,
     "updated_at": "2026-10-16T12:38:40Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Embeddable self-adaptive agent kernel for host applications",
-    "id": "Gi-Tuu/yai-agent-core",
-    "language": "Python",
-    "name": "Gi-Tuu/yai-agent-core",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:40:14Z",
-    "url": "https://github.com/Gi-Tuu/yai-agent-core"
   },
   {
     "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
@@ -153,15 +198,6 @@
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 678,
-    "updated_at": "2026-10-16T12:42:50Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
     "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
     "id": "rogueki/rogue-friday",
     "language": "TypeScript",
@@ -198,15 +234,6 @@
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-16T12:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 15,
     "updated_at": "2026-10-16T12:42:25Z",
     "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 193,
-    "updated_at": "2026-10-16T12:28:27Z",
-    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
@@ -295,15 +313,6 @@
     "stars": 45,
     "updated_at": "2026-10-16T12:42:58Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:41:03Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "Agent engine of Bismarck: a Go port of pi (earendil-works/pi) \u2014 unified LLM API, agent loop, coding tools, MCP, codemode",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:46:36Z",
     "url": "https://github.com/Hanac226/axar"
-  },
-  {
-    "description": "Build an AI-powered question-answering system that uses RAG, LangChain, and OpenRouter to answer questions from PDF docu",
-    "id": "szubairmaqsood/AI-Powered-Document-Assistant",
-    "language": "Python",
-    "name": "szubairmaqsood/AI-Powered-Document-Assistant",
-    "stars": 1,
-    "updated_at": "2026-10-16T11:46:16Z",
-    "url": "https://github.com/szubairmaqsood/AI-Powered-Document-Assistant"
   }
 ]
