@@ -1,11 +1,47 @@
 [
   {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49064,
+    "updated_at": "2026-10-16T02:34:44Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8829,
+    "updated_at": "2026-10-16T02:31:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35814,
+    "updated_at": "2026-10-16T02:31:09Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-16T02:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1363,
-    "updated_at": "2026-10-16T02:29:53Z",
+    "updated_at": "2026-10-16T02:32:32Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-10-16T02:28:54Z",
+    "updated_at": "2026-10-16T02:33:03Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -36,21 +72,12 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35813,
-    "updated_at": "2026-10-16T02:28:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
     "id": "cerredz/Vidbyte-SDK",
     "language": "Python",
     "name": "cerredz/Vidbyte-SDK",
     "stars": 0,
-    "updated_at": "2026-10-16T02:28:17Z",
+    "updated_at": "2026-10-16T02:33:40Z",
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 417,
-    "updated_at": "2026-10-16T02:28:09Z",
+    "updated_at": "2026-10-16T02:35:15Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Go",
     "name": "OrlojHQ/orloj",
     "stars": 124,
-    "updated_at": "2026-10-16T02:29:17Z",
+    "updated_at": "2026-10-16T02:35:13Z",
     "url": "https://github.com/OrlojHQ/orloj"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 324,
-    "updated_at": "2026-10-16T02:21:41Z",
+    "updated_at": "2026-10-16T02:30:36Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/vgp7758/Agt"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-16T02:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
     "id": "joelaniol/nova",
     "language": "\u2014",
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-16T02:24:25Z",
+    "updated_at": "2026-10-16T02:34:49Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2349,
-    "updated_at": "2026-10-16T02:05:21Z",
+    "updated_at": "2026-10-16T02:33:28Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/y5ez3g/facadecode"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8829,
-    "updated_at": "2026-10-16T01:46:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
     "id": "xanstomper/mochi",
     "language": "TypeScript",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10833,
-    "updated_at": "2026-10-16T02:20:28Z",
+    "updated_at": "2026-10-16T02:34:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 79,
     "updated_at": "2026-10-16T01:34:49Z",
     "url": "https://github.com/gutomec/nirvana-os-engine"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49064,
-    "updated_at": "2026-10-16T02:26:38Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
@@ -418,7 +418,7 @@
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
-    "stars": 15561,
+    "stars": 15562,
     "updated_at": "2026-10-16T01:18:30Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
