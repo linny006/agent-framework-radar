@@ -1,12 +1,75 @@
 [
   {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-10-16T23:27:36Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
+    "description": "TypeScript AI agent runtime. Write your agents in code and choose how predictable they are: deterministic steps where th",
+    "id": "carlosmartinezt/chloejs",
+    "language": "TypeScript",
+    "name": "carlosmartinezt/chloejs",
+    "stars": 8,
+    "updated_at": "2026-10-16T23:29:18Z",
+    "url": "https://github.com/carlosmartinezt/chloejs"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35820,
+    "updated_at": "2026-10-16T23:27:51Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 14,
+    "updated_at": "2026-10-16T23:23:37Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-16T23:20:22Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
     "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
     "id": "rogueki/rogue-friday",
     "language": "TypeScript",
     "name": "rogueki/rogue-friday",
     "stars": 0,
-    "updated_at": "2026-10-16T23:14:30Z",
+    "updated_at": "2026-10-16T23:25:44Z",
     "url": "https://github.com/rogueki/rogue-friday"
+  },
+  {
+    "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
+    "id": "fabbrik/AgentExperience.NET",
+    "language": "C#",
+    "name": "fabbrik/AgentExperience.NET",
+    "stars": 1,
+    "updated_at": "2026-10-16T23:16:38Z",
+    "url": "https://github.com/fabbrik/AgentExperience.NET"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-16T23:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "kdcube/kdcube",
     "stars": 25,
-    "updated_at": "2026-10-16T23:08:37Z",
+    "updated_at": "2026-10-16T23:24:09Z",
     "url": "https://github.com/kdcube/kdcube"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10854,
-    "updated_at": "2026-10-16T23:14:59Z",
+    "updated_at": "2026-10-16T23:25:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -45,21 +108,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 14,
-    "updated_at": "2026-10-16T23:06:14Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
     "id": "AshishKumar4/Nimbus",
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-16T23:14:20Z",
+    "updated_at": "2026-10-16T23:30:02Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1363,
-    "updated_at": "2026-10-16T23:11:15Z",
+    "updated_at": "2026-10-16T23:27:19Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-10-16T23:11:34Z",
     "url": "https://github.com/agents-inc/agents-inc"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-16T23:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20669,
-    "updated_at": "2026-10-16T23:13:43Z",
+    "updated_at": "2026-10-16T23:30:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 13,
-    "updated_at": "2026-10-16T22:41:44Z",
+    "updated_at": "2026-10-16T23:26:38Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 21,
     "updated_at": "2026-10-16T22:37:29Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
-    "id": "fabbrik/AgentExperience.NET",
-    "language": "C#",
-    "name": "fabbrik/AgentExperience.NET",
-    "stars": 1,
-    "updated_at": "2026-10-16T23:07:33Z",
-    "url": "https://github.com/fabbrik/AgentExperience.NET"
   },
   {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 678,
-    "updated_at": "2026-10-16T21:59:40Z",
+    "updated_at": "2026-10-16T23:25:11Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 570,
     "updated_at": "2026-10-16T21:43:10Z",
     "url": "https://github.com/Deuz-AI/Deuz-SDK"
-  },
-  {
-    "description": "Open Model Hardware Protocol: an MCP-style open protocol for AI agents to find, understand and safely operate lab and fa",
-    "id": "kushalsinha/openmhp",
-    "language": "Python",
-    "name": "kushalsinha/openmhp",
-    "stars": 3,
-    "updated_at": "2026-10-16T21:38:47Z",
-    "url": "https://github.com/kushalsinha/openmhp"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:34:02Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6435,
-    "updated_at": "2026-10-16T21:31:05Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:57:33Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
   }
 ]
