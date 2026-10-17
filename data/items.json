@@ -1,5 +1,77 @@
 [
   {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 321,
+    "updated_at": "2026-10-17T15:59:09Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 680,
+    "updated_at": "2026-10-17T15:59:25Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 325,
+    "updated_at": "2026-10-17T15:50:41Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 15,
+    "updated_at": "2026-10-17T15:50:08Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6434,
+    "updated_at": "2026-10-17T15:49:15Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10859,
+    "updated_at": "2026-10-17T15:56:27Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:57:33Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T15:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
     "id": "Ecro/harness-maker",
     "language": "Python",
@@ -9,12 +81,21 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4469,
+    "updated_at": "2026-10-17T15:45:14Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
     "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
     "id": "YQteam-hq/yq-nova-agent",
     "language": "Rust",
     "name": "YQteam-hq/yq-nova-agent",
     "stars": 0,
-    "updated_at": "2026-10-17T15:43:35Z",
+    "updated_at": "2026-10-17T15:58:57Z",
     "url": "https://github.com/YQteam-hq/yq-nova-agent"
   },
   {
@@ -23,26 +104,8 @@
     "language": "Python",
     "name": "jin-bo/agentao",
     "stars": 309,
-    "updated_at": "2026-10-17T15:41:07Z",
+    "updated_at": "2026-10-17T15:55:56Z",
     "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 680,
-    "updated_at": "2026-10-17T15:45:14Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6434,
-    "updated_at": "2026-10-17T15:40:30Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
   },
   {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
@@ -50,33 +113,15 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-17T15:42:55Z",
+    "updated_at": "2026-10-17T15:54:19Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 325,
-    "updated_at": "2026-10-17T15:38:08Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 15,
-    "updated_at": "2026-10-17T15:37:20Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35826,
+    "stars": 35827,
     "updated_at": "2026-10-17T15:37:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -106,33 +151,6 @@
     "stars": 643,
     "updated_at": "2026-10-17T15:31:07Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T15:30:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10858,
-    "updated_at": "2026-10-17T15:37:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 321,
-    "updated_at": "2026-10-17T15:38:08Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49126,
-    "updated_at": "2026-10-17T15:39:09Z",
+    "updated_at": "2026-10-17T15:46:29Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -180,21 +198,12 @@
     "url": "https://github.com/SunrisesIllNeverSee/agent-universe"
   },
   {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:43:09Z",
-    "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
     "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
     "id": "migoric/agentia",
     "language": "TypeScript",
     "name": "migoric/agentia",
     "stars": 5,
-    "updated_at": "2026-10-17T15:18:18Z",
+    "updated_at": "2026-10-17T15:58:31Z",
     "url": "https://github.com/migoric/agentia"
   },
   {
@@ -205,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:17:48Z",
     "url": "https://github.com/trbearth/fieldwork-agent-os"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1289,
+    "updated_at": "2026-10-17T15:17:11Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-17T15:39:59Z",
+    "updated_at": "2026-10-17T16:00:00Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "kofiowusuai-lab/agent-experience-kit",
     "stars": 0,
-    "updated_at": "2026-10-17T15:14:24Z",
+    "updated_at": "2026-10-17T15:56:11Z",
     "url": "https://github.com/kofiowusuai-lab/agent-experience-kit"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-17T15:40:00Z",
+    "updated_at": "2026-10-17T15:59:35Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 273,
     "updated_at": "2026-10-17T15:09:34Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "The Ruby AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4469,
-    "updated_at": "2026-10-17T15:45:14Z",
-    "url": "https://github.com/crmne/ruby_llm"
   },
   {
     "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-17T14:55:25Z",
     "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 53,
-    "updated_at": "2026-10-17T14:46:25Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   }
 ]
