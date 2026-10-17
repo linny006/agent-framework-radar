@@ -1,11 +1,56 @@
 [
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35833,
+    "updated_at": "2026-10-17T19:40:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udd16 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "id": "agentjido/jido",
+    "language": "Elixir",
+    "name": "agentjido/jido",
+    "stars": 1892,
+    "updated_at": "2026-10-17T19:38:42Z",
+    "url": "https://github.com/agentjido/jido"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 89,
+    "updated_at": "2026-10-17T19:36:11Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
+    "id": "YQteam-hq/yq-nova-agent",
+    "language": "Rust",
+    "name": "YQteam-hq/yq-nova-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T19:30:35Z",
+    "url": "https://github.com/YQteam-hq/yq-nova-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T19:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 21,
-    "updated_at": "2026-10-17T19:29:15Z",
+    "updated_at": "2026-10-17T19:40:06Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -16,6 +61,15 @@
     "stars": 60,
     "updated_at": "2026-10-17T19:28:20Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49134,
+    "updated_at": "2026-10-17T19:40:29Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "An open-source platform for running an org of accountable AI agents you can watch, verify, and make your own.",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Jovancoding/Network-AI"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35833,
-    "updated_at": "2026-10-17T19:26:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Local-first AI agent runtime: durable execution (write-ahead tool ledger), enforced budgets, context compaction, explici",
     "id": "111wukong/wukong",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T19:22:13Z",
     "url": "https://github.com/111wukong/wukong"
-  },
-  {
-    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
-    "id": "YQteam-hq/yq-nova-agent",
-    "language": "Rust",
-    "name": "YQteam-hq/yq-nova-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T19:21:04Z",
-    "url": "https://github.com/YQteam-hq/yq-nova-agent"
   },
   {
     "description": "A space-aware coordination hub for agents in herdr",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "LATTIX-IO/lattix-locus",
     "stars": 1,
-    "updated_at": "2026-10-17T19:18:16Z",
+    "updated_at": "2026-10-17T19:43:11Z",
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
@@ -104,26 +140,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-17T19:28:26Z",
+    "updated_at": "2026-10-17T19:36:58Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49132,
-    "updated_at": "2026-10-17T19:28:17Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T19:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
@@ -131,7 +149,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-17T19:22:51Z",
+    "updated_at": "2026-10-17T19:43:21Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -167,7 +185,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-17T19:28:28Z",
+    "updated_at": "2026-10-17T19:43:46Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T19:06:14Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 89,
-    "updated_at": "2026-10-17T19:04:39Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
@@ -239,7 +248,7 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 511,
-    "updated_at": "2026-10-17T19:03:37Z",
+    "updated_at": "2026-10-17T19:38:38Z",
     "url": "https://github.com/cordum-io/cordum"
   },
   {
@@ -293,7 +302,7 @@
     "language": "C#",
     "name": "AnilKerai/model-harness",
     "stars": 1,
-    "updated_at": "2026-10-17T18:49:58Z",
+    "updated_at": "2026-10-17T19:38:41Z",
     "url": "https://github.com/AnilKerai/model-harness"
   },
   {
@@ -319,7 +328,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3089,
+    "stars": 3090,
     "updated_at": "2026-10-17T18:45:58Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-17T18:57:03Z",
+    "updated_at": "2026-10-17T19:41:16Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T18:21:08Z",
     "url": "https://github.com/viktorg1/lore"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 321,
-    "updated_at": "2026-10-17T19:18:08Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   }
 ]
