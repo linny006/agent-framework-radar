@@ -1,12 +1,93 @@
 [
   {
+    "description": "PrevaIQ - agentic AI workbench for insurance claims and underwriting on Azure AI Content Understanding, Azure OpenAI and",
+    "id": "olivMertens/PrevaIq",
+    "language": "Python",
+    "name": "olivMertens/PrevaIq",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:45:12Z",
+    "url": "https://github.com/olivMertens/PrevaIq"
+  },
+  {
+    "description": "Python framework for typed LLM agents with conditional tool chaining.",
+    "id": "Tachion-Oy/roboz",
+    "language": "Python",
+    "name": "Tachion-Oy/roboz",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:43:53Z",
+    "url": "https://github.com/Tachion-Oy/roboz"
+  },
+  {
+    "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
+    "id": "tmk-computers/vps-infra",
+    "language": "Shell",
+    "name": "tmk-computers/vps-infra",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:43:14Z",
+    "url": "https://github.com/tmk-computers/vps-infra"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35824,
+    "updated_at": "2026-10-17T11:42:50Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-17T11:39:36Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Per-project AI coding harness for Claude Code \u00b7 Cursor \u00b7 Codex. Profiler + 10-dim interview build a different harness fo",
+    "id": "Ecro/harness-maker",
+    "language": "Python",
+    "name": "Ecro/harness-maker",
+    "stars": 4,
+    "updated_at": "2026-10-17T11:38:40Z",
+    "url": "https://github.com/Ecro/harness-maker"
+  },
+  {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
     "id": "tedix-hq/tedix",
     "language": "TypeScript",
     "name": "tedix-hq/tedix",
     "stars": 15,
-    "updated_at": "2026-10-17T11:30:11Z",
+    "updated_at": "2026-10-17T11:36:08Z",
     "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4468,
+    "updated_at": "2026-10-17T11:31:31Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T11:30:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:30:19Z",
+    "url": "https://github.com/falkenslab/agent-kit"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -23,35 +104,8 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 111,
-    "updated_at": "2026-10-17T11:28:22Z",
+    "updated_at": "2026-10-17T11:36:37Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
-    "id": "tmk-computers/vps-infra",
-    "language": "Shell",
-    "name": "tmk-computers/vps-infra",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:28:17Z",
-    "url": "https://github.com/tmk-computers/vps-infra"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35824,
-    "updated_at": "2026-10-17T11:27:53Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Python framework for typed LLM agents with conditional tool chaining.",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:28:54Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
   },
   {
     "description": "AGENT OS System",
@@ -99,15 +153,6 @@
     "url": "https://github.com/aleksandrgradoboev-svg/bismarck-engine"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-17T11:30:01Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
     "id": "ubunatic/harnez",
     "language": "Go",
@@ -117,21 +162,12 @@
     "url": "https://github.com/ubunatic/harnez"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T11:15:19Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1365,
-    "updated_at": "2026-10-17T11:15:04Z",
+    "updated_at": "2026-10-17T11:37:33Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "haifa-agent/haifa-agent-super-harness",
     "stars": 0,
-    "updated_at": "2026-10-17T11:12:53Z",
+    "updated_at": "2026-10-17T11:44:33Z",
     "url": "https://github.com/haifa-agent/haifa-agent-super-harness"
   },
   {
@@ -178,24 +214,6 @@
     "stars": 7,
     "updated_at": "2026-10-17T11:12:11Z",
     "url": "https://github.com/Luo-root/pulse"
-  },
-  {
-    "description": "PrevaIQ - agentic AI workbench for insurance claims and underwriting on Azure AI Content Understanding, Azure OpenAI and",
-    "id": "olivMertens/PrevaIq",
-    "language": "Python",
-    "name": "olivMertens/PrevaIq",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:06:00Z",
-    "url": "https://github.com/olivMertens/PrevaIq"
-  },
-  {
-    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
-    "id": "falkenslab/agent-kit",
-    "language": "TypeScript",
-    "name": "falkenslab/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:02:39Z",
-    "url": "https://github.com/falkenslab/agent-kit"
   },
   {
     "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
@@ -230,7 +248,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 49,
-    "updated_at": "2026-10-17T11:19:54Z",
+    "updated_at": "2026-10-17T11:41:28Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10854,
-    "updated_at": "2026-10-17T11:26:48Z",
+    "updated_at": "2026-10-17T11:39:15Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:21:06Z",
     "url": "https://github.com/Diaz88080/axar"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Kohaku49/Cortico",
-    "language": "TypeScript",
-    "name": "Kohaku49/Cortico",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:20:41Z",
-    "url": "https://github.com/Kohaku49/Cortico"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "dogan7029/agent-symphony",
-    "language": "JavaScript",
-    "name": "dogan7029/agent-symphony",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:18:33Z",
-    "url": "https://github.com/dogan7029/agent-symphony"
   }
 ]
