@@ -1,5 +1,104 @@
 [
   {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-17T06:15:13Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 147,
+    "updated_at": "2026-10-17T06:15:09Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
+    "id": "BlocUnited-LLC/mozaiks",
+    "language": "Python",
+    "name": "BlocUnited-LLC/mozaiks",
+    "stars": 24,
+    "updated_at": "2026-10-17T06:14:47Z",
+    "url": "https://github.com/BlocUnited-LLC/mozaiks"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-17T06:13:43Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:10:54Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Autonomous AI graphic designer agent. Takes any topic + brand + platform, selects ONE approved design DNA from a human-c",
+    "id": "zeeshanimranofficial/creative-os",
+    "language": "Python",
+    "name": "zeeshanimranofficial/creative-os",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:10:26Z",
+    "url": "https://github.com/zeeshanimranofficial/creative-os"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 18,
+    "updated_at": "2026-10-17T06:10:18Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:07:19Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 48,
+    "updated_at": "2026-10-17T06:04:23Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 110,
+    "updated_at": "2026-10-17T06:01:45Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T06:00:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
     "id": "momang85/weavemind",
     "language": "Python",
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "haifa-agent/haifa-agent-super-harness",
     "stars": 0,
-    "updated_at": "2026-10-17T05:57:05Z",
+    "updated_at": "2026-10-17T06:14:59Z",
     "url": "https://github.com/haifa-agent/haifa-agent-super-harness"
   },
   {
@@ -32,7 +131,7 @@
     "language": "JavaScript",
     "name": "conn-castle/agent-outbox",
     "stars": 0,
-    "updated_at": "2026-10-17T05:56:42Z",
+    "updated_at": "2026-10-17T06:02:28Z",
     "url": "https://github.com/conn-castle/agent-outbox"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 24,
     "updated_at": "2026-10-17T05:55:25Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-17T05:55:14Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "\u9762\u5411\u5e94\u7528\u5f00\u53d1\u7684\u58f0\u660e\u5f0f agent \u670d\u52a1\u5f00\u53d1\u6846\u67b6\uff1a\u88c5\u9970\u5668 + DI \u58f0\u660e\u56db\u7c7b\u80fd\u529b\uff0c\u4e3b agent \u7f16\u6392\u6267\u884c\uff1b\u6bcf\u6b21 run \u4ea7\u51fa\u7ed3\u6784\u5316\u7ed3\u679c\u4e0e\u53ef\u89c2\u6d4b\u8c03\u7528\u6811\uff08trace\u3001\u6210\u672c\u3001\u6307\u6807\uff09\uff0c\u4ea4\u4ed8\u53ef\u76f4\u63a5\u4e0a\u7ebf\u7684\u670d\u52a1\u3002",
@@ -117,15 +207,6 @@
     "url": "https://github.com/ubunatic/harnez"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 110,
-    "updated_at": "2026-10-17T05:57:39Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
@@ -153,13 +234,22 @@
     "url": "https://github.com/fswolf/luna-local-agent"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T05:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3065,
+    "updated_at": "2026-10-17T05:45:45Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20672,
+    "updated_at": "2026-10-17T05:44:17Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -167,7 +257,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35821,
-    "updated_at": "2026-10-17T05:43:29Z",
+    "updated_at": "2026-10-17T06:15:17Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -207,15 +297,6 @@
     "url": "https://github.com/nicolea650/agent-starter-kit"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-17T05:59:32Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
@@ -250,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T05:34:48Z",
     "url": "https://github.com/beesyst/beeagent"
-  },
-  {
-    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 18,
-    "updated_at": "2026-10-17T05:33:44Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "The agent OS that evolves itself. ",
@@ -311,7 +383,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10854,
-    "updated_at": "2026-10-17T05:47:48Z",
+    "updated_at": "2026-10-17T06:11:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
-    "description": "The Mozaiks core is a self-hostable runtime for deploying AI-driven, multi-tenant web apps with real-time UI, auth, and ",
-    "id": "BlocUnited-LLC/mozaiks",
-    "language": "Python",
-    "name": "BlocUnited-LLC/mozaiks",
-    "stars": 24,
-    "updated_at": "2026-10-17T05:50:48Z",
-    "url": "https://github.com/BlocUnited-LLC/mozaiks"
-  },
-  {
     "description": "PurrCat Agent",
     "id": "PurrPod/purrcat",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 54,
     "updated_at": "2026-10-17T05:26:57Z",
     "url": "https://github.com/PurrPod/purrcat"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:26:16Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 81,
-    "updated_at": "2026-10-17T05:25:55Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autonomous AI graphic designer agent. Takes any topic + brand + platform, selects ONE approved design DNA from a human-c",
-    "id": "zeeshanimranofficial/creative-os",
-    "language": "Python",
-    "name": "zeeshanimranofficial/creative-os",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:24:51Z",
-    "url": "https://github.com/zeeshanimranofficial/creative-os"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 21,
-    "updated_at": "2026-10-17T05:23:09Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
-    "id": "ZJU-REAL/HugAgentOS",
-    "language": "Python",
-    "name": "ZJU-REAL/HugAgentOS",
-    "stars": 614,
-    "updated_at": "2026-10-17T05:22:50Z",
-    "url": "https://github.com/ZJU-REAL/HugAgentOS"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-17T05:21:43Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49103,
-    "updated_at": "2026-10-17T05:21:32Z",
-    "url": "https://github.com/HKUDS/nanobot"
   }
 ]
