@@ -1,5 +1,95 @@
 [
   {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "Sompongm654/gbase",
+    "language": "Python",
+    "name": "Sompongm654/gbase",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:43:28Z",
+    "url": "https://github.com/Sompongm654/gbase"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 17,
+    "updated_at": "2026-10-17T21:43:04Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "High-performance modular Micro-Tools & MCP-compatible execution engines for Autonomous AI Agents. Sharded, zero-bloat, s",
+    "id": "flowork-os/AGENT-TOOLS",
+    "language": "JavaScript",
+    "name": "flowork-os/AGENT-TOOLS",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:42:48Z",
+    "url": "https://github.com/flowork-os/AGENT-TOOLS"
+  },
+  {
+    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
+    "id": "jlcatonjr/agentteams",
+    "language": "Python",
+    "name": "jlcatonjr/agentteams",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:42:05Z",
+    "url": "https://github.com/jlcatonjr/agentteams"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 321,
+    "updated_at": "2026-10-17T21:43:42Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "vikramc872/agent-symphony",
+    "language": "HTML",
+    "name": "vikramc872/agent-symphony",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:37:51Z",
+    "url": "https://github.com/vikramc872/agent-symphony"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "marcosedwards/gbase",
+    "language": "Python",
+    "name": "marcosedwards/gbase",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:37:45Z",
+    "url": "https://github.com/marcosedwards/gbase"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "byqqqyfcax/agent-symphony",
+    "language": "JavaScript",
+    "name": "byqqqyfcax/agent-symphony",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:34:21Z",
+    "url": "https://github.com/byqqqyfcax/agent-symphony"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-10-17T21:34:43Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T21:30:20Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
     "id": "taichifedorov81/loop.js",
     "language": "TypeScript",
@@ -11,7 +101,7 @@
   {
     "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
     "id": "SanjayWozniak/loop.js",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "SanjayWozniak/loop.js",
     "stars": 0,
     "updated_at": "2026-10-17T21:29:47Z",
@@ -25,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-10-17T21:29:17Z",
     "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 17,
-    "updated_at": "2026-10-17T21:29:07Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
@@ -144,15 +225,6 @@
     "url": "https://github.com/siso-os/siso-project-os"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T21:15:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "One version-pinned Claude Code and Codex stack: skills, hooks, playbooks, profiles and runtime, installed together.",
     "id": "siso-os/siso-agent-stack",
     "language": "JavaScript",
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "promptise-com/Foundry",
     "stars": 874,
-    "updated_at": "2026-10-17T21:16:27Z",
+    "updated_at": "2026-10-17T21:34:33Z",
     "url": "https://github.com/promptise-com/Foundry"
   },
   {
@@ -261,15 +333,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 321,
-    "updated_at": "2026-10-17T21:27:39Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
     "id": "Berndw80252/Cortico",
     "language": "TypeScript",
@@ -293,7 +356,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 325,
-    "updated_at": "2026-10-17T21:23:32Z",
+    "updated_at": "2026-10-17T21:44:20Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -302,7 +365,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-17T21:30:08Z",
+    "updated_at": "2026-10-17T21:43:48Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/Pal-AI-Lab/Cortico"
   },
   {
-    "description": "High-performance modular Micro-Tools & MCP-compatible execution engines for Autonomous AI Agents. Sharded, zero-bloat, s",
-    "id": "flowork-os/AGENT-TOOLS",
-    "language": "JavaScript",
-    "name": "flowork-os/AGENT-TOOLS",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:51:39Z",
-    "url": "https://github.com/flowork-os/AGENT-TOOLS"
-  },
-  {
     "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
     "id": "Arasz/ai-badger",
     "language": "Python",
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-17T20:45:06Z",
+    "updated_at": "2026-10-17T21:39:19Z",
     "url": "https://github.com/agbossjs/agboss"
   },
   {
@@ -365,7 +419,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 362,
-    "updated_at": "2026-10-17T20:39:48Z",
+    "updated_at": "2026-10-17T21:41:44Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T20:28:45Z",
     "url": "https://github.com/YQteam-hq/yq-nova-agent"
-  },
-  {
-    "description": "The AI Agent framework for enterprises and agencies",
-    "id": "frogbotai/frogbot",
-    "language": "TypeScript",
-    "name": "frogbotai/frogbot",
-    "stars": 4,
-    "updated_at": "2026-10-17T20:25:41Z",
-    "url": "https://github.com/frogbotai/frogbot"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 78,
-    "updated_at": "2026-10-17T20:19:34Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "Multi-agent research workspace template for opencode v2 \u2014 identity claiming, shared task board, JSON-truth memory, CLI-n",
-    "id": "ivaNov-0042/opencode-multiagents-project-templates",
-    "language": "Python",
-    "name": "ivaNov-0042/opencode-multiagents-project-templates",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:17:55Z",
-    "url": "https://github.com/ivaNov-0042/opencode-multiagents-project-templates"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 123,
-    "updated_at": "2026-10-17T20:07:41Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "DeepSeek Harness Plus: timely fixes for upstream bugs, early features, practical extensions, and curated presets.",
-    "id": "SparkElf/deepseek-harness-plus",
-    "language": "TypeScript",
-    "name": "SparkElf/deepseek-harness-plus",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:06:49Z",
-    "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 21,
-    "updated_at": "2026-10-17T21:18:57Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   }
 ]
