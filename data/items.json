@@ -1,12 +1,210 @@
 [
   {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:29:57Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 24,
-    "updated_at": "2026-10-17T10:13:10Z",
+    "updated_at": "2026-10-17T10:29:30Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+    "id": "diegowalczak37962/loop.js",
+    "language": "TypeScript",
+    "name": "diegowalczak37962/loop.js",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:30:07Z",
+    "url": "https://github.com/diegowalczak37962/loop.js"
+  },
+  {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Python",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:28:20Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35823,
+    "updated_at": "2026-10-17T10:30:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "nora9217/gbase",
+    "language": "Python",
+    "name": "nora9217/gbase",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:27:34Z",
+    "url": "https://github.com/nora9217/gbase"
+  },
+  {
+    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:27:27Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "Linux \u4e0a\u7684\u672c\u5730\u4f18\u5148 AI Agent \u8fd0\u884c\u65f6\uff1a\u5206\u5c42\u8bb0\u5fc6 + \u957f\u4efb\u52a1 + \u6280\u80fd/\u63d2\u4ef6 harness\uff0c\u5bf9\u8bdd\u00b7\u8bed\u97f3\u00b7\u753b\u56fe\u7edf\u4e00\u8d70 OpenAI \u517c\u5bb9\u63a5\u53e3\uff1b\u524d\u7aef TypeScript \u6e90\u7801\u76f4\u670d\u514d\u6784\u5efa\uff0csystemd \u6258\u7ba1\uff0c\u5e76\u539f\u751f\u652f\u914d Linu",
+    "id": "geek-alpha/dabai-linux",
+    "language": "Python",
+    "name": "geek-alpha/dabai-linux",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:27:19Z",
+    "url": "https://github.com/geek-alpha/dabai-linux"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-10-17T10:26:57Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 15,
+    "updated_at": "2026-10-17T10:26:54Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49114,
+    "updated_at": "2026-10-17T10:27:15Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-17T10:27:39Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10854,
+    "updated_at": "2026-10-17T10:27:26Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 3,
+    "updated_at": "2026-10-17T10:25:11Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+    "id": "kanako73/loop.js",
+    "language": "TypeScript",
+    "name": "kanako73/loop.js",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:24:41Z",
+    "url": "https://github.com/kanako73/loop.js"
+  },
+  {
+    "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
+    "id": "ozgurulukir/rubik",
+    "language": "Ruby",
+    "name": "ozgurulukir/rubik",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:24:43Z",
+    "url": "https://github.com/ozgurulukir/rubik"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:23:50Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1282,
+    "updated_at": "2026-10-17T10:24:08Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Local-first AI agent runtime: durable execution (write-ahead tool ledger), enforced budgets, context compaction, explici",
+    "id": "111wukong/wukong",
+    "language": "Python",
+    "name": "111wukong/wukong",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:22:58Z",
+    "url": "https://github.com/111wukong/wukong"
+  },
+  {
+    "description": "The agent OS that evolves itself. ",
+    "id": "KazukiMorales9247/agentos",
+    "language": "Rust",
+    "name": "KazukiMorales9247/agentos",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:22:51Z",
+    "url": "https://github.com/KazukiMorales9247/agentos"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1365,
+    "updated_at": "2026-10-17T10:22:25Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Minimal typescript agent framework that keeps it simple and gives you control - no BS",
+    "id": "Diaz88080/axar",
+    "language": "TypeScript",
+    "name": "Diaz88080/axar",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:21:06Z",
+    "url": "https://github.com/Diaz88080/axar"
+  },
+  {
+    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
+    "id": "Kohaku49/Cortico",
+    "language": "TypeScript",
+    "name": "Kohaku49/Cortico",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:20:41Z",
+    "url": "https://github.com/Kohaku49/Cortico"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,8 +212,71 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-17T10:14:15Z",
+    "updated_at": "2026-10-17T10:20:39Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "dogan7029/agent-symphony",
+    "language": "JavaScript",
+    "name": "dogan7029/agent-symphony",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:18:33Z",
+    "url": "https://github.com/dogan7029/agent-symphony"
+  },
+  {
+    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+    "id": "Johnson7824/loop.js",
+    "language": "TypeScript",
+    "name": "Johnson7824/loop.js",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:18:19Z",
+    "url": "https://github.com/Johnson7824/loop.js"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 49,
+    "updated_at": "2026-10-17T10:28:29Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 194,
+    "updated_at": "2026-10-17T10:27:57Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T10:17:59Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
+    "id": "Chalermchai913/gbase",
+    "language": "Python",
+    "name": "Chalermchai913/gbase",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:17:03Z",
+    "url": "https://github.com/Chalermchai913/gbase"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T10:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude04\u10e6( \u00b4\uff65\u1d17\uff65` )\uff1aA local-first, self-built Agent Harness from scratch. 8-layer enforced architecture (kernel \u2194 policy \u2194 provi",
@@ -36,24 +297,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
-    "id": "Johnson7824/loop.js",
-    "language": "TypeScript",
-    "name": "Johnson7824/loop.js",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:11:09Z",
-    "url": "https://github.com/Johnson7824/loop.js"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "Chalermchai913/gbase",
-    "language": "Python",
-    "name": "Chalermchai913/gbase",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:10:11Z",
-    "url": "https://github.com/Chalermchai913/gbase"
-  },
-  {
     "description": "A selective learning and memory substrate for agentic systems \u2014 typed, revisable, decayable memory with competence learn",
     "id": "Denizj3675/membrane",
     "language": "Go",
@@ -61,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:09:09Z",
     "url": "https://github.com/Denizj3675/membrane"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35823,
-    "updated_at": "2026-10-17T10:09:06Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
@@ -108,15 +342,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 15,
-    "updated_at": "2026-10-17T10:03:53Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "OOAT \u2014 Object-Oriented Agent Team: an open framework that decides per task whether a team of AI agents is worth its cost",
     "id": "pegner-ag/ooat",
     "language": "Python",
@@ -133,33 +358,6 @@
     "stars": 81,
     "updated_at": "2026-10-17T10:02:56Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-10-17T10:02:26Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "AGENT OS System",
-    "id": "showjihyun/aether",
-    "language": "Python",
-    "name": "showjihyun/aether",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:01:59Z",
-    "url": "https://github.com/showjihyun/aether"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T10:00:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -243,15 +441,6 @@
     "url": "https://github.com/PaoloPalmer894/loop.js"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10854,
-    "updated_at": "2026-10-17T10:13:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
     "id": "ployfransson0187/agent-starter-kit",
     "language": "Shell",
@@ -259,194 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:54:24Z",
     "url": "https://github.com/ployfransson0187/agent-starter-kit"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-10-17T09:59:45Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 325,
-    "updated_at": "2026-10-17T10:14:42Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "The agent OS that evolves itself. ",
-    "id": "Kelly1747/agentos",
-    "language": "Rust",
-    "name": "Kelly1747/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:53:57Z",
-    "url": "https://github.com/Kelly1747/agentos"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T09:50:36Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
-    "id": "Hazer-BJTU/simplex-cpp",
-    "language": "C++",
-    "name": "Hazer-BJTU/simplex-cpp",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:50:54Z",
-    "url": "https://github.com/Hazer-BJTU/simplex-cpp"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:50:03Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-17T09:49:51Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "Nicoleh981/agent-starter-kit",
-    "language": "Shell",
-    "name": "Nicoleh981/agent-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:49:37Z",
-    "url": "https://github.com/Nicoleh981/agent-starter-kit"
-  },
-  {
-    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
-    "id": "cmcoffee/gohort",
-    "language": "Go",
-    "name": "cmcoffee/gohort",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:49:22Z",
-    "url": "https://github.com/cmcoffee/gohort"
-  },
-  {
-    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
-    "id": "aidless/just-agent",
-    "language": "Python",
-    "name": "aidless/just-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:45:19Z",
-    "url": "https://github.com/aidless/just-agent"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 194,
-    "updated_at": "2026-10-17T10:15:11Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
-    "id": "vanessamattsson32/loop.js",
-    "language": "TypeScript",
-    "name": "vanessamattsson32/loop.js",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:44:47Z",
-    "url": "https://github.com/vanessamattsson32/loop.js"
-  },
-  {
-    "description": "Explore AI agents, tool calling, planning, memory, and multi-step execution through practical examples. By the end, you'",
-    "id": "dilliram-code/iamagent",
-    "language": "Python",
-    "name": "dilliram-code/iamagent",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:44:03Z",
-    "url": "https://github.com/dilliram-code/iamagent"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "Charles85933/gbase",
-    "language": "Python",
-    "name": "Charles85933/gbase",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:43:57Z",
-    "url": "https://github.com/Charles85933/gbase"
-  },
-  {
-    "description": "Any brain, any agent. Package an AI agent's brain \u2014 persona, MCP stack, skills, memory, config \u2014 into one open, signed b",
-    "id": "RiggdAI/uniqent",
-    "language": "TypeScript",
-    "name": "RiggdAI/uniqent",
-    "stars": 14,
-    "updated_at": "2026-10-17T09:42:23Z",
-    "url": "https://github.com/RiggdAI/uniqent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-17T09:52:12Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 269,
-    "updated_at": "2026-10-17T09:40:25Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20673,
-    "updated_at": "2026-10-17T09:53:57Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Minimal typescript agent framework that keeps it simple and gives you control - no BS",
-    "id": "LoriHedlund4644/axar",
-    "language": "TypeScript",
-    "name": "LoriHedlund4644/axar",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:37:57Z",
-    "url": "https://github.com/LoriHedlund4644/axar"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:34:43Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it.",
-    "id": "genai-io/sdk-go",
-    "language": "Go",
-    "name": "genai-io/sdk-go",
-    "stars": 2,
-    "updated_at": "2026-10-17T09:34:24Z",
-    "url": "https://github.com/genai-io/sdk-go"
   }
 ]
