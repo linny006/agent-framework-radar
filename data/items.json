@@ -1,12 +1,129 @@
 [
   {
+    "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
+    "id": "acnlabs/ACN",
+    "language": "Python",
+    "name": "acnlabs/ACN",
+    "stars": 4,
+    "updated_at": "2026-10-17T08:43:49Z",
+    "url": "https://github.com/acnlabs/ACN"
+  },
+  {
+    "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-17T08:43:30Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1365,
+    "updated_at": "2026-10-17T08:42:50Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 147,
+    "updated_at": "2026-10-17T08:42:18Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "\ud83d\ude04\u10e6( \u00b4\uff65\u1d17\uff65` )\uff1aA local-first, self-built Agent Harness from scratch. 8-layer enforced architecture (kernel \u2194 policy \u2194 provi",
+    "id": "Ember452/questor",
+    "language": "Python",
+    "name": "Ember452/questor",
+    "stars": 2,
+    "updated_at": "2026-10-17T08:41:04Z",
+    "url": "https://github.com/Ember452/questor"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-17T08:42:39Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 7,
+    "updated_at": "2026-10-17T08:39:17Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-17T08:38:41Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "AGENT OS System",
+    "id": "showjihyun/aether",
+    "language": "Python",
+    "name": "showjihyun/aether",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:44:34Z",
+    "url": "https://github.com/showjihyun/aether"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 21,
+    "updated_at": "2026-10-17T08:34:01Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 6,
+    "updated_at": "2026-10-17T08:33:38Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
     "id": "tedix-hq/tedix",
     "language": "TypeScript",
     "name": "tedix-hq/tedix",
     "stars": 14,
-    "updated_at": "2026-10-17T08:30:12Z",
+    "updated_at": "2026-10-17T08:32:57Z",
     "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
+    "id": "ubunatic/harnez",
+    "language": "Go",
+    "name": "ubunatic/harnez",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:43:12Z",
+    "url": "https://github.com/ubunatic/harnez"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T08:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -23,7 +140,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35823,
-    "updated_at": "2026-10-17T08:26:56Z",
+    "updated_at": "2026-10-17T08:43:23Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -45,21 +162,12 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
-    "id": "ubunatic/harnez",
-    "language": "Go",
-    "name": "ubunatic/harnez",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:24:58Z",
-    "url": "https://github.com/ubunatic/harnez"
-  },
-  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 194,
-    "updated_at": "2026-10-17T08:24:28Z",
+    "updated_at": "2026-10-17T08:40:03Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -81,15 +189,6 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "\ud83d\ude04\u10e6( \u00b4\uff65\u1d17\uff65` )\uff1aA local-first, self-built Agent Harness from scratch. 8-layer enforced architecture (kernel \u2194 policy \u2194 provi",
-    "id": "Ember452/questor",
-    "language": "Python",
-    "name": "Ember452/questor",
-    "stars": 2,
-    "updated_at": "2026-10-17T08:28:32Z",
-    "url": "https://github.com/Ember452/questor"
-  },
-  {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
     "id": "IkhsanMAlbar/govchain-llm-orchestrator",
     "language": "HTML",
@@ -108,15 +207,6 @@
     "url": "https://github.com/Ecro/harness-maker"
   },
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 7,
-    "updated_at": "2026-10-17T08:21:15Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -126,40 +216,13 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-17T08:20:34Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-17T08:29:21Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49110,
-    "updated_at": "2026-10-17T08:26:16Z",
+    "updated_at": "2026-10-17T08:43:08Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T08:15:20Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -196,15 +259,6 @@
     "stars": 45,
     "updated_at": "2026-10-17T08:09:29Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 147,
-    "updated_at": "2026-10-17T08:24:20Z",
-    "url": "https://github.com/arcships/rutis"
   },
   {
     "description": "\u57fa\u4e8eHaifa Agent SDK\u5b9e\u73b0\u5b57\u8282\u8df3\u52a8\u5f00\u6e90\u7684Deer-flow\u8d85\u7ea7\u667a\u80fd\u4f53 \u4ece\u5bf9\u8bdd\u5230\u957f\u4efb\u52a1\u5de5\u4f5c\u53f0",
@@ -306,15 +360,6 @@
     "url": "https://github.com/cmcoffee/gohort"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 6,
-    "updated_at": "2026-10-17T07:40:51Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Multi-Agent Intelligence Kernel \u2014 agent org chart with specialized routing, self-grading runs, and reproducible benchmar",
     "id": "rehantheorylab-pixel/maik",
     "language": "Python",
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10854,
-    "updated_at": "2026-10-17T08:19:54Z",
+    "updated_at": "2026-10-17T08:44:10Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 18,
     "updated_at": "2026-10-17T07:22:13Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Agent Outbox is an asynchronous review queue for automated agents. Callers submit questions or approval requests, then r",
-    "id": "conn-castle/agent-outbox",
-    "language": "JavaScript",
-    "name": "conn-castle/agent-outbox",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:19:06Z",
-    "url": "https://github.com/conn-castle/agent-outbox"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 4999,
-    "updated_at": "2026-10-17T07:17:48Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "aortiz05368/gbase",
-    "language": "Python",
-    "name": "aortiz05368/gbase",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:16:42Z",
-    "url": "https://github.com/aortiz05368/gbase"
-  },
-  {
-    "description": "Official extension collection for posoco",
-    "id": "colmugx/posoco-extension",
-    "language": "MoonBit",
-    "name": "colmugx/posoco-extension",
-    "stars": 2,
-    "updated_at": "2026-10-17T07:19:36Z",
-    "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 111,
-    "updated_at": "2026-10-17T07:13:33Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   }
 ]
