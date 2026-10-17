@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-17T20:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
     "id": "agbossjs/agboss",
     "language": "TypeScript",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T20:31:18Z",
     "url": "https://github.com/111wukong/wukong"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-17T20:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -178,6 +178,15 @@
     "stars": 21,
     "updated_at": "2026-10-17T20:30:11Z",
     "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1293,
+    "updated_at": "2026-10-17T20:04:45Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
@@ -439,14 +448,5 @@
     "stars": 40,
     "updated_at": "2026-10-17T18:50:05Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3092,
-    "updated_at": "2026-10-17T18:45:58Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   }
 ]
