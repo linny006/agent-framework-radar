@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 7,
+    "updated_at": "2026-10-18T21:12:40Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat-runtime",
+    "language": "Go",
+    "name": "KPO-Tech/seshat-runtime",
+    "stars": 5,
+    "updated_at": "2026-10-18T21:11:53Z",
+    "url": "https://github.com/KPO-Tech/seshat-runtime"
+  },
+  {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
     "id": "tedix-hq/tedix",
     "language": "TypeScript",
     "name": "tedix-hq/tedix",
     "stars": 17,
-    "updated_at": "2026-10-18T21:00:02Z",
+    "updated_at": "2026-10-18T21:11:42Z",
     "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35845,
+    "updated_at": "2026-10-18T21:14:16Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3117,
+    "updated_at": "2026-10-18T21:08:33Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 363,
+    "updated_at": "2026-10-18T21:08:18Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-18T21:07:42Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T21:15:04Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 83,
+    "updated_at": "2026-10-18T21:14:17Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
+    "id": "rogueki/rogue-friday",
+    "language": "TypeScript",
+    "name": "rogueki/rogue-friday",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:04:40Z",
+    "url": "https://github.com/rogueki/rogue-friday"
+  },
+  {
+    "description": "An open-source platform for running an org of accountable AI agents you can watch, verify, and make your own.",
+    "id": "Sharathvc23/orrery-public",
+    "language": "Python",
+    "name": "Sharathvc23/orrery-public",
+    "stars": 1,
+    "updated_at": "2026-10-18T21:04:26Z",
+    "url": "https://github.com/Sharathvc23/orrery-public"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 18,
+    "updated_at": "2026-10-18T21:02:54Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-18T21:00:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The Perceptual Layer for AI \u2014 Machines Learned to Think. We're Teaching Them to Perceive.",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:59:49Z",
     "url": "https://github.com/Situational-AI/situational-ai.github.io"
-  },
-  {
-    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
-    "id": "rogueki/rogue-friday",
-    "language": "TypeScript",
-    "name": "rogueki/rogue-friday",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:57:08Z",
-    "url": "https://github.com/rogueki/rogue-friday"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -77,17 +176,8 @@
     "language": "Python",
     "name": "human-plus-machine/monkeybot",
     "stars": 3,
-    "updated_at": "2026-10-18T20:53:08Z",
+    "updated_at": "2026-10-18T21:05:12Z",
     "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-18T20:57:03Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
@@ -106,15 +196,6 @@
     "stars": 321,
     "updated_at": "2026-10-18T20:49:55Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat-runtime",
-    "language": "Go",
-    "name": "KPO-Tech/seshat-runtime",
-    "stars": 5,
-    "updated_at": "2026-10-18T20:58:12Z",
-    "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
     "description": "A foundation for building AI agents on top of the Claude Agent SDK",
@@ -142,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:46:31Z",
     "url": "https://github.com/camilleyamamoto80717/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-18T20:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3116,
-    "updated_at": "2026-10-18T20:44:03Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -198,15 +261,6 @@
     "url": "https://github.com/cerredz/Vidbyte-SDK"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35845,
-    "updated_at": "2026-10-18T20:57:28Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10878,
-    "updated_at": "2026-10-18T20:32:07Z",
+    "updated_at": "2026-10-18T21:15:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -239,7 +293,7 @@
     "language": "JavaScript",
     "name": "morethanrealio/brambit",
     "stars": 17,
-    "updated_at": "2026-10-18T20:32:53Z",
+    "updated_at": "2026-10-18T21:07:16Z",
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1311,
-    "updated_at": "2026-10-18T20:19:56Z",
+    "updated_at": "2026-10-18T21:02:21Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:07:27Z",
     "url": "https://github.com/Zhdanov7436/agentos"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "vJeong3722/agent-symphony",
-    "language": "JavaScript",
-    "name": "vJeong3722/agent-symphony",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:06:34Z",
-    "url": "https://github.com/vJeong3722/agent-symphony"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 123,
-    "updated_at": "2026-10-18T20:06:20Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "sanjays3540/agent-starter-kit",
-    "language": "Shell",
-    "name": "sanjays3540/agent-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:01:32Z",
-    "url": "https://github.com/sanjays3540/agent-starter-kit"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 121,
-    "updated_at": "2026-10-18T20:01:14Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "A selective learning and memory substrate for agentic systems \u2014 typed, revisable, decayable memory with competence learn",
-    "id": "brunog261/membrane",
-    "language": "Go",
-    "name": "brunog261/membrane",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:00:30Z",
-    "url": "https://github.com/brunog261/membrane"
-  },
-  {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 13,
-    "updated_at": "2026-10-18T19:59:22Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
   }
 ]
