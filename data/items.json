@@ -1,12 +1,129 @@
 [
   {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 17,
+    "updated_at": "2026-10-18T17:45:12Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
     "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
     "id": "ubunatic/harnez",
     "language": "Go",
     "name": "ubunatic/harnez",
     "stars": 0,
-    "updated_at": "2026-10-18T17:29:03Z",
+    "updated_at": "2026-10-18T17:43:45Z",
     "url": "https://github.com/ubunatic/harnez"
+  },
+  {
+    "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:43:31Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-18T17:43:11Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
+    "id": "microsoft/agent-governance-toolkit",
+    "language": "Python",
+    "name": "microsoft/agent-governance-toolkit",
+    "stars": 6439,
+    "updated_at": "2026-10-18T17:42:50Z",
+    "url": "https://github.com/microsoft/agent-governance-toolkit"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35842,
+    "updated_at": "2026-10-18T17:41:05Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Self-evolving AI agent runtime \u2014 RSI under tiered authority, reversible hash-chained ledger, capability security, and cr",
+    "id": "vicfei/naga",
+    "language": "Python",
+    "name": "vicfei/naga",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:38:44Z",
+    "url": "https://github.com/vicfei/naga"
+  },
+  {
+    "description": "The authority plane for local AI agents: a governed, self-hosted agent built so a 7\u201330B model on your own GPU can drive ",
+    "id": "PeterGreenAppliedAI/Invarail",
+    "language": "TypeScript",
+    "name": "PeterGreenAppliedAI/Invarail",
+    "stars": 33,
+    "updated_at": "2026-10-18T17:38:00Z",
+    "url": "https://github.com/PeterGreenAppliedAI/Invarail"
+  },
+  {
+    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
+    "id": "rogueki/rogue-friday",
+    "language": "TypeScript",
+    "name": "rogueki/rogue-friday",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:37:10Z",
+    "url": "https://github.com/rogueki/rogue-friday"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 30,
+    "updated_at": "2026-10-18T17:35:54Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2350,
+    "updated_at": "2026-10-18T17:32:36Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-18T17:32:32Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 61,
+    "updated_at": "2026-10-18T17:43:20Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-18T17:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
@@ -27,15 +144,6 @@
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35842,
-    "updated_at": "2026-10-18T17:25:52Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Run AI agents as a governed, multi-session, multi-machine system \u2014 a production implementation of the long-running-agent",
     "id": "Busa-Legacies/metis-framework",
     "language": "Python",
@@ -43,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:24:35Z",
     "url": "https://github.com/Busa-Legacies/metis-framework"
-  },
-  {
-    "description": "Self-evolving AI agent runtime \u2014 RSI under tiered authority, reversible hash-chained ledger, capability security, and cr",
-    "id": "vicfei/naga",
-    "language": "Python",
-    "name": "vicfei/naga",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:24:17Z",
-    "url": "https://github.com/vicfei/naga"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 61,
-    "updated_at": "2026-10-18T17:26:24Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 45,
-    "updated_at": "2026-10-18T17:22:44Z",
-    "url": "https://github.com/swombat/souls-house"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -90,15 +171,6 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
-    "id": "rogueki/rogue-friday",
-    "language": "TypeScript",
-    "name": "rogueki/rogue-friday",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:20:43Z",
-    "url": "https://github.com/rogueki/rogue-friday"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
@@ -117,15 +189,6 @@
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-18T17:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A headless, multi-provider AI agent harness \u2014 embed it as a library, script it from the CLI, or run it as a stateful age",
     "id": "Spitfire-Products/nexus-cortex",
     "language": "TypeScript",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:13:28Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 17,
-    "updated_at": "2026-10-18T17:13:38Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
@@ -153,22 +207,13 @@
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 111,
-    "updated_at": "2026-10-18T17:21:57Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "The authority plane for local AI agents: a governed, self-hosted agent built so a 7\u201330B model on your own GPU can drive ",
-    "id": "PeterGreenAppliedAI/Invarail",
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
     "language": "TypeScript",
-    "name": "PeterGreenAppliedAI/Invarail",
-    "stars": 33,
-    "updated_at": "2026-10-18T17:09:24Z",
-    "url": "https://github.com/PeterGreenAppliedAI/Invarail"
+    "name": "autonomous-ai/openharness",
+    "stars": 1308,
+    "updated_at": "2026-10-18T17:11:55Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "LATTIX-IO/lattix-locus",
     "stars": 1,
-    "updated_at": "2026-10-18T17:26:13Z",
+    "updated_at": "2026-10-18T17:44:49Z",
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 325,
-    "updated_at": "2026-10-18T17:21:23Z",
+    "updated_at": "2026-10-18T17:35:12Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 3,
-    "updated_at": "2026-10-18T16:45:57Z",
+    "updated_at": "2026-10-18T17:43:09Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -374,17 +419,8 @@
     "language": "JavaScript",
     "name": "voodootikigod/adlc",
     "stars": 29,
-    "updated_at": "2026-10-18T17:26:44Z",
+    "updated_at": "2026-10-18T17:34:12Z",
     "url": "https://github.com/voodootikigod/adlc"
-  },
-  {
-    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
-    "id": "Thepizzapie/BuildersGate",
-    "language": "Python",
-    "name": "Thepizzapie/BuildersGate",
-    "stars": 30,
-    "updated_at": "2026-10-18T16:35:16Z",
-    "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
     "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T16:26:09Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 89,
-    "updated_at": "2026-10-18T16:23:38Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 747,
-    "updated_at": "2026-10-18T17:01:05Z",
-    "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "Open-source toolkit for building AI agents that interact with blockchains \u2014 DeFi, restaking, token sniping, portfolio tr",
-    "id": "ulsreall/web3-agent-kit",
-    "language": "Python",
-    "name": "ulsreall/web3-agent-kit",
-    "stars": 20,
-    "updated_at": "2026-10-18T16:20:17Z",
-    "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:18:48Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
   }
 ]
