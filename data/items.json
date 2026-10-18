@@ -1,5 +1,86 @@
 [
   {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3104,
+    "updated_at": "2026-10-18T05:59:43Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 60,
+    "updated_at": "2026-10-18T05:58:33Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-18T05:58:27Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 65,
+    "updated_at": "2026-10-18T05:55:40Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-18T05:59:39Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:47:16Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:46:40Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35837,
+    "updated_at": "2026-10-18T05:52:58Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-18T05:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
@@ -14,26 +95,8 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-18T05:43:50Z",
+    "updated_at": "2026-10-18T05:55:21Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3104,
-    "updated_at": "2026-10-18T05:43:02Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-18T05:41:50Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
@@ -52,15 +115,6 @@
     "stars": 28,
     "updated_at": "2026-10-18T05:37:24Z",
     "url": "https://github.com/invergent-ai/surogates"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35837,
-    "updated_at": "2026-10-18T05:44:43Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T05:30:31Z",
     "url": "https://github.com/IAmNo1Special/mvgeos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-18T05:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Data-driven workflow execution for Go",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 680,
-    "updated_at": "2026-10-18T05:43:40Z",
+    "updated_at": "2026-10-18T05:49:11Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/arcships/rutis"
   },
   {
-    "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
-    "id": "agbossjs/agboss",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:38:21Z",
-    "url": "https://github.com/agbossjs/agboss"
-  },
-  {
     "description": "MCP loader and registry written in rust",
     "id": "tinyhumansai/tinymcp",
     "language": "Rust",
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 398,
-    "updated_at": "2026-10-18T05:39:47Z",
+    "updated_at": "2026-10-18T05:59:21Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 325,
-    "updated_at": "2026-10-18T05:41:29Z",
+    "updated_at": "2026-10-18T05:55:42Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10866,
-    "updated_at": "2026-10-18T05:44:42Z",
+    "updated_at": "2026-10-18T05:55:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T04:54:59Z",
     "url": "https://github.com/tschaefer378/axar"
-  },
-  {
-    "description": "The agent OS that evolves itself. ",
-    "id": "lang939/agentos",
-    "language": "Rust",
-    "name": "lang939/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:53:52Z",
-    "url": "https://github.com/lang939/agentos"
-  },
-  {
-    "description": "AutoMind \u00b7 \u672c\u5730\u8fd0\u884c\u7684\u901a\u7528\u81ea\u52a8\u5316 AI Agent\uff08\u793e\u533a\u7248\uff09\uff1a\u5206\u5c42\u89c4\u5212 \u00b7 \u5de5\u5177\u8c03\u7528 \u00b7 MCP \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 \u98de\u4e66/\u9489\u9489/\u4f01\u5fae\u673a\u5668\u4eba\uff1bWindows / macOS / Linux \u684c\u9762\u7248\uff0cMIT \u5f00\u6e90\u3002",
-    "id": "yl13571844594-arch/AutoMind",
-    "language": "Python",
-    "name": "yl13571844594-arch/AutoMind",
-    "stars": 3,
-    "updated_at": "2026-10-18T04:53:48Z",
-    "url": "https://github.com/yl13571844594-arch/AutoMind"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "SamuelSilva36/gbase",
-    "language": "Python",
-    "name": "SamuelSilva36/gbase",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:53:42Z",
-    "url": "https://github.com/SamuelSilva36/gbase"
-  },
-  {
-    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
-    "id": "BerkPhillips600/agent-starter-kit",
-    "language": "Shell",
-    "name": "BerkPhillips600/agent-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:53:34Z",
-    "url": "https://github.com/BerkPhillips600/agent-starter-kit"
   }
 ]
