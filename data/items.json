@@ -1,12 +1,156 @@
 [
   {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-18T20:44:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3116,
+    "updated_at": "2026-10-18T20:44:03Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:43:41Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "clarakaneko774/agent-symphony",
+    "language": "JavaScript",
+    "name": "clarakaneko774/agent-symphony",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:43:33Z",
+    "url": "https://github.com/clarakaneko774/agent-symphony"
+  },
+  {
+    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
+    "id": "rogueki/rogue-friday",
+    "language": "TypeScript",
+    "name": "rogueki/rogue-friday",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:43:27Z",
+    "url": "https://github.com/rogueki/rogue-friday"
+  },
+  {
+    "description": "AILang is a programming language that utilizes AI agents.  It is a set of instructions, specifications, and rules for de",
+    "id": "Ruslan-A7/ailang",
+    "language": "\u2014",
+    "name": "Ruslan-A7/ailang",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:42:39Z",
+    "url": "https://github.com/Ruslan-A7/ailang"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-18T20:42:17Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Tool schema and agent friendly defaults",
+    "id": "tinyhumansai/tinytools",
+    "language": "Rust",
+    "name": "tinyhumansai/tinytools",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:42:14Z",
+    "url": "https://github.com/tinyhumansai/tinytools"
+  },
+  {
+    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
+    "id": "cerredz/Vidbyte-SDK",
+    "language": "Python",
+    "name": "cerredz/Vidbyte-SDK",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:40:01Z",
+    "url": "https://github.com/cerredz/Vidbyte-SDK"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35845,
+    "updated_at": "2026-10-18T20:36:23Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 321,
+    "updated_at": "2026-10-18T20:44:36Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 61,
+    "updated_at": "2026-10-18T20:33:32Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10878,
+    "updated_at": "2026-10-18T20:32:07Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "BACH v3.15.0: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers, sched",
     "id": "ellmos-ai/bach",
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 8,
-    "updated_at": "2026-10-18T20:30:09Z",
+    "updated_at": "2026-10-18T20:43:16Z",
     "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-18T20:31:59Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-18T20:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 17,
+    "updated_at": "2026-10-18T20:30:18Z",
+    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
@@ -14,7 +158,7 @@
     "language": "JavaScript",
     "name": "morethanrealio/brambit",
     "stars": 17,
-    "updated_at": "2026-10-18T20:29:44Z",
+    "updated_at": "2026-10-18T20:32:53Z",
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
@@ -23,7 +167,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 325,
-    "updated_at": "2026-10-18T20:29:32Z",
+    "updated_at": "2026-10-18T20:42:41Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -43,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:28:12Z",
     "url": "https://github.com/persson1330/membrane"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-18T20:30:06Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
@@ -79,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:25:31Z",
     "url": "https://github.com/RodrigoYoung23801/gbase"
-  },
-  {
-    "description": "Python SDK for building, evaluating, and debugging reliable AI agent harnesses.",
-    "id": "cerredz/Vidbyte-SDK",
-    "language": "Python",
-    "name": "cerredz/Vidbyte-SDK",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:25:37Z",
-    "url": "https://github.com/cerredz/Vidbyte-SDK"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 61,
-    "updated_at": "2026-10-18T20:23:45Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "My AI coding workflow: Claude Code plugin, portable SKILL.md skills, global rules, and tips.",
@@ -135,24 +252,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
-    "id": "rogueki/rogue-friday",
-    "language": "TypeScript",
-    "name": "rogueki/rogue-friday",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:18:37Z",
-    "url": "https://github.com/rogueki/rogue-friday"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-18T20:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
     "id": "sinankomarov582/agent-starter-kit",
     "language": "Shell",
@@ -160,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:14:09Z",
     "url": "https://github.com/sinankomarov582/agent-starter-kit"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 17,
-    "updated_at": "2026-10-18T20:30:18Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
@@ -205,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:10:16Z",
     "url": "https://github.com/Situational-AI/situational-ai.github.io"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35845,
-    "updated_at": "2026-10-18T20:09:45Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-18T20:17:20Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -268,15 +340,6 @@
     "stars": 123,
     "updated_at": "2026-10-18T20:06:20Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
-    "id": "falkenslab/agent-kit",
-    "language": "TypeScript",
-    "name": "falkenslab/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:03:20Z",
-    "url": "https://github.com/falkenslab/agent-kit"
   },
   {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
@@ -385,68 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-18T20:15:20Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "MinhoPerez/agent-symphony",
-    "language": "JavaScript",
-    "name": "MinhoPerez/agent-symphony",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:48:48Z",
-    "url": "https://github.com/MinhoPerez/agent-symphony"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-18T19:47:37Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A selective learning and memory substrate for agentic systems \u2014 typed, revisable, decayable memory with competence learn",
-    "id": "schwarz24147/membrane",
-    "language": "Go",
-    "name": "schwarz24147/membrane",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:47:29Z",
-    "url": "https://github.com/schwarz24147/membrane"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "dupuis352/Cortico",
-    "language": "TypeScript",
-    "name": "dupuis352/Cortico",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:46:59Z",
-    "url": "https://github.com/dupuis352/Cortico"
-  },
-  {
-    "description": "The agent OS that evolves itself. ",
-    "id": "eriksson681/agentos",
-    "language": "Rust",
-    "name": "eriksson681/agentos",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:46:53Z",
-    "url": "https://github.com/eriksson681/agentos"
-  },
-  {
-    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
-    "id": "sakurareed/loop.js",
-    "language": "TypeScript",
-    "name": "sakurareed/loop.js",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:45:07Z",
-    "url": "https://github.com/sakurareed/loop.js"
-  },
-  {
-    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
-    "id": "wojciech129/loop.js",
-    "language": "TypeScript",
-    "name": "wojciech129/loop.js",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:44:11Z",
-    "url": "https://github.com/wojciech129/loop.js"
   }
 ]
