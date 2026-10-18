@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 17,
+    "updated_at": "2026-10-18T00:29:19Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 325,
+    "updated_at": "2026-10-18T00:28:45Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-18T00:29:35Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 321,
+    "updated_at": "2026-10-18T00:19:47Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-18T00:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 195,
-    "updated_at": "2026-10-18T00:14:47Z",
+    "updated_at": "2026-10-18T00:29:56Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -41,17 +86,8 @@
     "language": "Rust",
     "name": "shaharia-lab/agento",
     "stars": 33,
-    "updated_at": "2026-10-18T00:10:19Z",
+    "updated_at": "2026-10-18T00:26:13Z",
     "url": "https://github.com/shaharia-lab/agento"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 17,
-    "updated_at": "2026-10-18T00:10:10Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
@@ -70,15 +106,6 @@
     "stars": 1647,
     "updated_at": "2026-10-18T00:08:55Z",
     "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 325,
-    "updated_at": "2026-10-18T00:06:49Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "\u57fa\u4e8eHaifa Agent SDK\u5b9e\u73b0\u5b57\u8282\u8df3\u52a8\u5f00\u6e90\u7684Deer-flow\u8d85\u7ea7\u667a\u80fd\u4f53 \u4ece\u5bf9\u8bdd\u5230\u957f\u4efb\u52a1\u5de5\u4f5c\u53f0",
@@ -122,17 +149,8 @@
     "language": "Ruby",
     "name": "crmne/ruby_llm",
     "stars": 4472,
-    "updated_at": "2026-10-18T00:02:01Z",
+    "updated_at": "2026-10-18T00:29:12Z",
     "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-18T00:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
@@ -149,7 +167,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 21,
-    "updated_at": "2026-10-17T23:54:38Z",
+    "updated_at": "2026-10-18T00:19:35Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -176,17 +194,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-18T00:13:21Z",
+    "updated_at": "2026-10-18T00:29:14Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-18T00:11:04Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "",
@@ -225,15 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 321,
-    "updated_at": "2026-10-18T00:05:13Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "Give Claude Code a persistent mind: an autonomous agent framework that sets its own goals, forms predictions, and learns",
     "id": "zkysar1/Claude-Mind",
     "language": "Python",
@@ -248,7 +248,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2352,
-    "updated_at": "2026-10-17T23:19:29Z",
+    "updated_at": "2026-10-18T00:19:21Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10863,
-    "updated_at": "2026-10-18T00:14:38Z",
+    "updated_at": "2026-10-18T00:29:19Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
