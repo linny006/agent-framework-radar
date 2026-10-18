@@ -1,12 +1,66 @@
 [
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 3,
+    "updated_at": "2026-10-18T02:30:06Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
+    "id": "joelaniol/nova",
+    "language": "\u2014",
+    "name": "joelaniol/nova",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:26:52Z",
+    "url": "https://github.com/joelaniol/nova"
+  },
+  {
+    "description": "A role-first AI agent studio for governed multi-agent collaboration, scoped permissions, and evidence-backed task execut",
+    "id": "wangzhongren/ans-studio",
     "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 42,
-    "updated_at": "2026-10-18T02:11:44Z",
-    "url": "https://github.com/ggui-ai/ggui"
+    "name": "wangzhongren/ans-studio",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:25:02Z",
+    "url": "https://github.com/wangzhongren/ans-studio"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-18T02:23:32Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "\u57fa\u4e8eHaifa Agent SDK\u5b9e\u73b0\u5b57\u8282\u8df3\u52a8\u5f00\u6e90\u7684Deer-flow\u8d85\u7ea7\u667a\u80fd\u4f53 \u4ece\u5bf9\u8bdd\u5230\u957f\u4efb\u52a1\u5de5\u4f5c\u53f0",
+    "id": "haifa-agent/haifa-agent-super-harness",
+    "language": "Java",
+    "name": "haifa-agent/haifa-agent-super-harness",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:27:47Z",
+    "url": "https://github.com/haifa-agent/haifa-agent-super-harness"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 195,
+    "updated_at": "2026-10-18T02:27:44Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 12,
+    "updated_at": "2026-10-18T02:22:00Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
   {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
@@ -14,8 +68,44 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 147,
-    "updated_at": "2026-10-18T02:11:35Z",
+    "updated_at": "2026-10-18T02:21:58Z",
     "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2352,
+    "updated_at": "2026-10-18T02:26:31Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-18T02:16:38Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-18T02:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 42,
+    "updated_at": "2026-10-18T02:11:44Z",
+    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -34,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T02:09:51Z",
     "url": "https://github.com/cmcoffee/gohort"
-  },
-  {
-    "description": "\u57fa\u4e8eHaifa Agent SDK\u5b9e\u73b0\u5b57\u8282\u8df3\u52a8\u5f00\u6e90\u7684Deer-flow\u8d85\u7ea7\u667a\u80fd\u4f53 \u4ece\u5bf9\u8bdd\u5230\u957f\u4efb\u52a1\u5de5\u4f5c\u53f0",
-    "id": "haifa-agent/haifa-agent-super-harness",
-    "language": "Java",
-    "name": "haifa-agent/haifa-agent-super-harness",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:09:38Z",
-    "url": "https://github.com/haifa-agent/haifa-agent-super-harness"
-  },
-  {
-    "description": "Nova AI Workspace \u2014 the local browser workspace where your AI agents work. Real logged-in sessions, terminal, memory, sc",
-    "id": "joelaniol/nova",
-    "language": "\u2014",
-    "name": "joelaniol/nova",
-    "stars": 1,
-    "updated_at": "2026-10-18T02:08:47Z",
-    "url": "https://github.com/joelaniol/nova"
   },
   {
     "description": "An efficient durable harness for collaboration across people, models, and devices",
@@ -81,21 +153,12 @@
     "url": "https://github.com/Cobra-bit-prog/agent-guard"
   },
   {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 3,
-    "updated_at": "2026-10-18T02:07:08Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35839,
-    "updated_at": "2026-10-18T02:11:22Z",
+    "updated_at": "2026-10-18T02:25:31Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 18,
     "updated_at": "2026-10-18T02:00:22Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-18T02:00:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": " Flexible storage solutions for agent sessions.",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-10-18T02:01:04Z",
+    "updated_at": "2026-10-18T02:19:24Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
@@ -162,21 +216,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-18T02:08:59Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 325,
-    "updated_at": "2026-10-18T02:09:51Z",
+    "updated_at": "2026-10-18T02:28:03Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -203,17 +248,8 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-18T02:14:39Z",
+    "updated_at": "2026-10-18T02:28:13Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 12,
-    "updated_at": "2026-10-18T01:37:37Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
   {
     "description": "Local filesystem MCP server with 50 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
@@ -238,7 +274,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3098,
+    "stars": 3099,
     "updated_at": "2026-10-18T01:26:55Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -256,7 +292,7 @@
     "id": "morethanrealio/brambit",
     "language": "JavaScript",
     "name": "morethanrealio/brambit",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-10-18T01:21:00Z",
     "url": "https://github.com/morethanrealio/brambit"
   },
@@ -297,15 +333,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 195,
-    "updated_at": "2026-10-18T02:05:09Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T01:03:05Z",
     "url": "https://github.com/itsmepraks/zakera"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2352,
-    "updated_at": "2026-10-18T01:04:40Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-18T00:15:09Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-18T00:14:47Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1648,
-    "updated_at": "2026-10-18T00:08:55Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
   }
 ]
