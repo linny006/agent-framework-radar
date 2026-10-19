@@ -1,11 +1,83 @@
 [
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-19T17:59:14Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35868,
+    "updated_at": "2026-10-19T17:58:53Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-19T17:57:28Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-19T17:55:43Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-19T17:52:39Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1317,
+    "updated_at": "2026-10-19T18:00:02Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Your job landing in one conversation",
+    "id": "ethany14/Eregion-Job-Finding-Agent",
+    "language": "Python",
+    "name": "ethany14/Eregion-Job-Finding-Agent",
+    "stars": 2,
+    "updated_at": "2026-10-19T17:47:04Z",
+    "url": "https://github.com/ethany14/Eregion-Job-Finding-Agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T17:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
     "id": "KPO-Tech/seshat-runtime",
     "language": "Go",
     "name": "KPO-Tech/seshat-runtime",
     "stars": 5,
-    "updated_at": "2026-10-19T17:44:33Z",
+    "updated_at": "2026-10-19T17:58:06Z",
     "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 5005,
     "updated_at": "2026-10-19T17:42:58Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-19T17:45:14Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Modular AI agent runtime for explainable, stateful, and bounded workflows with explicit module, capability, and executio",
@@ -68,7 +131,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T17:39:56Z",
+    "updated_at": "2026-10-19T17:57:25Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20733,
-    "updated_at": "2026-10-19T17:43:29Z",
+    "updated_at": "2026-10-19T17:56:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10904,
-    "updated_at": "2026-10-19T17:37:01Z",
+    "updated_at": "2026-10-19T17:53:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/aeonfun/aeon"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T17:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
     "id": "AndersonBY/vv-agent",
     "language": "Python",
@@ -185,7 +239,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-19T17:25:47Z",
+    "updated_at": "2026-10-19T17:52:46Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -239,17 +293,8 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 324,
-    "updated_at": "2026-10-19T17:15:47Z",
+    "updated_at": "2026-10-19T17:56:30Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 309,
-    "updated_at": "2026-10-19T17:14:45Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -257,7 +302,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-19T17:42:00Z",
+    "updated_at": "2026-10-19T17:51:42Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/quqxui/RSI-Flow"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1317,
-    "updated_at": "2026-10-19T17:44:22Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 14206,
-    "updated_at": "2026-10-19T17:24:33Z",
+    "updated_at": "2026-10-19T18:00:19Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-19T17:26:15Z",
+    "updated_at": "2026-10-19T17:56:33Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 89,
     "updated_at": "2026-10-19T16:42:09Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35868,
-    "updated_at": "2026-10-19T16:39:35Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "\u58f0\u660e\u5f0f LLM Agent \u8c03\u7528\u6846\u67b6\uff08Spring Boot Starter\uff09\u3002\u5199\u4e00\u4e2a\u63a5\u53e3\u3001\u6253\u4e00\u4e2a\u6ce8\u89e3\u5373\u53ef\u8c03\u7528\u5927\u6a21\u578b\uff1b\u6a21\u578b\u3001\u534f\u8bae\u3001Loop\u3001\u5de5\u5177\u3001\u4e0a\u4e0b\u6587\u3001\u8bb0\u5fc6\u3001\u63d0\u793a\u8bcd\u5168\u90e8\u53ef\u63d2\u62d4\u3002\u5185\u7f6e claude-code / codex / dsh-mi",
-    "id": "6pofx/benxin",
-    "language": "Java",
-    "name": "6pofx/benxin",
-    "stars": 1,
-    "updated_at": "2026-10-19T16:39:16Z",
-    "url": "https://github.com/6pofx/benxin"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3141,
-    "updated_at": "2026-10-19T16:43:14Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Isolation for AI agents like Claude Code or GitHub Copilot on native Windows to use native buildchain, no docker/WSL.",
-    "id": "fmuecke/agent-win-sandbox",
-    "language": "PowerShell",
-    "name": "fmuecke/agent-win-sandbox",
-    "stars": 3,
-    "updated_at": "2026-10-19T16:31:06Z",
-    "url": "https://github.com/fmuecke/agent-win-sandbox"
   }
 ]
