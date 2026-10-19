@@ -1,12 +1,111 @@
 [
   {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:29:02Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 327,
+    "updated_at": "2026-10-19T22:28:38Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-19T22:28:29Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:27:46Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
     "id": "tedix-hq/tedix",
     "language": "TypeScript",
     "name": "tedix-hq/tedix",
     "stars": 18,
-    "updated_at": "2026-10-19T22:13:45Z",
+    "updated_at": "2026-10-19T22:27:29Z",
     "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-19T22:26:56Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
+    "id": "morethanrealio/brambit",
+    "language": "JavaScript",
+    "name": "morethanrealio/brambit",
+    "stars": 19,
+    "updated_at": "2026-10-19T22:26:59Z",
+    "url": "https://github.com/morethanrealio/brambit"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 3,
+    "updated_at": "2026-10-19T22:26:11Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20736,
+    "updated_at": "2026-10-19T22:26:48Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A space-aware coordination hub for agents in herdr",
+    "id": "duncanam/mustr",
+    "language": "Rust",
+    "name": "duncanam/mustr",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:19:33Z",
+    "url": "https://github.com/duncanam/mustr"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 21,
+    "updated_at": "2026-10-19T22:18:57Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T22:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Your job landing in one conversation",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-19T22:14:48Z",
+    "updated_at": "2026-10-19T22:27:22Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -72,21 +171,12 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20736,
-    "updated_at": "2026-10-19T22:13:10Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-19T22:10:33Z",
+    "updated_at": "2026-10-19T22:29:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -126,15 +216,6 @@
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2376,
-    "updated_at": "2026-10-19T22:02:57Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
     "id": "broomva/life",
     "language": "Rust",
@@ -153,24 +234,6 @@
     "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 3,
-    "updated_at": "2026-10-19T22:08:30Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T22:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
     "id": "kdcube/kdcube",
     "language": "Python",
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10910,
-    "updated_at": "2026-10-19T22:09:00Z",
+    "updated_at": "2026-10-19T22:26:34Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-19T22:12:26Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -248,7 +302,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T22:13:22Z",
+    "updated_at": "2026-10-19T22:27:05Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -283,7 +337,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35871,
+    "stars": 35872,
     "updated_at": "2026-10-19T21:32:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -311,7 +365,7 @@
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 14,
-    "updated_at": "2026-10-19T21:24:38Z",
+    "updated_at": "2026-10-19T22:20:15Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 83,
-    "updated_at": "2026-10-19T21:23:20Z",
+    "updated_at": "2026-10-19T22:18:24Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
   },
   {
-    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
-    "id": "Rovinos-AI/rovinos-ai-harness",
-    "language": "TypeScript",
-    "name": "Rovinos-AI/rovinos-ai-harness",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:08:53Z",
-    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
-  },
-  {
     "description": "The agent OS that evolves itself. ",
     "id": "sharma92653/agentos",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 18,
     "updated_at": "2026-10-19T21:10:40Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
-    "id": "jenok9283/gbase",
-    "language": "Python",
-    "name": "jenok9283/gbase",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:09:38Z",
-    "url": "https://github.com/jenok9283/gbase"
-  },
-  {
-    "description": "OpenSpawn \u2014 An open source multi-agent coordination platform",
-    "id": "openspawn/openspawn",
-    "language": "TypeScript",
-    "name": "openspawn/openspawn",
-    "stars": 11,
-    "updated_at": "2026-10-19T21:08:49Z",
-    "url": "https://github.com/openspawn/openspawn"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 62,
-    "updated_at": "2026-10-19T21:07:54Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-19T21:33:36Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Vant: Versatile Autonomous Networked Tool - Durable AI memory + cold storage + runtime for agents, with generational evo",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 11,
-    "updated_at": "2026-10-19T21:06:00Z",
-    "url": "https://github.com/dhaupin/vant"
   }
 ]
