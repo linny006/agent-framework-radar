@@ -1,12 +1,48 @@
 [
   {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 13,
+    "updated_at": "2026-10-19T01:45:13Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
     "description": "My AI coding workflow: Claude Code plugin, portable SKILL.md skills, global rules, and tips.",
     "id": "brawblan/ai-workflow",
     "language": "Python",
     "name": "brawblan/ai-workflow",
     "stars": 0,
-    "updated_at": "2026-10-19T01:40:08Z",
+    "updated_at": "2026-10-19T01:44:41Z",
     "url": "https://github.com/brawblan/ai-workflow"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-19T01:42:58Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 322,
+    "updated_at": "2026-10-19T01:42:12Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T01:41:05Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -45,15 +81,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 322,
-    "updated_at": "2026-10-19T01:33:05Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -72,31 +99,13 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 13,
-    "updated_at": "2026-10-19T01:31:51Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10880,
-    "updated_at": "2026-10-19T01:39:52Z",
+    "updated_at": "2026-10-19T01:42:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T01:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AILang is a programming language that utilizes AI agents.  It is a set of instructions, specifications, and rules for de",
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "rogueki/rogue-friday",
     "stars": 0,
-    "updated_at": "2026-10-19T01:26:30Z",
+    "updated_at": "2026-10-19T01:41:53Z",
     "url": "https://github.com/rogueki/rogue-friday"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35848,
-    "updated_at": "2026-10-19T01:36:50Z",
+    "updated_at": "2026-10-19T01:41:43Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "y5ez3g/facadecode",
     "stars": 15,
-    "updated_at": "2026-10-19T01:38:41Z",
+    "updated_at": "2026-10-19T01:45:09Z",
     "url": "https://github.com/y5ez3g/facadecode"
   },
   {
@@ -409,7 +418,7 @@
     "id": "agentscope-ai/agentscope-java",
     "language": "Java",
     "name": "agentscope-ai/agentscope-java",
-    "stars": 6029,
+    "stars": 6030,
     "updated_at": "2026-10-19T00:36:15Z",
     "url": "https://github.com/agentscope-ai/agentscope-java"
   },
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-19T01:34:31Z",
+    "updated_at": "2026-10-19T01:44:08Z",
     "url": "https://github.com/agbossjs/agboss"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 111,
-    "updated_at": "2026-10-19T01:37:12Z",
-    "url": "https://github.com/futuregene/future-os"
   }
 ]
