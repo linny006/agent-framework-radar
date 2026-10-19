@@ -1,11 +1,65 @@
 [
   {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 61,
+    "updated_at": "2026-10-19T20:00:06Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
+    "id": "neomjs/neo-agent-institution",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-institution",
+    "stars": 11,
+    "updated_at": "2026-10-19T19:59:29Z",
+    "url": "https://github.com/neomjs/neo-agent-institution"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 640,
+    "updated_at": "2026-10-19T19:57:08Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 8,
+    "updated_at": "2026-10-19T19:56:46Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T19:56:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-19T20:00:09Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
     "id": "AshishKumar4/Nimbus",
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T19:56:20Z",
+    "updated_at": "2026-10-19T19:57:14Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1367,
-    "updated_at": "2026-10-19T19:56:02Z",
+    "updated_at": "2026-10-19T19:58:20Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-19T19:54:46Z",
+    "updated_at": "2026-10-19T19:56:59Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/fabbrik/AgentExperience.NET"
   },
   {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 640,
-    "updated_at": "2026-10-19T19:55:20Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "Installation catalog and pinned generated exports for governed Allura agent teams",
     "id": "Allura-Ecosystem/allura-plugins",
     "language": "JavaScript",
@@ -133,15 +178,6 @@
     "stars": 13,
     "updated_at": "2026-10-19T19:46:10Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T19:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "[EMNLP 2026] \ud83e\udd80 The first autonomous hackathon agent stop assisting and start competing (\ud83c\udfc6 Hackathon Champion Project).",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "hara-cli/hara",
     "stars": 3,
-    "updated_at": "2026-10-19T19:41:20Z",
+    "updated_at": "2026-10-19T20:00:04Z",
     "url": "https://github.com/hara-cli/hara"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 10,
     "updated_at": "2026-10-19T19:40:02Z",
     "url": "https://github.com/authzed/openagentprimitives"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-19T19:56:20Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "DSPy Go implementation",
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-19T19:53:37Z",
+    "updated_at": "2026-10-19T19:59:38Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -284,17 +311,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10908,
-    "updated_at": "2026-10-19T19:52:06Z",
+    "updated_at": "2026-10-19T19:56:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 61,
-    "updated_at": "2026-10-19T19:27:09Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "Pal-AI-Lab/Cortico",
     "stars": 233,
-    "updated_at": "2026-10-19T19:25:55Z",
+    "updated_at": "2026-10-19T19:57:28Z",
     "url": "https://github.com/Pal-AI-Lab/Cortico"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 327,
-    "updated_at": "2026-10-19T19:47:36Z",
+    "updated_at": "2026-10-19T19:58:25Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T19:01:25Z",
     "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
-    "id": "Rovinos-AI/rovinos-ai-harness",
-    "language": "TypeScript",
-    "name": "Rovinos-AI/rovinos-ai-harness",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:17:33Z",
-    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 123,
-    "updated_at": "2026-10-19T19:00:07Z",
-    "url": "https://github.com/skerry699/agent-symphony"
   }
 ]
