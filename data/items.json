@@ -1,5 +1,95 @@
 [
   {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-19T16:30:13Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 5005,
+    "updated_at": "2026-10-19T16:29:42Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Your job landing in one conversation",
+    "id": "ethany14/Eregion-Job-Finding-Agent",
+    "language": "Python",
+    "name": "ethany14/Eregion-Job-Finding-Agent",
+    "stars": 2,
+    "updated_at": "2026-10-19T16:28:21Z",
+    "url": "https://github.com/ethany14/Eregion-Job-Finding-Agent"
+  },
+  {
+    "description": "\u672c\u5fc3\uff08benxin\uff09LLM Agent \u63d2\u4ef6\u7684\u53ef\u8fd0\u884c\u793a\u4f8b\u5de5\u7a0b\uff1a14 \u4e2a Maven \u9879\u76ee / 794 \u4e2a\u79bb\u7ebf\u7528\u4f8b\uff0c\u8986\u76d6\u5168\u90e8\u6ce8\u89e3\u30018 \u4e2a\u5185\u7f6e Agent Loop\u30014 \u79cd API \u534f\u8bae\u3001\u58f0\u660e\u5f0f\u5de5\u4f5c\u6d41\u3001\u6c99\u7bb1\u4e0e\u5ba1\u6279\u3001\u6570\u636e\u5e93\u6301\u4e45\u5316\uff0c\u4ee5\u53ca\u672c\u673a\u5c0f\u6a21\u578b\uff08",
+    "id": "6pofx/benxin_example",
+    "language": "Java",
+    "name": "6pofx/benxin_example",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:27:52Z",
+    "url": "https://github.com/6pofx/benxin_example"
+  },
+  {
+    "description": "Autonomous AI agent platform for enterprise data and operations. Turns natural-language intents into verified plans and ",
+    "id": "ShreyashDarade/praxis-ai-agent-platform",
+    "language": "Python",
+    "name": "ShreyashDarade/praxis-ai-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:27:29Z",
+    "url": "https://github.com/ShreyashDarade/praxis-ai-agent-platform"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 17,
+    "updated_at": "2026-10-19T16:24:23Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-19T16:19:00Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 17,
+    "updated_at": "2026-10-19T16:29:31Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
+    "id": "GEMISIS/leviath",
+    "language": "Rust",
+    "name": "GEMISIS/leviath",
+    "stars": 14,
+    "updated_at": "2026-10-19T16:16:05Z",
+    "url": "https://github.com/GEMISIS/leviath"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T16:15:36Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -14,7 +104,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-19T16:13:44Z",
+    "updated_at": "2026-10-19T16:16:10Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 62,
     "updated_at": "2026-10-19T16:12:44Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-19T16:12:19Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "A foundation for building AI agents on top of the Claude Agent SDK",
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-19T16:13:22Z",
+    "updated_at": "2026-10-19T16:28:48Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/agbossjs/agboss"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 17,
-    "updated_at": "2026-10-19T16:04:39Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "My AI coding workflow: Claude Code plugin, portable SKILL.md skills, global rules, and tips.",
     "id": "brawblan/ai-workflow",
     "language": "Python",
@@ -135,15 +207,6 @@
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T16:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "",
     "id": "kazari-qwp/Nexarbor",
     "language": "Python",
@@ -158,7 +221,7 @@
     "language": "Go",
     "name": "patriceckhart/zot",
     "stars": 350,
-    "updated_at": "2026-10-19T15:59:40Z",
+    "updated_at": "2026-10-19T16:27:11Z",
     "url": "https://github.com/patriceckhart/zot"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "acnlabs/ACN",
     "stars": 4,
-    "updated_at": "2026-10-19T15:58:36Z",
+    "updated_at": "2026-10-19T16:23:04Z",
     "url": "https://github.com/acnlabs/ACN"
   },
   {
@@ -198,6 +261,15 @@
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20733,
+    "updated_at": "2026-10-19T15:51:54Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
     "id": "rjaskonis/pi-feats",
     "language": "TypeScript",
@@ -225,15 +297,6 @@
     "url": "https://github.com/NarraFork/NarraFork"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20732,
-    "updated_at": "2026-10-19T15:51:54Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "An agentic RAG support assistant that answers Malaysia Airlines passenger questions using a 1,483-article knowledge base",
     "id": "JianRong-King/AskMH",
     "language": "Python",
@@ -259,15 +322,6 @@
     "stars": 89,
     "updated_at": "2026-10-19T15:42:33Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 17,
-    "updated_at": "2026-10-19T16:14:43Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -374,7 +428,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 327,
-    "updated_at": "2026-10-19T16:02:32Z",
+    "updated_at": "2026-10-19T16:22:32Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-19T15:18:40Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-    "id": "morethanrealio/brambit",
-    "language": "JavaScript",
-    "name": "morethanrealio/brambit",
-    "stars": 19,
-    "updated_at": "2026-10-19T15:16:36Z",
-    "url": "https://github.com/morethanrealio/brambit"
-  },
-  {
-    "description": "A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
-    "id": "haechan03746/loop.js",
-    "language": "TypeScript",
-    "name": "haechan03746/loop.js",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:10:07Z",
-    "url": "https://github.com/haechan03746/loop.js"
-  },
-  {
-    "description": "This pet project is aimed to developed a ride sharing api with modular monolith fashion and applying software engg best ",
-    "id": "sayeed1999/ride-sharing-golang-api",
-    "language": "Go",
-    "name": "sayeed1999/ride-sharing-golang-api",
-    "stars": 6,
-    "updated_at": "2026-10-19T15:07:54Z",
-    "url": "https://github.com/sayeed1999/ride-sharing-golang-api"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8865,
-    "updated_at": "2026-10-19T15:07:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "cemschulz/Cortico",
-    "language": "TypeScript",
-    "name": "cemschulz/Cortico",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:05:34Z",
-    "url": "https://github.com/cemschulz/Cortico"
-  },
-  {
-    "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
-    "id": "Hazer-BJTU/simplex-cpp",
-    "language": "C++",
-    "name": "Hazer-BJTU/simplex-cpp",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:38:34Z",
-    "url": "https://github.com/Hazer-BJTU/simplex-cpp"
   }
 ]
