@@ -1,5 +1,23 @@
 [
   {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-10-19T14:14:30Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T14:13:02Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 89,
-    "updated_at": "2026-10-19T14:12:14Z",
+    "updated_at": "2026-10-19T14:13:12Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 326,
-    "updated_at": "2026-10-19T14:09:57Z",
+    "updated_at": "2026-10-19T14:13:07Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-19T14:11:44Z",
+    "updated_at": "2026-10-19T14:14:48Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-10-19T14:01:29Z",
     "url": "https://github.com/xmor/ara"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T14:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
@@ -293,7 +302,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T14:09:55Z",
+    "updated_at": "2026-10-19T14:14:05Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 3,
-    "updated_at": "2026-10-19T14:12:23Z",
+    "updated_at": "2026-10-19T14:13:11Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T13:03:30Z",
     "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2354,
-    "updated_at": "2026-10-19T13:56:13Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
