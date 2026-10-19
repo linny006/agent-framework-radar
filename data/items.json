@@ -1,12 +1,39 @@
 [
   {
-    "description": "A form framework built for agents.",
-    "id": "ridemountainpig/open-form",
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
     "language": "TypeScript",
-    "name": "ridemountainpig/open-form",
+    "name": "laurentftech/pi-outpost",
+    "stars": 23,
+    "updated_at": "2026-10-19T05:30:04Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-10-19T05:29:51Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
+    "id": "secondorderai/ouroboros",
+    "language": "TypeScript",
+    "name": "secondorderai/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-19T05:14:43Z",
-    "url": "https://github.com/ridemountainpig/open-form"
+    "updated_at": "2026-10-19T05:26:23Z",
+    "url": "https://github.com/secondorderai/ouroboros"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3122,
+    "updated_at": "2026-10-19T05:24:29Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,8 +41,71 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-19T05:15:13Z",
+    "updated_at": "2026-10-19T05:23:05Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-10-19T05:22:58Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 13,
+    "updated_at": "2026-10-19T05:21:16Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 83,
+    "updated_at": "2026-10-19T05:20:00Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10882,
+    "updated_at": "2026-10-19T05:19:01Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-19T05:16:26Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T05:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "A form framework built for agents.",
+    "id": "ridemountainpig/open-form",
+    "language": "TypeScript",
+    "name": "ridemountainpig/open-form",
+    "stars": 3,
+    "updated_at": "2026-10-19T05:15:46Z",
+    "url": "https://github.com/ridemountainpig/open-form"
   },
   {
     "description": "Everything is a plugin\uff01 \u4e00\u79cd\u57fa\u4e8e\u63d2\u4ef6\u5316\u6269\u5c55\u3001\u4e8b\u4ef6\u9a71\u52a8\u603b\u7ebf\u6a21\u5f0f\u6784\u5efa\u7684\u667a\u80fd\u4f53\u6846\u67b6\u4e0eagent\u5168\u6808\u5e94\u7528",
@@ -27,31 +117,22 @@
     "url": "https://github.com/Removel/Icarus"
   },
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35855,
+    "updated_at": "2026-10-19T05:13:57Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-19T05:12:48Z",
+    "updated_at": "2026-10-19T05:22:21Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-19T05:11:04Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35854,
-    "updated_at": "2026-10-19T05:13:57Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Enterprise-grade AI agent engine. Lightweight, secure, MCP-native. Built in Rust.",
@@ -131,7 +212,7 @@
     "language": "Go",
     "name": "aleksandrgradoboev-svg/bismarck-engine",
     "stars": 0,
-    "updated_at": "2026-10-19T05:05:13Z",
+    "updated_at": "2026-10-19T05:27:39Z",
     "url": "https://github.com/aleksandrgradoboev-svg/bismarck-engine"
   },
   {
@@ -140,17 +221,8 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-19T05:03:50Z",
+    "updated_at": "2026-10-19T05:29:28Z",
     "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "A self-hosted web interface for the pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 23,
-    "updated_at": "2026-10-19T05:03:27Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -158,26 +230,8 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49161,
-    "updated_at": "2026-10-19T05:02:27Z",
+    "updated_at": "2026-10-19T05:30:16Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 13,
-    "updated_at": "2026-10-19T05:01:35Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T05:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -187,15 +241,6 @@
     "stars": 14,
     "updated_at": "2026-10-19T04:56:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10882,
-    "updated_at": "2026-10-19T05:09:52Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
     "stars": 30,
-    "updated_at": "2026-10-19T05:14:28Z",
+    "updated_at": "2026-10-19T05:21:21Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
@@ -221,7 +266,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T05:09:10Z",
+    "updated_at": "2026-10-19T05:25:01Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -229,7 +274,7 @@
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 322,
+    "stars": 323,
     "updated_at": "2026-10-19T04:40:46Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 11,
-    "updated_at": "2026-10-19T05:09:13Z",
+    "updated_at": "2026-10-19T05:25:56Z",
     "url": "https://github.com/dzhioev/bro"
   },
   {
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1314,
-    "updated_at": "2026-10-19T04:53:39Z",
+    "updated_at": "2026-10-19T05:30:01Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3121,
-    "updated_at": "2026-10-19T05:08:48Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
     "description": "\u57fa\u4e8eHaifa Agent SDK\u5b9e\u73b0\u5b57\u8282\u8df3\u52a8\u5f00\u6e90\u7684Deer-flow\u8d85\u7ea7\u667a\u80fd\u4f53 \u4ece\u5bf9\u8bdd\u5230\u957f\u4efb\u52a1\u5de5\u4f5c\u53f0",
     "id": "haifa-agent/haifa-agent-super-harness",
     "language": "Java",
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-19T03:53:20Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Agent harness monorepo: a Cordis-powered plugin runtime hosting a PSE (Planner-Specialist-Evaluator) multi-agent system ",
-    "id": "erishen/resolve-studio",
-    "language": "TypeScript",
-    "name": "erishen/resolve-studio",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:50:08Z",
-    "url": "https://github.com/erishen/resolve-studio"
-  },
-  {
-    "description": "A role-first AI agent studio for governed multi-agent collaboration, scoped permissions, and evidence-backed task execut",
-    "id": "wangzhongren/ans-studio",
-    "language": "TypeScript",
-    "name": "wangzhongren/ans-studio",
-    "stars": 1,
-    "updated_at": "2026-10-19T03:49:55Z",
-    "url": "https://github.com/wangzhongren/ans-studio"
-  },
-  {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 14,
-    "updated_at": "2026-10-19T03:47:55Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20720,
-    "updated_at": "2026-10-19T03:43:11Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
