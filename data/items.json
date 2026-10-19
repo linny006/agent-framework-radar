@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-forging agent framework: an agent that designs, verifies and repairs its own tools. Includes the independent validi",
+    "id": "ZhangYangyi03/autoforge",
+    "language": "Python",
+    "name": "ZhangYangyi03/autoforge",
+    "stars": 0,
+    "updated_at": "2026-10-19T06:48:08Z",
+    "url": "https://github.com/ZhangYangyi03/autoforge"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-19T06:47:46Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-19T06:47:36Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-10-19T06:47:06Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 251,
+    "updated_at": "2026-10-19T06:45:31Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T06:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "subs is an agent harness for the cloud. It runs an unprivileged agent loop and uses MCP servers for executing tools. Use",
     "id": "substructureai/subs",
     "language": "Rust",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3126,
-    "updated_at": "2026-10-19T06:44:00Z",
+    "updated_at": "2026-10-19T06:48:56Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-19T06:39:10Z",
+    "updated_at": "2026-10-19T06:47:24Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -68,17 +122,8 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T06:43:50Z",
+    "updated_at": "2026-10-19T06:49:05Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-19T06:44:21Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Your job landing in one conversation",
@@ -115,15 +160,6 @@
     "stars": 49164,
     "updated_at": "2026-10-19T06:36:38Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T06:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "GBase \u2014 Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-regi",
@@ -167,7 +203,7 @@
     "language": "Java",
     "name": "iflytek/skillhub",
     "stars": 5248,
-    "updated_at": "2026-10-19T06:25:54Z",
+    "updated_at": "2026-10-19T06:47:15Z",
     "url": "https://github.com/iflytek/skillhub"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10885,
-    "updated_at": "2026-10-19T06:43:24Z",
+    "updated_at": "2026-10-19T06:48:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:14:05Z",
     "url": "https://github.com/aleksandrgradoboev-svg/bismarck-engine"
-  },
-  {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 251,
-    "updated_at": "2026-10-19T06:17:08Z",
-    "url": "https://github.com/pqpo/pragma"
   },
   {
     "description": "Minimal typescript agent framework that keeps it simple and gives you control - no BS",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T06:03:12Z",
     "url": "https://github.com/linjiejim/greenhouse"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 116,
-    "updated_at": "2026-10-19T06:06:12Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "JamesOh9020/Cortico",
-    "language": "TypeScript",
-    "name": "JamesOh9020/Cortico",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:00:47Z",
-    "url": "https://github.com/JamesOh9020/Cortico"
-  },
-  {
-    "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
-    "id": "ahwurm/localharness",
-    "language": "Python",
-    "name": "ahwurm/localharness",
-    "stars": 49,
-    "updated_at": "2026-10-19T06:00:46Z",
-    "url": "https://github.com/ahwurm/localharness"
   }
 ]
