@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 18,
+    "updated_at": "2026-10-19T18:26:09Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 324,
+    "updated_at": "2026-10-19T18:24:50Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10906,
-    "updated_at": "2026-10-19T18:14:14Z",
+    "updated_at": "2026-10-19T18:24:03Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Your job landing in one conversation",
+    "id": "ethany14/Eregion-Job-Finding-Agent",
+    "language": "Python",
+    "name": "ethany14/Eregion-Job-Finding-Agent",
+    "stars": 2,
+    "updated_at": "2026-10-19T18:22:47Z",
+    "url": "https://github.com/ethany14/Eregion-Job-Finding-Agent"
+  },
+  {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 13,
+    "updated_at": "2026-10-19T18:22:45Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "Tool schema and agent friendly defaults",
+    "id": "tinyhumansai/tinytools",
+    "language": "Rust",
+    "name": "tinyhumansai/tinytools",
+    "stars": 1,
+    "updated_at": "2026-10-19T18:20:19Z",
+    "url": "https://github.com/tinyhumansai/tinytools"
+  },
+  {
+    "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
+    "id": "rjaskonis/pi-feats",
+    "language": "TypeScript",
+    "name": "rjaskonis/pi-feats",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:19:33Z",
+    "url": "https://github.com/rjaskonis/pi-feats"
+  },
+  {
+    "description": "Vant: Versatile Autonomous Networked Tool - Durable AI memory + cold storage + runtime for agents, with generational evo",
+    "id": "dhaupin/vant",
+    "language": "JavaScript",
+    "name": "dhaupin/vant",
+    "stars": 11,
+    "updated_at": "2026-10-19T18:19:20Z",
+    "url": "https://github.com/dhaupin/vant"
+  },
+  {
+    "description": "Minimal multi-agent orchestration for Python: handoffs, planner mode, shared state, any LLM via LiteLLM",
+    "id": "moseleydev/swarm-kit",
+    "language": "Python",
+    "name": "moseleydev/swarm-kit",
+    "stars": 14,
+    "updated_at": "2026-10-19T18:19:14Z",
+    "url": "https://github.com/moseleydev/swarm-kit"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 15,
+    "updated_at": "2026-10-19T18:17:33Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-19T18:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat-runtime",
+    "language": "Go",
+    "name": "KPO-Tech/seshat-runtime",
+    "stars": 5,
+    "updated_at": "2026-10-19T18:14:45Z",
+    "url": "https://github.com/KPO-Tech/seshat-runtime"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-19T18:28:20Z",
+    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -27,15 +135,6 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 13,
-    "updated_at": "2026-10-19T18:10:16Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
     "description": "",
     "id": "111nathanlar/Agent-Worlds",
     "language": "HTML",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T18:09:47Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-19T18:14:19Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "Production-ready autonomous AI agent for software engineering, featuring planning, coding, memory, and continuous self-i",
@@ -81,15 +171,6 @@
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 17,
-    "updated_at": "2026-10-19T18:02:57Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "Deterministic governance engine for AI agents. Enforce rules defined in .md governance files across AI systems.",
     "id": "NeuroverseOS/Neuroverseos-governance",
     "language": "TypeScript",
@@ -97,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T18:01:48Z",
     "url": "https://github.com/NeuroverseOS/Neuroverseos-governance"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-19T18:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -140,7 +212,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-19T18:14:38Z",
+    "updated_at": "2026-10-19T18:29:08Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -151,24 +223,6 @@
     "stars": 309,
     "updated_at": "2026-10-19T17:52:39Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Your job landing in one conversation",
-    "id": "ethany14/Eregion-Job-Finding-Agent",
-    "language": "Python",
-    "name": "ethany14/Eregion-Job-Finding-Agent",
-    "stars": 2,
-    "updated_at": "2026-10-19T17:47:04Z",
-    "url": "https://github.com/ethany14/Eregion-Job-Finding-Agent"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat-runtime",
-    "language": "Go",
-    "name": "KPO-Tech/seshat-runtime",
-    "stars": 5,
-    "updated_at": "2026-10-19T18:14:45Z",
-    "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -212,7 +266,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-19T18:13:49Z",
+    "updated_at": "2026-10-19T18:28:11Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20733,
-    "updated_at": "2026-10-19T18:11:08Z",
+    "updated_at": "2026-10-19T18:28:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 327,
-    "updated_at": "2026-10-19T18:10:54Z",
+    "updated_at": "2026-10-19T18:21:25Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 4,
     "updated_at": "2026-10-19T17:15:48Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 324,
-    "updated_at": "2026-10-19T18:10:08Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -365,7 +410,7 @@
     "language": "TypeScript",
     "name": "hara-cli/hara",
     "stars": 3,
-    "updated_at": "2026-10-19T17:13:55Z",
+    "updated_at": "2026-10-19T18:21:55Z",
     "url": "https://github.com/hara-cli/hara"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Go",
     "name": "authzed/openagentprimitives",
     "stars": 10,
-    "updated_at": "2026-10-19T18:03:51Z",
+    "updated_at": "2026-10-19T18:29:19Z",
     "url": "https://github.com/authzed/openagentprimitives"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 49191,
     "updated_at": "2026-10-19T17:05:12Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 111,
-    "updated_at": "2026-10-19T17:16:06Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "An external runtime for evidence-based agent improvement.",
-    "id": "quqxui/RSI-Flow",
-    "language": "Python",
-    "name": "quqxui/RSI-Flow",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:01:58Z",
-    "url": "https://github.com/quqxui/RSI-Flow"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26776,
-    "updated_at": "2026-10-19T16:53:38Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-    "id": "morethanrealio/brambit",
-    "language": "JavaScript",
-    "name": "morethanrealio/brambit",
-    "stars": 19,
-    "updated_at": "2026-10-19T16:53:19Z",
-    "url": "https://github.com/morethanrealio/brambit"
-  },
-  {
-    "description": "The agent loop as a stateless HTTP service",
-    "id": "paveler/theloop",
-    "language": "TypeScript",
-    "name": "paveler/theloop",
-    "stars": 2,
-    "updated_at": "2026-10-19T16:50:34Z",
-    "url": "https://github.com/paveler/theloop"
   }
 ]
