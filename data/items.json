@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source, self-hosted AI agents on your own machine \u2014 multi-agent group chat with memory, file tools, MCP and local i",
+    "id": "UClone-AI/uclone-x",
+    "language": "Python",
+    "name": "UClone-AI/uclone-x",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:59:15Z",
+    "url": "https://github.com/UClone-AI/uclone-x"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 18,
+    "updated_at": "2026-10-20T01:58:24Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 8,
+    "updated_at": "2026-10-20T01:58:01Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-20T01:59:25Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-20T01:57:47Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10913,
-    "updated_at": "2026-10-20T01:57:32Z",
+    "updated_at": "2026-10-20T01:59:30Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -81,30 +126,12 @@
     "url": "https://github.com/pqpo/pragma"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 18,
-    "updated_at": "2026-10-20T01:45:43Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-20T01:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
     "id": "GizClaw/flowcraft",
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 416,
-    "updated_at": "2026-10-20T01:44:40Z",
+    "updated_at": "2026-10-20T01:58:02Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 1613,
     "updated_at": "2026-10-20T01:55:52Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 111,
-    "updated_at": "2026-10-20T01:57:12Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -320,7 +338,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-20T01:51:53Z",
+    "updated_at": "2026-10-20T01:59:59Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-20T00:49:08Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A space-aware coordination hub for agents in herdr",
-    "id": "duncanam/mustr",
-    "language": "Rust",
-    "name": "duncanam/mustr",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:31:03Z",
-    "url": "https://github.com/duncanam/mustr"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1321,
-    "updated_at": "2026-10-20T00:28:39Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   }
 ]
