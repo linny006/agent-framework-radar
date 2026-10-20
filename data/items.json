@@ -1,12 +1,111 @@
 [
   {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 21,
+    "updated_at": "2026-10-20T19:59:51Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-20T19:59:47Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-20T19:57:27Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T20:00:22Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35881,
-    "updated_at": "2026-10-20T19:45:19Z",
+    "updated_at": "2026-10-20T19:55:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8880,
+    "updated_at": "2026-10-20T19:55:38Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Keeps a machine full of agent repos in order: one map, a register of every repo, front doors, backups and a doctor.",
+    "id": "siso-os/siso-estate",
+    "language": "Python",
+    "name": "siso-os/siso-estate",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:55:25Z",
+    "url": "https://github.com/siso-os/siso-estate"
+  },
+  {
+    "description": "Where agents build agents. An open-source Rust framework for complex agentic systems: ontology-grounded, auditable, one ",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 41,
+    "updated_at": "2026-10-20T19:52:57Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 4,
+    "updated_at": "2026-10-20T19:55:13Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Sovereign Studio ato",
+    "id": "OuroborosCollective/Sovereign-Studio-ato",
+    "language": "Python",
+    "name": "OuroborosCollective/Sovereign-Studio-ato",
+    "stars": 1,
+    "updated_at": "2026-10-20T19:58:33Z",
+    "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:48:55Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 17,
+    "updated_at": "2026-10-20T19:48:39Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +113,17 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10933,
-    "updated_at": "2026-10-20T19:44:39Z",
+    "updated_at": "2026-10-20T19:54:28Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-20T19:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
@@ -27,39 +135,12 @@
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-20T19:42:46Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "Keeps a machine full of agent repos in order: one map, a register of every repo, front doors, backups and a doctor.",
-    "id": "siso-os/siso-estate",
-    "language": "Python",
-    "name": "siso-os/siso-estate",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:42:32Z",
-    "url": "https://github.com/siso-os/siso-estate"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T19:42:30Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
     "id": "kyashrathore/Claxedo",
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 90,
-    "updated_at": "2026-10-20T19:42:30Z",
+    "updated_at": "2026-10-20T19:50:45Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "aisecnomad/Nexus-ShadowScan",
     "stars": 16,
-    "updated_at": "2026-10-20T19:44:49Z",
+    "updated_at": "2026-10-20T19:58:11Z",
     "url": "https://github.com/aisecnomad/Nexus-ShadowScan"
   },
   {
@@ -99,33 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Sovereign Studio ato",
-    "id": "OuroborosCollective/Sovereign-Studio-ato",
-    "language": "Python",
-    "name": "OuroborosCollective/Sovereign-Studio-ato",
-    "stars": 1,
-    "updated_at": "2026-10-20T19:41:03Z",
-    "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8880,
-    "updated_at": "2026-10-20T19:43:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 21,
-    "updated_at": "2026-10-20T19:38:36Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "Caelumora is a multi-agent system framework written in Rust",
     "id": "dimajix/caelumora",
     "language": "Rust",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:38:12Z",
     "url": "https://github.com/dimajix/caelumora"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 309,
-    "updated_at": "2026-10-20T19:38:02Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
@@ -153,15 +198,6 @@
     "url": "https://github.com/rjaskonis/pi-feats"
   },
   {
-    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
-    "id": "falkenslab/agent-kit",
-    "language": "TypeScript",
-    "name": "falkenslab/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:37:13Z",
-    "url": "https://github.com/falkenslab/agent-kit"
-  },
-  {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
     "id": "linora-u/AgentLoom",
     "language": "Python",
@@ -169,15 +205,6 @@
     "stars": 169,
     "updated_at": "2026-10-20T19:35:10Z",
     "url": "https://github.com/linora-u/AgentLoom"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 4,
-    "updated_at": "2026-10-20T19:34:59Z",
-    "url": "https://github.com/bide-ai/bide"
   },
   {
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
@@ -207,21 +234,12 @@
     "url": "https://github.com/ek33450505/claude-agent-team"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-20T19:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20756,
-    "updated_at": "2026-10-20T19:42:28Z",
+    "updated_at": "2026-10-20T19:58:20Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-20T19:38:09Z",
+    "updated_at": "2026-10-20T19:57:53Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 329,
-    "updated_at": "2026-10-20T19:37:12Z",
+    "updated_at": "2026-10-20T19:57:03Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-20T19:23:53Z",
+    "updated_at": "2026-10-20T19:56:15Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:08:28Z",
     "url": "https://github.com/siso-os/siso-agent-stack"
-  },
-  {
-    "description": "A space-aware coordination hub for agents in herdr",
-    "id": "duncanam/mustr",
-    "language": "Rust",
-    "name": "duncanam/mustr",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:07:51Z",
-    "url": "https://github.com/duncanam/mustr"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 682,
-    "updated_at": "2026-10-20T19:45:03Z",
-    "url": "https://github.com/framerslab/agentos"
   }
 ]
