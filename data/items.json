@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:52:16Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-20T20:51:15Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "The Perceptual Layer for AI \u2014 Machines Learned to Think. We're Teaching Them to Perceive.",
+    "id": "Situational-AI/situational-ai.github.io",
+    "language": "HTML",
+    "name": "Situational-AI/situational-ai.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:51:06Z",
+    "url": "https://github.com/Situational-AI/situational-ai.github.io"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T20:50:36Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20757,
+    "updated_at": "2026-10-20T20:52:03Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Caelumora is a multi-agent system framework written in Rust",
+    "id": "dimajix/caelumora",
+    "language": "Rust",
+    "name": "dimajix/caelumora",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:47:28Z",
+    "url": "https://github.com/dimajix/caelumora"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-20T20:45:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
     "id": "morethanrealio/brambit",
     "language": "JavaScript",
@@ -9,21 +72,12 @@
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 21,
-    "updated_at": "2026-10-20T20:44:57Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
     "id": "yologdev/yoagent",
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 364,
-    "updated_at": "2026-10-20T20:44:42Z",
+    "updated_at": "2026-10-20T20:51:58Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -36,20 +90,11 @@
     "url": "https://github.com/rogueki/rogue-friday"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20757,
-    "updated_at": "2026-10-20T20:45:18Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 325,
+    "stars": 326,
     "updated_at": "2026-10-20T20:44:20Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "aisecnomad/Nexus-ShadowScan",
     "stars": 16,
-    "updated_at": "2026-10-20T20:45:12Z",
+    "updated_at": "2026-10-20T20:49:15Z",
     "url": "https://github.com/aisecnomad/Nexus-ShadowScan"
   },
   {
@@ -68,17 +113,8 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 4,
-    "updated_at": "2026-10-20T20:44:37Z",
+    "updated_at": "2026-10-20T20:47:18Z",
     "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T20:42:05Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T20:31:20Z",
     "url": "https://github.com/pronzzz/baremetal-react"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-20T20:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 682,
-    "updated_at": "2026-10-20T20:39:11Z",
+    "updated_at": "2026-10-20T20:50:18Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10933,
-    "updated_at": "2026-10-20T20:43:11Z",
+    "updated_at": "2026-10-20T20:51:27Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -358,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T19:41:02Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Caelumora is a multi-agent system framework written in Rust",
-    "id": "dimajix/caelumora",
-    "language": "Rust",
-    "name": "dimajix/caelumora",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:38:12Z",
-    "url": "https://github.com/dimajix/caelumora"
   },
   {
     "description": "Simple, flexible workflow orchestration for multi-agent AI apps, with YAML configuration, runtime safety, observability,",
@@ -419,17 +437,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 329,
-    "updated_at": "2026-10-20T20:39:07Z",
+    "updated_at": "2026-10-20T20:50:33Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-20T20:31:11Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Modular AI agent runtime for explainable, stateful, and bounded workflows with explicit module, capability, and executio",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-20T19:20:40Z",
     "url": "https://github.com/beesyst/beeagent"
-  },
-  {
-    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
-    "id": "aayushman-singh/hydraclaim",
-    "language": "Python",
-    "name": "aayushman-singh/hydraclaim",
-    "stars": 1,
-    "updated_at": "2026-10-20T19:18:52Z",
-    "url": "https://github.com/aayushman-singh/hydraclaim"
   }
 ]
