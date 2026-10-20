@@ -1,12 +1,102 @@
 [
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 21,
+    "updated_at": "2026-10-20T17:45:10Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
+    "id": "ubunatic/harnez",
+    "language": "Go",
+    "name": "ubunatic/harnez",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:44:05Z",
+    "url": "https://github.com/ubunatic/harnez"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 325,
+    "updated_at": "2026-10-20T17:44:14Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 364,
-    "updated_at": "2026-10-20T17:32:32Z",
-    "url": "https://github.com/yologdev/yoagent"
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 13,
+    "updated_at": "2026-10-20T17:42:53Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:42:49Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 3,
+    "updated_at": "2026-10-20T17:42:22Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 5006,
+    "updated_at": "2026-10-20T17:41:04Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3157,
+    "updated_at": "2026-10-20T17:40:33Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
+    "id": "rogueki/rogue-friday",
+    "language": "TypeScript",
+    "name": "rogueki/rogue-friday",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:38:57Z",
+    "url": "https://github.com/rogueki/rogue-friday"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-20T17:38:02Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Agent engine of Bismarck: a Go port of pi (earendil-works/pi) \u2014 unified LLM API, agent loop, coding tools, MCP, codemode",
+    "id": "aleksandrgradoboev-svg/bismarck-engine",
+    "language": "Go",
+    "name": "aleksandrgradoboev-svg/bismarck-engine",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:38:23Z",
+    "url": "https://github.com/aleksandrgradoboev-svg/bismarck-engine"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -14,8 +104,53 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10931,
-    "updated_at": "2026-10-20T17:31:53Z",
+    "updated_at": "2026-10-20T17:44:54Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8877,
+    "updated_at": "2026-10-20T17:40:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-20T17:34:30Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 4,
+    "updated_at": "2026-10-20T17:33:47Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 2,
+    "updated_at": "2026-10-20T17:33:35Z",
+    "url": "https://github.com/colmugx/posoco-extension"
+  },
+  {
+    "description": "Self-evolving AI agent runtime \u2014 RSI under tiered authority, reversible hash-chained ledger, capability security, and cr",
+    "id": "vicfei/naga",
+    "language": "Python",
+    "name": "vicfei/naga",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:32:45Z",
+    "url": "https://github.com/vicfei/naga"
   },
   {
     "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
@@ -23,8 +158,17 @@
     "language": "Python",
     "name": "linny006/agent-framework-radar",
     "stars": 8,
-    "updated_at": "2026-10-20T17:30:23Z",
+    "updated_at": "2026-10-20T17:32:42Z",
     "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 364,
+    "updated_at": "2026-10-20T17:32:32Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
@@ -41,7 +185,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-20T17:30:19Z",
+    "updated_at": "2026-10-20T17:42:32Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -59,17 +203,8 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-20T17:28:57Z",
+    "updated_at": "2026-10-20T17:40:41Z",
     "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Agent engine of Bismarck: a Go port of pi (earendil-works/pi) \u2014 unified LLM API, agent loop, coding tools, MCP, codemode",
-    "id": "aleksandrgradoboev-svg/bismarck-engine",
-    "language": "Go",
-    "name": "aleksandrgradoboev-svg/bismarck-engine",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:32:01Z",
-    "url": "https://github.com/aleksandrgradoboev-svg/bismarck-engine"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -113,17 +248,8 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-20T17:32:22Z",
+    "updated_at": "2026-10-20T17:44:20Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-20T17:21:47Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
   },
   {
     "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
@@ -185,7 +311,7 @@
     "language": "C#",
     "name": "fabbrik/AgentExperience.NET",
     "stars": 1,
-    "updated_at": "2026-10-20T17:12:19Z",
+    "updated_at": "2026-10-20T17:36:33Z",
     "url": "https://github.com/fabbrik/AgentExperience.NET"
   },
   {
@@ -207,30 +333,12 @@
     "url": "https://github.com/whyihaveyou/dsh-suite"
   },
   {
-    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
-    "id": "ubunatic/harnez",
-    "language": "Go",
-    "name": "ubunatic/harnez",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:08:14Z",
-    "url": "https://github.com/ubunatic/harnez"
-  },
-  {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 13,
-    "updated_at": "2026-10-20T17:06:42Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20756,
-    "updated_at": "2026-10-20T17:31:48Z",
+    "updated_at": "2026-10-20T17:43:21Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -243,15 +351,6 @@
     "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
   },
   {
-    "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
-    "id": "rogueki/rogue-friday",
-    "language": "TypeScript",
-    "name": "rogueki/rogue-friday",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:02:48Z",
-    "url": "https://github.com/rogueki/rogue-friday"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -259,15 +358,6 @@
     "stars": 21,
     "updated_at": "2026-10-20T17:00:12Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 3,
-    "updated_at": "2026-10-20T17:06:39Z",
-    "url": "https://github.com/Arasz/ai-badger"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -329,7 +419,7 @@
     "language": "TypeScript",
     "name": "pqpo/pragma",
     "stars": 252,
-    "updated_at": "2026-10-20T17:29:21Z",
+    "updated_at": "2026-10-20T17:34:57Z",
     "url": "https://github.com/pqpo/pragma"
   },
   {
@@ -346,18 +436,9 @@
     "id": "autonomous-ai/openharness",
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
-    "stars": 1324,
+    "stars": 1325,
     "updated_at": "2026-10-20T16:40:01Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-10-20T17:02:59Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
   },
   {
     "description": "Local-first desktop workspace for configurable research agents, cited reports, and optional voice.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T16:37:44Z",
     "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
-    "id": "microsoft/agent-framework",
-    "language": "Python",
-    "name": "microsoft/agent-framework",
-    "stars": 14231,
-    "updated_at": "2026-10-20T16:37:01Z",
-    "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.",
-    "id": "agents-squads/squads-cli",
-    "language": "TypeScript",
-    "name": "agents-squads/squads-cli",
-    "stars": 55,
-    "updated_at": "2026-10-20T17:24:35Z",
-    "url": "https://github.com/agents-squads/squads-cli"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 325,
-    "updated_at": "2026-10-20T17:30:03Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Agentic Development Lifecycle",
-    "id": "voodootikigod/adlc",
-    "language": "JavaScript",
-    "name": "voodootikigod/adlc",
-    "stars": 34,
-    "updated_at": "2026-10-20T16:55:28Z",
-    "url": "https://github.com/voodootikigod/adlc"
-  },
-  {
-    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
-    "id": "falkenslab/agent-kit",
-    "language": "TypeScript",
-    "name": "falkenslab/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:28:18Z",
-    "url": "https://github.com/falkenslab/agent-kit"
-  },
-  {
-    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
-    "id": "fastagent-sh/fastagent",
-    "language": "TypeScript",
-    "name": "fastagent-sh/fastagent",
-    "stars": 65,
-    "updated_at": "2026-10-20T17:30:44Z",
-    "url": "https://github.com/fastagent-sh/fastagent"
-  },
-  {
-    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
-    "id": "lofcz/LLMTornado",
-    "language": "C#",
-    "name": "lofcz/LLMTornado",
-    "stars": 648,
-    "updated_at": "2026-10-20T16:27:38Z",
-    "url": "https://github.com/lofcz/LLMTornado"
-  },
-  {
-    "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering",
-    "id": "microsoft/agent-governance-toolkit",
-    "language": "Python",
-    "name": "microsoft/agent-governance-toolkit",
-    "stars": 6451,
-    "updated_at": "2026-10-20T16:25:10Z",
-    "url": "https://github.com/microsoft/agent-governance-toolkit"
-  },
-  {
-    "description": "Vant: Versatile Autonomous Networked Tool - Durable AI memory + cold storage + runtime for agents, with generational evo",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 11,
-    "updated_at": "2026-10-20T16:53:14Z",
-    "url": "https://github.com/dhaupin/vant"
   }
 ]
