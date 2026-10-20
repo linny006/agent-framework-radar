@@ -1,12 +1,102 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10937,
+    "updated_at": "2026-10-20T23:29:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-20T23:26:53Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 21,
+    "updated_at": "2026-10-20T23:24:42Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
     "description": "AI agent with zero dependencies, bring your own bun",
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
     "name": "devoidfury/hotdog",
     "stars": 21,
-    "updated_at": "2026-10-20T23:14:57Z",
+    "updated_at": "2026-10-20T23:23:40Z",
     "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "\ud83d\udee0Open Source Ai Ecosystem by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM AP",
+    "id": "CodesbyFebin/Open-Source-Ai",
+    "language": "Python",
+    "name": "CodesbyFebin/Open-Source-Ai",
+    "stars": 1,
+    "updated_at": "2026-10-20T23:23:36Z",
+    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-20T23:23:22Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
+    "id": "lofcz/LLMTornado",
+    "language": "C#",
+    "name": "lofcz/LLMTornado",
+    "stars": 648,
+    "updated_at": "2026-10-20T23:23:04Z",
+    "url": "https://github.com/lofcz/LLMTornado"
+  },
+  {
+    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
+    "id": "ubunatic/harnez",
+    "language": "Go",
+    "name": "ubunatic/harnez",
+    "stars": 0,
+    "updated_at": "2026-10-20T23:22:21Z",
+    "url": "https://github.com/ubunatic/harnez"
+  },
+  {
+    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
+    "id": "broomva/life",
+    "language": "Rust",
+    "name": "broomva/life",
+    "stars": 2,
+    "updated_at": "2026-10-20T23:21:18Z",
+    "url": "https://github.com/broomva/life"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-20T23:15:36Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-20T23:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
@@ -27,21 +117,12 @@
     "url": "https://github.com/promptise-com/Foundry"
   },
   {
-    "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 21,
-    "updated_at": "2026-10-20T23:11:00Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20757,
-    "updated_at": "2026-10-20T23:14:56Z",
+    "updated_at": "2026-10-20T23:30:18Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -59,17 +140,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 329,
-    "updated_at": "2026-10-20T23:12:20Z",
+    "updated_at": "2026-10-20T23:28:53Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-20T23:15:16Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "One IDE for you and your AI team. A VS Code fork where Claude Code, Codex, Antigravity, and Muse Code work in parallel a",
@@ -99,15 +171,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
-    "id": "broomva/life",
-    "language": "Rust",
-    "name": "broomva/life",
-    "stars": 2,
-    "updated_at": "2026-10-20T23:01:56Z",
-    "url": "https://github.com/broomva/life"
-  },
-  {
     "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
     "id": "fabbrik/AgentExperience.NET",
     "language": "C#",
@@ -115,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T23:07:01Z",
     "url": "https://github.com/fabbrik/AgentExperience.NET"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-20T23:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10937,
-    "updated_at": "2026-10-20T23:14:47Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -167,7 +212,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-20T23:13:25Z",
+    "updated_at": "2026-10-20T23:29:00Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/badmonkeyai/AgentSpaces"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 309,
-    "updated_at": "2026-10-20T22:39:54Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
@@ -337,7 +373,7 @@
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
-    "stars": 557,
+    "stars": 558,
     "updated_at": "2026-10-20T22:26:06Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
@@ -412,41 +448,5 @@
     "stars": 123,
     "updated_at": "2026-10-20T22:05:56Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 122,
-    "updated_at": "2026-10-20T22:02:43Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-20T21:59:53Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:59:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-20T21:59:43Z",
-    "url": "https://github.com/kh0pper/crow"
   }
 ]
