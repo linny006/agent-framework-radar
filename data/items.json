@@ -1,5 +1,122 @@
 [
   {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 327,
+    "updated_at": "2026-10-21T07:44:59Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
+    "id": "bbvch-ai/aihub-core",
+    "language": "Python",
+    "name": "bbvch-ai/aihub-core",
+    "stars": 14,
+    "updated_at": "2026-10-21T07:44:46Z",
+    "url": "https://github.com/bbvch-ai/aihub-core"
+  },
+  {
+    "description": "Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control.",
+    "id": "devcxl/intelliagent",
+    "language": "Python",
+    "name": "devcxl/intelliagent",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:42:32Z",
+    "url": "https://github.com/devcxl/intelliagent"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 127,
+    "updated_at": "2026-10-21T07:42:00Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 4,
+    "updated_at": "2026-10-21T07:40:12Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-21T07:39:54Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-21T07:45:08Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
+    "id": "qbtrix/ripple-iui",
+    "language": "TypeScript",
+    "name": "qbtrix/ripple-iui",
+    "stars": 8,
+    "updated_at": "2026-10-21T07:38:04Z",
+    "url": "https://github.com/qbtrix/ripple-iui"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-21T07:37:41Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-21T07:34:23Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 330,
+    "updated_at": "2026-10-21T07:44:53Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:34:42Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T07:33:39Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
     "id": "cmcoffee/gohort",
     "language": "Go",
@@ -9,15 +126,6 @@
     "url": "https://github.com/cmcoffee/gohort"
   },
   {
-    "description": "The open-source AI infrastructure stack for Swiss enterprises.",
-    "id": "bbvch-ai/aihub-core",
-    "language": "Python",
-    "name": "bbvch-ai/aihub-core",
-    "stars": 14,
-    "updated_at": "2026-10-21T07:33:23Z",
-    "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -25,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-10-21T07:31:52Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-21T07:31:31Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "An efficient durable harness for collaboration across people, models, and devices",
@@ -86,17 +185,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10943,
-    "updated_at": "2026-10-21T07:32:29Z",
+    "updated_at": "2026-10-21T07:43:59Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T07:30:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
@@ -124,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T07:28:47Z",
     "url": "https://github.com/colmugx/posoco-extension"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:28:11Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 327,
-    "updated_at": "2026-10-21T07:27:30Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
@@ -198,21 +270,12 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "\ud83c\udf0a The Semantic Interface Engine for the Agentic Web. Generative UI from JSON specs, with multistep agent action flows.",
-    "id": "qbtrix/ripple-iui",
-    "language": "TypeScript",
-    "name": "qbtrix/ripple-iui",
-    "stars": 8,
-    "updated_at": "2026-10-21T07:24:50Z",
-    "url": "https://github.com/qbtrix/ripple-iui"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-21T07:31:54Z",
+    "updated_at": "2026-10-21T07:43:57Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -225,21 +288,12 @@
     "url": "https://github.com/ayman3000/SwiftAgentKit"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 330,
-    "updated_at": "2026-10-21T07:26:06Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1330,
-    "updated_at": "2026-10-21T07:29:17Z",
+    "updated_at": "2026-10-21T07:42:22Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T07:21:06Z",
     "url": "https://github.com/TheFool-TAROT/dsh-brain-hands"
-  },
-  {
-    "description": "Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control.",
-    "id": "devcxl/intelliagent",
-    "language": "Python",
-    "name": "devcxl/intelliagent",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:27:25Z",
-    "url": "https://github.com/devcxl/intelliagent"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -284,8 +329,17 @@
     "language": "Python",
     "name": "cubeplexai/cubeloop",
     "stars": 68,
-    "updated_at": "2026-10-21T07:30:37Z",
+    "updated_at": "2026-10-21T07:41:10Z",
     "url": "https://github.com/cubeplexai/cubeloop"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26799,
+    "updated_at": "2026-10-21T07:18:05Z",
+    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -333,12 +387,21 @@
     "url": "https://github.com/sattyamjjain/ferrumdeck"
   },
   {
+    "description": "Context is yours. Agents are replaceable.",
+    "id": "zqiren/Orbital",
+    "language": "Python",
+    "name": "zqiren/Orbital",
+    "stars": 948,
+    "updated_at": "2026-10-21T07:09:15Z",
+    "url": "https://github.com/zqiren/Orbital"
+  },
+  {
     "description": "Free unlimited POSIX sandboxes on Cloudflare",
     "id": "AshishKumar4/Nimbus",
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-21T07:33:01Z",
+    "updated_at": "2026-10-21T07:43:01Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -349,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T07:10:55Z",
     "url": "https://github.com/SparkElf/deepseek-harness-plus"
-  },
-  {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-21T07:08:09Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
   },
   {
     "description": "The foundation layer for agentic intelligence.",
@@ -394,59 +448,5 @@
     "stars": 123,
     "updated_at": "2026-10-21T07:03:23Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 10,
-    "updated_at": "2026-10-21T07:01:01Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
-    "id": "aloth/awesome-ai-agents",
-    "language": "\u2014",
-    "name": "aloth/awesome-ai-agents",
-    "stars": 68,
-    "updated_at": "2026-10-21T07:00:52Z",
-    "url": "https://github.com/aloth/awesome-ai-agents"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 122,
-    "updated_at": "2026-10-21T06:58:36Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
-    "id": "ozgurulukir/rubik",
-    "language": "Ruby",
-    "name": "ozgurulukir/rubik",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:58:06Z",
-    "url": "https://github.com/ozgurulukir/rubik"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-21T07:06:19Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 566,
-    "updated_at": "2026-10-21T06:50:25Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
   }
 ]
