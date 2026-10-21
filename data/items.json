@@ -1,5 +1,41 @@
 [
   {
+    "description": "Visual builder and engine for agent workflows",
+    "id": "Nucc/spoletta",
+    "language": "Go",
+    "name": "Nucc/spoletta",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:42:15Z",
+    "url": "https://github.com/Nucc/spoletta"
+  },
+  {
+    "description": "Decision model (JEV) based harness to perform Desktop & Browser automation. Written in Rust. ",
+    "id": "tinyhumansai/tinycomputer",
+    "language": "Rust",
+    "name": "tinyhumansai/tinycomputer",
+    "stars": 7,
+    "updated_at": "2026-10-21T21:42:02Z",
+    "url": "https://github.com/tinyhumansai/tinycomputer"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10963,
+    "updated_at": "2026-10-21T21:41:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T21:38:37Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
     "id": "agbossjs/agboss",
     "language": "TypeScript",
@@ -7,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T21:36:32Z",
     "url": "https://github.com/agbossjs/agboss"
-  },
-  {
-    "description": "Hand off the work. Tedix brings back only the decisions that need you, ranked by what matters most, and handles the rest",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 22,
-    "updated_at": "2026-10-21T21:36:17Z",
-    "url": "https://github.com/tedix-hq/tedix"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -50,7 +77,7 @@
     "language": "TypeScript",
     "name": "Djtony707/TITAN",
     "stars": 19,
-    "updated_at": "2026-10-21T21:33:07Z",
+    "updated_at": "2026-10-21T21:44:19Z",
     "url": "https://github.com/Djtony707/TITAN"
   },
   {
@@ -59,26 +86,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 330,
-    "updated_at": "2026-10-21T21:35:00Z",
+    "updated_at": "2026-10-21T21:39:47Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T21:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10963,
-    "updated_at": "2026-10-21T21:35:53Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20771,
-    "updated_at": "2026-10-21T21:36:42Z",
+    "updated_at": "2026-10-21T21:44:35Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1368,
-    "updated_at": "2026-10-21T21:36:48Z",
+    "updated_at": "2026-10-21T21:44:35Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat-runtime",
     "stars": 5,
-    "updated_at": "2026-10-21T21:37:50Z",
+    "updated_at": "2026-10-21T21:41:50Z",
     "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-21T20:16:07Z",
+    "updated_at": "2026-10-21T21:42:09Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2367,
     "updated_at": "2026-10-21T21:31:38Z",
     "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Kaiban Distributed - Distributed Agentic AI Platform - Actor Model Kanban Framework Implementation with Enterprise Messa",
-    "id": "andreibesleaga/kaiban-distributed",
-    "language": "TypeScript",
-    "name": "andreibesleaga/kaiban-distributed",
-    "stars": 6,
-    "updated_at": "2026-10-21T19:59:59Z",
-    "url": "https://github.com/andreibesleaga/kaiban-distributed"
   }
 ]
