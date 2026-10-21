@@ -1,11 +1,173 @@
 [
   {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat-runtime",
+    "language": "Go",
+    "name": "KPO-Tech/seshat-runtime",
+    "stars": 5,
+    "updated_at": "2026-10-21T03:15:03Z",
+    "url": "https://github.com/KPO-Tech/seshat-runtime"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-21T03:14:45Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 97,
+    "updated_at": "2026-10-21T03:11:35Z",
+    "url": "https://github.com/NarraFork/NarraFork"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-10-21T03:11:02Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-10-21T03:10:24Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 62,
+    "updated_at": "2026-10-21T03:09:10Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 329,
+    "updated_at": "2026-10-21T03:09:49Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1329,
+    "updated_at": "2026-10-21T03:08:33Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u6bcf N \u6b65\uff08\u53ef\u914d\uff09\u81ea\u52a8\u505c\u4e0b\u6c47\u62a5\u4e00\u6b21\u8fdb\u5ea6\u2014\u2014\u6b63\u5728\u505a\u4ec0\u4e48 / \u5df2\u5b8c\u6210\u4ec0\u4e48 / \u63a5\u4e0b\u6765\u505a\u4ec0\u4e48 / \u5361\u70b9\u2014\u2014\u8bf4\u5b8c\u7acb\u523b\u7ee7\u7eed\uff0c\u4e0d\u5360\u989d\u5916\u56de\u5408\u3001\u4e0d\u7b49\u4f60\u56de\u590d\u3002\u9ed8\u8ba4\u53ea\u5728\u4e3b\u667a\u80fd\u4f53\u6c47\u62a5\uff0c\u53ef\u5728\u8bbe\u7f6e\u91cc\u8c03\u6574\u3002",
+    "id": "cxv117793-blip/dsh-step-pause",
+    "language": "JavaScript",
+    "name": "cxv117793-blip/dsh-step-pause",
+    "stars": 1,
+    "updated_at": "2026-10-21T03:08:22Z",
+    "url": "https://github.com/cxv117793-blip/dsh-step-pause"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35884,
+    "updated_at": "2026-10-21T03:06:03Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49228,
+    "updated_at": "2026-10-21T03:05:31Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 682,
+    "updated_at": "2026-10-21T03:13:30Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2366,
+    "updated_at": "2026-10-21T03:05:07Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 13,
+    "updated_at": "2026-10-21T03:02:59Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20758,
+    "updated_at": "2026-10-21T03:12:08Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-21T03:12:43Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it.",
+    "id": "genai-io/sdk-go",
+    "language": "Go",
+    "name": "genai-io/sdk-go",
+    "stars": 2,
+    "updated_at": "2026-10-21T03:01:21Z",
+    "url": "https://github.com/genai-io/sdk-go"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T03:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3158,
-    "updated_at": "2026-10-21T02:59:55Z",
+    "stars": 3159,
+    "updated_at": "2026-10-21T03:12:59Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -18,15 +180,6 @@
     "url": "https://github.com/ellmos-ai/rinnsal"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20757,
-    "updated_at": "2026-10-21T02:59:51Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -34,24 +187,6 @@
     "stars": 309,
     "updated_at": "2026-10-21T02:58:58Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 97,
-    "updated_at": "2026-10-21T02:58:57Z",
-    "url": "https://github.com/NarraFork/NarraFork"
-  },
-  {
-    "description": "LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it.",
-    "id": "genai-io/sdk-go",
-    "language": "Go",
-    "name": "genai-io/sdk-go",
-    "stars": 2,
-    "updated_at": "2026-10-21T02:59:04Z",
-    "url": "https://github.com/genai-io/sdk-go"
   },
   {
     "description": "Multi-agent collaboration gateway for one-person companies. Route messages to specialized AI agents (Munger/Woz/Ogilvy/T",
@@ -68,7 +203,7 @@
     "language": "MoonBit",
     "name": "colmugx/posoco-extension",
     "stars": 2,
-    "updated_at": "2026-10-21T02:56:15Z",
+    "updated_at": "2026-10-21T03:14:34Z",
     "url": "https://github.com/colmugx/posoco-extension"
   },
   {
@@ -95,53 +230,8 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-21T02:59:54Z",
+    "updated_at": "2026-10-21T03:15:09Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1329,
-    "updated_at": "2026-10-21T02:57:01Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 13,
-    "updated_at": "2026-10-21T02:51:37Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 329,
-    "updated_at": "2026-10-21T02:50:41Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49227,
-    "updated_at": "2026-10-21T02:54:01Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
-    "id": "KPO-Tech/seshat-runtime",
-    "language": "Go",
-    "name": "KPO-Tech/seshat-runtime",
-    "stars": 5,
-    "updated_at": "2026-10-21T02:58:46Z",
-    "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
     "description": "Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control.",
@@ -167,17 +257,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10939,
-    "updated_at": "2026-10-21T02:58:38Z",
+    "updated_at": "2026-10-21T03:12:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T02:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\u914d\u7f6e\u9a71\u52a8\u3001\u53ef\u6062\u590d\u7684 Agent Runtime\uff1aCLI/TUI\u3001TypeScript/Python SDK\u3001Protocol v2\u3001\u5bbf\u4e3b\u9a8c\u6536\u3001\u6709\u754c Loop\u3001\u4e0a\u4e0b\u6587\u538b\u7f29\u3001Replay\u3001Child Run \u4e0e\u5b89\u5168\u6267\u884c\u73af\u5883",
@@ -216,39 +297,12 @@
     "url": "https://github.com/arcships/rutis"
   },
   {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-21T02:41:28Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2366,
-    "updated_at": "2026-10-21T02:40:43Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-10-21T02:36:13Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
     "description": "The application framework for LangGraph agents in TypeScript \u2014 decorators, dependency injection, budgets and per-compone",
     "id": "agbossjs/agboss",
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-21T02:41:55Z",
+    "updated_at": "2026-10-21T03:11:43Z",
     "url": "https://github.com/agbossjs/agboss"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-21T02:57:33Z",
+    "updated_at": "2026-10-21T03:10:30Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinycomputer",
     "stars": 7,
-    "updated_at": "2026-10-21T02:25:29Z",
+    "updated_at": "2026-10-21T03:05:00Z",
     "url": "https://github.com/tinyhumansai/tinycomputer"
   },
   {
@@ -333,15 +387,6 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35883,
-    "updated_at": "2026-10-21T02:20:16Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "Python",
@@ -349,6 +394,15 @@
     "stars": 26796,
     "updated_at": "2026-10-21T02:17:13Z",
     "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 820,
+    "updated_at": "2026-10-21T02:16:59Z",
+    "url": "https://github.com/Gnosil/semantix"
   },
   {
     "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
@@ -383,7 +437,7 @@
     "language": "Ruby",
     "name": "clacky-ai/openclacky",
     "stars": 1205,
-    "updated_at": "2026-10-21T02:14:31Z",
+    "updated_at": "2026-10-21T03:05:27Z",
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 81,
     "updated_at": "2026-10-21T02:14:21Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-10-21T02:14:13Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
-    "id": "aequitas-labs/lobstah",
-    "language": "TypeScript",
-    "name": "aequitas-labs/lobstah",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:11:58Z",
-    "url": "https://github.com/aequitas-labs/lobstah"
-  },
-  {
-    "description": "Framework-neutral platform for building, deploying, orchestrating, governing, and operating enterprise AI agents and mul",
-    "id": "tmk-computers/vps-infra",
-    "language": "Shell",
-    "name": "tmk-computers/vps-infra",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:11:02Z",
-    "url": "https://github.com/tmk-computers/vps-infra"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 14,
-    "updated_at": "2026-10-21T02:43:53Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "AI employee for your team \u2014 delegate real work in Slack and a team of Claude-powered agents gets it done. Built on the C",
-    "id": "sweatco/archie-hq",
-    "language": "TypeScript",
-    "name": "sweatco/archie-hq",
-    "stars": 16,
-    "updated_at": "2026-10-21T02:06:29Z",
-    "url": "https://github.com/sweatco/archie-hq"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-10-21T02:03:19Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
