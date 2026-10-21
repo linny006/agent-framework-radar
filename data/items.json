@@ -1,12 +1,102 @@
 [
   {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-10-21T01:44:05Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
     "description": "A true agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a p",
     "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
     "stars": 13,
-    "updated_at": "2026-10-21T01:29:57Z",
+    "updated_at": "2026-10-21T01:38:18Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 111,
+    "updated_at": "2026-10-21T01:40:23Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10938,
+    "updated_at": "2026-10-21T01:37:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20757,
+    "updated_at": "2026-10-21T01:44:25Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-21T01:36:41Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 252,
+    "updated_at": "2026-10-21T01:42:51Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 682,
+    "updated_at": "2026-10-21T01:44:54Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T01:44:38Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-21T01:31:53Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T01:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -34,24 +124,6 @@
     "stars": 8,
     "updated_at": "2026-10-21T01:24:32Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-10-21T01:22:23Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10938,
-    "updated_at": "2026-10-21T01:28:21Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
@@ -90,15 +162,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T01:15:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -117,21 +180,12 @@
     "url": "https://github.com/ethany14/Eregion-Job-Finding-Agent"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 309,
-    "updated_at": "2026-10-21T01:08:16Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
     "id": "wuyhong715/rikkahub-agent-pure",
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 55,
-    "updated_at": "2026-10-21T01:08:11Z",
+    "updated_at": "2026-10-21T01:31:56Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -149,7 +203,7 @@
     "language": "TypeScript",
     "name": "NarraFork/NarraFork",
     "stars": 97,
-    "updated_at": "2026-10-21T01:13:27Z",
+    "updated_at": "2026-10-21T01:38:49Z",
     "url": "https://github.com/NarraFork/NarraFork"
   },
   {
@@ -157,7 +211,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35882,
+    "stars": 35883,
     "updated_at": "2026-10-21T01:04:35Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -185,17 +239,8 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-21T01:22:57Z",
+    "updated_at": "2026-10-21T01:40:06Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20757,
-    "updated_at": "2026-10-21T01:30:00Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-21T01:00:50Z",
+    "updated_at": "2026-10-21T01:37:46Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-10-21T00:44:18Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-21T00:44:57Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -412,41 +448,5 @@
     "stars": 62,
     "updated_at": "2026-10-20T23:56:52Z",
     "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "\ud83d\udee0Open Source Ai Ecosystem by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM AP",
-    "id": "CodesbyFebin/Open-Source-Ai-Full-Stack",
-    "language": "Python",
-    "name": "CodesbyFebin/Open-Source-Ai-Full-Stack",
-    "stars": 1,
-    "updated_at": "2026-10-20T23:53:16Z",
-    "url": "https://github.com/CodesbyFebin/Open-Source-Ai-Full-Stack"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 90,
-    "updated_at": "2026-10-21T01:29:05Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:44:08Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-21T00:10:13Z",
-    "url": "https://github.com/kh0pper/crow"
   }
 ]
