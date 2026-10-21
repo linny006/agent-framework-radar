@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T13:13:35Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AGENT OS System",
     "id": "showjihyun/aether",
     "language": "Python",
@@ -43,6 +52,15 @@
     "stars": 4,
     "updated_at": "2026-10-21T13:13:12Z",
     "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49243,
+    "updated_at": "2026-10-21T13:09:50Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "zDSH-Go \u2014 the out-of-the-box, fully integrated zDSH distribution. A fork of deepseek-ai/deepseek-harness with all self-d",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "openamer-max/max-scripts",
     "stars": 0,
-    "updated_at": "2026-10-21T13:05:15Z",
+    "updated_at": "2026-10-21T13:15:22Z",
     "url": "https://github.com/openamer-max/max-scripts"
   },
   {
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 1,
-    "updated_at": "2026-10-21T13:12:55Z",
+    "updated_at": "2026-10-21T13:14:51Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-10-21T13:00:46Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T13:00:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T12:22:45Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
-    "id": "agbossjs/agboss",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss",
-    "stars": 1,
-    "updated_at": "2026-10-21T12:32:19Z",
-    "url": "https://github.com/agbossjs/agboss"
   }
 ]
