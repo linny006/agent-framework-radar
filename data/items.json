@@ -1,12 +1,138 @@
 [
   {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-10-21T11:59:58Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20767,
+    "updated_at": "2026-10-21T11:59:17Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-21T11:55:45Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 15,
+    "updated_at": "2026-10-21T12:00:11Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-10-21T11:54:00Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
+    "id": "ZJU-REAL/HugAgentOS",
+    "language": "Python",
+    "name": "ZJU-REAL/HugAgentOS",
+    "stars": 625,
+    "updated_at": "2026-10-21T11:56:36Z",
+    "url": "https://github.com/ZJU-REAL/HugAgentOS"
+  },
+  {
     "description": "Coding agent skeleton with ReAct engine, tool system, MCP support, and permission control.",
     "id": "devcxl/intelliagent",
     "language": "Python",
     "name": "devcxl/intelliagent",
     "stars": 0,
-    "updated_at": "2026-10-21T11:40:47Z",
+    "updated_at": "2026-10-21T11:50:30Z",
     "url": "https://github.com/devcxl/intelliagent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-21T11:54:48Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-21T11:49:55Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:49:52Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 330,
+    "updated_at": "2026-10-21T11:48:46Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-10-21T11:48:37Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-10-21T11:45:41Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 204,
+    "updated_at": "2026-10-21T11:45:30Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T11:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
@@ -14,7 +140,7 @@
     "language": "TypeScript",
     "name": "pqpo/pragma",
     "stars": 252,
-    "updated_at": "2026-10-21T11:40:37Z",
+    "updated_at": "2026-10-21T12:00:16Z",
     "url": "https://github.com/pqpo/pragma"
   },
   {
@@ -41,7 +167,7 @@
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-21T11:43:40Z",
+    "updated_at": "2026-10-21T11:53:53Z",
     "url": "https://github.com/agbossjs/agboss"
   },
   {
@@ -54,31 +180,13 @@
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-21T11:36:00Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
     "stars": 14247,
-    "updated_at": "2026-10-21T11:35:13Z",
+    "updated_at": "2026-10-21T12:00:01Z",
     "url": "https://github.com/microsoft/agent-framework"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 15,
-    "updated_at": "2026-10-21T11:32:19Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -86,7 +194,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-21T11:32:27Z",
+    "updated_at": "2026-10-21T11:54:36Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -99,21 +207,12 @@
     "url": "https://github.com/UiPath/uipath-integrations-python"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T11:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Open-source Rust runtime for autonomous agents \u2014 13 modules, 76 crates, 2625 tests. Event-sourced persistence (Lago), ho",
     "id": "broomva/life",
     "language": "Rust",
     "name": "broomva/life",
     "stars": 2,
-    "updated_at": "2026-10-21T11:29:30Z",
+    "updated_at": "2026-10-21T11:45:40Z",
     "url": "https://github.com/broomva/life"
   },
   {
@@ -158,7 +257,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10946,
-    "updated_at": "2026-10-21T11:39:56Z",
+    "updated_at": "2026-10-21T11:59:31Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -167,33 +266,15 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35897,
-    "updated_at": "2026-10-21T11:26:06Z",
+    "updated_at": "2026-10-21T11:53:06Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 204,
-    "updated_at": "2026-10-21T11:25:16Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Cognitive OS Agent Runtime in pure C11 \u2014 LLM is the accelerator, not the OS. \u8ba4\u77e5\u667a\u80fd\u4f53\u64cd\u4f5c\u7cfb\u7edf\uff1a\u8ba4\u77e5\u5185\u6838 \u00b7 Memory OS \u00b7 \u591a\u667a\u80fd\u4f53\u7f16\u6392 \u00b7 \u4e8b\u52a1\u6267\u884c ",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-21T11:24:58Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
     "id": "autonomous-ai/openharness",
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
-    "stars": 1332,
+    "stars": 1333,
     "updated_at": "2026-10-21T11:24:33Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
@@ -270,15 +351,6 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-21T11:03:58Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/persei",
     "language": "Python",
@@ -313,15 +385,6 @@
     "stars": 86,
     "updated_at": "2026-10-21T10:59:04Z",
     "url": "https://github.com/tinyhumansai/tinyflows"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 330,
-    "updated_at": "2026-10-21T11:31:36Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 149,
-    "updated_at": "2026-10-21T11:36:19Z",
+    "updated_at": "2026-10-21T11:55:52Z",
     "url": "https://github.com/arcships/rutis"
-  },
-  {
-    "description": "MCP loader and registry written in rust",
-    "id": "tinyhumansai/tinymcp",
-    "language": "Rust",
-    "name": "tinyhumansai/tinymcp",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:42:16Z",
-    "url": "https://github.com/tinyhumansai/tinymcp"
-  },
-  {
-    "description": "Syntet agent for laptop and VPS",
-    "id": "maxseo/sinty",
-    "language": "TypeScript",
-    "name": "maxseo/sinty",
-    "stars": 0,
-    "updated_at": "2026-10-21T10:42:16Z",
-    "url": "https://github.com/maxseo/sinty"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 21,
-    "updated_at": "2026-10-21T10:35:56Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "A minimal, readable agent-framework kernel \u2014 understand how LangGraph/ADK work under the hood. 1800\u884c\u4ee3\u7801\u7684 agent \u6846\u67b6\u5185\u6838\uff0c\u7406\u89e3 La",
-    "id": "limenagent/prodagent",
-    "language": "Python",
-    "name": "limenagent/prodagent",
-    "stars": 114,
-    "updated_at": "2026-10-21T10:31:07Z",
-    "url": "https://github.com/limenagent/prodagent"
-  },
-  {
-    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
-    "id": "xmor/ara",
-    "language": "Java",
-    "name": "xmor/ara",
-    "stars": 6,
-    "updated_at": "2026-10-21T10:28:32Z",
-    "url": "https://github.com/xmor/ara"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 5251,
-    "updated_at": "2026-10-21T10:22:26Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 682,
-    "updated_at": "2026-10-21T10:38:43Z",
-    "url": "https://github.com/framerslab/agentos"
   }
 ]
