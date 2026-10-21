@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
+    "id": "kdcube/kdcube",
+    "language": "Python",
+    "name": "kdcube/kdcube",
+    "stars": 26,
+    "updated_at": "2026-10-21T18:02:32Z",
+    "url": "https://github.com/kdcube/kdcube"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 4,
+    "updated_at": "2026-10-21T18:02:20Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "agent-marketplace is a command-line tool that installs shared AI agent resources into the AI coding tools you use",
+    "id": "Adyen/agent-marketplace",
+    "language": "Go",
+    "name": "Adyen/agent-marketplace",
+    "stars": 10,
+    "updated_at": "2026-10-21T18:01:36Z",
+    "url": "https://github.com/Adyen/agent-marketplace"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8896,
+    "updated_at": "2026-10-21T18:01:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-21T18:00:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open-source AI coworkers for your team. They do recurring work, ask before risky steps, and show you exactly what they d",
     "id": "tedix-hq/tedix",
     "language": "TypeScript",
@@ -18,12 +63,21 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 10962,
+    "updated_at": "2026-10-21T18:02:24Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
     "id": "Thepizzapie/BuildersGate",
     "language": "Python",
     "name": "Thepizzapie/BuildersGate",
     "stars": 31,
-    "updated_at": "2026-10-21T17:59:25Z",
+    "updated_at": "2026-10-21T18:01:30Z",
     "url": "https://github.com/Thepizzapie/BuildersGate"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 15,
-    "updated_at": "2026-10-21T17:57:58Z",
+    "updated_at": "2026-10-21T18:02:26Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 4,
-    "updated_at": "2026-10-21T17:56:32Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 49250,
     "updated_at": "2026-10-21T17:55:44Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8896,
-    "updated_at": "2026-10-21T17:57:17Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26804,
-    "updated_at": "2026-10-21T17:59:13Z",
+    "updated_at": "2026-10-21T18:01:07Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 125,
     "updated_at": "2026-10-21T17:54:26Z",
     "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "agent-marketplace is a command-line tool that installs shared AI agent resources into the AI coding tools you use",
-    "id": "Adyen/agent-marketplace",
-    "language": "Go",
-    "name": "Adyen/agent-marketplace",
-    "stars": 9,
-    "updated_at": "2026-10-21T17:57:50Z",
-    "url": "https://github.com/Adyen/agent-marketplace"
   },
   {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
@@ -214,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T17:49:37Z",
     "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 10961,
-    "updated_at": "2026-10-21T17:59:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "DIY your own agent team harness for long-horizon agent work",
@@ -293,17 +311,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-21T17:56:19Z",
+    "updated_at": "2026-10-21T18:02:01Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T17:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinycomputer",
     "stars": 7,
-    "updated_at": "2026-10-21T17:59:17Z",
+    "updated_at": "2026-10-21T18:00:39Z",
     "url": "https://github.com/tinyhumansai/tinycomputer"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "tinyhumansai/tinymcp",
     "stars": 3,
-    "updated_at": "2026-10-21T17:34:54Z",
+    "updated_at": "2026-10-21T18:02:08Z",
     "url": "https://github.com/tinyhumansai/tinymcp"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T17:29:20Z",
     "url": "https://github.com/agent-fox-dev/agentkit-go"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1336,
-    "updated_at": "2026-10-21T17:30:42Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   }
 ]
