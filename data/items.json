@@ -1,21 +1,138 @@
 [
   {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:28:45Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 330,
+    "updated_at": "2026-10-22T01:27:06Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 130,
-    "updated_at": "2026-10-22T01:14:53Z",
+    "updated_at": "2026-10-22T01:27:03Z",
     "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 99,
+    "updated_at": "2026-10-22T01:27:35Z",
+    "url": "https://github.com/NarraFork/NarraFork"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-10-22T01:26:50Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 149,
+    "updated_at": "2026-10-22T01:25:27Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-22T01:22:10Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 10966,
-    "updated_at": "2026-10-22T01:14:36Z",
+    "stars": 10967,
+    "updated_at": "2026-10-22T01:21:40Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-22T01:20:55Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "ANS Studio \u2014 An Autonomous Organization Runtime for AI Agents.",
+    "id": "wangzhongren/ans-studio",
+    "language": "TypeScript",
+    "name": "wangzhongren/ans-studio",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:20:21Z",
+    "url": "https://github.com/wangzhongren/ans-studio"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:20:09Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 82,
+    "updated_at": "2026-10-22T01:19:57Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:19:52Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
+    "id": "pqpo/pragma",
+    "language": "TypeScript",
+    "name": "pqpo/pragma",
+    "stars": 253,
+    "updated_at": "2026-10-22T01:15:54Z",
+    "url": "https://github.com/pqpo/pragma"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-22T01:15:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
@@ -41,7 +158,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2368,
-    "updated_at": "2026-10-22T01:13:51Z",
+    "updated_at": "2026-10-22T01:27:04Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -50,7 +167,7 @@
     "language": "Python",
     "name": "brawblan/ai-workflow",
     "stars": 0,
-    "updated_at": "2026-10-22T01:12:59Z",
+    "updated_at": "2026-10-22T01:21:10Z",
     "url": "https://github.com/brawblan/ai-workflow"
   },
   {
@@ -72,15 +189,6 @@
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
-    "description": "ANS Studio \u2014 An Autonomous Organization Runtime for AI Agents.",
-    "id": "wangzhongren/ans-studio",
-    "language": "TypeScript",
-    "name": "wangzhongren/ans-studio",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:09:02Z",
-    "url": "https://github.com/wangzhongren/ans-studio"
-  },
-  {
     "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
     "id": "Zuga-Technologies/zugamind",
     "language": "Python",
@@ -99,21 +207,12 @@
     "url": "https://github.com/cmcoffee/gohort"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 330,
-    "updated_at": "2026-10-22T01:10:15Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
     "id": "griffinwork40/agent-afk",
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-22T01:09:27Z",
+    "updated_at": "2026-10-22T01:25:18Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -124,15 +223,6 @@
     "stars": 205,
     "updated_at": "2026-10-22T01:03:16Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 99,
-    "updated_at": "2026-10-22T01:09:30Z",
-    "url": "https://github.com/NarraFork/NarraFork"
   },
   {
     "description": "orchd \u5f15\u64ce\u6700\u5c0f\u53ef\u79fb\u690d\u6838\u5fc3\u5957\u4ef6\uff1a\u8de8 AI agent \u5e73\u53f0\u7684\u4efb\u52a1\u7f16\u6392 CLI\uff08\u4e8b\u4ef6\u6eaf\u6e90 + \u6587\u4ef6\u9501 + DAG \u5c31\u7eea\u6c60 + \u4e24\u9636\u6bb5\u5ba1\u67e5\uff09",
@@ -160,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T01:00:39Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-22T01:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
@@ -212,7 +293,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-22T00:50:25Z",
+    "updated_at": "2026-10-22T01:27:58Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -243,24 +324,6 @@
     "url": "https://github.com/agbossjs/agboss"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 309,
-    "updated_at": "2026-10-22T00:42:46Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-22T01:08:36Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Composable agent framework with trait-based architecture and production HTTP runtime",
     "id": "llm-works/llm-gent",
     "language": "Python",
@@ -270,21 +333,12 @@
     "url": "https://github.com/llm-works/llm-gent"
   },
   {
-    "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
-    "id": "pqpo/pragma",
-    "language": "TypeScript",
-    "name": "pqpo/pragma",
-    "stars": 253,
-    "updated_at": "2026-10-22T00:41:06Z",
-    "url": "https://github.com/pqpo/pragma"
-  },
-  {
     "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
     "id": "kindgi/kindgi-sdk",
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 0,
-    "updated_at": "2026-10-22T01:12:53Z",
+    "updated_at": "2026-10-22T01:25:33Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -333,21 +387,12 @@
     "url": "https://github.com/agents-inc/agents-inc"
   },
   {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 149,
-    "updated_at": "2026-10-22T00:13:41Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20771,
-    "updated_at": "2026-10-22T01:08:31Z",
+    "updated_at": "2026-10-22T01:25:41Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -374,7 +419,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-22T01:13:09Z",
+    "updated_at": "2026-10-22T01:27:32Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -385,15 +430,6 @@
     "stars": 14,
     "updated_at": "2026-10-22T00:26:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 82,
-    "updated_at": "2026-10-21T23:59:55Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\u5143\u8ba4\u77e5\u534f\u8bae\u5f15\u64ce + \u5206\u7ea7\u81ea\u4e3b\u62a4\u680f \u2014\u2014 \u5e73\u53f0\u65e0\u5173\u7684\u81ea\u4e3b\u8fd0\u7ef4 Agent \u6838\u5fc3\u3002Metacognition protocol + tiered-autonomy guardrails for autonomous ops agents.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T23:52:29Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-21T23:52:19Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
-    "id": "GEMISIS/leviath",
-    "language": "Rust",
-    "name": "GEMISIS/leviath",
-    "stars": 14,
-    "updated_at": "2026-10-21T23:51:32Z",
-    "url": "https://github.com/GEMISIS/leviath"
-  },
-  {
-    "description": "Decision model (JEV) based harness to perform Desktop & Browser automation. Written in Rust. ",
-    "id": "tinyhumansai/tinycomputer",
-    "language": "Rust",
-    "name": "tinyhumansai/tinycomputer",
-    "stars": 7,
-    "updated_at": "2026-10-22T01:09:18Z",
-    "url": "https://github.com/tinyhumansai/tinycomputer"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:14:40Z",
-    "url": "https://github.com/xanstomper/mochi"
   }
 ]
