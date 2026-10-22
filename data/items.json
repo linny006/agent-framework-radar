@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 8,
+    "updated_at": "2026-10-22T09:45:24Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-22T09:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1339,
+    "updated_at": "2026-10-22T09:45:14Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
@@ -45,15 +72,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 8,
-    "updated_at": "2026-10-22T09:41:57Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
     "description": "Agent Markup Language - an asynchronous TypeScript and JSX runtime for composing provider-agnostic agent workflows.",
     "id": "we-are-singular/aml",
     "language": "TypeScript",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26808,
-    "updated_at": "2026-10-22T09:41:09Z",
+    "updated_at": "2026-10-22T09:45:30Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 204,
     "updated_at": "2026-10-22T09:38:49Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1339,
-    "updated_at": "2026-10-22T09:45:14Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -214,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-10-22T09:32:03Z",
     "url": "https://github.com/apowerb/apowerb-ui"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-22T09:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
