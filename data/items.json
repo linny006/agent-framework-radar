@@ -1,12 +1,93 @@
 [
   {
+    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
+    "id": "morethanrealio/brambit",
+    "language": "JavaScript",
+    "name": "morethanrealio/brambit",
+    "stars": 21,
+    "updated_at": "2026-10-22T00:12:00Z",
+    "url": "https://github.com/morethanrealio/brambit"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-22T00:11:36Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 17,
+    "updated_at": "2026-10-22T00:10:41Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-22T00:09:29Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 329,
+    "updated_at": "2026-10-22T00:08:39Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 149,
+    "updated_at": "2026-10-22T00:12:55Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-22T00:11:30Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20771,
+    "updated_at": "2026-10-22T00:05:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2367,
-    "updated_at": "2026-10-22T00:00:06Z",
+    "updated_at": "2026-10-22T00:01:32Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-22T00:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -18,15 +99,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 149,
-    "updated_at": "2026-10-21T23:58:52Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -34,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T23:57:09Z",
     "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 309,
-    "updated_at": "2026-10-21T23:56:34Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "\u5143\u8ba4\u77e5\u534f\u8bae\u5f15\u64ce + \u5206\u7ea7\u81ea\u4e3b\u62a4\u680f \u2014\u2014 \u5e73\u53f0\u65e0\u5173\u7684\u81ea\u4e3b\u8fd0\u7ef4 Agent \u6838\u5fc3\u3002Metacognition protocol + tiered-autonomy guardrails for autonomous ops agents.",
@@ -54,21 +117,12 @@
     "url": "https://github.com/codecloud-dev/agent-core"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20771,
-    "updated_at": "2026-10-21T23:54:47Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
     "id": "kindgi/kindgi-sdk",
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 0,
-    "updated_at": "2026-10-21T23:59:36Z",
+    "updated_at": "2026-10-22T00:08:02Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10965,
-    "updated_at": "2026-10-21T23:56:58Z",
+    "updated_at": "2026-10-22T00:02:51Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 330,
-    "updated_at": "2026-10-21T23:56:12Z",
+    "updated_at": "2026-10-22T00:09:00Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -133,24 +187,6 @@
     "stars": 2389,
     "updated_at": "2026-10-21T23:45:59Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-21T23:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-21T23:50:25Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -196,15 +232,6 @@
     "stars": 8900,
     "updated_at": "2026-10-21T23:36:24Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 329,
-    "updated_at": "2026-10-21T23:31:28Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
@@ -297,15 +324,6 @@
     "url": "https://github.com/Mattbusel/agent-runtime"
   },
   {
-    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-    "id": "morethanrealio/brambit",
-    "language": "JavaScript",
-    "name": "morethanrealio/brambit",
-    "stars": 21,
-    "updated_at": "2026-10-21T23:06:41Z",
-    "url": "https://github.com/morethanrealio/brambit"
-  },
-  {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
     "id": "clawboo/clawboo",
     "language": "TypeScript",
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "Arasz/ai-badger",
     "stars": 3,
-    "updated_at": "2026-10-21T23:00:40Z",
+    "updated_at": "2026-10-22T00:01:47Z",
     "url": "https://github.com/Arasz/ai-badger"
   },
   {
@@ -387,21 +405,12 @@
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 17,
-    "updated_at": "2026-10-21T23:57:18Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
     "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
     "id": "agbossjs/agboss",
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-21T22:47:33Z",
+    "updated_at": "2026-10-22T00:04:39Z",
     "url": "https://github.com/agbossjs/agboss"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat-runtime",
     "stars": 5,
-    "updated_at": "2026-10-21T23:37:16Z",
+    "updated_at": "2026-10-22T00:08:15Z",
     "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-21T22:29:00Z",
     "url": "https://github.com/Aegean-E/NeuroCore"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1368,
-    "updated_at": "2026-10-21T22:45:11Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   }
 ]
