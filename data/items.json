@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-22T14:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 61,
+    "updated_at": "2026-10-22T14:45:54Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26810,
+    "updated_at": "2026-10-22T14:44:05Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
+    "id": "Hazer-BJTU/simplex-cpp",
+    "language": "C++",
+    "name": "Hazer-BJTU/simplex-cpp",
+    "stars": 0,
+    "updated_at": "2026-10-22T14:43:59Z",
+    "url": "https://github.com/Hazer-BJTU/simplex-cpp"
+  },
+  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-22T14:42:04Z",
+    "updated_at": "2026-10-22T14:46:47Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -25,6 +61,15 @@
     "stars": 15,
     "updated_at": "2026-10-22T14:42:01Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
+    "id": "George-RD/openspine",
+    "language": "Rust",
+    "name": "George-RD/openspine",
+    "stars": 2,
+    "updated_at": "2026-10-22T14:40:28Z",
+    "url": "https://github.com/George-RD/openspine"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -81,13 +126,13 @@
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
-    "description": "A safety layer for AI agents; it decides what your agent is allowed to do - and proves it.",
-    "id": "George-RD/openspine",
-    "language": "Rust",
-    "name": "George-RD/openspine",
-    "stars": 2,
-    "updated_at": "2026-10-22T14:40:28Z",
-    "url": "https://github.com/George-RD/openspine"
+    "description": "Open Autonomy library skill for funding mechanism",
+    "id": "valory-xyz/funds-manager",
+    "language": "Python",
+    "name": "valory-xyz/funds-manager",
+    "stars": 0,
+    "updated_at": "2026-10-22T14:37:28Z",
+    "url": "https://github.com/valory-xyz/funds-manager"
   },
   {
     "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 90,
-    "updated_at": "2026-10-22T14:36:45Z",
+    "updated_at": "2026-10-22T14:46:00Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-22T14:35:43Z",
+    "updated_at": "2026-10-22T14:46:58Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -144,15 +189,6 @@
     "url": "https://github.com/ShreyashDarade/praxis-ai-agent-platform"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-22T14:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
     "id": "agbossjs/agboss",
     "language": "TypeScript",
@@ -169,15 +205,6 @@
     "stars": 34,
     "updated_at": "2026-10-22T14:30:10Z",
     "url": "https://github.com/databricks-solutions/consort"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 61,
-    "updated_at": "2026-10-22T14:45:21Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T14:25:29Z",
     "url": "https://github.com/Spitfire-Products/nexus-cortex"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26809,
-    "updated_at": "2026-10-22T14:44:05Z",
-    "url": "https://github.com/deepset-ai/haystack"
   },
   {
     "description": "Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules,",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "apowerb/apowerb",
     "stars": 149,
-    "updated_at": "2026-10-22T14:29:57Z",
+    "updated_at": "2026-10-22T14:47:18Z",
     "url": "https://github.com/apowerb/apowerb"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "DJG3DK/persei",
     "stars": 3,
-    "updated_at": "2026-10-22T14:07:48Z",
+    "updated_at": "2026-10-22T14:46:53Z",
     "url": "https://github.com/DJG3DK/persei"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 45,
-    "updated_at": "2026-10-22T14:00:48Z",
+    "updated_at": "2026-10-22T14:45:39Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Open Benchmarks and reproducible evaluation harnesses for Shadow AI Agent Discovery & Inventory",
-    "id": "aisecnomad/Nexus-ShadowBench",
-    "language": "Python",
-    "name": "aisecnomad/Nexus-ShadowBench",
-    "stars": 2,
-    "updated_at": "2026-10-22T13:55:44Z",
-    "url": "https://github.com/aisecnomad/Nexus-ShadowBench"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-22T13:54:49Z",
-    "url": "https://github.com/monaccode/astromesh"
   }
 ]
