@@ -1,12 +1,93 @@
 [
   {
+    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
+    "id": "xujian519/sati",
+    "language": "TypeScript",
+    "name": "xujian519/sati",
+    "stars": 3,
+    "updated_at": "2026-10-22T17:44:19Z",
+    "url": "https://github.com/xujian519/sati"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 4,
+    "updated_at": "2026-10-22T17:43:23Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2392,
+    "updated_at": "2026-10-22T17:41:28Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
+    "id": "bryansparks/armature",
+    "language": "Python",
+    "name": "bryansparks/armature",
+    "stars": 9,
+    "updated_at": "2026-10-22T17:41:21Z",
+    "url": "https://github.com/bryansparks/armature"
+  },
+  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 329,
-    "updated_at": "2026-10-22T17:27:18Z",
+    "updated_at": "2026-10-22T17:39:44Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-22T17:45:01Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20792,
+    "updated_at": "2026-10-22T17:40:54Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
+    "id": "hustfreefly/deepflow",
+    "language": "Python",
+    "name": "hustfreefly/deepflow",
+    "stars": 3,
+    "updated_at": "2026-10-22T17:32:39Z",
+    "url": "https://github.com/hustfreefly/deepflow"
+  },
+  {
+    "description": "A self-hosted web interface for the pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 25,
+    "updated_at": "2026-10-22T17:31:54Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-22T17:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
@@ -23,35 +104,17 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-22T17:30:05Z",
+    "updated_at": "2026-10-22T17:43:46Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
-    "id": "hustfreefly/deepflow",
-    "language": "Python",
-    "name": "hustfreefly/deepflow",
-    "stars": 3,
-    "updated_at": "2026-10-22T17:26:05Z",
-    "url": "https://github.com/hustfreefly/deepflow"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2392,
-    "updated_at": "2026-10-22T17:25:47Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-22T17:29:50Z",
-    "url": "https://github.com/manishiitg/agentworks"
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 149,
+    "updated_at": "2026-10-22T17:25:37Z",
+    "url": "https://github.com/arcships/rutis"
   },
   {
     "description": "Build micro-vertical AI products with memory, workflows, human approvals, and governed improvement. The open-source engi",
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-22T17:27:11Z",
+    "updated_at": "2026-10-22T17:40:59Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -90,21 +153,12 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-22T17:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49271,
-    "updated_at": "2026-10-22T17:18:09Z",
+    "updated_at": "2026-10-22T17:36:42Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/tinyhumansai/tinychannels"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20791,
-    "updated_at": "2026-10-22T17:28:39Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "assafkip/kipi-system",
     "stars": 127,
-    "updated_at": "2026-10-22T17:29:31Z",
+    "updated_at": "2026-10-22T17:36:04Z",
     "url": "https://github.com/assafkip/kipi-system"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-22T17:19:27Z",
+    "updated_at": "2026-10-22T17:40:33Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10992,
-    "updated_at": "2026-10-22T16:48:50Z",
+    "updated_at": "2026-10-22T17:30:25Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/migoric/agentia"
   },
   {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-22T16:46:24Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
     "id": "autopus-ai/autopus-adk",
     "language": "Go",
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat-runtime",
     "stars": 5,
-    "updated_at": "2026-10-22T17:30:13Z",
+    "updated_at": "2026-10-22T17:30:21Z",
     "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "kyashrathore/Claxedo",
     "stars": 90,
-    "updated_at": "2026-10-22T17:05:44Z",
+    "updated_at": "2026-10-22T17:45:18Z",
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-22T17:24:52Z",
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
-  },
-  {
-    "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
-    "id": "ubunatic/harnez",
-    "language": "Go",
-    "name": "ubunatic/harnez",
-    "stars": 0,
-    "updated_at": "2026-10-22T16:37:27Z",
-    "url": "https://github.com/ubunatic/harnez"
-  },
-  {
-    "description": "A multi-agent orchestration scheduling platform, distributing tasks and coordinating multiple AI agents for collaborativ",
-    "id": "Luo-lan-dong/tilapia-agent",
-    "language": "TypeScript",
-    "name": "Luo-lan-dong/tilapia-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T16:37:17Z",
-    "url": "https://github.com/Luo-lan-dong/tilapia-agent"
-  },
-  {
-    "description": "A minimal context kernel for AI agents",
-    "id": "Preference-cmd/causa",
-    "language": "Rust",
-    "name": "Preference-cmd/causa",
-    "stars": 2,
-    "updated_at": "2026-10-22T16:36:40Z",
-    "url": "https://github.com/Preference-cmd/causa"
-  },
-  {
-    "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
-    "id": "Zuga-Technologies/zugamind",
-    "language": "Python",
-    "name": "Zuga-Technologies/zugamind",
-    "stars": 14,
-    "updated_at": "2026-10-22T16:33:37Z",
-    "url": "https://github.com/Zuga-Technologies/zugamind"
   }
 ]
