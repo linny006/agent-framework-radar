@@ -1,12 +1,12 @@
 [
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-22T18:45:04Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 61,
+    "updated_at": "2026-10-22T18:58:48Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,7 +14,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-22T18:44:36Z",
+    "updated_at": "2026-10-22T18:58:01Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -22,9 +22,108 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8918,
-    "updated_at": "2026-10-22T18:42:19Z",
+    "stars": 8919,
+    "updated_at": "2026-10-22T18:56:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-22T18:54:53Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-22T18:54:51Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-22T18:53:41Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-22T18:53:26Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Reasoning foundation for trustworthy agents.",
+    "id": "polycog/cognition",
+    "language": "Python",
+    "name": "polycog/cognition",
+    "stars": 8,
+    "updated_at": "2026-10-22T18:51:57Z",
+    "url": "https://github.com/polycog/cognition"
+  },
+  {
+    "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
+    "id": "Azure/agent-landing-zone",
+    "language": "Python",
+    "name": "Azure/agent-landing-zone",
+    "stars": 1187,
+    "updated_at": "2026-10-22T18:47:26Z",
+    "url": "https://github.com/Azure/agent-landing-zone"
+  },
+  {
+    "description": "AI agents that explain football and prove every word. A multi-agent match desk on Microsoft Foundry and Agent Framework.",
+    "id": "pyyroo-a/jahbadh-ai",
+    "language": "Python",
+    "name": "pyyroo-a/jahbadh-ai",
+    "stars": 1,
+    "updated_at": "2026-10-22T18:46:45Z",
+    "url": "https://github.com/pyyroo-a/jahbadh-ai"
+  },
+  {
+    "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
+    "id": "sageox/agent-toolkit",
+    "language": "TypeScript",
+    "name": "sageox/agent-toolkit",
+    "stars": 12,
+    "updated_at": "2026-10-22T18:46:03Z",
+    "url": "https://github.com/sageox/agent-toolkit"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/persei",
+    "language": "Python",
+    "name": "DJG3DK/persei",
+    "stars": 3,
+    "updated_at": "2026-10-22T18:45:36Z",
+    "url": "https://github.com/DJG3DK/persei"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-22T18:45:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-22T18:54:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "",
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20793,
-    "updated_at": "2026-10-22T18:44:45Z",
+    "updated_at": "2026-10-22T18:58:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Rust",
     "name": "AreevAI/areev",
     "stars": 27,
-    "updated_at": "2026-10-22T18:45:09Z",
+    "updated_at": "2026-10-22T18:45:24Z",
     "url": "https://github.com/AreevAI/areev"
   },
   {
@@ -68,7 +167,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-22T18:34:20Z",
+    "updated_at": "2026-10-22T18:54:29Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -77,7 +176,7 @@
     "language": "TypeScript",
     "name": "Lykhoyda/rn-dev-agent",
     "stars": 20,
-    "updated_at": "2026-10-22T18:38:14Z",
+    "updated_at": "2026-10-22T18:54:25Z",
     "url": "https://github.com/Lykhoyda/rn-dev-agent"
   },
   {
@@ -90,30 +189,12 @@
     "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 61,
-    "updated_at": "2026-10-22T18:40:05Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-22T18:30:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 111,
-    "updated_at": "2026-10-22T18:30:54Z",
+    "updated_at": "2026-10-22T18:53:39Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "BlackBeltTechnology/pi-agent-dashboard",
     "stars": 329,
-    "updated_at": "2026-10-22T18:29:51Z",
+    "updated_at": "2026-10-22T18:51:07Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10991,
-    "updated_at": "2026-10-22T18:14:17Z",
+    "updated_at": "2026-10-22T18:52:56Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -252,13 +333,13 @@
     "url": "https://github.com/frangelbarrera/awesome-ai-agents"
   },
   {
-    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
-    "id": "agbossjs/agboss",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss",
-    "stars": 1,
-    "updated_at": "2026-10-22T18:35:47Z",
-    "url": "https://github.com/agbossjs/agboss"
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 205,
+    "updated_at": "2026-10-22T18:12:49Z",
+    "url": "https://github.com/Birfy/agentdescent"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
@@ -302,7 +383,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-22T18:32:58Z",
+    "updated_at": "2026-10-22T18:55:42Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2393,
     "updated_at": "2026-10-22T17:45:51Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 3,
-    "updated_at": "2026-10-22T18:33:13Z",
-    "url": "https://github.com/xujian519/sati"
-  },
-  {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 4,
-    "updated_at": "2026-10-22T17:43:23Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
-    "description": "A lightweight, declarative agent harness \u2014 define multi-agent workflows as YAML, run them from Python or the CLI, and th",
-    "id": "bryansparks/armature",
-    "language": "Python",
-    "name": "bryansparks/armature",
-    "stars": 9,
-    "updated_at": "2026-10-22T17:41:21Z",
-    "url": "https://github.com/bryansparks/armature"
-  },
-  {
-    "description": "DeepFlow \u2014 \u591a Agent \u7ba1\u7ebf\u6846\u67b6\uff1aSpec\u2192Solution\u2192Ship\u2192Deliver \u56db\u57df\u534f\u4f5c + Research Pro \u72ec\u7acb\u7814\u7a76\u5f15\u64ce\uff0c\u8fd0\u884c\u5728 OpenClaw \u4e4b\u4e0a",
-    "id": "hustfreefly/deepflow",
-    "language": "Python",
-    "name": "hustfreefly/deepflow",
-    "stars": 3,
-    "updated_at": "2026-10-22T17:32:39Z",
-    "url": "https://github.com/hustfreefly/deepflow"
-  },
-  {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "JavaScript",
-    "name": "aeonfun/aeon",
-    "stars": 782,
-    "updated_at": "2026-10-22T17:28:01Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 149,
-    "updated_at": "2026-10-22T17:25:37Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-10-22T17:20:41Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35929,
-    "updated_at": "2026-10-22T17:56:48Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-10-22T17:16:21Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
