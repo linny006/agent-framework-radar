@@ -1,5 +1,32 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20816,
+    "updated_at": "2026-10-23T15:17:16Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Context is yours. Agents are replaceable.",
+    "id": "zqiren/Orbital",
+    "language": "Python",
+    "name": "zqiren/Orbital",
+    "stars": 959,
+    "updated_at": "2026-10-23T15:16:05Z",
+    "url": "https://github.com/zqiren/Orbital"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-23T15:15:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 8933,
     "updated_at": "2026-10-23T15:15:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20816,
-    "updated_at": "2026-10-23T15:14:56Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -180,21 +198,12 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-23T15:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-23T15:09:12Z",
+    "updated_at": "2026-10-23T15:16:59Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11004,
-    "updated_at": "2026-10-23T15:05:49Z",
+    "updated_at": "2026-10-23T15:17:13Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T14:16:37Z",
     "url": "https://github.com/maxseo/sinty"
-  },
-  {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 8,
-    "updated_at": "2026-10-23T14:14:39Z",
-    "url": "https://github.com/axisvela/praxo-core"
   }
 ]
