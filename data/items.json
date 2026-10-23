@@ -1,12 +1,12 @@
 [
   {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 101,
-    "updated_at": "2026-10-23T05:21:24Z",
-    "url": "https://github.com/NarraFork/NarraFork"
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 8,
+    "updated_at": "2026-10-23T05:29:12Z",
+    "url": "https://github.com/axisvela/praxo-core"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -14,17 +14,53 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 83,
-    "updated_at": "2026-10-23T05:19:36Z",
+    "updated_at": "2026-10-23T05:28:16Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-23T05:21:24Z",
-    "url": "https://github.com/manishiitg/agentworks"
+    "description": "Experimental autonomous agent that explores a sandboxed Linux container, builds its own tools, and weighs the token cost",
+    "id": "FatinShadab/self",
+    "language": "Python",
+    "name": "FatinShadab/self",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:27:24Z",
+    "url": "https://github.com/FatinShadab/self"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 84,
+    "updated_at": "2026-10-23T05:26:11Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f  An AI agent framework with a clean, layered architecture. Strict kernel/platform/interface boundaries \u2014 built for re",
+    "id": "Pixeldooooog/Agents",
+    "language": "TypeScript",
+    "name": "Pixeldooooog/Agents",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:25:34Z",
+    "url": "https://github.com/Pixeldooooog/Agents"
+  },
+  {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:27:14Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-10-23T05:24:16Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "A community-maintained Toollery integration for DeepSeek Harness, enabling scalable, training-free skill and tool retrie",
@@ -32,8 +68,44 @@
     "language": "Python",
     "name": "JKL-agents/toollery-dsh",
     "stars": 2,
-    "updated_at": "2026-10-23T05:18:25Z",
+    "updated_at": "2026-10-23T05:23:45Z",
     "url": "https://github.com/JKL-agents/toollery-dsh"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-23T05:23:09Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-23T05:24:47Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-23T05:21:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 101,
+    "updated_at": "2026-10-23T05:21:24Z",
+    "url": "https://github.com/NarraFork/NarraFork"
   },
   {
     "description": "A self-hosted pixel office where your AI agents work as a team \u2014 souls & skills, delegation, projects, managers & CEO, a",
@@ -59,26 +131,17 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1346,
-    "updated_at": "2026-10-23T05:16:56Z",
+    "updated_at": "2026-10-23T05:26:16Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-23T05:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 8,
-    "updated_at": "2026-10-23T05:15:05Z",
-    "url": "https://github.com/axisvela/praxo-core"
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3244,
+    "updated_at": "2026-10-23T05:16:02Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -86,7 +149,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35936,
-    "updated_at": "2026-10-23T05:14:08Z",
+    "updated_at": "2026-10-23T05:29:13Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 21,
-    "updated_at": "2026-10-23T05:15:15Z",
+    "updated_at": "2026-10-23T05:26:25Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T05:16:01Z",
     "url": "https://github.com/xujian519/sati"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-23T05:10:01Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "ReachAI\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5f00\u53d1\u5e73\u53f0\uff1a\u5feb\u901f\u3001\u5b89\u5168\u5b8c\u6210\u5df2\u6709\u4e1a\u52a1\u7cfb\u7edf\u667a\u80fd\u5316\u6539\u9020\uff0c\u8ba9 AI \u5728 OA\u3001ERP\u3001CRM \u7b49\u539f\u7cfb\u7edf\u4e2d\u67e5\u6570\u636e\u3001\u586b\u8868\u5355\u3001\u529e\u4e1a\u52a1\u3002ReachAI: Quickly and securely bring AI to existi",
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1369,
-    "updated_at": "2026-10-23T05:08:21Z",
+    "updated_at": "2026-10-23T05:25:56Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10998,
-    "updated_at": "2026-10-23T05:16:09Z",
+    "updated_at": "2026-10-23T05:27:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -189,21 +243,12 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
-    "id": "agbossjs/agboss",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss",
-    "stars": 1,
-    "updated_at": "2026-10-23T05:11:41Z",
-    "url": "https://github.com/agbossjs/agboss"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20803,
-    "updated_at": "2026-10-23T05:20:10Z",
+    "updated_at": "2026-10-23T05:27:15Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 18,
     "updated_at": "2026-10-23T04:53:51Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Experimental autonomous agent that explores a sandboxed Linux container, builds its own tools, and weighs the token cost",
-    "id": "FatinShadab/self",
-    "language": "Python",
-    "name": "FatinShadab/self",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:51:58Z",
-    "url": "https://github.com/FatinShadab/self"
   },
   {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
@@ -259,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T04:55:04Z",
     "url": "https://github.com/ridemountainpig/open-form"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3243,
-    "updated_at": "2026-10-23T05:16:02Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code",
@@ -329,7 +356,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-23T05:19:54Z",
+    "updated_at": "2026-10-23T05:28:13Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T04:02:48Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "ShadowScan discovers AI usage and agent evidence across code, runtime, network, endpoints, identity, gateways, low-code,",
-    "id": "aisecnomad/Nexus-ShadowScan",
-    "language": "Python",
-    "name": "aisecnomad/Nexus-ShadowScan",
-    "stars": 16,
-    "updated_at": "2026-10-23T04:31:52Z",
-    "url": "https://github.com/aisecnomad/Nexus-ShadowScan"
-  },
-  {
-    "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
-    "id": "DavidCompute/AG-UI_Multi-Party",
-    "language": "C#",
-    "name": "DavidCompute/AG-UI_Multi-Party",
-    "stars": 0,
-    "updated_at": "2026-10-23T03:57:35Z",
-    "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Open-source infrastructure for AI agents to collaborate - registry, A2A communication, task pool, payments",
-    "id": "acnlabs/ACN",
-    "language": "Python",
-    "name": "acnlabs/ACN",
-    "stars": 4,
-    "updated_at": "2026-10-23T03:57:23Z",
-    "url": "https://github.com/acnlabs/ACN"
   }
 ]
