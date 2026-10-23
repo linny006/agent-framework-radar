@@ -1,11 +1,110 @@
 [
   {
+    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
+    "id": "Opita-Code/opita-code",
+    "language": "TypeScript",
+    "name": "Opita-Code/opita-code",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:23:22Z",
+    "url": "https://github.com/Opita-Code/opita-code"
+  },
+  {
+    "description": "",
+    "id": "SwaDeshiTech/prodhub-agent-kit",
+    "language": "\u2014",
+    "name": "SwaDeshiTech/prodhub-agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:23:00Z",
+    "url": "https://github.com/SwaDeshiTech/prodhub-agent-kit"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-23T19:21:24Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 10,
+    "updated_at": "2026-10-23T19:21:14Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "Visual builder and engine for agent workflows",
+    "id": "Nucc/spoletta",
+    "language": "Go",
+    "name": "Nucc/spoletta",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:20:52Z",
+    "url": "https://github.com/Nucc/spoletta"
+  },
+  {
+    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
+    "id": "assafkip/kipi-system",
+    "language": "Python",
+    "name": "assafkip/kipi-system",
+    "stars": 128,
+    "updated_at": "2026-10-23T19:20:29Z",
+    "url": "https://github.com/assafkip/kipi-system"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 61,
+    "updated_at": "2026-10-23T19:23:02Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20822,
+    "updated_at": "2026-10-23T19:23:40Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:17:09Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "\ud83c\udfc6 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
+    "id": "RyanAlberts/best-of-Agent-Harnesses",
+    "language": "Python",
+    "name": "RyanAlberts/best-of-Agent-Harnesses",
+    "stars": 1338,
+    "updated_at": "2026-10-23T19:16:16Z",
+    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-23T19:15:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-23T19:15:14Z",
+    "updated_at": "2026-10-23T19:23:51Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11009,
-    "updated_at": "2026-10-23T19:14:41Z",
+    "updated_at": "2026-10-23T19:16:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T19:14:57Z",
+    "updated_at": "2026-10-23T19:22:24Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -63,15 +162,6 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 10,
-    "updated_at": "2026-10-23T19:10:25Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
     "id": "arcships/rutis",
     "language": "Rust",
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3273,
-    "updated_at": "2026-10-23T19:13:10Z",
+    "updated_at": "2026-10-23T19:22:39Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20821,
-    "updated_at": "2026-10-23T19:12:12Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules,",
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-23T19:12:18Z",
+    "updated_at": "2026-10-23T19:15:52Z",
     "url": "https://github.com/agbossjs/agboss"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-23T19:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
@@ -180,38 +252,11 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 128,
-    "updated_at": "2026-10-23T18:56:01Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "\ud83c\udfc6 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 1337,
-    "updated_at": "2026-10-23T18:55:37Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 61,
-    "updated_at": "2026-10-23T19:11:15Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
     "description": "A reliable coding agent for complex software engineering tasks.",
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35943,
+    "stars": 35944,
     "updated_at": "2026-10-23T18:53:12Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-23T19:15:08Z",
+    "updated_at": "2026-10-23T19:20:43Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -257,8 +302,17 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 2,
-    "updated_at": "2026-10-23T18:50:47Z",
+    "updated_at": "2026-10-23T19:21:48Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1353,
+    "updated_at": "2026-10-23T18:48:12Z",
+    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
@@ -284,7 +338,7 @@
     "language": "C#",
     "name": "sytone/botnexus",
     "stars": 2,
-    "updated_at": "2026-10-23T18:45:47Z",
+    "updated_at": "2026-10-23T19:20:00Z",
     "url": "https://github.com/sytone/botnexus"
   },
   {
@@ -293,7 +347,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-23T19:14:10Z",
+    "updated_at": "2026-10-23T19:23:54Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 84,
     "updated_at": "2026-10-23T19:01:34Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
-    "id": "Opita-Code/opita-code",
-    "language": "TypeScript",
-    "name": "Opita-Code/opita-code",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:28:06Z",
-    "url": "https://github.com/Opita-Code/opita-code"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-23T18:16:20Z",
     "url": "https://github.com/cccat6/iphone-agent-harness"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2378,
-    "updated_at": "2026-10-23T19:10:51Z",
-    "url": "https://github.com/cortexkit/magic-context"
-  },
-  {
-    "description": "Open-source Agentic workflows built using Rust",
-    "id": "tinyhumansai/tinyflows",
-    "language": "Rust",
-    "name": "tinyhumansai/tinyflows",
-    "stars": 86,
-    "updated_at": "2026-10-23T18:16:11Z",
-    "url": "https://github.com/tinyhumansai/tinyflows"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 5,
-    "updated_at": "2026-10-23T18:15:38Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-23T18:18:26Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Open Model Hardware Protocol: an MCP-style open protocol for AI agents to find, understand and safely operate lab and fa",
-    "id": "kushalsinha/openmhp",
-    "language": "Python",
-    "name": "kushalsinha/openmhp",
-    "stars": 3,
-    "updated_at": "2026-10-23T18:13:36Z",
-    "url": "https://github.com/kushalsinha/openmhp"
   }
 ]
