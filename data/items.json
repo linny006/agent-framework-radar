@@ -1,5 +1,86 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20800,
+    "updated_at": "2026-10-23T00:45:14Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8922,
+    "updated_at": "2026-10-23T00:44:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15642,
+    "updated_at": "2026-10-23T00:43:59Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:43:53Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 137,
+    "updated_at": "2026-10-23T00:42:42Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "a DSL for automated deterministic rules. Built for AI agents and quantitative Trading systems.",
+    "id": "AetherAI3/Nano",
+    "language": "Python",
+    "name": "AetherAI3/Nano",
+    "stars": 14,
+    "updated_at": "2026-10-23T00:40:00Z",
+    "url": "https://github.com/AetherAI3/Nano"
+  },
+  {
+    "description": "",
+    "id": "KartikeyAI/mayura",
+    "language": "TypeScript",
+    "name": "KartikeyAI/mayura",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:42:18Z",
+    "url": "https://github.com/KartikeyAI/mayura"
+  },
+  {
+    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
+    "id": "kangwoo/aimon-core",
+    "language": "Java",
+    "name": "kangwoo/aimon-core",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:39:13Z",
+    "url": "https://github.com/kangwoo/aimon-core"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-23T00:39:06Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
     "id": "fswolf/luna-local-agent",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20800,
-    "updated_at": "2026-10-23T00:37:40Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
     "id": "pqpo/pragma",
     "language": "TypeScript",
@@ -41,7 +113,7 @@
     "language": "JavaScript",
     "name": "dhaupin/vant",
     "stars": 12,
-    "updated_at": "2026-10-23T00:34:45Z",
+    "updated_at": "2026-10-23T00:44:05Z",
     "url": "https://github.com/dhaupin/vant"
   },
   {
@@ -59,26 +131,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10994,
-    "updated_at": "2026-10-23T00:36:39Z",
+    "updated_at": "2026-10-23T00:44:43Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-23T00:30:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15642,
-    "updated_at": "2026-10-23T00:31:05Z",
-    "url": "https://github.com/eigent-ai/eigent"
   },
   {
     "description": "A lightweight HTTP/1.1 server written in C \u2014 prefork event loop, CGI/FastCGI, React SSR \u2014 with a built-in native C LLM a",
@@ -97,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-10-23T00:30:15Z",
     "url": "https://github.com/ShiftAboveCtrl/ai17z"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 137,
-    "updated_at": "2026-10-23T00:38:24Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -270,15 +315,6 @@
     "url": "https://github.com/lofcz/LLMTornado"
   },
   {
-    "description": "A ReAct agent framework for Java \u2014 build autonomous LLM-powered agents, embeddable in any Java application",
-    "id": "kangwoo/aimon-core",
-    "language": "Java",
-    "name": "kangwoo/aimon-core",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:24:29Z",
-    "url": "https://github.com/kangwoo/aimon-core"
-  },
-  {
     "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
     "id": "israriqbal/agent-ecologies",
     "language": "HTML",
@@ -304,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T23:48:53Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
-    "id": "agbossjs/agboss",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:34:19Z",
-    "url": "https://github.com/agbossjs/agboss"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T23:20:00Z",
     "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 331,
-    "updated_at": "2026-10-23T00:06:51Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": " Flexible storage solutions for agent sessions.",
-    "id": "Git4Agent/mallard-app",
-    "language": "Rust",
-    "name": "Git4Agent/mallard-app",
-    "stars": 58,
-    "updated_at": "2026-10-22T23:15:47Z",
-    "url": "https://github.com/Git4Agent/mallard-app"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 6,
-    "updated_at": "2026-10-22T23:50:14Z",
-    "url": "https://github.com/bide-ai/bide"
   }
 ]
