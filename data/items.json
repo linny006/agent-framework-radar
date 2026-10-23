@@ -1,5 +1,68 @@
 [
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35944,
+    "updated_at": "2026-10-23T19:29:19Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choic",
+    "id": "cccat6/iphone-agent-harness",
+    "language": "C",
+    "name": "cccat6/iphone-agent-harness",
+    "stars": 6,
+    "updated_at": "2026-10-23T19:28:13Z",
+    "url": "https://github.com/cccat6/iphone-agent-harness"
+  },
+  {
+    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
+    "id": "motojinc25/chatwalaau",
+    "language": "Python",
+    "name": "motojinc25/chatwalaau",
+    "stars": 6,
+    "updated_at": "2026-10-23T19:28:16Z",
+    "url": "https://github.com/motojinc25/chatwalaau"
+  },
+  {
+    "description": "The control plane for AI coding agents.",
+    "id": "codeaholicguy/ai-devkit",
+    "language": "TypeScript",
+    "name": "codeaholicguy/ai-devkit",
+    "stars": 1652,
+    "updated_at": "2026-10-23T19:27:44Z",
+    "url": "https://github.com/codeaholicguy/ai-devkit"
+  },
+  {
+    "description": "multi model capable single harness orchestrator. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in,",
+    "id": "solvent-labs-org/metaorcha",
+    "language": "Python",
+    "name": "solvent-labs-org/metaorcha",
+    "stars": 5,
+    "updated_at": "2026-10-23T19:30:12Z",
+    "url": "https://github.com/solvent-labs-org/metaorcha"
+  },
+  {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:25:26Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-23T19:24:10Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
     "id": "Opita-Code/opita-code",
     "language": "TypeScript",
@@ -9,7 +72,7 @@
     "url": "https://github.com/Opita-Code/opita-code"
   },
   {
-    "description": "",
+    "description": "Setup guides and agent instructions for deploying applications to ProdHub Preview Spaces through MCP\u2014from repository ins",
     "id": "SwaDeshiTech/prodhub-agent-kit",
     "language": "\u2014",
     "name": "SwaDeshiTech/prodhub-agent-kit",
@@ -90,21 +153,12 @@
     "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-23T19:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-23T19:23:51Z",
+    "updated_at": "2026-10-23T19:29:32Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T19:22:24Z",
+    "updated_at": "2026-10-23T19:30:04Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3273,
-    "updated_at": "2026-10-23T19:22:39Z",
+    "updated_at": "2026-10-23T19:26:06Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -196,24 +250,6 @@
     "stars": 699,
     "updated_at": "2026-10-23T19:02:53Z",
     "url": "https://github.com/agents-universe/agents-universe"
-  },
-  {
-    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
-    "id": "agbossjs/agboss",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:15:52Z",
-    "url": "https://github.com/agbossjs/agboss"
-  },
-  {
-    "description": "multi model capable single harness orchestrator. Apache 2.0 runtime for multi-protocol agent orchestration: one goal in,",
-    "id": "solvent-labs-org/metaorcha",
-    "language": "Python",
-    "name": "solvent-labs-org/metaorcha",
-    "stars": 5,
-    "updated_at": "2026-10-23T19:02:49Z",
-    "url": "https://github.com/solvent-labs-org/metaorcha"
   },
   {
     "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T18:56:27Z",
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35944,
-    "updated_at": "2026-10-23T18:53:12Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "\ud83e\udd85\ud83e\udebd Sovereign Self-Evolving AI Agent Framework: Hermes closed-loop skill evolution x OpenClaw <1.5K token frugality x Gem",
@@ -421,32 +448,5 @@
     "stars": 24,
     "updated_at": "2026-10-23T18:23:19Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Lightweight, single-file Agent memory & state layer with semantic search, graph traversal, and remember/recall/forget AP",
-    "id": "YQteam-hq/yq-nova-agent",
-    "language": "Rust",
-    "name": "YQteam-hq/yq-nova-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:01:50Z",
-    "url": "https://github.com/YQteam-hq/yq-nova-agent"
-  },
-  {
-    "description": "AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code",
-    "id": "anurag-devx/offline-agent",
-    "language": "Python",
-    "name": "anurag-devx/offline-agent",
-    "stars": 1,
-    "updated_at": "2026-10-23T18:19:56Z",
-    "url": "https://github.com/anurag-devx/offline-agent"
-  },
-  {
-    "description": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choic",
-    "id": "cccat6/iphone-agent-harness",
-    "language": "C",
-    "name": "cccat6/iphone-agent-harness",
-    "stars": 6,
-    "updated_at": "2026-10-23T18:16:20Z",
-    "url": "https://github.com/cccat6/iphone-agent-harness"
   }
 ]
