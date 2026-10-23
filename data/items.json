@@ -1,5 +1,77 @@
 [
   {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 101,
+    "updated_at": "2026-10-23T05:21:24Z",
+    "url": "https://github.com/NarraFork/NarraFork"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 83,
+    "updated_at": "2026-10-23T05:19:36Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-23T05:21:24Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "A community-maintained Toollery integration for DeepSeek Harness, enabling scalable, training-free skill and tool retrie",
+    "id": "JKL-agents/toollery-dsh",
+    "language": "Python",
+    "name": "JKL-agents/toollery-dsh",
+    "stars": 2,
+    "updated_at": "2026-10-23T05:18:25Z",
+    "url": "https://github.com/JKL-agents/toollery-dsh"
+  },
+  {
+    "description": "A self-hosted pixel office where your AI agents work as a team \u2014 souls & skills, delegation, projects, managers & CEO, a",
+    "id": "xiaoxiongbaba/barnacle",
+    "language": "TypeScript",
+    "name": "xiaoxiongbaba/barnacle",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:17:32Z",
+    "url": "https://github.com/xiaoxiongbaba/barnacle"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-23T05:17:21Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1346,
+    "updated_at": "2026-10-23T05:16:56Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-23T05:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
     "id": "axisvela/praxo-core",
     "language": "Go",
@@ -27,15 +99,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-23T05:12:01Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "xujian519/sati",
     "stars": 3,
-    "updated_at": "2026-10-23T05:10:51Z",
+    "updated_at": "2026-10-23T05:16:01Z",
     "url": "https://github.com/xujian519/sati"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 10998,
-    "updated_at": "2026-10-23T05:14:36Z",
+    "updated_at": "2026-10-23T05:16:09Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -135,39 +198,12 @@
     "url": "https://github.com/agbossjs/agboss"
   },
   {
-    "description": "A community-maintained Toollery integration for DeepSeek Harness, enabling scalable, training-free skill and tool retrie",
-    "id": "JKL-agents/toollery-dsh",
-    "language": "Python",
-    "name": "JKL-agents/toollery-dsh",
-    "stars": 2,
-    "updated_at": "2026-10-23T05:02:06Z",
-    "url": "https://github.com/JKL-agents/toollery-dsh"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-23T05:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1346,
-    "updated_at": "2026-10-23T05:09:34Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20803,
-    "updated_at": "2026-10-23T05:11:33Z",
+    "updated_at": "2026-10-23T05:20:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "pqpo/pragma",
     "stars": 248,
-    "updated_at": "2026-10-23T05:13:40Z",
+    "updated_at": "2026-10-23T05:19:46Z",
     "url": "https://github.com/pqpo/pragma"
   },
   {
@@ -225,31 +261,13 @@
     "url": "https://github.com/ridemountainpig/open-form"
   },
   {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 101,
-    "updated_at": "2026-10-23T05:08:10Z",
-    "url": "https://github.com/NarraFork/NarraFork"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3243,
-    "updated_at": "2026-10-23T05:10:59Z",
+    "updated_at": "2026-10-23T05:16:02Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "A self-hosted pixel office where your AI agents work as a team \u2014 souls & skills, delegation, projects, managers & CEO, a",
-    "id": "xiaoxiongbaba/barnacle",
-    "language": "TypeScript",
-    "name": "xiaoxiongbaba/barnacle",
-    "stars": 0,
-    "updated_at": "2026-10-23T04:44:13Z",
-    "url": "https://github.com/xiaoxiongbaba/barnacle"
   },
   {
     "description": "AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code",
@@ -311,7 +329,7 @@
     "language": "JavaScript",
     "name": "AshishKumar4/Nimbus",
     "stars": 17,
-    "updated_at": "2026-10-23T05:11:33Z",
+    "updated_at": "2026-10-23T05:19:54Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
   },
   {
@@ -349,15 +367,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T04:28:26Z",
     "url": "https://github.com/luandapipi91/Wa-PiAgent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 83,
-    "updated_at": "2026-10-23T04:28:03Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-23T03:57:23Z",
     "url": "https://github.com/acnlabs/ACN"
-  },
-  {
-    "description": "Intelligent Skill routing and workflow orchestration for AI agents \u2014 +21.12 pp reward, \u221229.6% tokens on SkillsBench with",
-    "id": "foryourhealth111-pixel/Vibe-Skills",
-    "language": "Python",
-    "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 3759,
-    "updated_at": "2026-10-23T03:57:04Z",
-    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   }
 ]
