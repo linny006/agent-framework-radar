@@ -1,5 +1,32 @@
 [
   {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-24T05:16:48Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 10,
+    "updated_at": "2026-10-24T05:16:48Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T05:15:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Experimental autonomous agent that explores a sandboxed Linux container, builds its own tools, and weighs the token cost",
     "id": "FatinShadab/self",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 9,
     "updated_at": "2026-10-24T05:10:22Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 10,
-    "updated_at": "2026-10-24T05:09:33Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
@@ -113,8 +131,17 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-24T05:12:19Z",
+    "updated_at": "2026-10-24T05:17:16Z",
     "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3283,
+    "updated_at": "2026-10-24T05:03:54Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T05:01:07Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T05:00:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "ANS Studio \u2014 An Autonomous Organization Runtime for AI Agents.",
@@ -234,15 +252,6 @@
     "url": "https://github.com/saajunaid/caddis-plugin"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-24T04:42:34Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "Embeddable self-adaptive agent kernel for host applications",
     "id": "Gi-Tuu/yai-agent-core",
     "language": "Python",
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "NarraFork/NarraFork",
     "stars": 103,
-    "updated_at": "2026-10-24T04:47:12Z",
+    "updated_at": "2026-10-24T05:16:38Z",
     "url": "https://github.com/NarraFork/NarraFork"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 331,
     "updated_at": "2026-10-24T04:54:00Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 2,
-    "updated_at": "2026-10-24T03:58:47Z",
-    "url": "https://github.com/thetonymaster/normandy"
   }
 ]
