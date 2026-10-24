@@ -1,12 +1,57 @@
 [
   {
-    "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
-    "id": "open-multi-agent/open-multi-agent",
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 11,
+    "updated_at": "2026-10-24T03:59:57Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and se",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 357,
+    "updated_at": "2026-10-24T03:59:01Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T03:57:42Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
     "language": "TypeScript",
-    "name": "open-multi-agent/open-multi-agent",
-    "stars": 7020,
-    "updated_at": "2026-10-24T03:43:54Z",
-    "url": "https://github.com/open-multi-agent/open-multi-agent"
+    "name": "autonomous-ai/openharness",
+    "stars": 1358,
+    "updated_at": "2026-10-24T03:57:33Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 90,
+    "updated_at": "2026-10-24T03:56:14Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
+    "id": "fabbrik/AgentExperience.NET",
+    "language": "C#",
+    "name": "fabbrik/AgentExperience.NET",
+    "stars": 3,
+    "updated_at": "2026-10-24T03:56:11Z",
+    "url": "https://github.com/fabbrik/AgentExperience.NET"
   },
   {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
@@ -14,8 +59,62 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T03:44:53Z",
+    "updated_at": "2026-10-24T04:00:04Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Experimental autonomous agent that explores a sandboxed Linux container, builds its own tools, and weighs the token cost",
+    "id": "FatinShadab/self",
+    "language": "Python",
+    "name": "FatinShadab/self",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:51:50Z",
+    "url": "https://github.com/FatinShadab/self"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 110,
+    "updated_at": "2026-10-24T03:49:36Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 681,
+    "updated_at": "2026-10-24T03:58:16Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 6,
+    "updated_at": "2026-10-24T03:45:53Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T03:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
+    "id": "open-multi-agent/open-multi-agent",
+    "language": "TypeScript",
+    "name": "open-multi-agent/open-multi-agent",
+    "stars": 7020,
+    "updated_at": "2026-10-24T03:43:54Z",
+    "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
     "description": "110 production-grade AI agents on one tiny core: research, RAG, teams, memory, MCP, voice, chess and more. Any model (Cl",
@@ -36,15 +135,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 11,
-    "updated_at": "2026-10-24T03:39:44Z",
-    "url": "https://github.com/axisvela/praxo-core"
-  },
-  {
     "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
     "id": "api-evangelist/autogen-studio",
     "language": "\u2014",
@@ -63,24 +153,6 @@
     "url": "https://github.com/Gi-Tuu/yai-agent-core"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 6,
-    "updated_at": "2026-10-24T03:34:44Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 90,
-    "updated_at": "2026-10-24T03:31:00Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Agentlas-OS",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 1588,
     "updated_at": "2026-10-24T03:30:49Z",
     "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T03:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules,",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "NarraFork/NarraFork",
     "stars": 103,
-    "updated_at": "2026-10-24T03:40:59Z",
+    "updated_at": "2026-10-24T03:49:40Z",
     "url": "https://github.com/NarraFork/NarraFork"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-24T03:44:58Z",
+    "updated_at": "2026-10-24T03:57:20Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Elixir",
     "name": "thetonymaster/normandy",
     "stars": 2,
-    "updated_at": "2026-10-24T03:23:58Z",
+    "updated_at": "2026-10-24T03:58:47Z",
     "url": "https://github.com/thetonymaster/normandy"
   },
   {
@@ -157,7 +220,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 49310,
+    "stars": 49311,
     "updated_at": "2026-10-24T03:22:52Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -196,24 +259,6 @@
     "stars": 315,
     "updated_at": "2026-10-24T03:19:16Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-24T03:18:22Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 110,
-    "updated_at": "2026-10-24T03:19:04Z",
-    "url": "https://github.com/futuregene/future-os"
   },
   {
     "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20823,
-    "updated_at": "2026-10-24T03:13:40Z",
+    "updated_at": "2026-10-24T03:56:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 2,
-    "updated_at": "2026-10-24T03:38:08Z",
+    "updated_at": "2026-10-24T03:58:55Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-24T03:33:21Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
-  },
-  {
-    "description": "Open Souls \u2014 independent third-party profile of a public API surface, by API Evangelist. Open Souls is an open-source fr",
-    "id": "api-evangelist/open-souls",
-    "language": "\u2014",
-    "name": "api-evangelist/open-souls",
-    "stars": 1,
-    "updated_at": "2026-10-24T02:34:44Z",
-    "url": "https://github.com/api-evangelist/open-souls"
-  },
-  {
-    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
-    "id": "lofcz/LLMTornado",
-    "language": "C#",
-    "name": "lofcz/LLMTornado",
-    "stars": 649,
-    "updated_at": "2026-10-24T02:31:58Z",
-    "url": "https://github.com/lofcz/LLMTornado"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 18,
-    "updated_at": "2026-10-24T02:29:19Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents ",
-    "id": "rapidaai/voice-ai",
-    "language": "Go",
-    "name": "rapidaai/voice-ai",
-    "stars": 749,
-    "updated_at": "2026-10-24T03:06:46Z",
-    "url": "https://github.com/rapidaai/voice-ai"
-  },
-  {
-    "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and se",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 357,
-    "updated_at": "2026-10-24T02:23:12Z",
-    "url": "https://github.com/shibing624/agentica"
   }
 ]
