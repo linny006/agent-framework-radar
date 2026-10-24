@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-24T21:45:04Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Visual builder and engine for agent workflows",
+    "id": "Nucc/spoletta",
+    "language": "Go",
+    "name": "Nucc/spoletta",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:44:12Z",
+    "url": "https://github.com/Nucc/spoletta"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/persei",
+    "language": "Python",
+    "name": "DJG3DK/persei",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:43:57Z",
+    "url": "https://github.com/DJG3DK/persei"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 332,
+    "updated_at": "2026-10-24T21:42:50Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A self-hosted web interface for pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 25,
+    "updated_at": "2026-10-24T21:42:16Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:41:14Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+  },
+  {
+    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
+    "id": "thetonymaster/normandy",
+    "language": "Elixir",
+    "name": "thetonymaster/normandy",
+    "stars": 2,
+    "updated_at": "2026-10-24T21:39:37Z",
+    "url": "https://github.com/thetonymaster/normandy"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3432,
+    "updated_at": "2026-10-24T21:38:32Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T21:37:31Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -18,13 +99,13 @@
     "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T21:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35955,
+    "updated_at": "2026-10-24T21:32:04Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Multi-Agent Harness for Production AI",
@@ -34,15 +115,6 @@
     "stars": 11121,
     "updated_at": "2026-10-24T21:30:12Z",
     "url": "https://github.com/aden-hive/hive"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35954,
-    "updated_at": "2026-10-24T21:32:04Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-24T21:37:23Z",
+    "updated_at": "2026-10-24T21:39:18Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/siso-os/siso-agent-zero"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 332,
-    "updated_at": "2026-10-24T21:35:51Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -153,21 +216,12 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "A self-hosted web interface for pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 25,
-    "updated_at": "2026-10-24T21:06:41Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20839,
-    "updated_at": "2026-10-24T21:31:02Z",
+    "updated_at": "2026-10-24T21:40:03Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11021,
-    "updated_at": "2026-10-24T21:11:37Z",
+    "updated_at": "2026-10-24T21:42:08Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 270,
     "updated_at": "2026-10-24T21:02:28Z",
     "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:16:28Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Local filesystem MCP server with 50 tools: safe delete, process management, interactive sessions, async search, OCR, ZIP",
-    "id": "ellmos-ai/ellmos-filecommander-mcp",
-    "language": "TypeScript",
-    "name": "ellmos-ai/ellmos-filecommander-mcp",
-    "stars": 5,
-    "updated_at": "2026-10-24T20:15:13Z",
-    "url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp"
-  },
-  {
-    "description": "Multi-Agent AI Task Orchestrator 2026",
-    "id": "skerry699/agent-symphony",
-    "language": "HTML",
-    "name": "skerry699/agent-symphony",
-    "stars": 123,
-    "updated_at": "2026-10-24T20:13:43Z",
-    "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "The control plane for AI coding agents.",
-    "id": "codeaholicguy/ai-devkit",
-    "language": "TypeScript",
-    "name": "codeaholicguy/ai-devkit",
-    "stars": 1652,
-    "updated_at": "2026-10-24T20:12:44Z",
-    "url": "https://github.com/codeaholicguy/ai-devkit"
-  },
-  {
-    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-    "id": "israriqbal/agent-ecologies",
-    "language": "HTML",
-    "name": "israriqbal/agent-ecologies",
-    "stars": 122,
-    "updated_at": "2026-10-24T20:08:09Z",
-    "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Free unlimited POSIX sandboxes on Cloudflare",
-    "id": "AshishKumar4/Nimbus",
-    "language": "JavaScript",
-    "name": "AshishKumar4/Nimbus",
-    "stars": 17,
-    "updated_at": "2026-10-24T21:33:47Z",
-    "url": "https://github.com/AshishKumar4/Nimbus"
   }
 ]
