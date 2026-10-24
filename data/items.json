@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:59:10Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:57:25Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:56:23Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/persei",
+    "language": "Python",
+    "name": "DJG3DK/persei",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:57:26Z",
+    "url": "https://github.com/DJG3DK/persei"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 331,
+    "updated_at": "2026-10-24T21:53:33Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
+    "id": "Allura-Ecosystem/Allura_Memory",
+    "language": "TypeScript",
+    "name": "Allura-Ecosystem/Allura_Memory",
+    "stars": 1,
+    "updated_at": "2026-10-24T21:50:13Z",
+    "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
+  },
+  {
+    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
+    "id": "thetonymaster/normandy",
+    "language": "Elixir",
+    "name": "thetonymaster/normandy",
+    "stars": 2,
+    "updated_at": "2026-10-24T21:54:43Z",
+    "url": "https://github.com/thetonymaster/normandy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T21:45:22Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
     "id": "Rakshit64w43/agent-gateway-hub",
     "language": "HTML",
@@ -18,21 +90,12 @@
     "url": "https://github.com/Nucc/spoletta"
   },
   {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/persei",
-    "language": "Python",
-    "name": "DJG3DK/persei",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:43:57Z",
-    "url": "https://github.com/DJG3DK/persei"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-24T21:42:50Z",
+    "updated_at": "2026-10-24T21:48:17Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 25,
-    "updated_at": "2026-10-24T21:42:16Z",
+    "updated_at": "2026-10-24T21:54:54Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -54,31 +117,13 @@
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 2,
-    "updated_at": "2026-10-24T21:39:37Z",
-    "url": "https://github.com/thetonymaster/normandy"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3432,
+    "stars": 3436,
     "updated_at": "2026-10-24T21:38:32Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T21:37:31Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:27:45Z",
     "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:39:18Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20839,
-    "updated_at": "2026-10-24T21:40:03Z",
+    "updated_at": "2026-10-24T21:54:22Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T20:56:14Z",
+    "updated_at": "2026-10-24T21:59:16Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11021,
-    "updated_at": "2026-10-24T21:42:08Z",
+    "updated_at": "2026-10-24T21:59:01Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-24T20:40:57Z",
     "url": "https://github.com/KPO-Tech/seshat-runtime"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 128,
-    "updated_at": "2026-10-24T20:21:08Z",
-    "url": "https://github.com/assafkip/kipi-system"
-  },
-  {
-    "description": "Small multi-agent runtime. One agent by default; sub-agents only when policy gates in code approve. Authority lives in t",
-    "id": "jrodriguez4505/Genet",
-    "language": "Python",
-    "name": "jrodriguez4505/Genet",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:20:00Z",
-    "url": "https://github.com/jrodriguez4505/Genet"
-  },
-  {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 331,
-    "updated_at": "2026-10-24T21:18:26Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 270,
-    "updated_at": "2026-10-24T21:02:28Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
   }
 ]
