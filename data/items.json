@@ -1,5 +1,95 @@
 [
   {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2381,
+    "updated_at": "2026-10-24T23:30:12Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "COMA is an LLM agent harness written entirely in Zig.",
+    "id": "mrazza/coma",
+    "language": "Zig",
+    "name": "mrazza/coma",
+    "stars": 0,
+    "updated_at": "2026-10-24T23:28:51Z",
+    "url": "https://github.com/mrazza/coma"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8944,
+    "updated_at": "2026-10-24T23:27:52Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 331,
+    "updated_at": "2026-10-24T23:23:25Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3458,
+    "updated_at": "2026-10-24T23:23:25Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/hali",
+    "language": "C",
+    "name": "chrisws/hali",
+    "stars": 5,
+    "updated_at": "2026-10-24T23:22:58Z",
+    "url": "https://github.com/chrisws/hali"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:21:48Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-24T23:19:11Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 63,
+    "updated_at": "2026-10-24T23:18:28Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T23:15:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
     "id": "DJG3DK/persei",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Elixir",
     "name": "thetonymaster/normandy",
     "stars": 2,
-    "updated_at": "2026-10-24T23:14:02Z",
+    "updated_at": "2026-10-24T23:26:20Z",
     "url": "https://github.com/thetonymaster/normandy"
   },
   {
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 37,
-    "updated_at": "2026-10-24T23:12:34Z",
+    "updated_at": "2026-10-24T23:22:33Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -41,7 +131,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-24T23:07:43Z",
+    "updated_at": "2026-10-24T23:25:42Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-24T23:06:41Z",
+    "updated_at": "2026-10-24T23:29:59Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -79,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:02:32Z",
     "url": "https://github.com/passadis/agents-entra-demo"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T23:00:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -243,15 +324,6 @@
     "url": "https://github.com/carlosmartinezt/chloejs"
   },
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-10-24T22:24:15Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
     "description": "A self-hosted web interface for pi coding agent.",
     "id": "laurentftech/pi-outpost",
     "language": "TypeScript",
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T22:45:06Z",
     "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3455,
-    "updated_at": "2026-10-24T22:14:42Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
@@ -351,21 +414,12 @@
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 331,
-    "updated_at": "2026-10-24T21:53:33Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
     "description": "Canonical allura product: a self-hosted governed memory engine for AI systems.",
     "id": "Allura-Ecosystem/Allura_Memory",
     "language": "TypeScript",
     "name": "Allura-Ecosystem/Allura_Memory",
     "stars": 1,
-    "updated_at": "2026-10-24T21:50:13Z",
+    "updated_at": "2026-10-24T23:27:21Z",
     "url": "https://github.com/Allura-Ecosystem/Allura_Memory"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T22:27:59Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
-  },
-  {
-    "description": "Multi-Agent Harness for Production AI",
-    "id": "aden-hive/hive",
-    "language": "Python",
-    "name": "aden-hive/hive",
-    "stars": 11122,
-    "updated_at": "2026-10-24T21:30:12Z",
-    "url": "https://github.com/aden-hive/hive"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:27:45Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-24T21:22:42Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:22:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Keeps a machine full of agent repos in order: one map, a register of every repo, front doors, backups and a doctor.",
-    "id": "siso-os/siso-estate",
-    "language": "Python",
-    "name": "siso-os/siso-estate",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:22:01Z",
-    "url": "https://github.com/siso-os/siso-estate"
-  },
-  {
-    "description": "The orchestrator: turns one person's words into tasks for a team of agents, checks what comes back and keeps the state.",
-    "id": "siso-os/siso-agent-zero",
-    "language": "Python",
-    "name": "siso-os/siso-agent-zero",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:21:46Z",
-    "url": "https://github.com/siso-os/siso-agent-zero"
   }
 ]
