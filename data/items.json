@@ -1,12 +1,21 @@
 [
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-10-24T08:59:21Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1370,
+    "updated_at": "2026-10-24T09:14:59Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 11,
+    "updated_at": "2026-10-24T09:13:38Z",
+    "url": "https://github.com/axisvela/praxo-core"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -14,8 +23,17 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-24T08:59:04Z",
+    "updated_at": "2026-10-24T09:13:19Z",
     "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-24T09:14:00Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -23,8 +41,80 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 45,
-    "updated_at": "2026-10-24T08:58:04Z",
+    "updated_at": "2026-10-24T09:12:55Z",
     "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 10,
+    "updated_at": "2026-10-24T09:15:14Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-24T09:11:53Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1358,
+    "updated_at": "2026-10-24T09:11:20Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "\u57fa\u4e8e TypeScript \u4ece\u96f6\u6784\u5efa\u7684\u73b0\u4ee3\u5316 AI Agent Harness\u3002\u5177\u5907\u5fae\u5185\u6838\u3001\u4e8b\u4ef6\u6eaf\u6e90\u3001\u53ef\u63d2\u62d4\u5de5\u5177\u94fe\uff0c\u652f\u6301\u6d41\u5f0f Web UI \u4e0e\u7ec8\u7aef TUI \u4ea4\u4e92\u3002",
+    "id": "LiStudioorg/lish",
+    "language": "TypeScript",
+    "name": "LiStudioorg/lish",
+    "stars": 3,
+    "updated_at": "2026-10-24T09:06:37Z",
+    "url": "https://github.com/LiStudioorg/lish"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35951,
+    "updated_at": "2026-10-24T09:04:06Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 158,
+    "updated_at": "2026-10-24T09:01:32Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T09:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-10-24T08:59:21Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
     "description": "110 production-grade AI agents on one tiny core: research, RAG, teams, memory, MCP, voice, chess and more. Any model (Cl",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-24T08:57:51Z",
+    "updated_at": "2026-10-24T09:11:45Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -54,30 +144,12 @@
     "url": "https://github.com/cccat6/iphone-agent-harness"
   },
   {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 10,
-    "updated_at": "2026-10-24T08:57:03Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:57:10Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
     "id": "GEMISIS/leviath",
     "language": "Rust",
     "name": "GEMISIS/leviath",
     "stars": 14,
-    "updated_at": "2026-10-24T08:57:26Z",
+    "updated_at": "2026-10-24T09:01:41Z",
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
@@ -108,15 +180,6 @@
     "url": "https://github.com/ubunatic/harnez"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1370,
-    "updated_at": "2026-10-24T08:51:11Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
     "id": "bide-ai/bide",
     "language": "Go",
@@ -126,15 +189,6 @@
     "url": "https://github.com/bide-ai/bide"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T08:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Rust AI agent framework and self-hosted web console with MCP, Skills, sandboxed execution, persistent sessions, tracing,",
     "id": "jason571/Exoharness",
     "language": "Rust",
@@ -142,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T08:45:18Z",
     "url": "https://github.com/jason571/Exoharness"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1358,
-    "updated_at": "2026-10-24T08:56:54Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Multi-Agent AI Task Orchestrator 2026",
@@ -169,24 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-24T08:36:11Z",
     "url": "https://github.com/cmcoffee/gohort"
-  },
-  {
-    "description": "\u57fa\u4e8e TypeScript \u4ece\u96f6\u6784\u5efa\u7684\u73b0\u4ee3\u5316 AI Agent Harness\u3002\u5177\u5907\u5fae\u5185\u6838\u3001\u4e8b\u4ef6\u6eaf\u6e90\u3001\u53ef\u63d2\u62d4\u5de5\u5177\u94fe\uff0c\u652f\u6301\u6d41\u5f0f Web UI \u4e0e\u7ec8\u7aef TUI \u4ea4\u4e92\u3002",
-    "id": "LiStudioorg/lish",
-    "language": "TypeScript",
-    "name": "LiStudioorg/lish",
-    "stars": 3,
-    "updated_at": "2026-10-24T08:31:19Z",
-    "url": "https://github.com/LiStudioorg/lish"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35950,
-    "updated_at": "2026-10-24T08:29:39Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Yet another coding agent harness, lightweight and written in go.",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 5014,
-    "updated_at": "2026-10-24T08:13:29Z",
+    "updated_at": "2026-10-24T09:03:38Z",
     "url": "https://github.com/ag2ai/ag2"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-24T08:57:58Z",
+    "updated_at": "2026-10-24T09:08:29Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -283,7 +310,7 @@
     "id": "Prescott-Data/jarviscore-framework",
     "language": "Python",
     "name": "Prescott-Data/jarviscore-framework",
-    "stars": 174,
+    "stars": 173,
     "updated_at": "2026-10-24T08:09:25Z",
     "url": "https://github.com/Prescott-Data/jarviscore-framework"
   },
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-24T07:50:26Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Agentic LLM shell aimed at low cost GPUs",
-    "id": "chrisws/hali",
-    "language": "C",
-    "name": "chrisws/hali",
-    "stars": 5,
-    "updated_at": "2026-10-24T07:45:42Z",
-    "url": "https://github.com/chrisws/hali"
-  },
-  {
-    "description": "Vant: Versatile Autonomous Networked Tool - Durable agent OS + memory + cold storage + runtime, with generational evolut",
-    "id": "dhaupin/vant",
-    "language": "JavaScript",
-    "name": "dhaupin/vant",
-    "stars": 12,
-    "updated_at": "2026-10-24T07:43:50Z",
-    "url": "https://github.com/dhaupin/vant"
-  },
-  {
-    "description": "Embeddable self-adaptive agent kernel for host applications",
-    "id": "Gi-Tuu/yai-agent-core",
-    "language": "Python",
-    "name": "Gi-Tuu/yai-agent-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T07:39:20Z",
-    "url": "https://github.com/Gi-Tuu/yai-agent-core"
   }
 ]
