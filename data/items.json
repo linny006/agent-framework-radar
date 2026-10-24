@@ -1,5 +1,68 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-24T04:44:34Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
+    "id": "saajunaid/caddis-plugin",
+    "language": "Python",
+    "name": "saajunaid/caddis-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:43:53Z",
+    "url": "https://github.com/saajunaid/caddis-plugin"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-24T04:42:34Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T04:40:35Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-24T04:40:02Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11018,
+    "updated_at": "2026-10-24T04:39:39Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T04:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An efficient durable harness for collaboration across people, models, and devices",
     "id": "NarraFork/NarraFork",
     "language": "TypeScript",
@@ -32,17 +95,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20825,
-    "updated_at": "2026-10-24T04:22:32Z",
+    "updated_at": "2026-10-24T04:33:31Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11018,
-    "updated_at": "2026-10-24T04:22:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
@@ -52,15 +106,6 @@
     "stars": 263,
     "updated_at": "2026-10-24T04:20:37Z",
     "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-24T04:20:34Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Composable multi-runtime agent application framework for deterministic capability assembly, controlled execution, and ve",
@@ -77,17 +122,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T04:30:03Z",
+    "updated_at": "2026-10-24T04:45:06Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T04:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -95,17 +131,8 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1358,
-    "updated_at": "2026-10-24T04:29:25Z",
+    "updated_at": "2026-10-24T04:34:54Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-24T04:12:57Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T04:10:57Z",
     "url": "https://github.com/TRUGS-LLC/TRUGS-AGENT"
-  },
-  {
-    "description": "Embeddable self-adaptive agent kernel for host applications",
-    "id": "Gi-Tuu/yai-agent-core",
-    "language": "Python",
-    "name": "Gi-Tuu/yai-agent-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T04:06:50Z",
-    "url": "https://github.com/Gi-Tuu/yai-agent-core"
   },
   {
     "description": "Experimental autonomous agent that explores a sandboxed Linux container, builds its own tools, and weighs the token cost",
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-24T04:16:50Z",
+    "updated_at": "2026-10-24T04:41:57Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-24T04:24:29Z",
+    "updated_at": "2026-10-24T04:43:35Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-24T04:29:56Z",
+    "updated_at": "2026-10-24T04:40:38Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 10,
-    "updated_at": "2026-10-24T03:44:39Z",
+    "updated_at": "2026-10-24T04:40:30Z",
     "url": "https://github.com/maref-org/maref"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:05:27Z",
     "url": "https://github.com/flowork-os/AGENT-TOOLS"
-  },
-  {
-    "description": "\u77e5\u672b\u667a\u4e91 \u00b7 Agent \u7f16\u6392\u3001\u5ba1\u6279\u4e0e\u5de5\u5177\u6267\u884c\u5de5\u4f5c\u53f0",
-    "id": "zmzai-cloud/zmzai-agent",
-    "language": "TypeScript",
-    "name": "zmzai-cloud/zmzai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:03:39Z",
-    "url": "https://github.com/zmzai-cloud/zmzai-agent"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 63,
-    "updated_at": "2026-10-24T03:02:45Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
   }
 ]
