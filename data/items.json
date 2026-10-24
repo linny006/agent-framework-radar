@@ -1,11 +1,92 @@
 [
   {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T01:30:00Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
+    "id": "Prescott-Data/jarviscore-framework",
+    "language": "Python",
+    "name": "Prescott-Data/jarviscore-framework",
+    "stars": 203,
+    "updated_at": "2026-10-24T01:29:22Z",
+    "url": "https://github.com/Prescott-Data/jarviscore-framework"
+  },
+  {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-24T01:27:23Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-24T01:29:54Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 5,
+    "updated_at": "2026-10-24T01:23:20Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 10,
+    "updated_at": "2026-10-24T01:19:58Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-10-24T01:19:12Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:19:09Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T01:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
     "id": "arcships/rutis",
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 158,
-    "updated_at": "2026-10-24T01:15:15Z",
+    "updated_at": "2026-10-24T01:20:39Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -49,7 +130,7 @@
     "id": "agents-universe/agents-universe",
     "language": "Python",
     "name": "agents-universe/agents-universe",
-    "stars": 702,
+    "stars": 703,
     "updated_at": "2026-10-24T01:09:44Z",
     "url": "https://github.com/agents-universe/agents-universe"
   },
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-24T01:09:27Z",
+    "updated_at": "2026-10-24T01:23:08Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Go",
     "name": "Luo-root/pulse",
     "stars": 7,
-    "updated_at": "2026-10-24T01:08:32Z",
+    "updated_at": "2026-10-24T01:25:23Z",
     "url": "https://github.com/Luo-root/pulse"
   },
   {
@@ -104,7 +185,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 61,
-    "updated_at": "2026-10-24T01:02:33Z",
+    "updated_at": "2026-10-24T01:23:11Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -122,17 +203,8 @@
     "language": "TypeScript",
     "name": "agbossjs/agboss",
     "stars": 1,
-    "updated_at": "2026-10-24T01:13:19Z",
+    "updated_at": "2026-10-24T01:22:52Z",
     "url": "https://github.com/agbossjs/agboss"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T01:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "Rovinos-AI/rovinos-ai-harness",
     "stars": 0,
-    "updated_at": "2026-10-24T01:02:54Z",
+    "updated_at": "2026-10-24T01:18:25Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
@@ -167,7 +239,7 @@
     "language": "C",
     "name": "LeonQin-ai/cognitive-os-agent",
     "stars": 2,
-    "updated_at": "2026-10-24T01:07:54Z",
+    "updated_at": "2026-10-24T01:28:59Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
@@ -198,21 +270,12 @@
     "url": "https://github.com/ggui-ai/ggui"
   },
   {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 5,
-    "updated_at": "2026-10-24T00:37:16Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
     "description": "Sovereign Studio ato",
     "id": "OuroborosCollective/Sovereign-Studio-ato",
     "language": "Python",
     "name": "OuroborosCollective/Sovereign-Studio-ato",
     "stars": 1,
-    "updated_at": "2026-10-24T01:12:36Z",
+    "updated_at": "2026-10-24T01:17:03Z",
     "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-24T01:14:55Z",
+    "updated_at": "2026-10-24T01:20:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -230,7 +293,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-24T00:31:36Z",
+    "updated_at": "2026-10-24T01:30:17Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -284,7 +347,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T01:13:02Z",
+    "updated_at": "2026-10-24T01:19:17Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11013,
-    "updated_at": "2026-10-24T01:09:26Z",
+    "updated_at": "2026-10-24T01:24:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-24T01:11:20Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
     "id": "sytone/botnexus",
     "language": "C#",
@@ -356,7 +410,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 6,
-    "updated_at": "2026-10-24T01:09:05Z",
+    "updated_at": "2026-10-24T01:20:38Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 90,
     "updated_at": "2026-10-23T23:36:59Z",
     "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
-    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
-    "id": "madeinplutofabio/neural-computation-protocol",
-    "language": "Rust",
-    "name": "madeinplutofabio/neural-computation-protocol",
-    "stars": 15,
-    "updated_at": "2026-10-23T23:33:28Z",
-    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-10-23T23:33:07Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:27:28Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 21,
-    "updated_at": "2026-10-23T23:25:10Z",
-    "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "AGENT OS System",
-    "id": "showjihyun/aether",
-    "language": "Python",
-    "name": "showjihyun/aether",
-    "stars": 0,
-    "updated_at": "2026-10-24T00:07:13Z",
-    "url": "https://github.com/showjihyun/aether"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "autopus-ai/autopus-adk",
-    "language": "Go",
-    "name": "autopus-ai/autopus-adk",
-    "stars": 110,
-    "updated_at": "2026-10-24T00:37:52Z",
-    "url": "https://github.com/autopus-ai/autopus-adk"
   }
 ]
