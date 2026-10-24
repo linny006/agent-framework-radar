@@ -1,12 +1,93 @@
 [
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35948,
+    "updated_at": "2026-10-24T08:29:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1358,
+    "updated_at": "2026-10-24T08:27:06Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 10,
+    "updated_at": "2026-10-24T08:26:54Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-24T08:29:58Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Yet another coding agent harness, lightweight and written in go.",
+    "id": "patriceckhart/zot",
+    "language": "Go",
+    "name": "patriceckhart/zot",
+    "stars": 351,
+    "updated_at": "2026-10-24T08:30:13Z",
+    "url": "https://github.com/patriceckhart/zot"
+  },
+  {
+    "description": "Local-first, Codex-native agent foundry and knowledge OS for creating reviewed, testable specialist AI agents.",
+    "id": "NumericalArt/Pritha",
+    "language": "JavaScript",
+    "name": "NumericalArt/Pritha",
+    "stars": 4,
+    "updated_at": "2026-10-24T08:21:03Z",
+    "url": "https://github.com/NumericalArt/Pritha"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T08:19:12Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "110 production-grade AI agents on one tiny core: research, RAG, teams, memory, MCP, voice, chess and more. Any model (Cl",
     "id": "Ethos6/agent-army",
     "language": "Python",
     "name": "Ethos6/agent-army",
     "stars": 0,
-    "updated_at": "2026-10-24T08:15:03Z",
+    "updated_at": "2026-10-24T08:18:24Z",
     "url": "https://github.com/Ethos6/agent-army"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:18:11Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T08:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Agentic workflows built using Rust",
@@ -16,15 +97,6 @@
     "stars": 86,
     "updated_at": "2026-10-24T08:13:58Z",
     "url": "https://github.com/tinyhumansai/tinyflows"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-24T08:13:45Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "DIY your own agent team harness for long-horizon agent work",
@@ -54,31 +126,13 @@
     "url": "https://github.com/impartshadow/shadow"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-24T08:11:39Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
     "id": "kindgi/kindgi-sdk",
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 2,
-    "updated_at": "2026-10-24T08:11:53Z",
+    "updated_at": "2026-10-24T08:27:20Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 10,
-    "updated_at": "2026-10-24T08:11:00Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-24T08:09:33Z",
+    "updated_at": "2026-10-24T08:30:21Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 203,
     "updated_at": "2026-10-24T08:09:25Z",
     "url": "https://github.com/Prescott-Data/jarviscore-framework"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1358,
-    "updated_at": "2026-10-24T08:13:08Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "An agent runtime.",
@@ -171,15 +216,6 @@
     "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
   },
   {
-    "description": "Yet another coding agent harness, lightweight and written in go.",
-    "id": "patriceckhart/zot",
-    "language": "Go",
-    "name": "patriceckhart/zot",
-    "stars": 351,
-    "updated_at": "2026-10-24T08:08:51Z",
-    "url": "https://github.com/patriceckhart/zot"
-  },
-  {
     "description": "Data-driven workflow execution for Go",
     "id": "Luo-root/pulse",
     "language": "Go",
@@ -196,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-10-24T08:00:56Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T08:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and se",
@@ -252,6 +279,15 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 64,
+    "updated_at": "2026-10-24T08:24:59Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
+  },
+  {
     "description": "HugAgentOS: The Self-Evolving AgentOS for Ontology-Grounded Trustworthy Reasoning",
     "id": "ZJU-REAL/HugAgentOS",
     "language": "Python",
@@ -286,15 +322,6 @@
     "stars": 5,
     "updated_at": "2026-10-24T07:45:42Z",
     "url": "https://github.com/chrisws/hali"
-  },
-  {
-    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
-    "id": "Rovinos-AI/rovinos-ai-harness",
-    "language": "TypeScript",
-    "name": "Rovinos-AI/rovinos-ai-harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:11:36Z",
-    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
     "description": "Embeddable self-adaptive agent kernel for host applications",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T08:13:55Z",
+    "updated_at": "2026-10-24T08:29:13Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 6,
-    "updated_at": "2026-10-24T08:14:01Z",
+    "updated_at": "2026-10-24T08:28:33Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "Birfy/agentdescent",
     "stars": 209,
-    "updated_at": "2026-10-24T07:16:59Z",
+    "updated_at": "2026-10-24T08:19:01Z",
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 681,
     "updated_at": "2026-10-24T07:30:32Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "autopus-ai/autopus-adk",
-    "language": "Go",
-    "name": "autopus-ai/autopus-adk",
-    "stars": 110,
-    "updated_at": "2026-10-24T07:14:11Z",
-    "url": "https://github.com/autopus-ai/autopus-adk"
-  },
-  {
-    "description": "ANS Studio \u2014 An Autonomous Organization Runtime for AI Agents.",
-    "id": "wangzhongren/ans-studio",
-    "language": "TypeScript",
-    "name": "wangzhongren/ans-studio",
-    "stars": 1,
-    "updated_at": "2026-10-24T07:14:02Z",
-    "url": "https://github.com/wangzhongren/ans-studio"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2379,
-    "updated_at": "2026-10-24T07:13:39Z",
-    "url": "https://github.com/cortexkit/magic-context"
   }
 ]
