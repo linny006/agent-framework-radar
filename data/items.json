@@ -1,12 +1,129 @@
 [
   {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-24T10:14:31Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-24T10:13:34Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 11,
+    "updated_at": "2026-10-24T10:12:37Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T10:12:34Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 122,
+    "updated_at": "2026-10-24T10:12:28Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T10:00:09Z",
+    "updated_at": "2026-10-24T10:13:38Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 104,
+    "updated_at": "2026-10-24T10:07:44Z",
+    "url": "https://github.com/NarraFork/NarraFork"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 331,
+    "updated_at": "2026-10-24T10:11:26Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35950,
+    "updated_at": "2026-10-24T10:04:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Pitchlight: AI football commentary you can put on air. Multi-agent Microsoft Foundry workflow where every statement is v",
+    "id": "othniel74/pitchlight",
+    "language": "Python",
+    "name": "othniel74/pitchlight",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:04:13Z",
+    "url": "https://github.com/othniel74/pitchlight"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4483,
+    "updated_at": "2026-10-24T10:03:56Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-24T10:01:51Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11020,
+    "updated_at": "2026-10-24T10:01:04Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T10:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Curated, star-ranked catalog of AI agent frameworks, coding-agent harnesses and workflow platforms (EN/\u4e2d\u6587), auto-refresh",
@@ -23,7 +140,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-24T09:58:51Z",
+    "updated_at": "2026-10-24T10:02:20Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -32,17 +149,8 @@
     "language": "Python",
     "name": "ag2ai/ag2",
     "stars": 5014,
-    "updated_at": "2026-10-24T09:56:28Z",
+    "updated_at": "2026-10-24T10:13:33Z",
     "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 11,
-    "updated_at": "2026-10-24T09:55:47Z",
-    "url": "https://github.com/axisvela/praxo-core"
   },
   {
     "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
@@ -52,24 +160,6 @@
     "stars": 78,
     "updated_at": "2026-10-24T09:57:51Z",
     "url": "https://github.com/vincemakes/kiso"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-24T09:54:05Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-24T09:53:31Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -95,7 +185,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2380,
-    "updated_at": "2026-10-24T09:48:08Z",
+    "updated_at": "2026-10-24T10:04:59Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -108,24 +198,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T09:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 332,
-    "updated_at": "2026-10-24T09:59:20Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T09:54:09Z",
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11019,
-    "updated_at": "2026-10-24T09:42:19Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
@@ -225,15 +288,6 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "Pitchlight: AI football commentary you can put on air. Multi-agent Microsoft Foundry workflow where every statement is v",
-    "id": "othniel74/pitchlight",
-    "language": "Python",
-    "name": "othniel74/pitchlight",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:21:08Z",
-    "url": "https://github.com/othniel74/pitchlight"
-  },
-  {
     "description": "110 production-grade AI agents on one tiny core: research, RAG, teams, memory, MCP, voice, chess and more. Any model (Cl",
     "id": "Ethos6/agent-army",
     "language": "Python",
@@ -257,7 +311,7 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 45,
-    "updated_at": "2026-10-24T09:59:44Z",
+    "updated_at": "2026-10-24T10:14:22Z",
     "url": "https://github.com/swombat/souls-house"
   },
   {
@@ -270,21 +324,12 @@
     "url": "https://github.com/LiStudioorg/lish"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35951,
-    "updated_at": "2026-10-24T09:50:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
     "id": "arcships/rutis",
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 158,
-    "updated_at": "2026-10-24T09:01:32Z",
+    "updated_at": "2026-10-24T10:15:02Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 6,
     "updated_at": "2026-10-24T08:52:48Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 104,
-    "updated_at": "2026-10-24T08:51:44Z",
-    "url": "https://github.com/NarraFork/NarraFork"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -396,15 +432,6 @@
     "url": "https://github.com/tinyhumansai/tinyflows"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-24T08:13:32Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "Live sanitized mirror of the harness Shadow actually runs on \u2014 contracts, failure-mode taxonomy, skills. Start at impart",
     "id": "impartshadow/shadow",
     "language": "Python",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 14,
-    "updated_at": "2026-10-24T08:10:51Z",
+    "updated_at": "2026-10-24T10:05:06Z",
     "url": "https://github.com/aomi-labs/aomi"
-  },
-  {
-    "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
-    "id": "Prescott-Data/jarviscore-framework",
-    "language": "Python",
-    "name": "Prescott-Data/jarviscore-framework",
-    "stars": 173,
-    "updated_at": "2026-10-24T08:09:25Z",
-    "url": "https://github.com/Prescott-Data/jarviscore-framework"
-  },
-  {
-    "description": "WhatsApp gateway for AI agents with Chat SDK and Mastra: custom Baileys, multi-account sessions, durable paced sends, HT",
-    "id": "digows/whatsapp-gateway",
-    "language": "TypeScript",
-    "name": "digows/whatsapp-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:07:21Z",
-    "url": "https://github.com/digows/whatsapp-gateway"
-  },
-  {
-    "description": "A desktop GUI client for the pi agent (pi coding agent). Run an AI agent team \u2014 MCP, skills, memory, IM channels. macOS ",
-    "id": "luandapipi91/Wa-PiAgent",
-    "language": "TypeScript",
-    "name": "luandapipi91/Wa-PiAgent",
-    "stars": 4,
-    "updated_at": "2026-10-24T08:05:49Z",
-    "url": "https://github.com/luandapipi91/Wa-PiAgent"
   }
 ]
