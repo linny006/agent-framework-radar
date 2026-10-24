@@ -1,5 +1,59 @@
 [
   {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 11,
+    "updated_at": "2026-10-24T09:44:24Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 332,
+    "updated_at": "2026-10-24T09:44:08Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:43:39Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-24T09:45:02Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
+    "id": "aayushman-singh/hydraclaim",
+    "language": "Python",
+    "name": "aayushman-singh/hydraclaim",
+    "stars": 1,
+    "updated_at": "2026-10-24T09:42:08Z",
+    "url": "https://github.com/aayushman-singh/hydraclaim"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T09:40:55Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
     "id": "ubunatic/harnez",
     "language": "Go",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T09:39:23Z",
+    "updated_at": "2026-10-24T09:45:20Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 1358,
     "updated_at": "2026-10-24T09:36:15Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-24T09:37:08Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Sovereign Studio ato",
@@ -90,15 +135,6 @@
     "url": "https://github.com/patriceckhart/zot"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T09:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and mult",
     "id": "inkeep/agents",
     "language": "TypeScript",
@@ -124,15 +160,6 @@
     "stars": 84,
     "updated_at": "2026-10-24T09:21:56Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 11,
-    "updated_at": "2026-10-24T09:21:08Z",
-    "url": "https://github.com/axisvela/praxo-core"
   },
   {
     "description": "Pitchlight: AI football commentary you can put on air. Multi-agent Microsoft Foundry workflow where every statement is v",
@@ -214,15 +241,6 @@
     "stars": 8,
     "updated_at": "2026-10-24T08:59:21Z",
     "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
-    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
-    "id": "Rovinos-AI/rovinos-ai-harness",
-    "language": "TypeScript",
-    "name": "Rovinos-AI/rovinos-ai-harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:16:33Z",
-    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
     "description": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choic",
@@ -360,15 +378,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 332,
-    "updated_at": "2026-10-24T09:17:31Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "JarvisCore is a runtime where AI agents operate as a fleet of equal peers. Agents discover one another by capability, ex",
     "id": "Prescott-Data/jarviscore-framework",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 357,
     "updated_at": "2026-10-24T07:59:44Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": " \u4e00\u672c\u5f00\u6e90\u7684 AgentScope Java \u4e2d\u6587\u6559\u7a0b\uff1a7 \u7bc7 44 \u7ae0\u3001839 \u9875\u6210\u4e66\u4f53\u91cf\u7684\u5b8c\u6574 Markdown \u6e90\u7a3f\uff0c\u7531\u6d45\u5165\u6df1\u8986\u76d6\u4ece\u7b2c\u4e00\u4e2a Agent \u5230\u751f\u4ea7\u7ea7 Agent \u5e73\u53f0\u7684\u5168\u90e8\u4e3b\u9898\u3002",
-    "id": "ybak/ai-tutorial",
-    "language": "JavaScript",
-    "name": "ybak/ai-tutorial",
-    "stars": 14,
-    "updated_at": "2026-10-24T07:56:04Z",
-    "url": "https://github.com/ybak/ai-tutorial"
   }
 ]
