@@ -1,5 +1,167 @@
 [
   {
+    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
+    "id": "cmcoffee/gohort",
+    "language": "Go",
+    "name": "cmcoffee/gohort",
+    "stars": 3,
+    "updated_at": "2026-10-24T05:30:13Z",
+    "url": "https://github.com/cmcoffee/gohort"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 90,
+    "updated_at": "2026-10-24T05:30:13Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-24T05:29:34Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35946,
+    "updated_at": "2026-10-24T05:29:18Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 11,
+    "updated_at": "2026-10-24T05:28:13Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-24T05:26:31Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 10,
+    "updated_at": "2026-10-24T05:25:55Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 10,
+    "updated_at": "2026-10-24T05:29:42Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T05:24:52Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3283,
+    "updated_at": "2026-10-24T05:24:12Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-10-24T05:24:12Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-10-24T05:23:08Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 110,
+    "updated_at": "2026-10-24T05:21:35Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 122,
+    "updated_at": "2026-10-24T05:20:26Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Sovereign Studio ato",
+    "id": "OuroborosCollective/Sovereign-Studio-ato",
+    "language": "Python",
+    "name": "OuroborosCollective/Sovereign-Studio-ato",
+    "stars": 1,
+    "updated_at": "2026-10-24T05:19:17Z",
+    "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato"
+  },
+  {
+    "description": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choic",
+    "id": "cccat6/iphone-agent-harness",
+    "language": "C",
+    "name": "cccat6/iphone-agent-harness",
+    "stars": 6,
+    "updated_at": "2026-10-24T05:17:59Z",
+    "url": "https://github.com/cccat6/iphone-agent-harness"
+  },
+  {
+    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
+    "id": "rfxn/rdf",
+    "language": "Shell",
+    "name": "rfxn/rdf",
+    "stars": 20,
+    "updated_at": "2026-10-24T05:17:30Z",
+    "url": "https://github.com/rfxn/rdf"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T05:17:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -14,17 +176,8 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 10,
-    "updated_at": "2026-10-24T05:16:48Z",
+    "updated_at": "2026-10-24T05:30:20Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T05:15:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Experimental autonomous agent that explores a sandboxed Linux container, builds its own tools, and weighs the token cost",
@@ -41,17 +194,8 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-24T05:14:30Z",
+    "updated_at": "2026-10-24T05:26:35Z",
     "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
-    "id": "rfxn/rdf",
-    "language": "Shell",
-    "name": "rfxn/rdf",
-    "stars": 20,
-    "updated_at": "2026-10-24T05:13:48Z",
-    "url": "https://github.com/rfxn/rdf"
   },
   {
     "description": "ShoppingClaw(\u867e\u8d2d)\u662f\u91c7\u7528Langgraph\u67b6\u6784\u8bbe\u8ba1\u7684Mutil-agent\u7535\u5546\u667a\u80fd\u6d88\u8d39\u51b3\u7b56\u7cfb\u7edf\u3002\u6bd4\u53c2\u6570\u3001\u6bd4\u4ef7\u3001\u770b\u53e3\u7891\u3001\u9632\u5751\u2014\u2014\u4e70\u4e00\u4ef6\u4e1c\u897f\u6bd4\u4e0a\u73ed\u8fd8\u7d2f\u3002ShoppingClaw \u628a\u8fd9\u6761\u94fe\u8def\u4ea4\u7ed9\u591a\u4e2a Agent \u81ea\u52a8\u5316\uff1a\u641c\u8d27\u3001\u6bd4\u4ef7\u3001",
@@ -72,13 +216,13 @@
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 11,
-    "updated_at": "2026-10-24T05:09:16Z",
-    "url": "https://github.com/axisvela/praxo-core"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11020,
+    "updated_at": "2026-10-24T05:27:00Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -86,26 +230,8 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1358,
-    "updated_at": "2026-10-24T05:14:08Z",
+    "updated_at": "2026-10-24T05:18:48Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choic",
-    "id": "cccat6/iphone-agent-harness",
-    "language": "C",
-    "name": "cccat6/iphone-agent-harness",
-    "stars": 6,
-    "updated_at": "2026-10-24T05:07:10Z",
-    "url": "https://github.com/cccat6/iphone-agent-harness"
-  },
-  {
-    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
-    "id": "cmcoffee/gohort",
-    "language": "Go",
-    "name": "cmcoffee/gohort",
-    "stars": 3,
-    "updated_at": "2026-10-24T05:06:38Z",
-    "url": "https://github.com/cmcoffee/gohort"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -135,33 +261,6 @@
     "url": "https://github.com/framerslab/agentos"
   },
   {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3283,
-    "updated_at": "2026-10-24T05:03:54Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 10,
-    "updated_at": "2026-10-24T05:03:24Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 110,
-    "updated_at": "2026-10-24T05:09:55Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -178,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T04:59:56Z",
     "url": "https://github.com/wangzhongren/ans-studio"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-24T04:57:15Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
@@ -207,24 +297,6 @@
     "url": "https://github.com/openamer/openamer"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11019,
-    "updated_at": "2026-10-24T05:10:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35946,
-    "updated_at": "2026-10-24T04:52:55Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "OpenAmer AGI \u2014 FULL MIRROR of openamer/openamer. Self-improving AI agent for Windows: skills, swarm, black-box capital d",
     "id": "openamer-max/max-scripts",
     "language": "Python",
@@ -239,7 +311,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 6,
-    "updated_at": "2026-10-24T05:14:36Z",
+    "updated_at": "2026-10-24T05:30:09Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -250,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T04:43:53Z",
     "url": "https://github.com/saajunaid/caddis-plugin"
-  },
-  {
-    "description": "Embeddable self-adaptive agent kernel for host applications",
-    "id": "Gi-Tuu/yai-agent-core",
-    "language": "Python",
-    "name": "Gi-Tuu/yai-agent-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T04:45:42Z",
-    "url": "https://github.com/Gi-Tuu/yai-agent-core"
   },
   {
     "description": "An efficient durable harness for collaboration across people, models, and devices",
@@ -333,15 +396,6 @@
     "url": "https://github.com/y5ez3g/facadecode"
   },
   {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-24T05:09:39Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
     "description": "\u9762\u5411\u5927\u5382Agent\u7814\u53d1\u5c97\u4f4d\u6c42\u804c\u7684agent\u6559\u7a0b\u7f51\u7ad9\uff0c\u6db5\u76d6\u6280\u672f\u8def\u7ebf\u4e0e\u9762\u8bd5\u516b\u80a1\u6587",
     "id": "ranxi2001/zero2Agent",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/shibing624/agentica"
   },
   {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 90,
-    "updated_at": "2026-10-24T03:56:14Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
-  },
-  {
     "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
     "id": "fabbrik/AgentExperience.NET",
     "language": "C#",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:40:57Z",
     "url": "https://github.com/Ethos6/agent-army"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 21,
-    "updated_at": "2026-10-24T05:10:32Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:32:07Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
-  },
-  {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1588,
-    "updated_at": "2026-10-24T03:30:49Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
-    "description": "Open-source AI Agent OS: a folder of plain-text files that gives your AI coding assistant a lasting memory, house rules,",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 18,
-    "updated_at": "2026-10-24T03:29:55Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 331,
-    "updated_at": "2026-10-24T04:54:00Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
