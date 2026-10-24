@@ -1,5 +1,59 @@
 [
   {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:00:15Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-24T16:59:04Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
+    "id": "xujian519/sati",
+    "language": "TypeScript",
+    "name": "xujian519/sati",
+    "stars": 3,
+    "updated_at": "2026-10-24T16:58:47Z",
+    "url": "https://github.com/xujian519/sati"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 43,
+    "updated_at": "2026-10-24T16:58:38Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
+    "id": "LudicDynamics/WorldLines",
+    "language": "Python",
+    "name": "LudicDynamics/WorldLines",
+    "stars": 102,
+    "updated_at": "2026-10-24T16:57:59Z",
+    "url": "https://github.com/LudicDynamics/WorldLines"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T16:57:14Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "An agent runtime.",
     "id": "shadow3aaa/DaatLocus",
     "language": "Rust",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "shimo4228/contemplative-agent",
     "stars": 9,
-    "updated_at": "2026-10-24T16:55:34Z",
+    "updated_at": "2026-10-24T16:58:07Z",
     "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
@@ -27,13 +81,13 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-24T16:53:59Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3358,
+    "updated_at": "2026-10-24T16:54:00Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -72,24 +126,6 @@
     "url": "https://github.com/isinx-cosx/MVS-Agent"
   },
   {
-    "description": "Agents for Role Play. Agents for Game. Agents as a Game. An orchestrator-agents engine for living worlds \u2014 file-backed, ",
-    "id": "LudicDynamics/WorldLines",
-    "language": "Python",
-    "name": "LudicDynamics/WorldLines",
-    "stars": 102,
-    "updated_at": "2026-10-24T16:50:08Z",
-    "url": "https://github.com/LudicDynamics/WorldLines"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 3,
-    "updated_at": "2026-10-24T16:51:16Z",
-    "url": "https://github.com/xujian519/sati"
-  },
-  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-24T16:46:09Z",
+    "updated_at": "2026-10-24T16:58:25Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 147,
     "updated_at": "2026-10-24T16:45:54Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T16:45:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-24T16:57:01Z",
+    "updated_at": "2026-10-24T17:00:22Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49326,
-    "updated_at": "2026-10-24T16:35:56Z",
+    "updated_at": "2026-10-24T16:58:38Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 43,
-    "updated_at": "2026-10-24T15:59:43Z",
-    "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
     "description": "Agentic OS done right \u2014 create agents, chat, delegate work, stay safe. Self-hosted control plane with pluggable memory, ",
     "id": "fpytloun/cognis",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 20,
     "updated_at": "2026-10-24T15:47:12Z",
     "url": "https://github.com/ulsreall/web3-agent-kit"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1360,
-    "updated_at": "2026-10-24T15:39:10Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Agentic Development Lifecycle",
-    "id": "voodootikigod/adlc",
-    "language": "JavaScript",
-    "name": "voodootikigod/adlc",
-    "stars": 52,
-    "updated_at": "2026-10-24T15:40:54Z",
-    "url": "https://github.com/voodootikigod/adlc"
   }
 ]
