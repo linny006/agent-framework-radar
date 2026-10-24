@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 19:14 UTC
+> ⏰ Last updated: 2026-10-24 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,19 +43,19 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [aisecnomad/Nexus-ShadowBench](https://github.com/aisecnomad/Nexus-ShadowBench) | 2 | Python | 2026-10-24 | Open Benchmarks and reproducible evaluation harnesses for Shadow AI Agent Discovery & Inventory |
-| 2 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-24 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 3 | [promptise-com/Foundry](https://github.com/promptise-com/Foundry) | 892 | Python | 2026-10-24 | The foundation layer for agentic intelligence. |
-| 4 | [jlcatonjr/agentteams](https://github.com/jlcatonjr/agentteams) | 0 | Python | 2026-10-24 | Generate complete, coordinated AI agent teams for any project from a single description file. |
-| 5 | [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner) | 6 | Python | 2026-10-24 | 🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra |
-| 6 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-10-24 | Universal Agent Harness |
-| 7 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 89 | TypeScript | 2026-10-24 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
-| 8 | [AshishKumar4/Nimbus](https://github.com/AshishKumar4/Nimbus) | 17 | JavaScript | 2026-10-24 | Free unlimited POSIX sandboxes on Cloudflare |
-| 9 | [Ash20pk/BerthOS](https://github.com/Ash20pk/BerthOS) | 1 | TypeScript | 2026-10-24 | A persistent, kernel-permissioned sandbox for AI agents — real filesystem, browser, and shell, not a bag of stateless AP |
-| 10 | [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) | 718 | Python | 2026-10-24 | 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中 |
-| 11 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-24 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 12 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35953 | Go | 2026-10-24 | A reliable coding agent for complex software engineering tasks. |
-| 13 | [jrodriguez4505/Genet](https://github.com/jrodriguez4505/Genet) | 0 | Python | 2026-10-24 | Small multi-agent runtime. One agent by default; sub-agents only when policy gates in code approve. Authority lives in t |
-| 14 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-24 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 2 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-24 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 3 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-24 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 4 | [promptise-com/Foundry](https://github.com/promptise-com/Foundry) | 892 | Python | 2026-10-24 | The foundation layer for agentic intelligence. |
+| 5 | [jlcatonjr/agentteams](https://github.com/jlcatonjr/agentteams) | 0 | Python | 2026-10-24 | Generate complete, coordinated AI agent teams for any project from a single description file. |
+| 6 | [doomsday-network/github-bounty-scanner](https://github.com/doomsday-network/github-bounty-scanner) | 6 | Python | 2026-10-24 | 🛡️ Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier — Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra |
+| 7 | [human-plus-machine/monkeybot](https://github.com/human-plus-machine/monkeybot) | 3 | Python | 2026-10-24 | Universal Agent Harness |
+| 8 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 89 | TypeScript | 2026-10-24 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
+| 9 | [AshishKumar4/Nimbus](https://github.com/AshishKumar4/Nimbus) | 17 | JavaScript | 2026-10-24 | Free unlimited POSIX sandboxes on Cloudflare |
+| 10 | [Ash20pk/BerthOS](https://github.com/Ash20pk/BerthOS) | 1 | TypeScript | 2026-10-24 | A persistent, kernel-permissioned sandbox for AI agents — real filesystem, browser, and shell, not a bag of stateless AP |
+| 11 | [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) | 718 | Python | 2026-10-24 | 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中 |
+| 12 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-24 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35953 | Go | 2026-10-24 | A reliable coding agent for complex software engineering tasks. |
+| 14 | [jrodriguez4505/Genet](https://github.com/jrodriguez4505/Genet) | 0 | Python | 2026-10-24 | Small multi-agent runtime. One agent by default; sub-agents only when policy gates in code approve. Authority lives in t |
 | 15 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1370 | TypeScript | 2026-10-24 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
 | 16 | [saajunaid/caddis-plugin](https://github.com/saajunaid/caddis-plugin) | 0 | Python | 2026-10-24 | caddis — an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor |
 | 17 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-24 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
