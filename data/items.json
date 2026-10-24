@@ -1,5 +1,149 @@
 [
   {
+    "description": "Self-hosted personal AI agent with a WebUI, memory, tools, MCP, sub-agents and automations. Connect local or cloud LLMs.",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 84,
+    "updated_at": "2026-10-24T06:15:17Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability i",
+    "id": "aiperceivable/apflow",
+    "language": "Python",
+    "name": "aiperceivable/apflow",
+    "stars": 13,
+    "updated_at": "2026-10-24T06:14:47Z",
+    "url": "https://github.com/aiperceivable/apflow"
+  },
+  {
+    "description": " \u4e00\u672c\u5f00\u6e90\u7684 AgentScope Java \u4e2d\u6587\u6559\u7a0b\uff1a7 \u7bc7 44 \u7ae0\u3001839 \u9875\u6210\u4e66\u4f53\u91cf\u7684\u5b8c\u6574 Markdown \u6e90\u7a3f\uff0c\u7531\u6d45\u5165\u6df1\u8986\u76d6\u4ece\u7b2c\u4e00\u4e2a Agent \u5230\u751f\u4ea7\u7ea7 Agent \u5e73\u53f0\u7684\u5168\u90e8\u4e3b\u9898\u3002",
+    "id": "ybak/ai-tutorial",
+    "language": "JavaScript",
+    "name": "ybak/ai-tutorial",
+    "stars": 14,
+    "updated_at": "2026-10-24T06:13:53Z",
+    "url": "https://github.com/ybak/ai-tutorial"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-24T06:10:39Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-24T06:10:26Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "\u4e2d\u6587 AI Agent \u5de5\u5177\u94fe\u6807\u51c6 | 5 \u5206\u949f\u5f00\u53d1\u4e2d\u6587 MCP \u5de5\u5177 + Registry \u4e00\u952e\u53d1\u5e03 | 20+ \u5185\u7f6e NLP \u5de5\u5177",
+    "id": "Zeon7744/agent-forge",
+    "language": "Python",
+    "name": "Zeon7744/agent-forge",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:10:00Z",
+    "url": "https://github.com/Zeon7744/agent-forge"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-24T06:09:41Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-24T06:05:49Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "AI-Haklab: Agente de automatizaci\u00f3n para Pentest en Termux. Basado en i-Haklab v3.11, optimiza flujos de seguridad, esca",
+    "id": "kuromi04/AI-Haklab",
+    "language": "Python",
+    "name": "kuromi04/AI-Haklab",
+    "stars": 9,
+    "updated_at": "2026-10-24T06:05:49Z",
+    "url": "https://github.com/kuromi04/AI-Haklab"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 10,
+    "updated_at": "2026-10-24T06:04:12Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
+    "id": "rfxn/rdf",
+    "language": "Shell",
+    "name": "rfxn/rdf",
+    "stars": 20,
+    "updated_at": "2026-10-24T06:02:32Z",
+    "url": "https://github.com/rfxn/rdf"
+  },
+  {
+    "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
+    "id": "ozgurulukir/rubik",
+    "language": "Ruby",
+    "name": "ozgurulukir/rubik",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:02:25Z",
+    "url": "https://github.com/ozgurulukir/rubik"
+  },
+  {
+    "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
+    "id": "databricks-solutions/consort",
+    "language": "TypeScript",
+    "name": "databricks-solutions/consort",
+    "stars": 36,
+    "updated_at": "2026-10-24T06:01:18Z",
+    "url": "https://github.com/databricks-solutions/consort"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T06:01:03Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
+    "id": "thetonymaster/normandy",
+    "language": "Elixir",
+    "name": "thetonymaster/normandy",
+    "stars": 2,
+    "updated_at": "2026-10-24T06:12:20Z",
+    "url": "https://github.com/thetonymaster/normandy"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-24T06:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
@@ -27,15 +171,6 @@
     "url": "https://github.com/shadow3aaa/DaatLocus"
   },
   {
-    "description": " \u4e00\u672c\u5f00\u6e90\u7684 AgentScope Java \u4e2d\u6587\u6559\u7a0b\uff1a7 \u7bc7 44 \u7ae0\u3001839 \u9875\u6210\u4e66\u4f53\u91cf\u7684\u5b8c\u6574 Markdown \u6e90\u7a3f\uff0c\u7531\u6d45\u5165\u6df1\u8986\u76d6\u4ece\u7b2c\u4e00\u4e2a Agent \u5230\u751f\u4ea7\u7ea7 Agent \u5e73\u53f0\u7684\u5168\u90e8\u4e3b\u9898\u3002",
-    "id": "ybak/ai-tutorial",
-    "language": "JavaScript",
-    "name": "ybak/ai-tutorial",
-    "stars": 14,
-    "updated_at": "2026-10-24T05:57:12Z",
-    "url": "https://github.com/ybak/ai-tutorial"
-  },
-  {
     "description": "ANS Studio \u2014 An Autonomous Organization Runtime for AI Agents.",
     "id": "wangzhongren/ans-studio",
     "language": "TypeScript",
@@ -43,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T05:55:54Z",
     "url": "https://github.com/wangzhongren/ans-studio"
-  },
-  {
-    "description": "Self-hosted personal AI agent with a WebUI, memory, tools, MCP, sub-agents and automations. Connect local or cloud LLMs.",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 84,
-    "updated_at": "2026-10-24T05:55:45Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
     "description": "Modular engineering methodology framework for AI agents \u2014 reverse engineering & software development (core + re-binary /",
@@ -68,24 +194,15 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-24T05:55:23Z",
+    "updated_at": "2026-10-24T06:04:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 2,
-    "updated_at": "2026-10-24T05:55:34Z",
-    "url": "https://github.com/thetonymaster/normandy"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 11019,
+    "stars": 11020,
     "updated_at": "2026-10-24T05:52:16Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
@@ -95,7 +212,7 @@
     "language": "Python",
     "name": "getsynkora/synkora-ai",
     "stars": 50,
-    "updated_at": "2026-10-24T05:48:08Z",
+    "updated_at": "2026-10-24T06:13:42Z",
     "url": "https://github.com/getsynkora/synkora-ai"
   },
   {
@@ -104,17 +221,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 331,
-    "updated_at": "2026-10-24T05:59:40Z",
+    "updated_at": "2026-10-24T06:11:06Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-24T05:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
@@ -162,21 +270,12 @@
     "url": "https://github.com/FatinShadab/self"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-24T05:51:55Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-24T05:56:49Z",
+    "updated_at": "2026-10-24T06:05:12Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -194,7 +293,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 6,
-    "updated_at": "2026-10-24T05:59:18Z",
+    "updated_at": "2026-10-24T06:11:02Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -247,7 +346,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35945,
+    "stars": 35946,
     "updated_at": "2026-10-24T05:29:18Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -266,7 +365,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 2,
-    "updated_at": "2026-10-24T06:00:10Z",
+    "updated_at": "2026-10-24T06:14:40Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -279,21 +378,12 @@
     "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 10,
-    "updated_at": "2026-10-24T05:29:42Z",
-    "url": "https://github.com/maref-org/maref"
-  },
-  {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3283,
-    "updated_at": "2026-10-24T05:50:06Z",
+    "updated_at": "2026-10-24T06:14:22Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -311,7 +401,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-24T05:21:35Z",
+    "updated_at": "2026-10-24T06:14:39Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -342,15 +432,6 @@
     "url": "https://github.com/cccat6/iphone-agent-harness"
   },
   {
-    "description": "Governance-driven AI development framework -- convention enforcement, quality gates, and domain expertise for Claude Cod",
-    "id": "rfxn/rdf",
-    "language": "Shell",
-    "name": "rfxn/rdf",
-    "stars": 20,
-    "updated_at": "2026-10-24T05:17:30Z",
-    "url": "https://github.com/rfxn/rdf"
-  },
-  {
     "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
     "id": "yanacuti1121/Yana-AI",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-24T05:12:16Z",
     "url": "https://github.com/LuFering/ShoppingClaw"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T05:10:22Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1358,
-    "updated_at": "2026-10-24T05:51:50Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-24T05:06:01Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Data-driven workflow execution for Go",
-    "id": "Luo-root/pulse",
-    "language": "Go",
-    "name": "Luo-root/pulse",
-    "stars": 7,
-    "updated_at": "2026-10-24T05:04:47Z",
-    "url": "https://github.com/Luo-root/pulse"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-10-24T05:01:07Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Rust AI Agent framework with MCP support, extensible tools, streaming & multi-agent orchestration",
-    "id": "hibuka-labs/phi-agent",
-    "language": "Rust",
-    "name": "hibuka-labs/phi-agent",
-    "stars": 15,
-    "updated_at": "2026-10-24T05:04:02Z",
-    "url": "https://github.com/hibuka-labs/phi-agent"
-  },
-  {
-    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 8,
-    "updated_at": "2026-10-24T04:56:10Z",
-    "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "OpenAmer AGI \u2014 FULL MIRROR of openamer/openamer. Self-improving AI agent for Windows: skills, swarm, black-box capital d",
-    "id": "openamer-max/max-scripts",
-    "language": "Python",
-    "name": "openamer-max/max-scripts",
-    "stars": 0,
-    "updated_at": "2026-10-24T04:51:17Z",
-    "url": "https://github.com/openamer-max/max-scripts"
-  },
-  {
-    "description": "caddis \u2014 an opinionated Claude Code plugin for verification-first agentic development: phased TDD planning, cross-vendor",
-    "id": "saajunaid/caddis-plugin",
-    "language": "Python",
-    "name": "saajunaid/caddis-plugin",
-    "stars": 0,
-    "updated_at": "2026-10-24T04:43:53Z",
-    "url": "https://github.com/saajunaid/caddis-plugin"
   }
 ]
