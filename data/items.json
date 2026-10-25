@@ -1,12 +1,138 @@
 [
   {
+    "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
+    "id": "clawboo/clawboo",
+    "language": "TypeScript",
+    "name": "clawboo/clawboo",
+    "stars": 63,
+    "updated_at": "2026-10-25T05:13:44Z",
+    "url": "https://github.com/clawboo/clawboo"
+  },
+  {
     "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
     "name": "LeonQin-ai/cognitive-os-agent",
     "stars": 2,
-    "updated_at": "2026-10-25T04:59:06Z",
+    "updated_at": "2026-10-25T05:12:03Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "IBRcode \u2014 the AI coding CLI by IBRorg. Ink TUI, 40+ tools, MCP, multi-agent orchestration, plugin marketplace, voice + v",
+    "id": "ibrorg/IBRcode",
+    "language": "TypeScript",
+    "name": "ibrorg/IBRcode",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:10:46Z",
+    "url": "https://github.com/ibrorg/IBRcode"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 1,
+    "updated_at": "2026-10-25T05:09:36Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
+    "id": "abubakarsiddik31/golem",
+    "language": "Go",
+    "name": "abubakarsiddik31/golem",
+    "stars": 7,
+    "updated_at": "2026-10-25T05:09:16Z",
+    "url": "https://github.com/abubakarsiddik31/golem"
+  },
+  {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 8,
+    "updated_at": "2026-10-25T05:08:51Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "An open-source, coding agent harness designed specifically for local LLMs. Designed as everything a user needs to jumpst",
+    "id": "ahwurm/localharness",
+    "language": "Python",
+    "name": "ahwurm/localharness",
+    "stars": 52,
+    "updated_at": "2026-10-25T05:07:16Z",
+    "url": "https://github.com/ahwurm/localharness"
+  },
+  {
+    "description": "A small, inspectable Python agent harness: path-jailed tools, approval flow, secret redaction, durable sessions, six pro",
+    "id": "PRINCE2-AI/Argus",
+    "language": "Python",
+    "name": "PRINCE2-AI/Argus",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:07:02Z",
+    "url": "https://github.com/PRINCE2-AI/Argus"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-25T05:09:54Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "An efficient durable harness for collaboration across people, models, and devices",
+    "id": "NarraFork/NarraFork",
+    "language": "TypeScript",
+    "name": "NarraFork/NarraFork",
+    "stars": 105,
+    "updated_at": "2026-10-25T05:06:36Z",
+    "url": "https://github.com/NarraFork/NarraFork"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-25T05:14:17Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49334,
+    "updated_at": "2026-10-25T05:04:54Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3531,
+    "updated_at": "2026-10-25T05:01:44Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "OpenAmer AGI \u2014 FULL MIRROR of openamer/openamer. Self-improving AI agent for Windows: skills, swarm, black-box capital d",
+    "id": "openamer-max/max-scripts",
+    "language": "Python",
+    "name": "openamer-max/max-scripts",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:00:35Z",
+    "url": "https://github.com/openamer-max/max-scripts"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T05:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -18,49 +144,13 @@
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
-    "description": "IBRcode \u2014 the AI coding CLI by IBRorg. Ink TUI, 40+ tools, MCP, multi-agent orchestration, plugin marketplace, voice + v",
-    "id": "ibrorg/IBRcode",
-    "language": "TypeScript",
-    "name": "ibrorg/IBRcode",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:57:12Z",
-    "url": "https://github.com/ibrorg/IBRcode"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-25T04:58:30Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
-    "id": "abubakarsiddik31/golem",
-    "language": "Go",
-    "name": "abubakarsiddik31/golem",
-    "stars": 7,
-    "updated_at": "2026-10-25T04:55:15Z",
-    "url": "https://github.com/abubakarsiddik31/golem"
-  },
-  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20845,
-    "updated_at": "2026-10-25T04:56:25Z",
+    "updated_at": "2026-10-25T05:13:27Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3529,
-    "updated_at": "2026-10-25T04:49:36Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -68,8 +158,17 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2381,
-    "updated_at": "2026-10-25T04:49:26Z",
+    "updated_at": "2026-10-25T05:03:45Z",
     "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11024,
+    "updated_at": "2026-10-25T04:48:18Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -77,7 +176,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-25T04:48:08Z",
+    "updated_at": "2026-10-25T05:09:27Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T04:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -108,21 +198,12 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 104,
-    "updated_at": "2026-10-25T04:44:29Z",
-    "url": "https://github.com/NarraFork/NarraFork"
-  },
-  {
     "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
     "id": "ellmos-ai/skills",
     "language": "Python",
     "name": "ellmos-ai/skills",
     "stars": 8,
-    "updated_at": "2026-10-25T04:41:34Z",
+    "updated_at": "2026-10-25T05:06:13Z",
     "url": "https://github.com/ellmos-ai/skills"
   },
   {
@@ -144,21 +225,12 @@
     "url": "https://github.com/Sharathvc23/orrery-public"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49332,
-    "updated_at": "2026-10-25T04:47:57Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
     "id": "bide-ai/bide",
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-25T04:40:01Z",
+    "updated_at": "2026-10-25T05:03:50Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -176,17 +248,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-25T05:00:04Z",
+    "updated_at": "2026-10-25T05:05:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-25T04:34:29Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -306,15 +369,6 @@
     "url": "https://github.com/hrabanazviking/hrabanazviking"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11023,
-    "updated_at": "2026-10-25T04:48:18Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "A community-maintained Toollery integration for DeepSeek Harness, enabling scalable, training-free skill and tool retrie",
     "id": "JKL-agents/toollery-dsh",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T03:00:54Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 63,
-    "updated_at": "2026-10-25T02:59:54Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:59:45Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 332,
-    "updated_at": "2026-10-25T04:59:59Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
-    "id": "autoyou-ai/AutoYou-Server",
-    "language": "Python",
-    "name": "autoyou-ai/AutoYou-Server",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:53:36Z",
-    "url": "https://github.com/autoyou-ai/AutoYou-Server"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 148,
-    "updated_at": "2026-10-25T03:48:09Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "A form framework built for agents.",
-    "id": "ridemountainpig/open-form",
-    "language": "TypeScript",
-    "name": "ridemountainpig/open-form",
-    "stars": 6,
-    "updated_at": "2026-10-25T02:47:07Z",
-    "url": "https://github.com/ridemountainpig/open-form"
   }
 ]
