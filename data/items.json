@@ -5,8 +5,116 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 365,
-    "updated_at": "2026-10-25T19:00:17Z",
+    "updated_at": "2026-10-25T19:09:04Z",
     "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 18,
+    "updated_at": "2026-10-25T19:08:59Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 89,
+    "updated_at": "2026-10-25T19:07:25Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-25T19:07:14Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 10,
+    "updated_at": "2026-10-25T19:07:09Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
+    "id": "jiangchuangege/xiaojiao-harnees",
+    "language": "Python",
+    "name": "jiangchuangege/xiaojiao-harnees",
+    "stars": 2,
+    "updated_at": "2026-10-25T19:05:28Z",
+    "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
+  },
+  {
+    "description": "OpenAmer AGI \u2014 FULL MIRROR of openamer/openamer. Self-improving AI agent for Windows: skills, swarm, black-box capital d",
+    "id": "openamer-max/max-scripts",
+    "language": "Python",
+    "name": "openamer-max/max-scripts",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:05:00Z",
+    "url": "https://github.com/openamer-max/max-scripts"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 5,
+    "updated_at": "2026-10-25T19:04:43Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
+    "id": "xujian519/sati",
+    "language": "TypeScript",
+    "name": "xujian519/sati",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:03:05Z",
+    "url": "https://github.com/xujian519/sati"
+  },
+  {
+    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
+    "id": "cmcoffee/gohort",
+    "language": "Go",
+    "name": "cmcoffee/gohort",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:02:31Z",
+    "url": "https://github.com/cmcoffee/gohort"
+  },
+  {
+    "description": "Free unlimited POSIX sandboxes on Cloudflare",
+    "id": "AshishKumar4/Nimbus",
+    "language": "JavaScript",
+    "name": "AshishKumar4/Nimbus",
+    "stars": 17,
+    "updated_at": "2026-10-25T19:01:43Z",
+    "url": "https://github.com/AshishKumar4/Nimbus"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1370,
+    "updated_at": "2026-10-25T19:01:06Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T19:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "NeuroCore is a self-hosted, modular AI agent framework for building persistent, tool-using autonomous systems. It combin",
@@ -27,30 +135,12 @@
     "url": "https://github.com/swombat/souls-house"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-25T18:57:17Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
-    "id": "jiangchuangege/xiaojiao-harnees",
-    "language": "Python",
-    "name": "jiangchuangege/xiaojiao-harnees",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:56:51Z",
-    "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
-  },
-  {
     "description": "Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails.",
     "id": "LATTIX-IO/lattix-locus",
     "language": "Python",
     "name": "LATTIX-IO/lattix-locus",
     "stars": 1,
-    "updated_at": "2026-10-25T18:58:27Z",
+    "updated_at": "2026-10-25T19:00:52Z",
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
@@ -59,17 +149,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T18:55:42Z",
+    "updated_at": "2026-10-25T19:09:51Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1370,
-    "updated_at": "2026-10-25T18:58:31Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -113,7 +194,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-25T18:54:11Z",
+    "updated_at": "2026-10-25T19:04:16Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -131,7 +212,7 @@
     "language": "Ruby",
     "name": "crmne/ruby_llm",
     "stars": 4482,
-    "updated_at": "2026-10-25T18:52:38Z",
+    "updated_at": "2026-10-25T19:08:23Z",
     "url": "https://github.com/crmne/ruby_llm"
   },
   {
@@ -142,15 +223,6 @@
     "stars": 18,
     "updated_at": "2026-10-25T18:51:16Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 5,
-    "updated_at": "2026-10-25T18:48:11Z",
-    "url": "https://github.com/daretodave/nexus"
   },
   {
     "description": "A Python Code Agent",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "yangheng95/opencorvus",
     "stars": 308,
-    "updated_at": "2026-10-25T18:46:33Z",
+    "updated_at": "2026-10-25T19:07:19Z",
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T18:46:08Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T18:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "On-demand agent workflow for Claude Code to counter cognitive bias",
@@ -238,7 +301,7 @@
     "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
-    "stars": 329,
+    "stars": 331,
     "updated_at": "2026-10-25T18:39:46Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
@@ -250,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T18:35:23Z",
     "url": "https://github.com/DJG3DK/persei"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:52:10Z",
-    "url": "https://github.com/xujian519/sati"
   },
   {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
@@ -320,17 +374,8 @@
     "language": "Python",
     "name": "ellmos-ai/ellmos-homebase-mcp",
     "stars": 1,
-    "updated_at": "2026-10-25T18:25:07Z",
+    "updated_at": "2026-10-25T19:02:17Z",
     "url": "https://github.com/ellmos-ai/ellmos-homebase-mcp"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 89,
-    "updated_at": "2026-10-25T18:24:15Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "A sandboxed, full-featured agent operating system in a single Go binary. Bring any model, manage local models, point it ",
@@ -369,15 +414,6 @@
     "url": "https://github.com/dshakes/lantern"
   },
   {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 10,
-    "updated_at": "2026-10-25T18:17:09Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
     "description": "Lightweight local-first LLM agent infrastructure: SQLite memory, tasks, connectors, and chain automation",
     "id": "ellmos-ai/rinnsal",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T18:11:20Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Crash-resilient, durable agent harness for PydanticAI: resumable runs, SQLite storage, approvals, sagas",
-    "id": "matheusbuniotto/pydantic-ai-durable",
-    "language": "Python",
-    "name": "matheusbuniotto/pydantic-ai-durable",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:10:42Z",
-    "url": "https://github.com/matheusbuniotto/pydantic-ai-durable"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:09:07Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Python framework for typed LLM agents with conditional tool chaining.",
-    "id": "Tachion-Oy/roboz",
-    "language": "Python",
-    "name": "Tachion-Oy/roboz",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:08:48Z",
-    "url": "https://github.com/Tachion-Oy/roboz"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:08:32Z",
-    "url": "https://github.com/xanstomper/mochi"
   }
 ]
