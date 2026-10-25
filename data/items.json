@@ -1,21 +1,93 @@
 [
   {
+    "description": "Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab",
+    "id": "abubakarsiddik31/golem",
+    "language": "Go",
+    "name": "abubakarsiddik31/golem",
+    "stars": 7,
+    "updated_at": "2026-10-25T02:15:14Z",
+    "url": "https://github.com/abubakarsiddik31/golem"
+  },
+  {
     "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
     "name": "LeonQin-ai/cognitive-os-agent",
     "stars": 2,
-    "updated_at": "2026-10-25T01:52:22Z",
+    "updated_at": "2026-10-25T02:13:57Z",
     "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 7,
+    "updated_at": "2026-10-25T02:13:15Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "AI agent with zero dependencies, bring your own bun",
+    "id": "devoidfury/hotdog",
+    "language": "TypeScript",
+    "name": "devoidfury/hotdog",
+    "stars": 21,
+    "updated_at": "2026-10-25T02:12:57Z",
+    "url": "https://github.com/devoidfury/hotdog"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-25T02:08:30Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Official extension collection for posoco",
+    "id": "colmugx/posoco-extension",
+    "language": "MoonBit",
+    "name": "colmugx/posoco-extension",
+    "stars": 2,
+    "updated_at": "2026-10-25T02:07:24Z",
+    "url": "https://github.com/colmugx/posoco-extension"
   },
   {
     "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3493,
-    "updated_at": "2026-10-25T01:51:27Z",
+    "stars": 3500,
+    "updated_at": "2026-10-25T02:06:30Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-25T02:09:52Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35955,
+    "updated_at": "2026-10-25T02:06:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T02:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T01:54:24Z",
     "url": "https://github.com/Dan5672/MOSS"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-25T01:55:35Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T01:47:43Z",
     "url": "https://github.com/othniel74/pitchlight"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T01:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 62,
-    "updated_at": "2026-10-25T01:46:17Z",
+    "updated_at": "2026-10-25T02:01:55Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -189,21 +243,12 @@
     "url": "https://github.com/futuregene/future-os"
   },
   {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 7,
-    "updated_at": "2026-10-25T01:52:15Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11020,
-    "updated_at": "2026-10-25T01:51:18Z",
+    "updated_at": "2026-10-25T02:13:55Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T01:57:43Z",
+    "updated_at": "2026-10-25T02:05:28Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-25T01:51:44Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-25T01:55:06Z",
+    "updated_at": "2026-10-25T02:09:03Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 123,
     "updated_at": "2026-10-25T00:49:19Z",
     "url": "https://github.com/skerry699/agent-symphony"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35955,
-    "updated_at": "2026-10-25T00:49:07Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-25T00:31:13Z",
     "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 15,
-    "updated_at": "2026-10-25T00:31:11Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 681,
-    "updated_at": "2026-10-25T01:00:36Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 21,
-    "updated_at": "2026-10-25T00:24:01Z",
-    "url": "https://github.com/devoidfury/hotdog"
   }
 ]
