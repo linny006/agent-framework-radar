@@ -1,11 +1,110 @@
 [
   {
+    "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
+    "id": "hanmahong5-arch/lumen",
+    "language": "Python",
+    "name": "hanmahong5-arch/lumen",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:59:32Z",
+    "url": "https://github.com/hanmahong5-arch/lumen"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-25T00:57:18Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Agentic coding framework and meta-harness for planning, building, reviewing, and tuning software across coding agents. P",
+    "id": "dpalfery/kyber-weave",
+    "language": "TypeScript",
+    "name": "dpalfery/kyber-weave",
+    "stars": 23,
+    "updated_at": "2026-10-25T00:57:53Z",
+    "url": "https://github.com/dpalfery/kyber-weave"
+  },
+  {
+    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+    "id": "LovaHuguel/Khala-Orchestrator-Core",
+    "language": "HTML",
+    "name": "LovaHuguel/Khala-Orchestrator-Core",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:50:54Z",
+    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1370,
+    "updated_at": "2026-10-25T00:49:54Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Multi-Agent AI Task Orchestrator 2026",
+    "id": "skerry699/agent-symphony",
+    "language": "HTML",
+    "name": "skerry699/agent-symphony",
+    "stars": 123,
+    "updated_at": "2026-10-25T00:49:19Z",
+    "url": "https://github.com/skerry699/agent-symphony"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35953,
+    "updated_at": "2026-10-25T00:49:07Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1582,
+    "updated_at": "2026-10-25T00:46:39Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:46:23Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 122,
+    "updated_at": "2026-10-25T00:46:10Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T00:45:21Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
     "id": "bubbuild/bub",
     "language": "Python",
     "name": "bubbuild/bub",
     "stars": 1689,
-    "updated_at": "2026-10-25T00:43:39Z",
+    "updated_at": "2026-10-25T00:59:44Z",
     "url": "https://github.com/bubbuild/bub"
   },
   {
@@ -45,15 +144,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-25T00:42:19Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
     "id": "maref-org/maref",
     "language": "Python",
@@ -63,21 +153,12 @@
     "url": "https://github.com/maref-org/maref"
   },
   {
-    "description": "Agentic coding framework and meta-harness for planning, building, reviewing, and tuning software across coding agents. P",
-    "id": "dpalfery/kyber-weave",
-    "language": "TypeScript",
-    "name": "dpalfery/kyber-weave",
-    "stars": 23,
-    "updated_at": "2026-10-25T00:38:04Z",
-    "url": "https://github.com/dpalfery/kyber-weave"
-  },
-  {
     "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
     "id": "thetonymaster/normandy",
     "language": "Elixir",
     "name": "thetonymaster/normandy",
     "stars": 2,
-    "updated_at": "2026-10-25T00:44:28Z",
+    "updated_at": "2026-10-25T00:57:40Z",
     "url": "https://github.com/thetonymaster/normandy"
   },
   {
@@ -113,17 +194,8 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-25T00:44:28Z",
+    "updated_at": "2026-10-25T00:54:29Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T00:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "AI agent with zero dependencies, bring your own bun",
@@ -212,17 +284,8 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-25T00:42:43Z",
+    "updated_at": "2026-10-25T00:51:45Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35953,
-    "updated_at": "2026-10-25T00:03:54Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -230,7 +293,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T00:44:19Z",
+    "updated_at": "2026-10-25T00:52:11Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-25T00:09:38Z",
+    "updated_at": "2026-10-25T01:00:11Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -328,7 +391,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3474,
+    "stars": 3478,
     "updated_at": "2026-10-24T23:43:09Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -347,7 +410,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2381,
-    "updated_at": "2026-10-24T23:30:12Z",
+    "updated_at": "2026-10-25T00:52:03Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:35:03Z",
     "url": "https://github.com/dshakes/lantern"
-  },
-  {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-10-24T23:19:11Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 63,
-    "updated_at": "2026-10-24T23:18:28Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20841,
-    "updated_at": "2026-10-24T23:05:27Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:04:50Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "Governing AI Agents with Microsoft Entra Agent ID and Microsoft Agent Framework",
-    "id": "passadis/agents-entra-demo",
-    "language": "Python",
-    "name": "passadis/agents-entra-demo",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:02:32Z",
-    "url": "https://github.com/passadis/agents-entra-demo"
-  },
-  {
-    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
-    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "language": "HTML",
-    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:59:44Z",
-    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 62,
-    "updated_at": "2026-10-25T00:33:51Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   }
 ]
