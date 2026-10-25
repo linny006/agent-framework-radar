@@ -1,5 +1,86 @@
 [
   {
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
+    "language": "Python",
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-25T21:12:26Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "An agent runtime.",
+    "id": "shadow3aaa/DaatLocus",
+    "language": "Rust",
+    "name": "shadow3aaa/DaatLocus",
+    "stars": 8,
+    "updated_at": "2026-10-25T21:09:06Z",
+    "url": "https://github.com/shadow3aaa/DaatLocus"
+  },
+  {
+    "description": "Second brain app",
+    "id": "amavis442/noot",
+    "language": "Go",
+    "name": "amavis442/noot",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:12:59Z",
+    "url": "https://github.com/amavis442/noot"
+  },
+  {
+    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
+    "id": "cmcoffee/gohort",
+    "language": "Go",
+    "name": "cmcoffee/gohort",
+    "stars": 3,
+    "updated_at": "2026-10-25T21:06:05Z",
+    "url": "https://github.com/cmcoffee/gohort"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 62,
+    "updated_at": "2026-10-25T21:07:55Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "Agentic coding framework and meta-harness for planning, building, reviewing, and tuning software across coding agents. P",
+    "id": "dpalfery/kyber-weave",
+    "language": "TypeScript",
+    "name": "dpalfery/kyber-weave",
+    "stars": 23,
+    "updated_at": "2026-10-25T21:07:46Z",
+    "url": "https://github.com/dpalfery/kyber-weave"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:13:35Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T21:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "SadaSend CrewAI Multi-Agent Starter Kit \ud83d\udc65",
+    "id": "SadaSend/sadasend-crewai-starter",
+    "language": "Python",
+    "name": "SadaSend/sadasend-crewai-starter",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:59:56Z",
+    "url": "https://github.com/SadaSend/sadasend-crewai-starter"
+  },
+  {
     "description": "Syntet agent for laptop and VPS",
     "id": "maxseo/sinty",
     "language": "TypeScript",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 681,
-    "updated_at": "2026-10-25T20:58:56Z",
+    "updated_at": "2026-10-25T21:12:40Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/daretodave/nexus"
   },
   {
-    "description": "An agent runtime.",
-    "id": "shadow3aaa/DaatLocus",
-    "language": "Rust",
-    "name": "shadow3aaa/DaatLocus",
-    "stars": 8,
-    "updated_at": "2026-10-25T20:53:32Z",
-    "url": "https://github.com/shadow3aaa/DaatLocus"
-  },
-  {
     "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
     "id": "NekomyaDev/nudge",
     "language": "Rust",
@@ -59,17 +131,8 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-25T20:51:57Z",
+    "updated_at": "2026-10-25T21:09:21Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
-    "id": "cmcoffee/gohort",
-    "language": "Go",
-    "name": "cmcoffee/gohort",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:47:05Z",
-    "url": "https://github.com/cmcoffee/gohort"
   },
   {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
@@ -77,17 +140,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20865,
-    "updated_at": "2026-10-25T20:57:52Z",
+    "updated_at": "2026-10-25T21:06:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T20:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-25T20:56:46Z",
+    "updated_at": "2026-10-25T21:15:12Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2384,
-    "updated_at": "2026-10-25T20:31:27Z",
+    "updated_at": "2026-10-25T21:02:33Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -158,17 +212,8 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-25T20:58:04Z",
+    "updated_at": "2026-10-25T21:13:41Z",
     "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 62,
-    "updated_at": "2026-10-25T20:26:49Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T20:49:01Z",
+    "updated_at": "2026-10-25T21:15:11Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-25T20:18:12Z",
+    "updated_at": "2026-10-25T21:14:22Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/matjazonline/openbot"
   },
   {
-    "description": "Universal Agent Harness",
-    "id": "human-plus-machine/monkeybot",
-    "language": "Python",
-    "name": "human-plus-machine/monkeybot",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:59:49Z",
-    "url": "https://github.com/human-plus-machine/monkeybot"
-  },
-  {
     "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
     "id": "jiangchuangege/xiaojiao-harnees",
     "language": "Python",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11044,
-    "updated_at": "2026-10-25T20:54:24Z",
+    "updated_at": "2026-10-25T21:12:06Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Ruby",
     "name": "crmne/ruby_llm",
     "stars": 4482,
-    "updated_at": "2026-10-25T19:40:38Z",
+    "updated_at": "2026-10-25T21:15:17Z",
     "url": "https://github.com/crmne/ruby_llm"
-  },
-  {
-    "description": "Secure, local-first multi-agent orchestration platform with policy-driven execution and guardrails.",
-    "id": "LATTIX-IO/lattix-locus",
-    "language": "Python",
-    "name": "LATTIX-IO/lattix-locus",
-    "stars": 1,
-    "updated_at": "2026-10-25T20:44:20Z",
-    "url": "https://github.com/LATTIX-IO/lattix-locus"
-  },
-  {
-    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
-    "id": "Opita-Code/opita-code",
-    "language": "TypeScript",
-    "name": "Opita-Code/opita-code",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:24:09Z",
-    "url": "https://github.com/Opita-Code/opita-code"
-  },
-  {
-    "description": "A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harne",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 352,
-    "updated_at": "2026-10-25T19:22:53Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 4,
-    "updated_at": "2026-10-25T19:19:50Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]
