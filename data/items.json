@@ -1,12 +1,75 @@
 [
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-25T09:15:03Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
+    "id": "autopus-ai/autopus-adk",
+    "language": "Go",
+    "name": "autopus-ai/autopus-adk",
+    "stars": 110,
+    "updated_at": "2026-10-25T09:12:27Z",
+    "url": "https://github.com/autopus-ai/autopus-adk"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 6,
+    "updated_at": "2026-10-25T09:08:58Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "A small, inspectable Python agent harness: path-jailed tools, approval flow, secret redaction, durable sessions, six pro",
+    "id": "PRINCE2-AI/Argus",
+    "language": "Python",
+    "name": "PRINCE2-AI/Argus",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:07:20Z",
+    "url": "https://github.com/PRINCE2-AI/Argus"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 18,
+    "updated_at": "2026-10-25T09:06:23Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
+    "id": "Ash20pk/BerthOS",
+    "language": "TypeScript",
+    "name": "Ash20pk/BerthOS",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:05:26Z",
+    "url": "https://github.com/Ash20pk/BerthOS"
+  },
+  {
     "description": "Voice-controlled classroom assistant for teachers",
     "id": "ChidcGithub/Neo",
     "language": "Rust",
     "name": "ChidcGithub/Neo",
     "stars": 2,
-    "updated_at": "2026-10-25T09:00:14Z",
+    "updated_at": "2026-10-25T09:02:31Z",
     "url": "https://github.com/ChidcGithub/Neo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T09:00:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-25T08:59:22Z",
+    "updated_at": "2026-10-25T09:10:16Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -54,6 +117,15 @@
     "url": "https://github.com/crystal-autobot/autobot"
   },
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35959,
+    "updated_at": "2026-10-25T08:56:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
     "description": "Where agents build agents. An open-source Rust framework for complex agentic systems: ontology-grounded, auditable, one ",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -63,21 +135,12 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35958,
-    "updated_at": "2026-10-25T08:56:35Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T08:53:22Z",
+    "updated_at": "2026-10-25T09:06:40Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-25T08:53:12Z",
+    "updated_at": "2026-10-25T09:04:14Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T08:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
     "id": "bubbuild/bub",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T08:44:42Z",
     "url": "https://github.com/Chang-LeHung/zett-agent"
-  },
-  {
-    "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
-    "id": "Ash20pk/BerthOS",
-    "language": "TypeScript",
-    "name": "Ash20pk/BerthOS",
-    "stars": 1,
-    "updated_at": "2026-10-25T08:44:25Z",
-    "url": "https://github.com/Ash20pk/BerthOS"
   },
   {
     "description": "The open-source AI infrastructure stack for Swiss enterprises.",
@@ -274,18 +319,9 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 49340,
-    "updated_at": "2026-10-25T08:30:33Z",
+    "stars": 49339,
+    "updated_at": "2026-10-25T09:14:34Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "A small, inspectable Python agent harness: path-jailed tools, approval flow, secret redaction, durable sessions, six pro",
-    "id": "PRINCE2-AI/Argus",
-    "language": "Python",
-    "name": "PRINCE2-AI/Argus",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:28:27Z",
-    "url": "https://github.com/PRINCE2-AI/Argus"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -315,15 +351,6 @@
     "url": "https://github.com/acnlabs/ACN"
   },
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "opencue/cuecards",
-    "language": "TypeScript",
-    "name": "opencue/cuecards",
-    "stars": 6,
-    "updated_at": "2026-10-25T08:16:23Z",
-    "url": "https://github.com/opencue/cuecards"
-  },
-  {
     "description": "Autonomous agentic platform for software development and other activities. Specialist agents, constitution-bound AI Empl",
     "id": "bhodgens/meept",
     "language": "Go",
@@ -342,15 +369,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "autopus-ai/autopus-adk",
-    "language": "Go",
-    "name": "autopus-ai/autopus-adk",
-    "stars": 110,
-    "updated_at": "2026-10-25T08:43:26Z",
-    "url": "https://github.com/autopus-ai/autopus-adk"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -364,7 +382,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3559,
+    "stars": 3560,
     "updated_at": "2026-10-25T08:09:13Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -427,26 +445,8 @@
     "id": "iflytek/skillhub",
     "language": "Java",
     "name": "iflytek/skillhub",
-    "stars": 5284,
+    "stars": 5285,
     "updated_at": "2026-10-25T07:54:34Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Palarran \u2014 a distributed control plane for coding agents. Palarran coordinates agents across developer machines through ",
-    "id": "zxc0zxc0zxc/palarran-framework",
-    "language": "Python",
-    "name": "zxc0zxc0zxc/palarran-framework",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:53:39Z",
-    "url": "https://github.com/zxc0zxc0zxc/palarran-framework"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20849,
-    "updated_at": "2026-10-25T07:52:34Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
