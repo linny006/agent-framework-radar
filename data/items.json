@@ -1,21 +1,30 @@
 [
   {
-    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
-    "id": "BlackBeltTechnology/pi-agent-dashboard",
-    "language": "TypeScript",
-    "name": "BlackBeltTechnology/pi-agent-dashboard",
-    "stars": 331,
-    "updated_at": "2026-10-25T23:33:59Z",
-    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
+    "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+    "id": "israriqbal/agent-ecologies",
+    "language": "HTML",
+    "name": "israriqbal/agent-ecologies",
+    "stars": 122,
+    "updated_at": "2026-10-25T23:45:11Z",
+    "url": "https://github.com/israriqbal/agent-ecologies"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "Universal Agent Harness",
+    "id": "human-plus-machine/monkeybot",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T23:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "human-plus-machine/monkeybot",
+    "stars": 3,
+    "updated_at": "2026-10-25T23:42:27Z",
+    "url": "https://github.com/human-plus-machine/monkeybot"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 37,
+    "updated_at": "2026-10-25T23:45:03Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
     "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists an",
@@ -23,8 +32,26 @@
     "language": "Go",
     "name": "cmcoffee/gohort",
     "stars": 3,
-    "updated_at": "2026-10-25T23:30:09Z",
+    "updated_at": "2026-10-25T23:36:58Z",
     "url": "https://github.com/cmcoffee/gohort"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T23:34:58Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
+    "id": "BlackBeltTechnology/pi-agent-dashboard",
+    "language": "TypeScript",
+    "name": "BlackBeltTechnology/pi-agent-dashboard",
+    "stars": 331,
+    "updated_at": "2026-10-25T23:40:27Z",
+    "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
   },
   {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "ellmos-ai/bach",
     "stars": 8,
-    "updated_at": "2026-10-25T23:22:53Z",
+    "updated_at": "2026-10-25T23:43:00Z",
     "url": "https://github.com/ellmos-ai/bach"
   },
   {
@@ -85,7 +112,7 @@
     "id": "crmne/ruby_llm",
     "language": "Ruby",
     "name": "crmne/ruby_llm",
-    "stars": 4482,
+    "stars": 4483,
     "updated_at": "2026-10-25T23:22:00Z",
     "url": "https://github.com/crmne/ruby_llm"
   },
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 11,
-    "updated_at": "2026-10-25T23:27:20Z",
+    "updated_at": "2026-10-25T23:37:28Z",
     "url": "https://github.com/dzhioev/bro"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-25T23:34:20Z",
+    "updated_at": "2026-10-25T23:44:47Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -130,7 +157,7 @@
     "id": "cccat6/iphone-agent-harness",
     "language": "C",
     "name": "cccat6/iphone-agent-harness",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-10-25T23:08:42Z",
     "url": "https://github.com/cccat6/iphone-agent-harness"
   },
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T23:33:19Z",
+    "updated_at": "2026-10-25T23:36:42Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20865,
-    "updated_at": "2026-10-25T23:23:11Z",
+    "updated_at": "2026-10-25T23:42:34Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-25T23:29:58Z",
+    "updated_at": "2026-10-25T23:45:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-25T23:02:44Z",
+    "updated_at": "2026-10-25T23:42:48Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-25T22:20:48Z",
+    "updated_at": "2026-10-25T23:44:45Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:04:40Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Official documentation for AGBoss (https://agboss.dev) \u2014 TypeScript framework for mission-critical LangGraph AI agents.",
-    "id": "agbossjs/agboss.dev",
-    "language": "JavaScript",
-    "name": "agbossjs/agboss.dev",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:00:30Z",
-    "url": "https://github.com/agbossjs/agboss.dev"
-  },
-  {
-    "description": "Executable architecture & reliability proofs for AGBoss \u2014 Promise -> Failure Injection -> Reproducible Proof across Path",
-    "id": "agbossjs/agboss-examples",
-    "language": "TypeScript",
-    "name": "agbossjs/agboss-examples",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:00:24Z",
-    "url": "https://github.com/agbossjs/agboss-examples"
-  },
-  {
-    "description": "AutoGen Studio \u2014 independent third-party profile of a public API surface, by API Evangelist. AutoGen Studio is a low-cod",
-    "id": "api-evangelist/autogen-studio",
-    "language": "\u2014",
-    "name": "api-evangelist/autogen-studio",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:57:13Z",
-    "url": "https://github.com/api-evangelist/autogen-studio"
   }
 ]
