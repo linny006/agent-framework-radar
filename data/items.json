@@ -1,5 +1,122 @@
 [
   {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 63,
+    "updated_at": "2026-10-25T02:59:54Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "",
+    "id": "111nathanlar/Agent-Worlds",
+    "language": "HTML",
+    "name": "111nathanlar/Agent-Worlds",
+    "stars": 1,
+    "updated_at": "2026-10-25T02:59:45Z",
+    "url": "https://github.com/111nathanlar/Agent-Worlds"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 332,
+    "updated_at": "2026-10-25T02:59:21Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-25T02:56:32Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 1,
+    "updated_at": "2026-10-25T02:53:36Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35955,
+    "updated_at": "2026-10-25T02:53:32Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3513,
+    "updated_at": "2026-10-25T02:52:47Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-25T02:55:50Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 332,
+    "updated_at": "2026-10-25T02:58:33Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 148,
+    "updated_at": "2026-10-25T02:56:10Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "A form framework built for agents.",
+    "id": "ridemountainpig/open-form",
+    "language": "TypeScript",
+    "name": "ridemountainpig/open-form",
+    "stars": 6,
+    "updated_at": "2026-10-25T02:47:07Z",
+    "url": "https://github.com/ridemountainpig/open-form"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T02:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20845,
+    "updated_at": "2026-10-25T02:56:17Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
     "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
     "id": "Thepizzapie/BuildersGate",
     "language": "Python",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "DJG3DK/persei",
     "stars": 3,
-    "updated_at": "2026-10-25T02:42:28Z",
+    "updated_at": "2026-10-25T02:50:52Z",
     "url": "https://github.com/DJG3DK/persei"
   },
   {
@@ -45,24 +162,6 @@
     "url": "https://github.com/GEMISIS/leviath"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-25T02:39:15Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 148,
-    "updated_at": "2026-10-25T02:37:14Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps w",
     "id": "kdcube/kdcube",
     "language": "Python",
@@ -79,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T02:35:40Z",
     "url": "https://github.com/Ember452/questor"
-  },
-  {
-    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
-    "id": "HarnessRouter/harnessrouter",
-    "language": "Python",
-    "name": "HarnessRouter/harnessrouter",
-    "stars": 3504,
-    "updated_at": "2026-10-25T02:42:30Z",
-    "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-25T02:44:05Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
@@ -117,15 +198,6 @@
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T02:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "id": "ggui-ai/ggui",
     "language": "TypeScript",
@@ -140,26 +212,8 @@
     "language": "Rust",
     "name": "jiayan-xu/agent-core",
     "stars": 1,
-    "updated_at": "2026-10-25T02:41:04Z",
+    "updated_at": "2026-10-25T02:57:21Z",
     "url": "https://github.com/jiayan-xu/agent-core"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35955,
-    "updated_at": "2026-10-25T02:28:17Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 332,
-    "updated_at": "2026-10-25T02:43:19Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-25T02:27:21Z",
+    "updated_at": "2026-10-25T02:53:16Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-25T02:36:20Z",
+    "updated_at": "2026-10-25T02:57:08Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T01:36:15Z",
     "url": "https://github.com/agbossjs/agboss"
-  },
-  {
-    "description": "Production features for Pi Coding Agent: profiles, Nono sandboxing, guardrails, API, WebUI, scheduling, skills and remot",
-    "id": "rjaskonis/pi-feats",
-    "language": "TypeScript",
-    "name": "rjaskonis/pi-feats",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:24:21Z",
-    "url": "https://github.com/rjaskonis/pi-feats"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-25T01:22:56Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
-    "id": "bubbuild/bub",
-    "language": "Python",
-    "name": "bubbuild/bub",
-    "stars": 1689,
-    "updated_at": "2026-10-25T01:19:03Z",
-    "url": "https://github.com/bubbuild/bub"
-  },
-  {
-    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
-    "id": "whyihaveyou/dsh-suite",
-    "language": "HTML",
-    "name": "whyihaveyou/dsh-suite",
-    "stars": 63,
-    "updated_at": "2026-10-25T01:18:07Z",
-    "url": "https://github.com/whyihaveyou/dsh-suite"
-  },
-  {
-    "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
-    "id": "vamsiramakrishnan/gemini-rs",
-    "language": "Rust",
-    "name": "vamsiramakrishnan/gemini-rs",
-    "stars": 4,
-    "updated_at": "2026-10-25T01:24:04Z",
-    "url": "https://github.com/vamsiramakrishnan/gemini-rs"
-  },
-  {
-    "description": "Build production-ready AI agents in Elixir \u2014 structured schemas, tool calling, multi-agent coordination, streaming, and ",
-    "id": "thetonymaster/normandy",
-    "language": "Elixir",
-    "name": "thetonymaster/normandy",
-    "stars": 2,
-    "updated_at": "2026-10-25T01:14:19Z",
-    "url": "https://github.com/thetonymaster/normandy"
   }
 ]
