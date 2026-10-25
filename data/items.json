@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code",
+    "id": "anurag-devx/offline-agent",
+    "language": "Python",
+    "name": "anurag-devx/offline-agent",
+    "stars": 1,
+    "updated_at": "2026-10-25T06:48:02Z",
+    "url": "https://github.com/anurag-devx/offline-agent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-25T06:47:16Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
+    "id": "kyashrathore/Claxedo",
+    "language": "TypeScript",
+    "name": "kyashrathore/Claxedo",
+    "stars": 89,
+    "updated_at": "2026-10-25T06:45:35Z",
+    "url": "https://github.com/kyashrathore/Claxedo"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T06:45:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
     "id": "iflytek/skillhub",
     "language": "Java",
@@ -77,7 +113,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35958,
-    "updated_at": "2026-10-25T06:43:42Z",
+    "updated_at": "2026-10-25T06:46:47Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "showjihyun/aether",
     "stars": 0,
-    "updated_at": "2026-10-25T06:33:51Z",
+    "updated_at": "2026-10-25T06:49:02Z",
     "url": "https://github.com/showjihyun/aether"
   },
   {
@@ -95,17 +131,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-25T06:33:52Z",
+    "updated_at": "2026-10-25T06:47:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-25T06:33:20Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it.",
@@ -124,15 +151,6 @@
     "stars": 49337,
     "updated_at": "2026-10-25T06:32:07Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T06:30:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Agentic workflows built using Rust",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-25T06:35:58Z",
+    "updated_at": "2026-10-25T06:49:20Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T06:32:34Z",
+    "updated_at": "2026-10-25T06:49:03Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -230,17 +248,8 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-25T06:35:27Z",
+    "updated_at": "2026-10-25T06:45:43Z",
     "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code",
-    "id": "anurag-devx/offline-agent",
-    "language": "Python",
-    "name": "anurag-devx/offline-agent",
-    "stars": 1,
-    "updated_at": "2026-10-25T06:07:38Z",
-    "url": "https://github.com/anurag-devx/offline-agent"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3542,
-    "updated_at": "2026-10-25T06:01:02Z",
+    "updated_at": "2026-10-25T06:51:08Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 105,
     "updated_at": "2026-10-25T05:57:33Z",
     "url": "https://github.com/NarraFork/NarraFork"
-  },
-  {
-    "description": "Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products",
-    "id": "kyashrathore/Claxedo",
-    "language": "TypeScript",
-    "name": "kyashrathore/Claxedo",
-    "stars": 89,
-    "updated_at": "2026-10-25T05:55:31Z",
-    "url": "https://github.com/kyashrathore/Claxedo"
   },
   {
     "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "maref-org/maref",
     "stars": 10,
-    "updated_at": "2026-10-25T06:42:25Z",
+    "updated_at": "2026-10-25T06:50:31Z",
     "url": "https://github.com/maref-org/maref"
   },
   {

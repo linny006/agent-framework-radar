@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 06:45 UTC
+> ⏰ Last updated: 2026-10-25 06:51 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,37 +42,37 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 5283 | Java | 2026-10-25 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
-| 2 | [swombat/souls-house](https://github.com/swombat/souls-house) | 45 | Ruby | 2026-10-25 | A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish. |
-| 3 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 308 | TypeScript | 2026-10-25 | DIY your own agent team harness for long-horizon agent work |
-| 4 | [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) | 726 | Python | 2026-10-25 | 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中 |
-| 5 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 6102 | Java | 2026-10-25 | Build distributed, production-grade, long-running agents. |
-| 6 | [tinyhumansai/tinyagents](https://github.com/tinyhumansai/tinyagents) | 125 | Rust | 2026-10-25 | A small, provider-neutral agent harness written in Rust |
-| 7 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 334 | Kotlin | 2026-10-25 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
-| 8 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 16 | Go | 2026-10-25 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
-| 9 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35958 | Go | 2026-10-25 | A reliable coding agent for complex software engineering tasks. |
-| 10 | [showjihyun/aether](https://github.com/showjihyun/aether) | 0 | Python | 2026-10-25 | AGENT OS System |
-| 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-25 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 12 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 84 | TypeScript | 2026-10-25 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 13 | [genai-io/sdk-go](https://github.com/genai-io/sdk-go) | 2 | Go | 2026-10-25 | LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it. |
-| 14 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 49337 | Python | 2026-10-25 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
-| 15 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
-| 16 | [tinyhumansai/tinyflows](https://github.com/tinyhumansai/tinyflows) | 86 | Rust | 2026-10-25 | Open-source Agentic workflows built using Rust |
-| 17 | [tinyhumansai/tinychannels](https://github.com/tinyhumansai/tinychannels) | 9 | Rust | 2026-10-25 | All the various messaging channels for OpenHuman |
-| 18 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2402 | JavaScript | 2026-10-25 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 19 | [kindgi/kindgi-sdk](https://github.com/kindgi/kindgi-sdk) | 3 | TypeScript | 2026-10-25 | Kindgi SDK — public Apache-2.0 packages for building on Kindgi (preview) |
-| 20 | [paseo-cafe/paseo-cafe](https://github.com/paseo-cafe/paseo-cafe) | 50 | TypeScript | 2026-10-25 | A community driven directory of paseo.sh plugins |
-| 21 | [cortexkit/aft](https://github.com/cortexkit/aft) | 332 | Rust | 2026-10-25 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
-| 22 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1370 | TypeScript | 2026-10-25 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
-| 23 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 11028 | Python | 2026-10-25 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
-| 24 | [isinx-cosx/MVS-Agent](https://github.com/isinx-cosx/MVS-Agent) | 0 | TypeScript | 2026-10-25 | A zero-dependency agent kernel for any OpenAI-compatible model: tool calls, tiered permissions with approvals, snapshot- |
-| 25 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 63 | HTML | 2026-10-25 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
-| 26 | [bide-ai/bide](https://github.com/bide-ai/bide) | 7 | Go | 2026-10-25 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
-| 27 | [anurag-devx/offline-agent](https://github.com/anurag-devx/offline-agent) | 1 | Python | 2026-10-25 | AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code |
-| 28 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-25 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 29 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 3542 | Python | 2026-10-25 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
-| 30 | [NarraFork/NarraFork](https://github.com/NarraFork/NarraFork) | 105 | TypeScript | 2026-10-25 | An efficient durable harness for collaboration across people, models, and devices |
-| 31 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 89 | TypeScript | 2026-10-25 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
+| 1 | [anurag-devx/offline-agent](https://github.com/anurag-devx/offline-agent) | 1 | Python | 2026-10-25 | AI agents that run on your laptop with local models (Ollama). The model decides, code does the work: permissions in code |
+| 2 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 84 | TypeScript | 2026-10-25 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 3 | [kyashrathore/Claxedo](https://github.com/kyashrathore/Claxedo) | 89 | TypeScript | 2026-10-25 | Open-source coding-agent workspace: desktop app + composable TypeScript framework for building coding-agent products |
+| 4 | [linny006/agent-framework-radar](https://github.com/linny006/agent-framework-radar) | 8 | Python | 2026-10-25 | Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars |
+| 5 | [iflytek/skillhub](https://github.com/iflytek/skillhub) | 5283 | Java | 2026-10-25 | Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au |
+| 6 | [swombat/souls-house](https://github.com/swombat/souls-house) | 45 | Ruby | 2026-10-25 | A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish. |
+| 7 | [yangheng95/opencorvus](https://github.com/yangheng95/opencorvus) | 308 | TypeScript | 2026-10-25 | DIY your own agent team harness for long-horizon agent work |
+| 8 | [agents-universe/agents-universe](https://github.com/agents-universe/agents-universe) | 726 | Python | 2026-10-25 | 不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中 |
+| 9 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 6102 | Java | 2026-10-25 | Build distributed, production-grade, long-running agents. |
+| 10 | [tinyhumansai/tinyagents](https://github.com/tinyhumansai/tinyagents) | 125 | Rust | 2026-10-25 | A small, provider-neutral agent harness written in Rust |
+| 11 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 334 | Kotlin | 2026-10-25 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
+| 12 | [manishiitg/agentworks](https://github.com/manishiitg/agentworks) | 16 | Go | 2026-10-25 | AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur |
+| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35958 | Go | 2026-10-25 | A reliable coding agent for complex software engineering tasks. |
+| 14 | [showjihyun/aether](https://github.com/showjihyun/aether) | 0 | Python | 2026-10-25 | AGENT OS System |
+| 15 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-25 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 16 | [genai-io/sdk-go](https://github.com/genai-io/sdk-go) | 2 | Go | 2026-10-25 | LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it. |
+| 17 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 49337 | Python | 2026-10-25 | Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi- |
+| 18 | [tinyhumansai/tinyflows](https://github.com/tinyhumansai/tinyflows) | 86 | Rust | 2026-10-25 | Open-source Agentic workflows built using Rust |
+| 19 | [tinyhumansai/tinychannels](https://github.com/tinyhumansai/tinychannels) | 9 | Rust | 2026-10-25 | All the various messaging channels for OpenHuman |
+| 20 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2402 | JavaScript | 2026-10-25 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 21 | [kindgi/kindgi-sdk](https://github.com/kindgi/kindgi-sdk) | 3 | TypeScript | 2026-10-25 | Kindgi SDK — public Apache-2.0 packages for building on Kindgi (preview) |
+| 22 | [paseo-cafe/paseo-cafe](https://github.com/paseo-cafe/paseo-cafe) | 50 | TypeScript | 2026-10-25 | A community driven directory of paseo.sh plugins |
+| 23 | [cortexkit/aft](https://github.com/cortexkit/aft) | 332 | Rust | 2026-10-25 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 24 | [Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | 1370 | TypeScript | 2026-10-25 | Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An |
+| 25 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 11028 | Python | 2026-10-25 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a |
+| 26 | [isinx-cosx/MVS-Agent](https://github.com/isinx-cosx/MVS-Agent) | 0 | TypeScript | 2026-10-25 | A zero-dependency agent kernel for any OpenAI-compatible model: tool calls, tiered permissions with approvals, snapshot- |
+| 27 | [whyihaveyou/dsh-suite](https://github.com/whyihaveyou/dsh-suite) | 63 | HTML | 2026-10-25 | The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and sc |
+| 28 | [bide-ai/bide](https://github.com/bide-ai/bide) | 7 | Go | 2026-10-25 | Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962),  |
+| 29 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-25 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 30 | [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 3542 | Python | 2026-10-25 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C |
+| 31 | [NarraFork/NarraFork](https://github.com/NarraFork/NarraFork) | 105 | TypeScript | 2026-10-25 | An efficient durable harness for collaboration across people, models, and devices |
 | 32 | [xujian519/sati](https://github.com/xujian519/sati) | 3 | TypeScript | 2026-10-25 | 面向专利代理人、专利律师与知识产权从业者的桌面端专利智能体 |
 | 33 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 0 | Python | 2026-10-25 | Agent 业务执行底座：受控工具调用、多应用 HTTP、可审计轨迹与回归闭环 |
 | 34 | [abubakarsiddik31/golem](https://github.com/abubakarsiddik31/golem) | 7 | Go | 2026-10-25 | Go-first framework for dependable AI agents: typed dependencies and outputs, explicit tools, composable models, observab |
