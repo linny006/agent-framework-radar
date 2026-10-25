@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1370,
+    "updated_at": "2026-10-25T17:00:15Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-10-25T17:00:09Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
+    "id": "Opita-Code/opita-code",
+    "language": "TypeScript",
+    "name": "Opita-Code/opita-code",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:59:20Z",
+    "url": "https://github.com/Opita-Code/opita-code"
+  },
+  {
+    "description": "\u4e00\u4e2a\u81ea\u5df1\u7528\u7684 agent\u3002\u53cc\u51fb\u5c31\u80fd\u7528\uff0c\u4e0d\u9700\u8981\u88c5 Python\u3001\u4e0d\u9700\u8981\u5f00\u6d4f\u89c8\u5668\u3002",
+    "id": "cmm00100/DreamRole",
+    "language": "Python",
+    "name": "cmm00100/DreamRole",
+    "stars": 1,
+    "updated_at": "2026-10-25T16:55:54Z",
+    "url": "https://github.com/cmm00100/DreamRole"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 45,
+    "updated_at": "2026-10-25T16:58:00Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 5,
+    "updated_at": "2026-10-25T16:54:43Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "Crash-resilient, durable agent harness for PydanticAI: resumable runs, SQLite storage, approvals, sagas",
+    "id": "matheusbuniotto/pydantic-ai-durable",
+    "language": "Python",
+    "name": "matheusbuniotto/pydantic-ai-durable",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:54:14Z",
+    "url": "https://github.com/matheusbuniotto/pydantic-ai-durable"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35959,
+    "updated_at": "2026-10-25T16:53:33Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-25T16:52:36Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 812,
+    "updated_at": "2026-10-25T16:49:47Z",
+    "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
+    "id": "xujian519/sati",
+    "language": "TypeScript",
+    "name": "xujian519/sati",
+    "stars": 3,
+    "updated_at": "2026-10-25T16:46:18Z",
+    "url": "https://github.com/xujian519/sati"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-25T16:46:01Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T16:45:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Universal Agent Harness",
     "id": "human-plus-machine/monkeybot",
     "language": "Python",
@@ -18,15 +135,6 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
-    "id": "Opita-Code/opita-code",
-    "language": "TypeScript",
-    "name": "Opita-Code/opita-code",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:43:01Z",
-    "url": "https://github.com/Opita-Code/opita-code"
-  },
-  {
     "description": "Workflow builder for coding agents \ud83d\udc36",
     "id": "orhun/voff",
     "language": "Rust",
@@ -40,7 +148,7 @@
     "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
-    "stars": 309,
+    "stars": 311,
     "updated_at": "2026-10-25T16:41:21Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
@@ -50,7 +158,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-25T16:42:52Z",
+    "updated_at": "2026-10-25T16:58:17Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -63,13 +171,13 @@
     "url": "https://github.com/vicfei/growbuddy"
   },
   {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 45,
-    "updated_at": "2026-10-25T16:38:57Z",
-    "url": "https://github.com/swombat/souls-house"
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3617,
+    "updated_at": "2026-10-25T16:59:16Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "A persistent, kernel-permissioned sandbox for AI agents \u2014 real filesystem, browser, and shell, not a bag of stateless AP",
@@ -77,17 +185,8 @@
     "language": "TypeScript",
     "name": "Ash20pk/BerthOS",
     "stars": 1,
-    "updated_at": "2026-10-25T16:37:46Z",
+    "updated_at": "2026-10-25T16:58:28Z",
     "url": "https://github.com/Ash20pk/BerthOS"
-  },
-  {
-    "description": "\u4e00\u4e2a\u81ea\u5df1\u7528\u7684 agent\u3002\u53cc\u51fb\u5c31\u80fd\u7528\uff0c\u4e0d\u9700\u8981\u88c5 Python\u3001\u4e0d\u9700\u8981\u5f00\u6d4f\u89c8\u5668\u3002",
-    "id": "cmm00100/DreamRole",
-    "language": "Python",
-    "name": "cmm00100/DreamRole",
-    "stars": 1,
-    "updated_at": "2026-10-25T16:36:51Z",
-    "url": "https://github.com/cmm00100/DreamRole"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -95,17 +194,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-25T16:36:48Z",
+    "updated_at": "2026-10-25T16:45:57Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Crash-resilient, durable agent harness for PydanticAI: resumable runs, SQLite storage, approvals, sagas",
-    "id": "matheusbuniotto/pydantic-ai-durable",
-    "language": "Python",
-    "name": "matheusbuniotto/pydantic-ai-durable",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:45:11Z",
-    "url": "https://github.com/matheusbuniotto/pydantic-ai-durable"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -115,15 +205,6 @@
     "stars": 21,
     "updated_at": "2026-10-25T16:38:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-25T16:34:56Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -149,7 +230,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T16:44:58Z",
+    "updated_at": "2026-10-25T16:52:40Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -167,17 +248,8 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-25T16:44:53Z",
+    "updated_at": "2026-10-25T16:53:12Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35959,
-    "updated_at": "2026-10-25T16:31:16Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
     "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and se",
@@ -187,15 +259,6 @@
     "stars": 357,
     "updated_at": "2026-10-25T16:31:12Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T16:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-25T16:25:56Z",
+    "updated_at": "2026-10-25T16:46:44Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -279,15 +342,6 @@
     "url": "https://github.com/Aayush-Joshi-01/deepcrew-ai"
   },
   {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 5,
-    "updated_at": "2026-10-25T16:16:18Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
     "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
     "id": "agbossjs/agboss",
     "language": "TypeScript",
@@ -304,15 +358,6 @@
     "stars": 5287,
     "updated_at": "2026-10-25T16:14:38Z",
     "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 3,
-    "updated_at": "2026-10-25T16:28:38Z",
-    "url": "https://github.com/xujian519/sati"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49345,
-    "updated_at": "2026-10-25T16:15:18Z",
+    "updated_at": "2026-10-25T16:52:02Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:51:26Z",
     "url": "https://github.com/trbearth/fieldwork-agent-os"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15657,
-    "updated_at": "2026-10-25T15:44:24Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-10-25T15:40:11Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 159,
-    "updated_at": "2026-10-25T16:30:37Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
-    "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
-    "id": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "language": "Python",
-    "name": "Dr-SoloDev/Lab-solocorp-os2.4",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:30:04Z",
-    "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
-  },
-  {
-    "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
-    "id": "assafkip/kipi-system",
-    "language": "Python",
-    "name": "assafkip/kipi-system",
-    "stars": 128,
-    "updated_at": "2026-10-25T15:26:47Z",
-    "url": "https://github.com/assafkip/kipi-system"
   }
 ]
