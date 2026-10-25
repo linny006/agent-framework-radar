@@ -1,5 +1,95 @@
 [
   {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35959,
+    "updated_at": "2026-10-25T15:44:39Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15657,
+    "updated_at": "2026-10-25T15:44:24Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-25T15:40:11Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T15:40:03Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 159,
+    "updated_at": "2026-10-25T15:40:00Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Visual builder and engine for agent workflows",
+    "id": "Nucc/spoletta",
+    "language": "Go",
+    "name": "Nucc/spoletta",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:37:42Z",
+    "url": "https://github.com/Nucc/spoletta"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 12,
+    "updated_at": "2026-10-25T15:37:33Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
+    "id": "xujian519/sati",
+    "language": "TypeScript",
+    "name": "xujian519/sati",
+    "stars": 3,
+    "updated_at": "2026-10-25T15:36:32Z",
+    "url": "https://github.com/xujian519/sati"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 342,
+    "updated_at": "2026-10-25T15:30:36Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-25T15:30:23Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
     "id": "Dr-SoloDev/Lab-solocorp-os2.4",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35960,
-    "updated_at": "2026-10-25T15:29:40Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "Your AI brain, externalized. It remembers everything you do, then becomes whatever role you need. Same skeleton can run ",
     "id": "assafkip/kipi-system",
     "language": "Python",
@@ -52,15 +133,6 @@
     "stars": 310,
     "updated_at": "2026-10-25T15:26:45Z",
     "url": "https://github.com/jin-bo/agentao"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T15:25:38Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr",
@@ -113,7 +185,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-institution",
     "stars": 11,
-    "updated_at": "2026-10-25T15:19:55Z",
+    "updated_at": "2026-10-25T15:31:33Z",
     "url": "https://github.com/neomjs/neo-agent-institution"
   },
   {
@@ -126,40 +198,13 @@
     "url": "https://github.com/mmeyerlein/meclaw"
   },
   {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 12,
-    "updated_at": "2026-10-25T15:17:52Z",
-    "url": "https://github.com/axisvela/praxo-core"
-  },
-  {
     "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-25T15:29:02Z",
+    "updated_at": "2026-10-25T15:38:32Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 342,
-    "updated_at": "2026-10-25T15:16:33Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T15:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Automate your real iPhone from Safari with a $2 ESP32. No Mac, no APP, and no jailbreak. Local conversations, your choic",
@@ -171,15 +216,6 @@
     "url": "https://github.com/cccat6/iphone-agent-harness"
   },
   {
-    "description": "Visual builder and engine for agent workflows",
-    "id": "Nucc/spoletta",
-    "language": "Go",
-    "name": "Nucc/spoletta",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:15:09Z",
-    "url": "https://github.com/Nucc/spoletta"
-  },
-  {
     "description": "A transparent agent harness for people, scripts, and the things you build next.",
     "id": "boazsegev/omoya",
     "language": "JavaScript",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T15:14:50Z",
     "url": "https://github.com/boazsegev/omoya"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 3,
-    "updated_at": "2026-10-25T15:24:34Z",
-    "url": "https://github.com/xujian519/sati"
   },
   {
     "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-25T15:23:39Z",
+    "updated_at": "2026-10-25T15:32:47Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/ahwurm/localharness"
   },
   {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15657,
-    "updated_at": "2026-10-25T15:22:58Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -277,15 +295,6 @@
     "stars": 2403,
     "updated_at": "2026-10-25T15:05:50Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 159,
-    "updated_at": "2026-10-25T15:07:42Z",
-    "url": "https://github.com/arcships/rutis"
   },
   {
     "description": "MaxLoop \u00b7 \u5e26\u5239\u8f66\u7684 AI \u81ea\u6211\u8fed\u4ee3\u5f15\u64ce\uff08\u5916\u90e8\u5224\u636e\u5239\u8f66\uff0c\u675c\u7edd\u5047\u7eff\u7a7a\u8f6c\uff1b\u4ea7\u54c1\u8fed\u4ee3+\u65b9\u6848\u5347\u7ea7\u53cc\u6a21\u5f0f\uff1bWorkBuddy/Claude Code/Cursor \u901a\u7528\uff1bMIT\uff09",
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 2,
-    "updated_at": "2026-10-25T15:27:41Z",
+    "updated_at": "2026-10-25T15:34:09Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "LATTIX-IO/lattix-locus",
     "stars": 1,
-    "updated_at": "2026-10-25T15:19:25Z",
+    "updated_at": "2026-10-25T15:37:15Z",
     "url": "https://github.com/LATTIX-IO/lattix-locus"
   },
   {
@@ -373,7 +382,7 @@
     "id": "HarnessRouter/harnessrouter",
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
-    "stars": 3606,
+    "stars": 3607,
     "updated_at": "2026-10-25T14:55:52Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
@@ -439,14 +448,5 @@
     "stars": 122,
     "updated_at": "2026-10-25T14:45:07Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11037,
-    "updated_at": "2026-10-25T14:41:15Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   }
 ]
