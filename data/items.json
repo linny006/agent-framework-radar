@@ -1,5 +1,122 @@
 [
   {
+    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
+    "id": "madeinplutofabio/neural-computation-protocol",
+    "language": "Rust",
+    "name": "madeinplutofabio/neural-computation-protocol",
+    "stars": 15,
+    "updated_at": "2026-10-26T21:44:27Z",
+    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 18,
+    "updated_at": "2026-10-26T21:44:16Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 7,
+    "updated_at": "2026-10-26T21:42:44Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
+    "id": "cortexkit/magic-context",
+    "language": "TypeScript",
+    "name": "cortexkit/magic-context",
+    "stars": 2391,
+    "updated_at": "2026-10-26T21:41:43Z",
+    "url": "https://github.com/cortexkit/magic-context"
+  },
+  {
+    "description": "HydraClaim turns agent memory into a temporal claim graph: every fact is a claim with provenance and a validity window, ",
+    "id": "aayushman-singh/hydraclaim",
+    "language": "Python",
+    "name": "aayushman-singh/hydraclaim",
+    "stars": 1,
+    "updated_at": "2026-10-26T21:39:39Z",
+    "url": "https://github.com/aayushman-singh/hydraclaim"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-26T21:39:36Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "\ud83e\udde0 \u5e03\u6d1b\u9640\u00b7\u4e94\u5c42\u8bb0\u5fc6\u7cfb\u7edf v2.2.10 \u00b7 \u4e00\u5305\u591a\u5e73\u53f0\uff1aWorkBuddy\u00b7Qoder CN\u00b7ZCode\u00b7Hermes\u00b7Zwork(AutoClaw) \u5168\u81ea\u52a8\uff5c\u8c46\u5305\u529e\u516c \u4e00\u6b65\u7c98\u8d34\uff5cLobsterAI \u9002\u914d\u6536\u5c3e\u4e2d\u6682\u4e0d\u63a8\u8350\uff5cTrae Work",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 22,
+    "updated_at": "2026-10-26T21:38:16Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-10-26T21:37:56Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11067,
+    "updated_at": "2026-10-26T21:37:31Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-26T21:37:23Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-26T21:30:55Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-26T21:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+    "id": "eigent-ai/eigent",
+    "language": "TypeScript",
+    "name": "eigent-ai/eigent",
+    "stars": 15665,
+    "updated_at": "2026-10-26T21:30:17Z",
+    "url": "https://github.com/eigent-ai/eigent"
+  },
+  {
     "description": "Agents answer. ZugaMind notices. A persistent cognition sidecar that wakes Claude Code, OpenClaw, Codex, or Hermes when ",
     "id": "Zuga-Technologies/zugamind",
     "language": "Python",
@@ -14,7 +131,7 @@
     "language": "Rust",
     "name": "alpercodes/alms",
     "stars": 4,
-    "updated_at": "2026-10-26T21:29:20Z",
+    "updated_at": "2026-10-26T21:41:55Z",
     "url": "https://github.com/alpercodes/alms"
   },
   {
@@ -23,17 +140,8 @@
     "language": "TypeScript",
     "name": "clawboo/clawboo",
     "stars": 63,
-    "updated_at": "2026-10-26T21:30:16Z",
+    "updated_at": "2026-10-26T21:33:35Z",
     "url": "https://github.com/clawboo/clawboo"
-  },
-  {
-    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
-    "id": "cortexkit/magic-context",
-    "language": "TypeScript",
-    "name": "cortexkit/magic-context",
-    "stars": 2391,
-    "updated_at": "2026-10-26T21:29:27Z",
-    "url": "https://github.com/cortexkit/magic-context"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -41,7 +149,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-26T21:27:53Z",
+    "updated_at": "2026-10-26T21:34:47Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20887,
-    "updated_at": "2026-10-26T21:30:19Z",
+    "updated_at": "2026-10-26T21:45:09Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -108,42 +216,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11066,
-    "updated_at": "2026-10-26T21:24:40Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 7,
-    "updated_at": "2026-10-26T21:25:31Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-26T21:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
-    "id": "ourostack/ouroboros",
-    "language": "TypeScript",
-    "name": "ourostack/ouroboros",
-    "stars": 3,
-    "updated_at": "2026-10-26T21:11:49Z",
-    "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
     "description": "The Ruby AI framework.",
     "id": "crmne/ruby_llm",
     "language": "Ruby",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 62,
-    "updated_at": "2026-10-26T21:28:45Z",
+    "updated_at": "2026-10-26T21:43:44Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -202,7 +274,7 @@
     "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
-    "stars": 542,
+    "stars": 543,
     "updated_at": "2026-10-26T21:02:19Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
@@ -284,7 +356,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1373,
-    "updated_at": "2026-10-26T20:46:36Z",
+    "updated_at": "2026-10-26T21:34:37Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -315,15 +387,6 @@
     "url": "https://github.com/ag2ai/ag2"
   },
   {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-26T21:12:49Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
     "description": "Values, beliefs, and purpose as inspectable data for long-lived AI agents \u2014 a research-grounded experiment in agent moti",
     "id": "gcis/agent-values-framework",
     "language": "Python",
@@ -331,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T20:40:37Z",
     "url": "https://github.com/gcis/agent-values-framework"
-  },
-  {
-    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 18,
-    "updated_at": "2026-10-26T20:39:15Z",
-    "url": "https://github.com/NekomyaDev/nudge"
   },
   {
     "description": "Official documentation for AGBoss (https://agboss.dev) \u2014 TypeScript framework for mission-critical LangGraph AI agents.",
@@ -374,17 +428,8 @@
     "language": "Python",
     "name": "openamer/openamer",
     "stars": 8,
-    "updated_at": "2026-10-26T20:48:49Z",
+    "updated_at": "2026-10-26T21:39:57Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-26T21:03:27Z",
-    "url": "https://github.com/kh0pper/crow"
   },
   {
     "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by cho",
@@ -403,50 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-26T20:27:51Z",
     "url": "https://github.com/maref-org/maref"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15665,
-    "updated_at": "2026-10-26T21:30:17Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Your personal AI team that gets things done. Shared memory. Any model. Local or cloud. Run. Rest. Dream. \ud83d\udc28",
-    "id": "thenaxon/somora_agent",
-    "language": "TypeScript",
-    "name": "thenaxon/somora_agent",
-    "stars": 34,
-    "updated_at": "2026-10-26T20:18:20Z",
-    "url": "https://github.com/thenaxon/somora_agent"
-  },
-  {
-    "description": "",
-    "id": "111nathanlar/Agent-Worlds",
-    "language": "HTML",
-    "name": "111nathanlar/Agent-Worlds",
-    "stars": 1,
-    "updated_at": "2026-10-26T20:15:42Z",
-    "url": "https://github.com/111nathanlar/Agent-Worlds"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-26T20:15:41Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source alternative to LangGraph Platform for TypeScript \u2014 self-host your LangGraph.js agents behind the standard Ag",
-    "id": "skein-js/skein-js",
-    "language": "TypeScript",
-    "name": "skein-js/skein-js",
-    "stars": 17,
-    "updated_at": "2026-10-26T20:12:42Z",
-    "url": "https://github.com/skein-js/skein-js"
   }
 ]
