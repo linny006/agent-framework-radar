@@ -1,30 +1,12 @@
 [
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-26T20:00:16Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11066,
-    "updated_at": "2026-10-26T20:00:06Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
-    "id": "sytone/botnexus",
-    "language": "C#",
-    "name": "sytone/botnexus",
-    "stars": 2,
-    "updated_at": "2026-10-26T19:59:45Z",
-    "url": "https://github.com/sytone/botnexus"
+    "description": "Open-source alternative to LangGraph Platform for TypeScript \u2014 self-host your LangGraph.js agents behind the standard Ag",
+    "id": "skein-js/skein-js",
+    "language": "TypeScript",
+    "name": "skein-js/skein-js",
+    "stars": 17,
+    "updated_at": "2026-10-26T20:12:42Z",
+    "url": "https://github.com/skein-js/skein-js"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -32,8 +14,107 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-26T19:58:29Z",
+    "updated_at": "2026-10-26T20:13:08Z",
     "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2405,
+    "updated_at": "2026-10-26T20:08:07Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-26T20:06:07Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
+    "id": "sytone/botnexus",
+    "language": "C#",
+    "name": "sytone/botnexus",
+    "stars": 2,
+    "updated_at": "2026-10-26T20:04:21Z",
+    "url": "https://github.com/sytone/botnexus"
+  },
+  {
+    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
+    "id": "maref-org/maref",
+    "language": "Python",
+    "name": "maref-org/maref",
+    "stars": 10,
+    "updated_at": "2026-10-26T20:06:07Z",
+    "url": "https://github.com/maref-org/maref"
+  },
+  {
+    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
+    "id": "openamer/openamer",
+    "language": "Python",
+    "name": "openamer/openamer",
+    "stars": 8,
+    "updated_at": "2026-10-26T20:03:29Z",
+    "url": "https://github.com/openamer/openamer"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 5020,
+    "updated_at": "2026-10-26T20:09:51Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "OpenCode V2 agent orchestration: durable plans, parallel delegation, LSP intelligence, and memory with dream reflection",
+    "id": "orgShtora-1/omo",
+    "language": "TypeScript",
+    "name": "orgShtora-1/omo",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:00:46Z",
+    "url": "https://github.com/orgShtora-1/omo"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20887,
+    "updated_at": "2026-10-26T20:14:55Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-26T20:00:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-10-26T20:00:26Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11066,
+    "updated_at": "2026-10-26T20:11:59Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -45,13 +126,13 @@
     "url": "https://github.com/DJG3DK/persei"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
     "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-26T19:54:51Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3687,
+    "updated_at": "2026-10-26T19:56:45Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -59,7 +140,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-26T19:54:44Z",
+    "updated_at": "2026-10-26T20:07:29Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -81,31 +162,13 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2405,
-    "updated_at": "2026-10-26T19:52:47Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
     "id": "eigent-ai/eigent",
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15666,
-    "updated_at": "2026-10-26T19:52:04Z",
+    "updated_at": "2026-10-26T20:08:02Z",
     "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20886,
-    "updated_at": "2026-10-26T20:00:07Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Generative UI with Microsoft Agent Framework: the model writes CSS, HTML and JavaScript, streamed into a sandboxed ifram",
@@ -121,7 +184,7 @@
     "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
-    "stars": 538,
+    "stars": 540,
     "updated_at": "2026-10-26T19:47:01Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
@@ -133,15 +196,6 @@
     "stars": 308,
     "updated_at": "2026-10-26T19:45:15Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "",
-    "id": "hrabanazviking/hrabanazviking",
-    "language": "\u2014",
-    "name": "hrabanazviking/hrabanazviking",
-    "stars": 4,
-    "updated_at": "2026-10-26T19:43:53Z",
-    "url": "https://github.com/hrabanazviking/hrabanazviking"
   },
   {
     "description": "A structured agent runtime for LLMs. Structured context, multi-stage workflows, and ECS-based orchestration in a single ",
@@ -167,17 +221,8 @@
     "language": "TypeScript",
     "name": "dpalfery/kyber-weave",
     "stars": 23,
-    "updated_at": "2026-10-26T19:40:28Z",
+    "updated_at": "2026-10-26T20:03:37Z",
     "url": "https://github.com/dpalfery/kyber-weave"
-  },
-  {
-    "description": "MAREF: Multi-Agent Recursive Evolution Framework \u2014 Agent Governance Operating System",
-    "id": "maref-org/maref",
-    "language": "Python",
-    "name": "maref-org/maref",
-    "stars": 10,
-    "updated_at": "2026-10-26T19:37:16Z",
-    "url": "https://github.com/maref-org/maref"
   },
   {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 159,
-    "updated_at": "2026-10-26T19:33:26Z",
+    "updated_at": "2026-10-26T20:02:01Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-26T19:58:08Z",
+    "updated_at": "2026-10-26T20:14:21Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 661,
-    "updated_at": "2026-10-26T19:21:25Z",
+    "updated_at": "2026-10-26T20:07:17Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "dzhioev/bro",
     "stars": 11,
-    "updated_at": "2026-10-26T19:20:44Z",
+    "updated_at": "2026-10-26T20:07:16Z",
     "url": "https://github.com/dzhioev/bro"
   },
   {
@@ -347,7 +392,7 @@
     "language": "JavaScript",
     "name": "morethanrealio/brambit",
     "stars": 22,
-    "updated_at": "2026-10-26T19:06:46Z",
+    "updated_at": "2026-10-26T20:08:41Z",
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-10-26T19:01:38Z",
+    "updated_at": "2026-10-26T20:09:37Z",
     "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
@@ -364,7 +409,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8957,
+    "stars": 8958,
     "updated_at": "2026-10-26T18:56:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-26T19:57:03Z",
+    "updated_at": "2026-10-26T20:11:30Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 5,
-    "updated_at": "2026-10-26T18:49:53Z",
-    "url": "https://github.com/daretodave/nexus"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 112,
-    "updated_at": "2026-10-26T18:43:16Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 62,
-    "updated_at": "2026-10-26T18:38:53Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-26T18:46:56Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 682,
-    "updated_at": "2026-10-26T19:08:17Z",
-    "url": "https://github.com/framerslab/agentos"
   }
 ]
