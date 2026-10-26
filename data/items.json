@@ -1,5 +1,131 @@
 [
   {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-26T23:15:21Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run C",
+    "id": "HarnessRouter/harnessrouter",
+    "language": "Python",
+    "name": "HarnessRouter/harnessrouter",
+    "stars": 3691,
+    "updated_at": "2026-10-26T23:14:33Z",
+    "url": "https://github.com/HarnessRouter/harnessrouter"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4486,
+    "updated_at": "2026-10-26T23:14:05Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harne",
+    "id": "miuuyy/Octopus-SI-OS",
+    "language": "Rust",
+    "name": "miuuyy/Octopus-SI-OS",
+    "stars": 548,
+    "updated_at": "2026-10-26T23:13:57Z",
+    "url": "https://github.com/miuuyy/Octopus-SI-OS"
+  },
+  {
+    "description": "Workflow builder for coding agents \ud83d\udc36",
+    "id": "orhun/voff",
+    "language": "Rust",
+    "name": "orhun/voff",
+    "stars": 10,
+    "updated_at": "2026-10-26T23:10:39Z",
+    "url": "https://github.com/orhun/voff"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11067,
+    "updated_at": "2026-10-26T23:13:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
+    "id": "Jovancoding/Network-AI",
+    "language": "TypeScript",
+    "name": "Jovancoding/Network-AI",
+    "stars": 79,
+    "updated_at": "2026-10-26T23:09:07Z",
+    "url": "https://github.com/Jovancoding/Network-AI"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20888,
+    "updated_at": "2026-10-26T23:12:57Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 37,
+    "updated_at": "2026-10-26T23:04:20Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Where agents build agents. An open-source Rust framework for complex agentic systems: ontology-grounded, auditable, one ",
+    "id": "mmeyerlein/meclaw",
+    "language": "Rust",
+    "name": "mmeyerlein/meclaw",
+    "stars": 41,
+    "updated_at": "2026-10-26T23:03:16Z",
+    "url": "https://github.com/mmeyerlein/meclaw"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:04:38Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
+    "id": "NekomyaDev/nudge",
+    "language": "Rust",
+    "name": "NekomyaDev/nudge",
+    "stars": 18,
+    "updated_at": "2026-10-26T23:01:49Z",
+    "url": "https://github.com/NekomyaDev/nudge"
+  },
+  {
+    "description": "Autonomous AI Algorithm Discovery Laboratory: a bounded, reproducible research platform that proposes, implements, tests",
+    "id": "NullLabTests/AlgoLab",
+    "language": "Python",
+    "name": "NullLabTests/AlgoLab",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:01:39Z",
+    "url": "https://github.com/NullLabTests/AlgoLab"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-26T23:00:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "M-Agent - a fully on-device general AI agent for Android (mobile WorkBuddy): one-line task, local browser/file/app autom",
     "id": "WillowYi/M-Agent",
     "language": "Kotlin",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "jlcatonjr/agentteams",
     "stars": 0,
-    "updated_at": "2026-10-26T22:59:41Z",
+    "updated_at": "2026-10-26T23:11:39Z",
     "url": "https://github.com/jlcatonjr/agentteams"
   },
   {
@@ -23,7 +149,7 @@
     "language": "TypeScript",
     "name": "strands-agents/harness-sdk",
     "stars": 8959,
-    "updated_at": "2026-10-26T22:59:07Z",
+    "updated_at": "2026-10-26T23:03:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -36,15 +162,6 @@
     "url": "https://github.com/AgentsKit-io/agentskit-registry"
   },
   {
-    "description": "A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript.",
-    "id": "NekomyaDev/nudge",
-    "language": "Rust",
-    "name": "NekomyaDev/nudge",
-    "stars": 18,
-    "updated_at": "2026-10-26T22:55:58Z",
-    "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
     "description": "Constitution-first AI orchestration: one Charter (YAML) defines mission, budget & rules. CEO plans \u2192 CFO approves \u2192 Ledg",
     "id": "Justin0504/Sovereign-OS",
     "language": "Python",
@@ -52,15 +169,6 @@
     "stars": 104,
     "updated_at": "2026-10-26T22:55:20Z",
     "url": "https://github.com/Justin0504/Sovereign-OS"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11067,
-    "updated_at": "2026-10-26T22:59:29Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
@@ -81,22 +189,13 @@
     "url": "https://github.com/markadams31/azure-study-coach"
   },
   {
-    "description": "A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harne",
-    "id": "miuuyy/Octopus-SI-OS",
-    "language": "Rust",
-    "name": "miuuyy/Octopus-SI-OS",
-    "stars": 546,
-    "updated_at": "2026-10-26T22:48:40Z",
-    "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-26T22:45:21Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 67,
+    "updated_at": "2026-10-26T22:43:19Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -104,7 +203,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1374,
-    "updated_at": "2026-10-26T22:42:45Z",
+    "updated_at": "2026-10-26T23:06:43Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -140,7 +239,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 1,
-    "updated_at": "2026-10-26T22:40:08Z",
+    "updated_at": "2026-10-26T23:01:36Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -180,15 +279,6 @@
     "url": "https://github.com/incordai/.github"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20888,
-    "updated_at": "2026-10-26T23:00:10Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -196,15 +286,6 @@
     "stars": 308,
     "updated_at": "2026-10-26T22:31:28Z",
     "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:57:26Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "An open-source studio for teams of AI agents, from marketing squads to dev teams to research crews. Deploy a team, then ",
@@ -279,15 +360,6 @@
     "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 37,
-    "updated_at": "2026-10-26T22:20:41Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
     "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
     "id": "Rovinos-AI/rovinos-ai-harness",
     "language": "TypeScript",
@@ -311,7 +383,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-26T22:55:20Z",
+    "updated_at": "2026-10-26T23:10:45Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -331,15 +403,6 @@
     "stars": 83,
     "updated_at": "2026-10-26T22:06:24Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The Ruby AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4486,
-    "updated_at": "2026-10-26T22:04:57Z",
-    "url": "https://github.com/crmne/ruby_llm"
   },
   {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T21:58:14Z",
+    "updated_at": "2026-10-26T23:04:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The .NET library to build AI agents with 30+ built-in connectors.",
-    "id": "lofcz/LLMTornado",
-    "language": "C#",
-    "name": "lofcz/LLMTornado",
-    "stars": 649,
-    "updated_at": "2026-10-26T21:56:39Z",
-    "url": "https://github.com/lofcz/LLMTornado"
-  },
-  {
-    "description": "\u4e3a\u9e3f\u8499 (HarmonyOS/OpenHarmony) \u5f00\u53d1\u5168\u6d41\u7a0b\u800c\u751f\u7684\u81ea\u8fdb\u5316\u667a\u80fd\u4f53\u6846\u67b6\u2014\u2014\u96f6\u4f9d\u8d56\u5185\u6838\u3001\u81ea\u8fdb\u5316\u4e00\u7b49\u516c\u6c11\u3001MCP \u751f\u6001\u501f\u529b\u3001\u6a21\u62df\u5668\u4e0e\u5de5\u5177\u94fe\u65e0\u5934\u5168\u63a7\u3002Self-evolving agent framework for the f",
-    "id": "swsgbl/hmharness",
-    "language": "TypeScript",
-    "name": "swsgbl/hmharness",
-    "stars": 5,
-    "updated_at": "2026-10-26T21:55:39Z",
-    "url": "https://github.com/swsgbl/hmharness"
-  },
-  {
-    "description": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
-    "id": "evalstate/fast-agent",
-    "language": "Python",
-    "name": "evalstate/fast-agent",
-    "stars": 3951,
-    "updated_at": "2026-10-26T22:14:35Z",
-    "url": "https://github.com/evalstate/fast-agent"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15666,
-    "updated_at": "2026-10-26T22:55:10Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-26T22:44:23Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-    "id": "morethanrealio/brambit",
-    "language": "JavaScript",
-    "name": "morethanrealio/brambit",
-    "stars": 22,
-    "updated_at": "2026-10-26T21:49:09Z",
-    "url": "https://github.com/morethanrealio/brambit"
-  },
-  {
-    "description": "Neural Computation Protocol (NCP): composable, sandboxed Bricks + graphs for auditable, replayable agentic systems.",
-    "id": "madeinplutofabio/neural-computation-protocol",
-    "language": "Rust",
-    "name": "madeinplutofabio/neural-computation-protocol",
-    "stars": 15,
-    "updated_at": "2026-10-26T21:44:27Z",
-    "url": "https://github.com/madeinplutofabio/neural-computation-protocol"
   }
 ]
