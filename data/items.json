@@ -1,5 +1,23 @@
 [
   {
+    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
+    "id": "Opita-Code/opita-code",
+    "language": "TypeScript",
+    "name": "Opita-Code/opita-code",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:30:09Z",
+    "url": "https://github.com/Opita-Code/opita-code"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-26T23:29:51Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20888,
-    "updated_at": "2026-10-26T23:27:26Z",
+    "updated_at": "2026-10-26T23:30:11Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 16,
     "updated_at": "2026-10-26T23:23:37Z",
     "url": "https://github.com/bbvch-ai/aihub-core"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-26T23:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
@@ -349,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T22:30:00Z",
     "url": "https://github.com/sytone/botnexus"
-  },
-  {
-    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
-    "id": "Opita-Code/opita-code",
-    "language": "TypeScript",
-    "name": "Opita-Code/opita-code",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:29:43Z",
-    "url": "https://github.com/Opita-Code/opita-code"
   },
   {
     "description": "Agent toolkit",
