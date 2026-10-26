@@ -1,10 +1,91 @@
 [
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:13:47Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 2,
+    "updated_at": "2026-10-26T00:15:19Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 43,
+    "updated_at": "2026-10-26T00:12:04Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "a methodology for autonomous projects that ship themselves (hands off)",
+    "id": "daretodave/nexus",
+    "language": "JavaScript",
+    "name": "daretodave/nexus",
+    "stars": 5,
+    "updated_at": "2026-10-26T00:11:18Z",
+    "url": "https://github.com/daretodave/nexus"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 5021,
+    "updated_at": "2026-10-26T00:07:33Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Agentic game development for building games with AI Agents. Run one session per seat: art, gameplay, narrative, QA, audi",
+    "id": "Thepizzapie/BuildersGate",
+    "language": "Python",
+    "name": "Thepizzapie/BuildersGate",
+    "stars": 32,
+    "updated_at": "2026-10-26T00:07:06Z",
+    "url": "https://github.com/Thepizzapie/BuildersGate"
+  },
+  {
+    "description": "Hermes War Room \u2014 a shared Discord + disk room where your AI agents talk to each other, and you can walk in and talk to ",
+    "id": "Phyzx72/hermes-war-room",
+    "language": "Python",
+    "name": "Phyzx72/hermes-war-room",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:09:34Z",
+    "url": "https://github.com/Phyzx72/hermes-war-room"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35962,
+    "updated_at": "2026-10-26T00:03:02Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 8,
+    "updated_at": "2026-10-26T00:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harne",
     "id": "miuuyy/Octopus-SI-OS",
     "language": "Rust",
     "name": "miuuyy/Octopus-SI-OS",
-    "stars": 385,
+    "stars": 389,
     "updated_at": "2026-10-25T23:59:52Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
   },
@@ -45,15 +126,6 @@
     "url": "https://github.com/axisvela/praxo-core"
   },
   {
-    "description": "Hermes War Room \u2014 a shared Discord + disk room where your AI agents talk to each other, and you can walk in and talk to ",
-    "id": "Phyzx72/hermes-war-room",
-    "language": "Python",
-    "name": "Phyzx72/hermes-war-room",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:56:55Z",
-    "url": "https://github.com/Phyzx72/hermes-war-room"
-  },
-  {
     "description": "A group chat protocol hub implemented according to the *AG-UI Group Chat Extension Protocol Standard v1.0*, written in C",
     "id": "DavidCompute/AG-UI_Multi-Party",
     "language": "C#",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1370,
-    "updated_at": "2026-10-25T23:59:03Z",
+    "updated_at": "2026-10-26T00:14:51Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3630,
-    "updated_at": "2026-10-25T23:49:44Z",
+    "updated_at": "2026-10-26T00:03:27Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 17,
     "updated_at": "2026-10-25T23:46:16Z",
     "url": "https://github.com/AshishKumar4/Nimbus"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 8,
-    "updated_at": "2026-10-25T23:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 37,
-    "updated_at": "2026-10-25T23:51:13Z",
+    "updated_at": "2026-10-26T00:00:34Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 110,
-    "updated_at": "2026-10-25T23:50:37Z",
+    "updated_at": "2026-10-26T00:09:48Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 62,
     "updated_at": "2026-10-25T23:53:14Z",
     "url": "https://github.com/griffinwork40/agent-afk"
-  },
-  {
-    "description": "a methodology for autonomous projects that ship themselves (hands off)",
-    "id": "daretodave/nexus",
-    "language": "JavaScript",
-    "name": "daretodave/nexus",
-    "stars": 5,
-    "updated_at": "2026-10-25T23:23:24Z",
-    "url": "https://github.com/daretodave/nexus"
   },
   {
     "description": "The Ruby AI framework.",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-25T22:47:51Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:49:27Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-25T22:47:22Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20865,
-    "updated_at": "2026-10-25T23:55:11Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Agentic Development Lifecycle",
-    "id": "voodootikigod/adlc",
-    "language": "JavaScript",
-    "name": "voodootikigod/adlc",
-    "stars": 52,
-    "updated_at": "2026-10-25T23:18:19Z",
-    "url": "https://github.com/voodootikigod/adlc"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 7,
-    "updated_at": "2026-10-25T22:42:25Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 6,
-    "updated_at": "2026-10-25T22:43:51Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
   }
 ]
