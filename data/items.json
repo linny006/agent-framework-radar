@@ -1,5 +1,77 @@
 [
   {
+    "description": "CubeLoop \u2014 a Pythonic, async-native agent harness core designed for high performance, readability, and production-grade ",
+    "id": "cubeplexai/cubeloop",
+    "language": "Python",
+    "name": "cubeplexai/cubeloop",
+    "stars": 82,
+    "updated_at": "2026-10-27T03:00:04Z",
+    "url": "https://github.com/cubeplexai/cubeloop"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:00:00Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20890,
+    "updated_at": "2026-10-27T02:59:49Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T02:54:38Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-27T02:51:55Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "Official Mvge catalog of Runes (extensions) and Mvges (agents).",
+    "id": "IAmNo1Special/mvge-marketplace",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge-marketplace",
+    "stars": 1,
+    "updated_at": "2026-10-27T02:51:31Z",
+    "url": "https://github.com/IAmNo1Special/mvge-marketplace"
+  },
+  {
+    "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
+    "id": "Inupedia/spotlight",
+    "language": "TypeScript",
+    "name": "Inupedia/spotlight",
+    "stars": 2,
+    "updated_at": "2026-10-27T02:45:50Z",
+    "url": "https://github.com/Inupedia/spotlight"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-27T02:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "a methodology for autonomous projects that ship themselves (hands off)",
     "id": "daretodave/nexus",
     "language": "JavaScript",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-27T02:42:57Z",
+    "updated_at": "2026-10-27T02:49:17Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 2406,
     "updated_at": "2026-10-27T02:42:56Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20889,
-    "updated_at": "2026-10-27T02:42:59Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "A self-evolving agent that lives on your phone and commands a fleet of servers",
@@ -81,21 +144,12 @@
     "url": "https://github.com/Search2o/agent-server"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-27T02:30:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11067,
-    "updated_at": "2026-10-27T02:45:07Z",
+    "updated_at": "2026-10-27T03:00:21Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-27T02:44:16Z",
+    "updated_at": "2026-10-27T02:57:26Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T02:44:19Z",
+    "updated_at": "2026-10-27T03:00:07Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -176,7 +230,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1374,
-    "updated_at": "2026-10-27T02:43:10Z",
+    "updated_at": "2026-10-27T02:48:38Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T02:21:51Z",
     "url": "https://github.com/cmcoffee/gohort"
-  },
-  {
-    "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T02:19:05Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
   },
   {
     "description": "The AI Agent framework for enterprises and agencies",
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 414,
-    "updated_at": "2026-10-27T02:26:49Z",
+    "updated_at": "2026-10-27T02:46:11Z",
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-27T02:45:10Z",
+    "updated_at": "2026-10-27T02:52:55Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 8,
     "updated_at": "2026-10-27T02:03:02Z",
     "url": "https://github.com/openamer/openamer"
-  },
-  {
-    "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
-    "id": "Inupedia/spotlight",
-    "language": "TypeScript",
-    "name": "Inupedia/spotlight",
-    "stars": 2,
-    "updated_at": "2026-10-27T01:58:38Z",
-    "url": "https://github.com/Inupedia/spotlight"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49435,
-    "updated_at": "2026-10-27T01:53:46Z",
+    "updated_at": "2026-10-27T02:54:57Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -355,8 +391,8 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35979,
-    "updated_at": "2026-10-27T01:45:09Z",
+    "stars": 35980,
+    "updated_at": "2026-10-27T02:58:46Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -382,7 +418,7 @@
     "id": "DemonDamon/AgenticX",
     "language": "Python",
     "name": "DemonDamon/AgenticX",
-    "stars": 716,
+    "stars": 717,
     "updated_at": "2026-10-27T01:43:02Z",
     "url": "https://github.com/DemonDamon/AgenticX"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T01:39:47Z",
     "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-27T01:39:39Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability i",
-    "id": "aiperceivable/apflow",
-    "language": "Python",
-    "name": "aiperceivable/apflow",
-    "stars": 21,
-    "updated_at": "2026-10-27T01:38:01Z",
-    "url": "https://github.com/aiperceivable/apflow"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/persei",
-    "language": "Python",
-    "name": "DJG3DK/persei",
-    "stars": 3,
-    "updated_at": "2026-10-27T01:32:18Z",
-    "url": "https://github.com/DJG3DK/persei"
-  },
-  {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 110,
-    "updated_at": "2026-10-27T01:27:07Z",
-    "url": "https://github.com/NarraFork/NarraFork"
   }
 ]
