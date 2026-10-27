@@ -1,12 +1,93 @@
 [
   {
-    "description": "The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn intentions into traceable, auditable, r",
-    "id": "GeekFamilyCorp/TricorderKit",
+    "description": "AI production desk for a football broadcast, on synthetic match data",
+    "id": "Guepe99/studio-desk",
+    "language": "JavaScript",
+    "name": "Guepe99/studio-desk",
+    "stars": 0,
+    "updated_at": "2026-10-27T21:14:48Z",
+    "url": "https://github.com/Guepe99/studio-desk"
+  },
+  {
+    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
+    "id": "Pal-AI-Lab/Cortico",
+    "language": "TypeScript",
+    "name": "Pal-AI-Lab/Cortico",
+    "stars": 303,
+    "updated_at": "2026-10-27T21:14:25Z",
+    "url": "https://github.com/Pal-AI-Lab/Cortico"
+  },
+  {
+    "description": "Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every co",
+    "id": "oracle/locus",
     "language": "Python",
-    "name": "GeekFamilyCorp/TricorderKit",
-    "stars": 32,
-    "updated_at": "2026-10-27T20:56:54Z",
-    "url": "https://github.com/GeekFamilyCorp/TricorderKit"
+    "name": "oracle/locus",
+    "stars": 5,
+    "updated_at": "2026-10-27T21:13:52Z",
+    "url": "https://github.com/oracle/locus"
+  },
+  {
+    "description": "Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and ",
+    "id": "weftgo/weft",
+    "language": "Go",
+    "name": "weftgo/weft",
+    "stars": 3,
+    "updated_at": "2026-10-27T21:12:32Z",
+    "url": "https://github.com/weftgo/weft"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20906,
+    "updated_at": "2026-10-27T21:15:23Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 1,
+    "updated_at": "2026-10-27T21:14:48Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 14343,
+    "updated_at": "2026-10-27T21:09:53Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 333,
+    "updated_at": "2026-10-27T21:14:45Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11086,
+    "updated_at": "2026-10-27T21:12:57Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-27T21:06:51Z",
+    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
@@ -14,8 +95,62 @@
     "language": "Ruby",
     "name": "swombat/souls-house",
     "stars": 46,
-    "updated_at": "2026-10-27T21:00:05Z",
+    "updated_at": "2026-10-27T21:11:09Z",
     "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-27T21:10:06Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
+    "id": "bide-ai/bide",
+    "language": "Go",
+    "name": "bide-ai/bide",
+    "stars": 7,
+    "updated_at": "2026-10-27T21:08:38Z",
+    "url": "https://github.com/bide-ai/bide"
+  },
+  {
+    "description": "Agentic LLM shell aimed at low cost GPUs",
+    "id": "chrisws/hali",
+    "language": "C",
+    "name": "chrisws/hali",
+    "stars": 5,
+    "updated_at": "2026-10-27T21:01:54Z",
+    "url": "https://github.com/chrisws/hali"
+  },
+  {
+    "description": "A foundation for building AI agents on top of the Claude Agent SDK",
+    "id": "falkenslab/agent-kit",
+    "language": "TypeScript",
+    "name": "falkenslab/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-27T21:00:31Z",
+    "url": "https://github.com/falkenslab/agent-kit"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-27T21:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn intentions into traceable, auditable, r",
+    "id": "GeekFamilyCorp/TricorderKit",
+    "language": "Python",
+    "name": "GeekFamilyCorp/TricorderKit",
+    "stars": 32,
+    "updated_at": "2026-10-27T20:56:54Z",
+    "url": "https://github.com/GeekFamilyCorp/TricorderKit"
   },
   {
     "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
@@ -27,24 +162,6 @@
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   },
   {
-    "description": "Event-stream AI Agent framework for building your persona bot \ud83c\udf4a",
-    "id": "Pal-AI-Lab/Cortico",
-    "language": "TypeScript",
-    "name": "Pal-AI-Lab/Cortico",
-    "stars": 303,
-    "updated_at": "2026-10-27T20:58:24Z",
-    "url": "https://github.com/Pal-AI-Lab/Cortico"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-27T20:52:13Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Where agents build agents. An open-source Rust framework for complex agentic systems: ontology-grounded, auditable, one ",
     "id": "mmeyerlein/meclaw",
     "language": "Rust",
@@ -52,24 +169,6 @@
     "stars": 41,
     "updated_at": "2026-10-27T20:50:45Z",
     "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20905,
-    "updated_at": "2026-10-27T20:58:09Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11086,
-    "updated_at": "2026-10-27T20:59:33Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
@@ -99,30 +198,12 @@
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-27T20:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every co",
-    "id": "oracle/locus",
-    "language": "Python",
-    "name": "oracle/locus",
-    "stars": 5,
-    "updated_at": "2026-10-27T20:56:42Z",
-    "url": "https://github.com/oracle/locus"
-  },
-  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-27T20:57:36Z",
+    "updated_at": "2026-10-27T21:13:38Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -140,17 +221,8 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-27T20:43:09Z",
+    "updated_at": "2026-10-27T21:06:21Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-27T20:39:57Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "A hosted AI coworker in the channels where your team already talks \u2014 open source, and yours to run.",
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "sageox/agent-toolkit",
     "stars": 12,
-    "updated_at": "2026-10-27T20:38:57Z",
+    "updated_at": "2026-10-27T21:08:10Z",
     "url": "https://github.com/sageox/agent-toolkit"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
-    "description": "Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and ",
-    "id": "weftgo/weft",
-    "language": "Go",
-    "name": "weftgo/weft",
-    "stars": 3,
-    "updated_at": "2026-10-27T20:34:06Z",
-    "url": "https://github.com/weftgo/weft"
-  },
-  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -243,15 +306,6 @@
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 1,
-    "updated_at": "2026-10-27T20:40:01Z",
-    "url": "https://github.com/dshakes/lantern"
-  },
-  {
     "description": "The full-stack TypeScript framework for AI agents. An agent is a file: drop it in agents/ and it gets an HTTP route, tok",
     "id": "usetheokit/theokit",
     "language": "TypeScript",
@@ -284,7 +338,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-27T20:59:29Z",
+    "updated_at": "2026-10-27T21:13:02Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -338,7 +392,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15672,
-    "updated_at": "2026-10-27T19:49:35Z",
+    "updated_at": "2026-10-27T21:02:43Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-27T19:36:29Z",
     "url": "https://github.com/devoidfury/hotdog"
-  },
-  {
-    "description": "Mutli Agent Scheduling",
-    "id": "sudo8phoenix/Time_Agent",
-    "language": "Python",
-    "name": "sudo8phoenix/Time_Agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:33:22Z",
-    "url": "https://github.com/sudo8phoenix/Time_Agent"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 333,
-    "updated_at": "2026-10-27T20:58:35Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
-    "id": "Azure/agent-landing-zone",
-    "language": "Python",
-    "name": "Azure/agent-landing-zone",
-    "stars": 1194,
-    "updated_at": "2026-10-27T19:25:17Z",
-    "url": "https://github.com/Azure/agent-landing-zone"
-  },
-  {
-    "description": "The authoritative standard and developer skill for DeepSeek Harness (DSH 0.2.0-rc.2) & Cordis plugin development.",
-    "id": "Wenaixi/dsh-plugin-dev",
-    "language": "JavaScript",
-    "name": "Wenaixi/dsh-plugin-dev",
-    "stars": 1,
-    "updated_at": "2026-10-27T19:24:30Z",
-    "url": "https://github.com/Wenaixi/dsh-plugin-dev"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
-    "id": "LovaHuguel/Khala-Orchestrator-Core",
-    "language": "HTML",
-    "name": "LovaHuguel/Khala-Orchestrator-Core",
-    "stars": 1,
-    "updated_at": "2026-10-27T19:20:25Z",
-    "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core"
-  },
-  {
-    "description": "Agentic coding framework and meta-harness for planning, building, reviewing, and tuning software across coding agents. P",
-    "id": "dpalfery/kyber-weave",
-    "language": "TypeScript",
-    "name": "dpalfery/kyber-weave",
-    "stars": 23,
-    "updated_at": "2026-10-27T20:51:03Z",
-    "url": "https://github.com/dpalfery/kyber-weave"
   }
 ]
