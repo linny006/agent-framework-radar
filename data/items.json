@@ -1,12 +1,129 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-27T18:12:06Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:11:54Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
+  },
+  {
+    "description": "Open-source platform for internal AI agents. Your team's knowledge, rules and tools once, used in chat, workflows and yo",
+    "id": "hubzoid/hubzoid",
+    "language": "Python",
+    "name": "hubzoid/hubzoid",
+    "stars": 15,
+    "updated_at": "2026-10-27T18:11:20Z",
+    "url": "https://github.com/hubzoid/hubzoid"
+  },
+  {
+    "description": "Embeddable self-adaptive agent kernel for host applications",
+    "id": "Gi-Tuu/yai-agent-core",
+    "language": "Python",
+    "name": "Gi-Tuu/yai-agent-core",
+    "stars": 9,
+    "updated_at": "2026-10-27T18:09:56Z",
+    "url": "https://github.com/Gi-Tuu/yai-agent-core"
+  },
+  {
+    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
+    "id": "synapse-ai-hub/Forge",
+    "language": "Python",
+    "name": "synapse-ai-hub/Forge",
+    "stars": 6,
+    "updated_at": "2026-10-27T18:07:49Z",
+    "url": "https://github.com/synapse-ai-hub/Forge"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 11082,
-    "updated_at": "2026-10-27T17:59:58Z",
+    "stars": 11083,
+    "updated_at": "2026-10-27T18:12:45Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-27T18:05:56Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1371,
+    "updated_at": "2026-10-27T18:13:13Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 5,
+    "updated_at": "2026-10-27T18:05:02Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 361,
+    "updated_at": "2026-10-27T18:04:12Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-27T18:11:49Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Production ready Personal AI Agent Platform using Claude Code CLI. Focused on productivity, reliability and security at ",
+    "id": "shaharia-lab/agento",
+    "language": "Rust",
+    "name": "shaharia-lab/agento",
+    "stars": 33,
+    "updated_at": "2026-10-27T18:01:18Z",
+    "url": "https://github.com/shaharia-lab/agento"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-27T18:00:30Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49500,
+    "updated_at": "2026-10-27T17:59:34Z",
+    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "Stop agents from running tools nobody authorised, and from claiming success on work that never happened. Typed, gated, v",
@@ -23,7 +140,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-27T17:57:45Z",
+    "updated_at": "2026-10-27T18:05:57Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -32,7 +149,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20905,
-    "updated_at": "2026-10-27T17:59:02Z",
+    "updated_at": "2026-10-27T18:15:12Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -54,24 +171,6 @@
     "url": "https://github.com/yangheng95/opencorvus"
   },
   {
-    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
-    "id": "synapse-ai-hub/Forge",
-    "language": "Python",
-    "name": "synapse-ai-hub/Forge",
-    "stars": 6,
-    "updated_at": "2026-10-27T17:56:36Z",
-    "url": "https://github.com/synapse-ai-hub/Forge"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-27T17:59:40Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
     "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff",
     "id": "BlackBeltTechnology/pi-agent-dashboard",
     "language": "TypeScript",
@@ -79,15 +178,6 @@
     "stars": 333,
     "updated_at": "2026-10-27T17:52:24Z",
     "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 361,
-    "updated_at": "2026-10-27T17:51:31Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -131,7 +221,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-27T17:54:39Z",
+    "updated_at": "2026-10-27T18:15:11Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T17:45:36Z",
     "url": "https://github.com/weftgo/weft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-27T17:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "https://heros-agent.space \u2014 five agents that do real work and say plainly what they did not, plus Market watch: what cou",
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "oracle/locus",
     "stars": 5,
-    "updated_at": "2026-10-27T17:38:48Z",
+    "updated_at": "2026-10-27T18:13:24Z",
     "url": "https://github.com/oracle/locus"
   },
   {
@@ -261,24 +342,6 @@
     "url": "https://github.com/Jovancoding/Network-AI"
   },
   {
-    "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. An",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1371,
-    "updated_at": "2026-10-27T17:59:44Z",
-    "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
-    "id": "fswolf/luna-local-agent",
-    "language": "Python",
-    "name": "fswolf/luna-local-agent",
-    "stars": 5,
-    "updated_at": "2026-10-27T17:19:28Z",
-    "url": "https://github.com/fswolf/luna-local-agent"
-  },
-  {
     "description": "A Python Code Agent",
     "id": "ylzz1997/crabcode",
     "language": "Python",
@@ -311,17 +374,8 @@
     "language": "Go",
     "name": "cordum-io/cordum",
     "stars": 510,
-    "updated_at": "2026-10-27T17:48:20Z",
+    "updated_at": "2026-10-27T18:09:36Z",
     "url": "https://github.com/cordum-io/cordum"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-27T17:46:06Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Rust multi-agent coordination platform: HTTP/SSE gateway, agent runtime with token-budgeted context, per-tool sandboxing",
@@ -374,17 +428,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T17:48:23Z",
+    "updated_at": "2026-10-27T18:13:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Embeddable self-adaptive agent kernel for host applications",
-    "id": "Gi-Tuu/yai-agent-core",
-    "language": "Python",
-    "name": "Gi-Tuu/yai-agent-core",
-    "stars": 9,
-    "updated_at": "2026-10-27T17:10:55Z",
-    "url": "https://github.com/Gi-Tuu/yai-agent-core"
   },
   {
     "description": "A lightweight agent framework for production runtime. Cycle-based execution with pluggable LLM backends, tool dispatch, ",
@@ -403,50 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-27T17:08:26Z",
     "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
-    "id": "JoakimCarlsson/ai",
-    "language": "Go",
-    "name": "JoakimCarlsson/ai",
-    "stars": 45,
-    "updated_at": "2026-10-27T17:44:42Z",
-    "url": "https://github.com/JoakimCarlsson/ai"
-  },
-  {
-    "description": "Attention-aware match insights engine: watches the match when you can\u2019t, calls you back when it starts to matter, catche",
-    "id": "imaneoujja/comeback",
-    "language": "Python",
-    "name": "imaneoujja/comeback",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:06:01Z",
-    "url": "https://github.com/imaneoujja/comeback"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8967,
-    "updated_at": "2026-10-27T17:05:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An efficient durable harness for collaboration across people, models, and devices",
-    "id": "NarraFork/NarraFork",
-    "language": "TypeScript",
-    "name": "NarraFork/NarraFork",
-    "stars": 110,
-    "updated_at": "2026-10-27T17:05:19Z",
-    "url": "https://github.com/NarraFork/NarraFork"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/persei",
-    "language": "Python",
-    "name": "DJG3DK/persei",
-    "stars": 3,
-    "updated_at": "2026-10-27T17:09:28Z",
-    "url": "https://github.com/DJG3DK/persei"
   }
 ]
