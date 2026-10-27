@@ -1,5 +1,77 @@
 [
   {
+    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
+    "id": "lychee888/Rag-Kit",
+    "language": "Python",
+    "name": "lychee888/Rag-Kit",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:58:07Z",
+    "url": "https://github.com/lychee888/Rag-Kit"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 64,
+    "updated_at": "2026-10-27T18:51:36Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 333,
+    "updated_at": "2026-10-27T18:55:29Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49503,
+    "updated_at": "2026-10-27T18:49:13Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8968,
+    "updated_at": "2026-10-27T18:48:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N",
+    "id": "microsoft/agent-framework",
+    "language": "Python",
+    "name": "microsoft/agent-framework",
+    "stars": 14342,
+    "updated_at": "2026-10-27T18:54:37Z",
+    "url": "https://github.com/microsoft/agent-framework"
+  },
+  {
+    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
+    "id": "Opita-Code/opita-code",
+    "language": "TypeScript",
+    "name": "Opita-Code/opita-code",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:45:29Z",
+    "url": "https://github.com/Opita-Code/opita-code"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-27T18:45:29Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
     "id": "Birfy/agentdescent",
     "language": "Python",
@@ -9,22 +81,22 @@
     "url": "https://github.com/Birfy/agentdescent"
   },
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11083,
+    "updated_at": "2026-10-27T18:53:15Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
     "id": "manishiitg/agentworks",
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-27T18:45:08Z",
+    "updated_at": "2026-10-27T18:59:56Z",
     "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
-    "id": "lychee888/Rag-Kit",
-    "language": "Python",
-    "name": "lychee888/Rag-Kit",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:41:53Z",
-    "url": "https://github.com/lychee888/Rag-Kit"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-27T18:39:17Z",
+    "updated_at": "2026-10-27T18:59:55Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -50,26 +122,8 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20905,
-    "updated_at": "2026-10-27T18:42:11Z",
+    "updated_at": "2026-10-27T18:59:45Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11083,
-    "updated_at": "2026-10-27T18:42:42Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
-    "id": "Opita-Code/opita-code",
-    "language": "TypeScript",
-    "name": "Opita-Code/opita-code",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:32:10Z",
-    "url": "https://github.com/Opita-Code/opita-code"
   },
   {
     "description": "Agent Joules: energy per agent step, measured on your GPU",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T18:30:34Z",
     "url": "https://github.com/tomas-rampas/agent-joules"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-27T18:30:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open platform for running Managed Agents at scale",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1371,
-    "updated_at": "2026-10-27T18:40:31Z",
+    "updated_at": "2026-10-27T18:49:21Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T18:26:55Z",
     "url": "https://github.com/agentforge-tech/AgentForge"
-  },
-  {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49501,
-    "updated_at": "2026-10-27T18:43:29Z",
-    "url": "https://github.com/HKUDS/nanobot"
   },
   {
     "description": "A reliable coding agent for complex software engineering tasks.",
@@ -167,7 +203,7 @@
     "language": "JavaScript",
     "name": "morethanrealio/brambit",
     "stars": 21,
-    "updated_at": "2026-10-27T18:22:24Z",
+    "updated_at": "2026-10-27T18:46:38Z",
     "url": "https://github.com/morethanrealio/brambit"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-27T18:31:32Z",
+    "updated_at": "2026-10-27T18:57:35Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-27T18:05:57Z",
+    "updated_at": "2026-10-27T18:49:08Z",
     "url": "https://github.com/bide-ai/bide"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/trbearth/fieldwork-agent-os"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 333,
-    "updated_at": "2026-10-27T18:15:11Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Modular Go framework for AI agents: a stdlib-shaped agent core, durable sessions, OpenTelemetry recording built in, and ",
     "id": "weftgo/weft",
     "language": "Go",
@@ -382,7 +409,7 @@
     "id": "crmne/ruby_llm",
     "language": "Ruby",
     "name": "crmne/ruby_llm",
-    "stars": 4486,
+    "stars": 4487,
     "updated_at": "2026-10-27T17:33:43Z",
     "url": "https://github.com/crmne/ruby_llm"
   },
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 1,
-    "updated_at": "2026-10-27T18:34:20Z",
+    "updated_at": "2026-10-27T18:50:48Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 121,
     "updated_at": "2026-10-27T17:23:17Z",
     "url": "https://github.com/israriqbal/agent-ecologies"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 682,
-    "updated_at": "2026-10-27T17:34:17Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrails, and adapters for",
-    "id": "Jovancoding/Network-AI",
-    "language": "TypeScript",
-    "name": "Jovancoding/Network-AI",
-    "stars": 79,
-    "updated_at": "2026-10-27T17:22:27Z",
-    "url": "https://github.com/Jovancoding/Network-AI"
-  },
-  {
-    "description": "A Python Code Agent",
-    "id": "ylzz1997/crabcode",
-    "language": "Python",
-    "name": "ylzz1997/crabcode",
-    "stars": 17,
-    "updated_at": "2026-10-27T17:17:39Z",
-    "url": "https://github.com/ylzz1997/crabcode"
   }
 ]
