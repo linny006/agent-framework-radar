@@ -1,11 +1,164 @@
 [
   {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-27T03:29:17Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:29:01Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
+    "id": "LeonQin-ai/cognitive-os-agent",
+    "language": "C",
+    "name": "LeonQin-ai/cognitive-os-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:28:51Z",
+    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
+  },
+  {
+    "description": "Vibe first. Then FastAgent \u2014 turn a local agent directory into a live service: in your app, on GitHub, in Telegram, or a",
+    "id": "fastagent-sh/fastagent",
+    "language": "TypeScript",
+    "name": "fastagent-sh/fastagent",
+    "stars": 65,
+    "updated_at": "2026-10-27T03:27:46Z",
+    "url": "https://github.com/fastagent-sh/fastagent"
+  },
+  {
+    "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
+    "id": "whyihaveyou/dsh-suite",
+    "language": "HTML",
+    "name": "whyihaveyou/dsh-suite",
+    "stars": 64,
+    "updated_at": "2026-10-27T03:26:03Z",
+    "url": "https://github.com/whyihaveyou/dsh-suite"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 352,
+    "updated_at": "2026-10-27T03:24:51Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
+    "id": "chjm-ai/vococo",
+    "language": "Python",
+    "name": "chjm-ai/vococo",
+    "stars": 42,
+    "updated_at": "2026-10-27T03:24:46Z",
+    "url": "https://github.com/chjm-ai/vococo"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-27T03:23:26Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-27T03:22:14Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11067,
+    "updated_at": "2026-10-27T03:24:52Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A self-evolving agent that lives on your phone and commands a fleet of servers",
+    "id": "RexHuang/novus",
+    "language": "TypeScript",
+    "name": "RexHuang/novus",
+    "stars": 8,
+    "updated_at": "2026-10-27T03:19:48Z",
+    "url": "https://github.com/RexHuang/novus"
+  },
+  {
+    "description": "CubeLoop \u2014 a Pythonic, async-native agent harness core designed for high performance, readability, and production-grade ",
+    "id": "cubeplexai/cubeloop",
+    "language": "Python",
+    "name": "cubeplexai/cubeloop",
+    "stars": 82,
+    "updated_at": "2026-10-27T03:18:48Z",
+    "url": "https://github.com/cubeplexai/cubeloop"
+  },
+  {
+    "description": "Build distributed, production-grade, long-running agents.",
+    "id": "agentscope-ai/agentscope-java",
+    "language": "Java",
+    "name": "agentscope-ai/agentscope-java",
+    "stars": 6129,
+    "updated_at": "2026-10-27T03:18:25Z",
+    "url": "https://github.com/agentscope-ai/agentscope-java"
+  },
+  {
+    "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
+    "id": "fabbrik/AgentExperience.NET",
+    "language": "C#",
+    "name": "fabbrik/AgentExperience.NET",
+    "stars": 3,
+    "updated_at": "2026-10-27T03:28:46Z",
+    "url": "https://github.com/fabbrik/AgentExperience.NET"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 12,
+    "updated_at": "2026-10-27T03:16:47Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35978,
+    "updated_at": "2026-10-27T03:29:34Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-27T03:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 161,
-    "updated_at": "2026-10-27T03:15:05Z",
+    "updated_at": "2026-10-27T03:19:53Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -13,8 +166,8 @@
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
-    "stars": 20892,
-    "updated_at": "2026-10-27T03:11:56Z",
+    "stars": 20893,
+    "updated_at": "2026-10-27T03:30:02Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -23,17 +176,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-27T03:11:34Z",
+    "updated_at": "2026-10-27T03:23:44Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-27T03:14:14Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Agentic coding framework and meta-harness for planning, building, reviewing, and tuning software across coding agents. P",
@@ -54,20 +198,11 @@
     "url": "https://github.com/vincemakes/kiso"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 352,
-    "updated_at": "2026-10-27T03:11:27Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
-    "stars": 2393,
+    "stars": 2394,
     "updated_at": "2026-10-27T03:09:14Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
@@ -77,7 +212,7 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 159,
-    "updated_at": "2026-10-27T03:09:02Z",
+    "updated_at": "2026-10-27T03:30:08Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -95,17 +230,8 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-27T03:06:27Z",
+    "updated_at": "2026-10-27T03:25:22Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-27T03:04:55Z",
-    "url": "https://github.com/JKHeadley/instar"
   },
   {
     "description": "Industrial-grade C++23 Agent Tooling Framework GUI \u2014 provider-agnostic LLM agent with true SSE streaming (Continuo trans",
@@ -117,15 +243,6 @@
     "url": "https://github.com/dqsjqian/AriaAgent"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11067,
-    "updated_at": "2026-10-27T03:13:57Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
     "id": "Inupedia/spotlight",
     "language": "TypeScript",
@@ -133,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T03:01:42Z",
     "url": "https://github.com/Inupedia/spotlight"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-27T03:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "CubeLoop \u2014 a Pythonic, async-native agent harness core designed for high performance, readability, and production-grade ",
-    "id": "cubeplexai/cubeloop",
-    "language": "Python",
-    "name": "cubeplexai/cubeloop",
-    "stars": 82,
-    "updated_at": "2026-10-27T03:13:21Z",
-    "url": "https://github.com/cubeplexai/cubeloop"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -162,31 +261,22 @@
     "url": "https://github.com/xanstomper/mochi"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35979,
-    "updated_at": "2026-10-27T02:58:46Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T02:54:38Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvge",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
     "language": "Python",
-    "name": "IAmNo1Special/mvge",
-    "stars": 2,
-    "updated_at": "2026-10-27T02:51:55Z",
-    "url": "https://github.com/IAmNo1Special/mvge"
+    "name": "HKUDS/nanobot",
+    "stars": 49436,
+    "updated_at": "2026-10-27T02:54:57Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only t",
+    "id": "Rovinos-AI/rovinos-ai-harness",
+    "language": "TypeScript",
+    "name": "Rovinos-AI/rovinos-ai-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T03:24:35Z",
+    "url": "https://github.com/Rovinos-AI/rovinos-ai-harness"
   },
   {
     "description": "Official Mvge catalog of Runes (extensions) and Mvges (agents).",
@@ -202,7 +292,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 14332,
+    "stars": 14333,
     "updated_at": "2026-10-27T02:45:14Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -223,15 +313,6 @@
     "stars": 2406,
     "updated_at": "2026-10-27T02:42:56Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A self-evolving agent that lives on your phone and commands a fleet of servers",
-    "id": "RexHuang/novus",
-    "language": "TypeScript",
-    "name": "RexHuang/novus",
-    "stars": 8,
-    "updated_at": "2026-10-27T02:38:39Z",
-    "url": "https://github.com/RexHuang/novus"
   },
   {
     "description": "Build portable agent teams across models and harnesses, with shared memory, skills, tools, and workflows \u2014 then bring th",
@@ -261,39 +342,12 @@
     "url": "https://github.com/Search2o/agent-server"
   },
   {
-    "description": "Portable, evidence-backed experience memory for .NET AI agents built on Microsoft Agent Framework",
-    "id": "fabbrik/AgentExperience.NET",
-    "language": "C#",
-    "name": "fabbrik/AgentExperience.NET",
-    "stars": 3,
-    "updated_at": "2026-10-27T03:08:43Z",
-    "url": "https://github.com/fabbrik/AgentExperience.NET"
-  },
-  {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 12,
-    "updated_at": "2026-10-27T02:27:45Z",
-    "url": "https://github.com/axisvela/praxo-core"
-  },
-  {
-    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
-    "id": "chjm-ai/vococo",
-    "language": "Python",
-    "name": "chjm-ai/vococo",
-    "stars": 42,
-    "updated_at": "2026-10-27T02:27:38Z",
-    "url": "https://github.com/chjm-ai/vococo"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T03:14:22Z",
+    "updated_at": "2026-10-27T03:22:25Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1374,
-    "updated_at": "2026-10-27T03:14:56Z",
+    "updated_at": "2026-10-27T03:28:15Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Go",
     "name": "GizClaw/flowcraft",
     "stars": 414,
-    "updated_at": "2026-10-27T03:10:19Z",
+    "updated_at": "2026-10-27T03:19:16Z",
     "url": "https://github.com/GizClaw/flowcraft"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-27T02:09:05Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 7,
-    "updated_at": "2026-10-27T02:34:00Z",
-    "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Kotlin AI agent framework for Android with on-device LLMs, tools, persistent sessions, A2A collaboration, and optional s",
-    "id": "qhvssonic/kiora",
-    "language": "Kotlin",
-    "name": "qhvssonic/kiora",
-    "stars": 1,
-    "updated_at": "2026-10-27T02:06:33Z",
-    "url": "https://github.com/qhvssonic/kiora"
-  },
-  {
-    "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
-    "id": "xujian519/sati",
-    "language": "TypeScript",
-    "name": "xujian519/sati",
-    "stars": 3,
-    "updated_at": "2026-10-27T02:05:39Z",
-    "url": "https://github.com/xujian519/sati"
-  },
-  {
-    "description": "Open platform for running Managed Agents at scale",
-    "id": "invergent-ai/surogates",
-    "language": "Python",
-    "name": "invergent-ai/surogates",
-    "stars": 28,
-    "updated_at": "2026-10-27T02:05:08Z",
-    "url": "https://github.com/invergent-ai/surogates"
-  },
-  {
-    "description": "Open-source self-improving AI agent for Windows: 5 native in-process ASI tools, one heartbeat over 10 subsystems (replac",
-    "id": "openamer/openamer",
-    "language": "Python",
-    "name": "openamer/openamer",
-    "stars": 8,
-    "updated_at": "2026-10-27T02:03:02Z",
-    "url": "https://github.com/openamer/openamer"
   }
 ]
