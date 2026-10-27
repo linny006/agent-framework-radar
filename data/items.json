@@ -1,12 +1,48 @@
 [
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11088,
-    "updated_at": "2026-10-27T22:29:41Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
+    "name": "pydantic/pydantic-ai",
+    "stars": 20907,
+    "updated_at": "2026-10-27T22:44:56Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
+    "id": "exha1078/agentic-workflow-orchestrator",
+    "language": "HTML",
+    "name": "exha1078/agentic-workflow-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-27T22:43:09Z",
+    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-27T22:42:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A self-hosted web interface for pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 25,
+    "updated_at": "2026-10-27T22:43:21Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 8,
+    "updated_at": "2026-10-27T22:40:49Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
@@ -14,8 +50,53 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 160,
-    "updated_at": "2026-10-27T22:28:48Z",
+    "updated_at": "2026-10-27T22:45:11Z",
     "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-27T22:40:44Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 46,
+    "updated_at": "2026-10-27T22:38:38Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4487,
+    "updated_at": "2026-10-27T22:37:46Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11088,
+    "updated_at": "2026-10-27T22:33:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-27T22:30:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
@@ -27,30 +108,12 @@
     "url": "https://github.com/Azure/agent-landing-zone"
   },
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-10-27T22:27:21Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20907,
-    "updated_at": "2026-10-27T22:28:09Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Where your coding agents hang out.",
     "id": "seelowen-maito/loft",
     "language": "Swift",
     "name": "seelowen-maito/loft",
     "stars": 4,
-    "updated_at": "2026-10-27T22:25:21Z",
+    "updated_at": "2026-10-27T22:38:06Z",
     "url": "https://github.com/seelowen-maito/loft"
   },
   {
@@ -68,17 +131,8 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-27T22:28:39Z",
+    "updated_at": "2026-10-27T22:33:05Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 46,
-    "updated_at": "2026-10-27T22:25:46Z",
-    "url": "https://github.com/swombat/souls-house"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -126,21 +180,12 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-27T22:15:30Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-27T22:15:30Z",
+    "updated_at": "2026-10-27T22:41:54Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1371,
-    "updated_at": "2026-10-27T22:11:21Z",
+    "updated_at": "2026-10-27T22:43:44Z",
     "url": "https://github.com/Team-Commonly/commonly"
   },
   {
@@ -220,7 +265,7 @@
     "id": "devoidfury/hotdog",
     "language": "TypeScript",
     "name": "devoidfury/hotdog",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-10-27T21:53:16Z",
     "url": "https://github.com/devoidfury/hotdog"
   },
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "eigent-ai/eigent",
     "stars": 15673,
-    "updated_at": "2026-10-27T22:24:27Z",
+    "updated_at": "2026-10-27T22:31:03Z",
     "url": "https://github.com/eigent-ai/eigent"
   },
   {
@@ -248,7 +293,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2409,
-    "updated_at": "2026-10-27T21:45:49Z",
+    "updated_at": "2026-10-27T22:32:54Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -301,18 +346,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8969,
+    "stars": 8970,
     "updated_at": "2026-10-27T21:37:48Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A self-hosted web interface for pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 25,
-    "updated_at": "2026-10-27T22:18:40Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
     "description": "Humanlike \u2014 deterministic persona, context, memory and privacy controls for conversational AI agents \u00b7 \u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "dshakes/lantern",
     "stars": 1,
-    "updated_at": "2026-10-27T22:29:14Z",
+    "updated_at": "2026-10-27T22:42:55Z",
     "url": "https://github.com/dshakes/lantern"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-27T20:54:14Z",
     "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
-  },
-  {
-    "description": "Where agents build agents. An open-source Rust framework for complex agentic systems: ontology-grounded, auditable, one ",
-    "id": "mmeyerlein/meclaw",
-    "language": "Rust",
-    "name": "mmeyerlein/meclaw",
-    "stars": 41,
-    "updated_at": "2026-10-27T20:50:45Z",
-    "url": "https://github.com/mmeyerlein/meclaw"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:48:42Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Open-source engine for personal AI assistants that chat on web, WhatsApp, Telegram, email and Slack, with memory, connec",
-    "id": "morethanrealio/brambit",
-    "language": "JavaScript",
-    "name": "morethanrealio/brambit",
-    "stars": 21,
-    "updated_at": "2026-10-27T20:49:15Z",
-    "url": "https://github.com/morethanrealio/brambit"
-  },
-  {
-    "description": "The Ruby AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4487,
-    "updated_at": "2026-10-27T20:43:13Z",
-    "url": "https://github.com/crmne/ruby_llm"
   }
 ]
