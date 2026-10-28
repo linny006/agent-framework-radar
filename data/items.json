@@ -1,5 +1,50 @@
 [
   {
+    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
+    "id": "aeonfun/aeon",
+    "language": "JavaScript",
+    "name": "aeonfun/aeon",
+    "stars": 784,
+    "updated_at": "2026-10-28T20:30:13Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every co",
+    "id": "oracle/locus",
+    "language": "Python",
+    "name": "oracle/locus",
+    "stars": 5,
+    "updated_at": "2026-10-28T20:28:49Z",
+    "url": "https://github.com/oracle/locus"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 5026,
+    "updated_at": "2026-10-28T20:30:23Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
+    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
+    "id": "lza6/clawd-code",
+    "language": "Python",
+    "name": "lza6/clawd-code",
+    "stars": 4,
+    "updated_at": "2026-10-28T20:26:20Z",
+    "url": "https://github.com/lza6/clawd-code"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T20:25:11Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Role playbooks and coordination framework for multi-agent engineering teams",
     "id": "mythicalOS/mythical-playbooks",
     "language": "Shell",
@@ -68,17 +113,8 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 683,
-    "updated_at": "2026-10-28T20:21:19Z",
+    "updated_at": "2026-10-28T20:30:01Z",
     "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T20:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
@@ -108,15 +144,6 @@
     "url": "https://github.com/Search2o/agent-server"
   },
   {
-    "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
-    "id": "aeonfun/aeon",
-    "language": "JavaScript",
-    "name": "aeonfun/aeon",
-    "stars": 784,
-    "updated_at": "2026-10-28T20:10:23Z",
-    "url": "https://github.com/aeonfun/aeon"
-  },
-  {
     "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent i",
     "id": "neomjs/neo-agent-institution",
     "language": "JavaScript",
@@ -133,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T20:06:14Z",
     "url": "https://github.com/paveler/theloop"
-  },
-  {
-    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
-    "id": "lza6/clawd-code",
-    "language": "Python",
-    "name": "lza6/clawd-code",
-    "stars": 4,
-    "updated_at": "2026-10-28T20:06:00Z",
-    "url": "https://github.com/lza6/clawd-code"
-  },
-  {
-    "description": "Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every co",
-    "id": "oracle/locus",
-    "language": "Python",
-    "name": "oracle/locus",
-    "stars": 5,
-    "updated_at": "2026-10-28T20:19:19Z",
-    "url": "https://github.com/oracle/locus"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20929,
-    "updated_at": "2026-10-28T20:23:49Z",
+    "updated_at": "2026-10-28T20:29:37Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -229,7 +238,7 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 14364,
+    "stars": 14365,
     "updated_at": "2026-10-28T19:46:30Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-10-28T19:35:12Z",
+    "updated_at": "2026-10-28T20:27:12Z",
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 160,
     "updated_at": "2026-10-28T19:42:43Z",
     "url": "https://github.com/arcships/rutis"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 5026,
-    "updated_at": "2026-10-28T20:24:36Z",
-    "url": "https://github.com/ag2ai/ag2"
   },
   {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
