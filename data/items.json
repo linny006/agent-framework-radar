@@ -1,5 +1,140 @@
 [
   {
+    "description": "A self-hosted web interface for pi coding agent.",
+    "id": "laurentftech/pi-outpost",
+    "language": "TypeScript",
+    "name": "laurentftech/pi-outpost",
+    "stars": 25,
+    "updated_at": "2026-10-28T11:14:07Z",
+    "url": "https://github.com/laurentftech/pi-outpost"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1380,
+    "updated_at": "2026-10-28T11:14:42Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-28T11:08:56Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:08:19Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26867,
+    "updated_at": "2026-10-28T11:08:03Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "The most Token-efficient open-source AI Agent",
+    "id": "clacky-ai/openclacky",
+    "language": "Ruby",
+    "name": "clacky-ai/openclacky",
+    "stars": 1209,
+    "updated_at": "2026-10-28T11:07:36Z",
+    "url": "https://github.com/clacky-ai/openclacky"
+  },
+  {
+    "description": "HADES OS v3 - a standalone, self-improving agentic operating system: stdlib-only Python brain with measured docs, gated ",
+    "id": "iAlirezaaa/second-brain",
+    "language": "Python",
+    "name": "iAlirezaaa/second-brain",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:07:09Z",
+    "url": "https://github.com/iAlirezaaa/second-brain"
+  },
+  {
+    "description": "The local-first second brain for your AI agents - measured, self-improving, and gated so it can't leak what you keep pri",
+    "id": "GeekFamilyCorp/TricorderKit",
+    "language": "Python",
+    "name": "GeekFamilyCorp/TricorderKit",
+    "stars": 32,
+    "updated_at": "2026-10-28T11:06:58Z",
+    "url": "https://github.com/GeekFamilyCorp/TricorderKit"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-28T11:06:09Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35983,
+    "updated_at": "2026-10-28T11:05:01Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4488,
+    "updated_at": "2026-10-28T11:03:43Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-28T11:03:33Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Workflow builder for coding agents \ud83d\udc36",
+    "id": "orhun/voff",
+    "language": "Rust",
+    "name": "orhun/voff",
+    "stars": 10,
+    "updated_at": "2026-10-28T11:05:42Z",
+    "url": "https://github.com/orhun/voff"
+  },
+  {
+    "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
+    "id": "AegeanWorks/NeuroCore",
+    "language": "Python",
+    "name": "AegeanWorks/NeuroCore",
+    "stars": 8,
+    "updated_at": "2026-10-28T11:02:30Z",
+    "url": "https://github.com/AegeanWorks/NeuroCore"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T11:00:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
     "id": "LeonQin-ai/cognitive-os-agent",
     "language": "C",
@@ -45,15 +180,6 @@
     "url": "https://github.com/skerry699/agent-symphony"
   },
   {
-    "description": "Workflow builder for coding agents \ud83d\udc36",
-    "id": "orhun/voff",
-    "language": "Rust",
-    "name": "orhun/voff",
-    "stars": 10,
-    "updated_at": "2026-10-28T10:57:43Z",
-    "url": "https://github.com/orhun/voff"
-  },
-  {
     "description": "LLM SDK for Go: one typed API across Anthropic, OpenAI and Gemini, and the agent loop around it.",
     "id": "genai-io/sdk-go",
     "language": "Go",
@@ -72,15 +198,6 @@
     "url": "https://github.com/paseo-cafe/paseo-cafe"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1380,
-    "updated_at": "2026-10-28T10:59:06Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Local-first, governed AI agent runtime for Python \u2014 embed it in your app, or run it as a CLI or ACP server. Permissions,",
     "id": "jin-bo/agentao",
     "language": "Python",
@@ -90,22 +207,13 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "A self-hosted web interface for pi coding agent.",
-    "id": "laurentftech/pi-outpost",
-    "language": "TypeScript",
-    "name": "laurentftech/pi-outpost",
-    "stars": 25,
-    "updated_at": "2026-10-28T10:53:38Z",
-    "url": "https://github.com/laurentftech/pi-outpost"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-28T10:49:48Z",
-    "url": "https://github.com/yangheng95/opencorvus"
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11096,
+    "updated_at": "2026-10-28T10:53:58Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
@@ -135,15 +243,6 @@
     "url": "https://github.com/JoakimCarlsson/ai"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T10:45:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "ArchGraph \u2014 an architecture-graph driven framework for Agentic Engineering. A long-term memory for coding agents, built ",
     "id": "derekhu0002/archgraph",
     "language": "JavaScript",
@@ -162,21 +261,12 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "HADES OS v3 - a standalone, self-improving agentic operating system: stdlib-only Python brain with measured docs, gated ",
-    "id": "iAlirezaaa/second-brain",
-    "language": "Python",
-    "name": "iAlirezaaa/second-brain",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:41:16Z",
-    "url": "https://github.com/iAlirezaaa/second-brain"
-  },
-  {
     "description": "MCP loader and registry written in rust",
     "id": "tinyhumansai/tinymcp",
     "language": "Rust",
     "name": "tinyhumansai/tinymcp",
     "stars": 4,
-    "updated_at": "2026-10-28T10:40:02Z",
+    "updated_at": "2026-10-28T11:03:51Z",
     "url": "https://github.com/tinyhumansai/tinymcp"
   },
   {
@@ -216,15 +306,6 @@
     "url": "https://github.com/use-brian/use-brian"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11094,
-    "updated_at": "2026-10-28T10:53:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "Full Rust SDK for the Gemini Multimodal Live API \u2014 wire protocol, agent runtime, and fluent DX in three layered crates.",
     "id": "vamsiramakrishnan/gemini-rs",
     "language": "Rust",
@@ -257,17 +338,8 @@
     "language": "Go",
     "name": "Adyen/agent-marketplace",
     "stars": 80,
-    "updated_at": "2026-10-28T10:48:27Z",
+    "updated_at": "2026-10-28T11:12:51Z",
     "url": "https://github.com/Adyen/agent-marketplace"
-  },
-  {
-    "description": "The Ruby AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4488,
-    "updated_at": "2026-10-28T10:21:50Z",
-    "url": "https://github.com/crmne/ruby_llm"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -275,7 +347,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T10:36:01Z",
+    "updated_at": "2026-10-28T11:02:51Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -329,7 +401,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-28T10:44:14Z",
+    "updated_at": "2026-10-28T11:03:32Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
@@ -365,7 +437,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-28T10:55:21Z",
+    "updated_at": "2026-10-28T11:07:33Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-28T09:49:17Z",
     "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Yet another coding agent harness, lightweight and written in go.",
-    "id": "patriceckhart/zot",
-    "language": "Go",
-    "name": "patriceckhart/zot",
-    "stars": 351,
-    "updated_at": "2026-10-28T09:54:01Z",
-    "url": "https://github.com/patriceckhart/zot"
-  },
-  {
-    "description": "\u53ef\u66ff\u6362\u6a21\u578b\u4e0e\u56de\u6d4b\u5e73\u53f0\u7684\u591a Agent \u91cf\u5316\u7814\u7a76\u6846\u67b6 | Multi-agent workflows with PandaAI, bt and custom adapters.",
-    "id": "Yanxxzz/quantfactra",
-    "language": "Python",
-    "name": "Yanxxzz/quantfactra",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:46:43Z",
-    "url": "https://github.com/Yanxxzz/quantfactra"
-  },
-  {
-    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
-    "id": "iyulab/ironhive-host",
-    "language": "C#",
-    "name": "iyulab/ironhive-host",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:44:47Z",
-    "url": "https://github.com/iyulab/ironhive-host"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 150,
-    "updated_at": "2026-10-28T09:43:13Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 5319,
-    "updated_at": "2026-10-28T09:40:59Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
-    "description": "Joy \u2014 a local-first personal assistant. Rust core (loop / memory / tools / graph / evals), TypeScript gateways + dashboa",
-    "id": "ChrisVip001/joyczl-agent",
-    "language": "Rust",
-    "name": "ChrisVip001/joyczl-agent",
-    "stars": 51,
-    "updated_at": "2026-10-28T09:40:52Z",
-    "url": "https://github.com/ChrisVip001/joyczl-agent"
-  },
-  {
-    "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
-    "id": "Inupedia/spotlight",
-    "language": "TypeScript",
-    "name": "Inupedia/spotlight",
-    "stars": 2,
-    "updated_at": "2026-10-28T09:40:28Z",
-    "url": "https://github.com/Inupedia/spotlight"
-  },
-  {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 6,
-    "updated_at": "2026-10-28T09:43:49Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
   }
 ]
