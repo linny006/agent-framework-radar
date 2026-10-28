@@ -1,5 +1,41 @@
 [
   {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 12,
+    "updated_at": "2026-10-28T08:30:15Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 333,
+    "updated_at": "2026-10-28T08:29:51Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T08:29:42Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1381,
+    "updated_at": "2026-10-28T08:30:03Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
     "description": "Values, beliefs, and purpose as inspectable data for long-lived AI agents \u2014 a research-grounded experiment in agent moti",
     "id": "gcis/agent-values-framework",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-28T08:29:08Z",
+    "updated_at": "2026-10-28T08:30:05Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -36,30 +72,12 @@
     "url": "https://github.com/patriceckhart/zot"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1381,
-    "updated_at": "2026-10-28T08:29:35Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 333,
-    "updated_at": "2026-10-28T08:25:37Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11093,
-    "updated_at": "2026-10-28T08:28:12Z",
+    "updated_at": "2026-10-28T08:30:00Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-28T08:28:52Z",
+    "updated_at": "2026-10-28T08:30:15Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T08:17:48Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T08:15:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -198,15 +207,6 @@
     "url": "https://github.com/10xGraph/10xgraph-api"
   },
   {
-    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
-    "id": "axisvela/praxo-core",
-    "language": "Go",
-    "name": "axisvela/praxo-core",
-    "stars": 12,
-    "updated_at": "2026-10-28T08:07:00Z",
-    "url": "https://github.com/axisvela/praxo-core"
-  },
-  {
     "description": "\u53ef\u6302\u8f7d Skill \u7684\u6570\u636e Agent \u5e73\u53f0\u2014\u2014AI \u5e2e\u4f60\u67e5\u6570\u51fa\u62a5\u544a\uff0c\u4e14\u5b83\u7684\u4ea7\u51fa\u4f60\u6562\u4fe1",
     "id": "JohnnyQ-commits/sluice-data-agent",
     "language": "Python",
@@ -257,7 +257,7 @@
     "language": "TypeScript",
     "name": "JKHeadley/instar",
     "stars": 84,
-    "updated_at": "2026-10-28T08:00:12Z",
+    "updated_at": "2026-10-28T08:30:21Z",
     "url": "https://github.com/JKHeadley/instar"
   },
   {
