@@ -1,12 +1,174 @@
 [
   {
+    "description": "A framework for building and studying models that remember, consolidate, and possibly experience something.",
+    "id": "hackystorm/pmc-framework",
+    "language": "Python",
+    "name": "hackystorm/pmc-framework",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:14:07Z",
+    "url": "https://github.com/hackystorm/pmc-framework"
+  },
+  {
     "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
     "id": "Team-Commonly/commonly",
     "language": "TypeScript",
     "name": "Team-Commonly/commonly",
     "stars": 1371,
-    "updated_at": "2026-10-28T03:00:17Z",
+    "updated_at": "2026-10-28T03:14:01Z",
     "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1379,
+    "updated_at": "2026-10-28T03:14:47Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
+    "id": "synapse-ai-hub/Forge",
+    "language": "Python",
+    "name": "synapse-ai-hub/Forge",
+    "stars": 6,
+    "updated_at": "2026-10-28T03:12:14Z",
+    "url": "https://github.com/synapse-ai-hub/Forge"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 268,
+    "updated_at": "2026-10-28T03:12:08Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 160,
+    "updated_at": "2026-10-28T03:12:08Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 12,
+    "updated_at": "2026-10-28T03:10:11Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "Open platform for running Managed Agents at scale",
+    "id": "invergent-ai/surogates",
+    "language": "Python",
+    "name": "invergent-ai/surogates",
+    "stars": 28,
+    "updated_at": "2026-10-28T03:10:10Z",
+    "url": "https://github.com/invergent-ai/surogates"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-28T03:09:33Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35985,
+    "updated_at": "2026-10-28T03:09:29Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
+    "id": "aequitas-labs/lobstah",
+    "language": "TypeScript",
+    "name": "aequitas-labs/lobstah",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:09:23Z",
+    "url": "https://github.com/aequitas-labs/lobstah"
+  },
+  {
+    "description": "An evaluation-driven self-evolution framework for agent harnesses.",
+    "id": "OLDyade/spark-harness-evolution",
+    "language": "TypeScript",
+    "name": "OLDyade/spark-harness-evolution",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:09:14Z",
+    "url": "https://github.com/OLDyade/spark-harness-evolution"
+  },
+  {
+    "description": "Einfach Agent (\"simple\" in German): a composable-core framework for Web, Tauri desktop & CLI, with DeepSeek/GLM support",
+    "id": "allroad88888888/einfach-agent",
+    "language": "TypeScript",
+    "name": "allroad88888888/einfach-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:07:11Z",
+    "url": "https://github.com/allroad88888888/einfach-agent"
+  },
+  {
+    "description": "High-performance Rust MCP server & autonomous orchestrator for AI coding agents. GraphRAG, token optimization, architect",
+    "id": "JunMystery/Agent-Guidance",
+    "language": "Python",
+    "name": "JunMystery/Agent-Guidance",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:06:46Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-28T03:05:57Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-28T03:14:34Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 199,
+    "updated_at": "2026-10-28T03:04:06Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "A secure way to run enterprise AI agents. Building blocks with per-action authorization, prompt-injection containment, l",
+    "id": "authzed/openagentprimitives",
+    "language": "Go",
+    "name": "authzed/openagentprimitives",
+    "stars": 10,
+    "updated_at": "2026-10-28T03:03:12Z",
+    "url": "https://github.com/authzed/openagentprimitives"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T03:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -14,7 +176,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T03:00:02Z",
+    "updated_at": "2026-10-28T03:03:38Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -36,21 +198,12 @@
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1379,
-    "updated_at": "2026-10-28T02:58:45Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
     "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
     "id": "kindgi/kindgi-sdk",
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-28T02:52:07Z",
+    "updated_at": "2026-10-28T03:12:27Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
@@ -72,30 +225,12 @@
     "url": "https://github.com/cmcoffee/gohort"
   },
   {
-    "description": "High-performance Rust MCP server & autonomous orchestrator for AI coding agents. GraphRAG, token optimization, architect",
-    "id": "JunMystery/Agent-Guidance",
-    "language": "Python",
-    "name": "JunMystery/Agent-Guidance",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:49:32Z",
-    "url": "https://github.com/JunMystery/Agent-Guidance"
-  },
-  {
-    "description": "Open platform for running Managed Agents at scale",
-    "id": "invergent-ai/surogates",
-    "language": "Python",
-    "name": "invergent-ai/surogates",
-    "stars": 28,
-    "updated_at": "2026-10-28T02:48:06Z",
-    "url": "https://github.com/invergent-ai/surogates"
-  },
-  {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
     "id": "kh0pper/crow",
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-28T02:47:20Z",
+    "updated_at": "2026-10-28T03:06:34Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -104,7 +239,7 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-28T02:51:03Z",
+    "updated_at": "2026-10-28T03:13:31Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -270,15 +405,6 @@
     "url": "https://github.com/gbtweilai-star/gbt-h3-video-gen"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T02:45:23Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "GBT V8 capability #323/341 \u00b7 edit_pipeline (video) \u2014 \u526a\u8f91\u5f15\u64ce\uff08\u84b8\u998f\u526a\u6620\u65f6\u95f4\u7ebf\u8bed\u4e49\uff09\uff1a\u8f68\u9053\u2192\u7247\u6bb5\u2192\u76ee\u6807/\u6e90\u65f6\u95f4\u533a\u95f4\u2192\u53d8\u901f/\u97f3\u91cf/\u8f6c\u573a/\u6587\u672c\uff0c\u771f\u6e32\u67d3 1080x1920 \u6210\u7247\uff08ffmpeg ",
     "id": "gbtweilai-star/gbt-edit-pipeline",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:44:57Z",
     "url": "https://github.com/gbtweilai-star/gbt-actioncam"
-  },
-  {
-    "description": "GBT V8 capability #318/341 \u00b7 repo_publish (tools) \u2014 **\u8fdc\u7aef\u53d1\u5e03\u9762**\uff08\u8865 `git_write` \u7684\u53e6\u4e00\u534a \u00b7 \u4e3b\u4eba 2026-10-11 \u5f53\u573a\u6307\u51fa\uff1atools \u57df\u53ea\u6709 `git_rea",
-    "id": "gbtweilai-star/gbt-repo-publish",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-repo-publish",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:51Z",
-    "url": "https://github.com/gbtweilai-star/gbt-repo-publish"
-  },
-  {
-    "description": "Generate complete, coordinated AI agent teams for any project from a single description file.",
-    "id": "jlcatonjr/agentteams",
-    "language": "Python",
-    "name": "jlcatonjr/agentteams",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:57:01Z",
-    "url": "https://github.com/jlcatonjr/agentteams"
-  },
-  {
-    "description": "GBT V8 capability #317/341 \u00b7 pulse_direct (tools) \u2014 **\u8109\u51b2\u76f4\u8fbe**\uff08\u4e3b\u4eba\u4ee4 2026-10-11\u300c\u628a\u8109\u51b2\u7ed9\u5927\u6a21\u578b\uff0c\u8ba9\u5979\u628a\u6240\u6709\u7684\u80fd\u529b\u6309\u89e6\u624b\u53cc\u5411\u7ed1\u5b9a\u7684\u90e8\u7f72\u65b9\u5f0f**\u6025\u901f\u8fd0\u884c**\u3001**\u7701\u53bb\u4e0d\u5fc5\u8981",
-    "id": "gbtweilai-star/gbt-pulse-direct",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-pulse-direct",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:46Z",
-    "url": "https://github.com/gbtweilai-star/gbt-pulse-direct"
-  },
-  {
-    "description": "GBT V8 capability #316/341 \u00b7 projection_card (tools) \u2014 \u7a7a\u95f4\u6295\u5c04\u53ea\u8bfb\u5361\u7247\uff1a5 \u539f\u8bed\u5168\u6807\u672a\u6838\u5b9e + ARM \u2260 LIVE \u7ea2\u7ebf\uff08\u53ea\u5448\u73b0\u4e0d\u6267\u884c\uff09 | contract + validatio",
-    "id": "gbtweilai-star/gbt-projection-card",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-projection-card",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:40Z",
-    "url": "https://github.com/gbtweilai-star/gbt-projection-card"
-  },
-  {
-    "description": "GBT V8 capability #315/341 \u00b7 git_write (tools) \u2014 **\u7248\u672c\u5e93\u5199\u9762**\uff08\u53ea\u4e24\u4e2a op\uff0c\u4e14**\u6c38\u8fdc\u8981\u70b9\u540d\u8def\u5f84**\uff09\uff1astage\uff08`git add -- <paths>`\uff09\u00b7 commit\uff08**pa",
-    "id": "gbtweilai-star/gbt-git-write",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-git-write",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:35Z",
-    "url": "https://github.com/gbtweilai-star/gbt-git-write"
-  },
-  {
-    "description": "GBT V8 capability #314/341 \u00b7 git_read (tools) \u2014 **\u7248\u672c\u5e93\u53ea\u8bfb\u9762**\uff082026-09-23 \u63a5\uff0c\u8865 `code_patch` \u7684\u53e6\u4e00\u534a\uff1a\u300c\u6539\u5b8c\u8981\u80fd\u770b\u3001\u8981\u80fd\u56de\u6eda\u300d\uff09\uff1aop=status/diff",
-    "id": "gbtweilai-star/gbt-git-read",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-git-read",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:30Z",
-    "url": "https://github.com/gbtweilai-star/gbt-git-read"
-  },
-  {
-    "description": "GBT V8 capability #313/341 \u00b7 freebuff_term (tools) \u2014 freebuff \u7ec8\u7aef\u96c6\u6210\uff08\u4e3b\u4eba\u4ee4 2026-09-28\u300c\u628a freebuff \u8fd9\u4e2a\u7ec8\u7aef\u96c6\u6210\u8fdb\u6211\u4eec\u7684\u5bf9\u8bdd\u9762\u677f\uff0c\u7f16\u7a0b\u5c31\u8d70\u8fd9\u4e2a\u300d\uff09\uff1a**\u6b63",
-    "id": "gbtweilai-star/gbt-freebuff-term",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-freebuff-term",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:24Z",
-    "url": "https://github.com/gbtweilai-star/gbt-freebuff-term"
-  },
-  {
-    "description": "GBT V8 capability #312/341 \u00b7 code_patch (tools) \u2014 **\u6539\u4ee3\u7801\u7684\u552f\u4e00\u8fc7\u95e8\u5165\u53e3**\uff082026-09-23 \u63a5\uff09\uff1a\u6b64\u524d agent \u76f4\u63a5 edit/write \u843d\u76d8 \u21d2 **\u4e0d\u8fc7\u95e8\u3001\u6ca1\u5ba1\u8ba1\u3001\u6ca1\u4fe1\u5c01",
-    "id": "gbtweilai-star/gbt-code-patch",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-code-patch",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:18Z",
-    "url": "https://github.com/gbtweilai-star/gbt-code-patch"
-  },
-  {
-    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
-    "id": "chjm-ai/vococo",
-    "language": "Python",
-    "name": "chjm-ai/vococo",
-    "stars": 42,
-    "updated_at": "2026-10-28T02:44:16Z",
-    "url": "https://github.com/chjm-ai/vococo"
-  },
-  {
-    "description": "GBT V8 capability #311/341 \u00b7 capability_net (tools) \u2014 \u7a7f\u900f\u7f51\u4e03\u680f\u53ea\u8bfb\u8bfb\u6570\uff1aindexed/entry_known/reachable/verified\u00d72/has_test/penetr",
-    "id": "gbtweilai-star/gbt-capability-net",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-capability-net",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:13Z",
-    "url": "https://github.com/gbtweilai-star/gbt-capability-net"
-  },
-  {
-    "description": "GBT V8 capability #310/341 \u00b7 awesome_tools_index (tools) \u2014 Awesome Tools \u84b8\u998f\u7d22\u5f15\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u5730\u56fe\uff09\uff1a\u56db\u539f\u8bed INDEX/LOOKUP/MAP/VERIFY\uff1b\u4e09\u6761\u5e26\u7259\u5224",
-    "id": "gbtweilai-star/gbt-awesome-tools-index",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-awesome-tools-index",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:07Z",
-    "url": "https://github.com/gbtweilai-star/gbt-awesome-tools-index"
-  },
-  {
-    "description": "GBT V8 capability #309/341 \u00b7 tool_bay (tentacle) \u2014 \u88c5\u5907\u575e\uff1a\u89e6\u624b\u300c\u81ea\u914d\u88c5\u5907\u300d\u8d70\u7684\u90a3\u9053\u95e8\u3002\u767d\u540d\u5355 15 \u4ef6\uff08\u672c\u4ed3\u81ea\u5b9a\u53e3\u5f84\uff09\uff0c\u6bcf\u4ef6\u72b6\u6001\u9760**\u73b0\u8dd1\u63a2\u9488**\u5f97\u51fa\uff08\u6ca1\u63a2\u9488\u7684\u5982\u5b9e\u62a5\u300c\u65e0\u63a2\u9488\u300d\uff0c\u4e0d\u5f97\u62a5\u5df2\u88c5",
-    "id": "gbtweilai-star/gbt-tool-bay",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-tool-bay",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:01Z",
-    "url": "https://github.com/gbtweilai-star/gbt-tool-bay"
-  },
-  {
-    "description": "GBT V8 capability #308/341 \u00b7 tentacle_status (tentacle) \u2014 \u89e6\u624b\u81ea\u8bca\u65ad\uff1a\u786c\u4ef6\u5c42\u5c31\u7eea\u5ea6 + \u4f9d\u8d56\u5206\u5c42 + \u90bb\u57df\u8986\u76d6 | contract + validation + CLI, 0 ru",
-    "id": "gbtweilai-star/gbt-tentacle-status",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-tentacle-status",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:43:56Z",
-    "url": "https://github.com/gbtweilai-star/gbt-tentacle-status"
-  },
-  {
-    "description": "GBT V8 capability #307/341 \u00b7 tentacle_scale (tentacle) \u2014 \u4ebf\u4e07\u89e6\u624b\u5bfb\u5740\uff08\u903b\u8f91 \u00b7 \u53ea\u8bfb\uff09\uff1a10^8 \u5730\u5740\u7a7a\u95f4\u6309\u7b97\u4e0d\u5360\u76d8\uff08t00000001\u2026\uff09+ 1024 \u5206\u7247 + \u6bcf\u6839\u94a5\u5319\u7531\u4e3b\u5bc6\u94a5 ",
-    "id": "gbtweilai-star/gbt-tentacle-scale",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-tentacle-scale",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:43:50Z",
-    "url": "https://github.com/gbtweilai-star/gbt-tentacle-scale"
   }
 ]
