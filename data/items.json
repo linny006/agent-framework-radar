@@ -1,12 +1,84 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-28T11:43:13Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A lightweight, transparent C++ harness for LLM agents, with an extensible native worker, explicit plugin and protocol bo",
+    "id": "Hazer-BJTU/simplex-cpp",
+    "language": "C++",
+    "name": "Hazer-BJTU/simplex-cpp",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:43:04Z",
+    "url": "https://github.com/Hazer-BJTU/simplex-cpp"
+  },
+  {
+    "description": "Kaiban Distributed - Distributed Agentic AI Platform - Actor Model Kanban Framework Implementation with Enterprise Messa",
+    "id": "andreibesleaga/kaiban-distributed",
+    "language": "TypeScript",
+    "name": "andreibesleaga/kaiban-distributed",
+    "stars": 6,
+    "updated_at": "2026-10-28T11:41:29Z",
+    "url": "https://github.com/andreibesleaga/kaiban-distributed"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
-    "stars": 11096,
-    "updated_at": "2026-10-28T11:29:45Z",
+    "stars": 11097,
+    "updated_at": "2026-10-28T11:44:32Z",
     "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1380,
+    "updated_at": "2026-10-28T11:40:47Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "HADES OS v3 - a standalone, self-improving agentic operating system: stdlib-only Python brain with measured docs, gated ",
+    "id": "iAlirezaaa/second-brain",
+    "language": "Python",
+    "name": "iAlirezaaa/second-brain",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:37:08Z",
+    "url": "https://github.com/iAlirezaaa/second-brain"
+  },
+  {
+    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
+    "id": "hara-cli/hara",
+    "language": "TypeScript",
+    "name": "hara-cli/hara",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:36:13Z",
+    "url": "https://github.com/hara-cli/hara"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:32:25Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T11:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "BACH v3.15.0: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers, sched",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 268,
-    "updated_at": "2026-10-28T11:27:34Z",
+    "updated_at": "2026-10-28T11:30:27Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -58,7 +130,7 @@
     "id": "orhun/voff",
     "language": "Rust",
     "name": "orhun/voff",
-    "stars": 10,
+    "stars": 14,
     "updated_at": "2026-10-28T11:19:10Z",
     "url": "https://github.com/orhun/voff"
   },
@@ -90,15 +162,6 @@
     "url": "https://github.com/wszx11/agent-control-fabric"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T11:15:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "A self-hosted web interface for pi coding agent.",
     "id": "laurentftech/pi-outpost",
     "language": "TypeScript",
@@ -106,15 +169,6 @@
     "stars": 25,
     "updated_at": "2026-10-28T11:14:07Z",
     "url": "https://github.com/laurentftech/pi-outpost"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1380,
-    "updated_at": "2026-10-28T11:29:42Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -144,15 +198,6 @@
     "url": "https://github.com/clacky-ai/openclacky"
   },
   {
-    "description": "HADES OS v3 - a standalone, self-improving agentic operating system: stdlib-only Python brain with measured docs, gated ",
-    "id": "iAlirezaaa/second-brain",
-    "language": "Python",
-    "name": "iAlirezaaa/second-brain",
-    "stars": 0,
-    "updated_at": "2026-10-28T11:07:09Z",
-    "url": "https://github.com/iAlirezaaa/second-brain"
-  },
-  {
     "description": "The local-first second brain for your AI agents - measured, self-improving, and gated so it can't leak what you keep pri",
     "id": "GeekFamilyCorp/TricorderKit",
     "language": "Python",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
     "stars": 35984,
-    "updated_at": "2026-10-28T11:24:59Z",
+    "updated_at": "2026-10-28T11:33:08Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2401,
-    "updated_at": "2026-10-28T10:58:16Z",
+    "updated_at": "2026-10-28T11:32:37Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Go",
     "name": "Adyen/agent-marketplace",
     "stars": 80,
-    "updated_at": "2026-10-28T11:25:53Z",
+    "updated_at": "2026-10-28T11:35:53Z",
     "url": "https://github.com/Adyen/agent-marketplace"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T11:21:19Z",
+    "updated_at": "2026-10-28T11:42:56Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -391,7 +436,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 49545,
+    "stars": 49546,
     "updated_at": "2026-10-28T10:20:37Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -403,50 +448,5 @@
     "stars": 20,
     "updated_at": "2026-10-28T10:20:32Z",
     "url": "https://github.com/NekomyaDev/nudge"
-  },
-  {
-    "description": "Local-first Jarvis assistant, experimental ARDA agent runtime, and shared memory service.",
-    "id": "yunusarda-sudo/arda-suite",
-    "language": "Python",
-    "name": "yunusarda-sudo/arda-suite",
-    "stars": 1,
-    "updated_at": "2026-10-28T10:17:10Z",
-    "url": "https://github.com/yunusarda-sudo/arda-suite"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 199,
-    "updated_at": "2026-10-28T10:15:16Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Enterprise RAG app with .NET 10, Angular, Microsoft Agent Framework, Microsoft Foundry, Azure AI Search and Blob Storage",
-    "id": "shahidnoor19/kodify-enterprise-rag",
-    "language": "TypeScript",
-    "name": "shahidnoor19/kodify-enterprise-rag",
-    "stars": 1,
-    "updated_at": "2026-10-28T10:13:44Z",
-    "url": "https://github.com/shahidnoor19/kodify-enterprise-rag"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-28T11:03:32Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 43,
-    "updated_at": "2026-10-28T10:09:35Z",
-    "url": "https://github.com/ggui-ai/ggui"
   }
 ]
