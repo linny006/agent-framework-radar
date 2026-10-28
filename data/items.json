@@ -1,5 +1,131 @@
 [
   {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:44:47Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 333,
+    "updated_at": "2026-10-28T09:43:54Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Agent that crafts and verifies artefacts against a reference, recording rejected candidates rather than pretty numbers",
+    "id": "ZhangYangyi03/craftagent",
+    "language": "Python",
+    "name": "ZhangYangyi03/craftagent",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:43:27Z",
+    "url": "https://github.com/ZhangYangyi03/craftagent"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 150,
+    "updated_at": "2026-10-28T09:43:13Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "id": "ggui-ai/ggui",
+    "language": "TypeScript",
+    "name": "ggui-ai/ggui",
+    "stars": 43,
+    "updated_at": "2026-10-28T09:42:48Z",
+    "url": "https://github.com/ggui-ai/ggui"
+  },
+  {
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
+    "id": "iflytek/skillhub",
+    "language": "Java",
+    "name": "iflytek/skillhub",
+    "stars": 5318,
+    "updated_at": "2026-10-28T09:40:59Z",
+    "url": "https://github.com/iflytek/skillhub"
+  },
+  {
+    "description": "Joy \u2014 a local-first personal assistant. Rust core (loop / memory / tools / graph / evals), TypeScript gateways + dashboa",
+    "id": "ChrisVip001/joyczl-agent",
+    "language": "Rust",
+    "name": "ChrisVip001/joyczl-agent",
+    "stars": 51,
+    "updated_at": "2026-10-28T09:40:52Z",
+    "url": "https://github.com/ChrisVip001/joyczl-agent"
+  },
+  {
+    "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
+    "id": "Inupedia/spotlight",
+    "language": "TypeScript",
+    "name": "Inupedia/spotlight",
+    "stars": 2,
+    "updated_at": "2026-10-28T09:40:28Z",
+    "url": "https://github.com/Inupedia/spotlight"
+  },
+  {
+    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
+    "id": "AgentsKit-io/agentskit-registry",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit-registry",
+    "stars": 6,
+    "updated_at": "2026-10-28T09:43:49Z",
+    "url": "https://github.com/AgentsKit-io/agentskit-registry"
+  },
+  {
+    "description": "An evaluation-driven self-evolution framework for agent harnesses.",
+    "id": "OLDyade/spark-harness-evolution",
+    "language": "TypeScript",
+    "name": "OLDyade/spark-harness-evolution",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:37:39Z",
+    "url": "https://github.com/OLDyade/spark-harness-evolution"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1381,
+    "updated_at": "2026-10-28T09:45:20Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "A Go toolkit for building AI agents and applications across multiple providers. Unified LLM client, agent framework with",
+    "id": "JoakimCarlsson/ai",
+    "language": "Go",
+    "name": "JoakimCarlsson/ai",
+    "stars": 45,
+    "updated_at": "2026-10-28T09:37:14Z",
+    "url": "https://github.com/JoakimCarlsson/ai"
+  },
+  {
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 49545,
+    "updated_at": "2026-10-28T09:31:05Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T09:30:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexK",
     "id": "cortexkit/magic-context",
     "language": "TypeScript",
@@ -9,15 +135,6 @@
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
-    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
-    "id": "HKUDS/nanobot",
-    "language": "Python",
-    "name": "HKUDS/nanobot",
-    "stars": 49544,
-    "updated_at": "2026-10-28T09:29:50Z",
-    "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
     "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
     "id": "opencue/cuecards",
     "language": "TypeScript",
@@ -25,24 +142,6 @@
     "stars": 6,
     "updated_at": "2026-10-28T09:29:45Z",
     "url": "https://github.com/opencue/cuecards"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 150,
-    "updated_at": "2026-10-28T09:28:27Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1381,
-    "updated_at": "2026-10-28T09:29:19Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -61,15 +160,6 @@
     "stars": 1371,
     "updated_at": "2026-10-28T09:27:29Z",
     "url": "https://github.com/Team-Commonly/commonly"
-  },
-  {
-    "description": "Values, beliefs, and purpose as inspectable data for long-lived AI agents \u2014 a research-grounded experiment in agent moti",
-    "id": "gcis/agent-values-framework",
-    "language": "Python",
-    "name": "gcis/agent-values-framework",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:18:51Z",
-    "url": "https://github.com/gcis/agent-values-framework"
   },
   {
     "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
@@ -99,21 +189,12 @@
     "url": "https://github.com/xkamail/harness"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T09:15:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Official extension collection for posoco",
     "id": "colmugx/posoco-extension",
     "language": "MoonBit",
     "name": "colmugx/posoco-extension",
     "stars": 2,
-    "updated_at": "2026-10-28T09:19:21Z",
+    "updated_at": "2026-10-28T09:32:14Z",
     "url": "https://github.com/colmugx/posoco-extension"
   },
   {
@@ -131,17 +212,8 @@
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-28T09:17:33Z",
+    "updated_at": "2026-10-28T09:41:03Z",
     "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 333,
-    "updated_at": "2026-10-28T09:29:54Z",
-    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -149,26 +221,8 @@
     "language": "Go",
     "name": "bide-ai/bide",
     "stars": 7,
-    "updated_at": "2026-10-28T09:14:50Z",
+    "updated_at": "2026-10-28T09:32:02Z",
     "url": "https://github.com/bide-ai/bide"
-  },
-  {
-    "description": "Agent that crafts and verifies artefacts against a reference, recording rejected candidates rather than pretty numbers",
-    "id": "ZhangYangyi03/craftagent",
-    "language": "Python",
-    "name": "ZhangYangyi03/craftagent",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:09:23Z",
-    "url": "https://github.com/ZhangYangyi03/craftagent"
-  },
-  {
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
-    "id": "ggui-ai/ggui",
-    "language": "TypeScript",
-    "name": "ggui-ai/ggui",
-    "stars": 43,
-    "updated_at": "2026-10-28T09:07:36Z",
-    "url": "https://github.com/ggui-ai/ggui"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -176,17 +230,8 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11093,
-    "updated_at": "2026-10-28T09:26:45Z",
+    "updated_at": "2026-10-28T09:44:58Z",
     "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "An evaluation-driven self-evolution framework for agent harnesses.",
-    "id": "OLDyade/spark-harness-evolution",
-    "language": "TypeScript",
-    "name": "OLDyade/spark-harness-evolution",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:05:50Z",
-    "url": "https://github.com/OLDyade/spark-harness-evolution"
   },
   {
     "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
@@ -277,15 +322,6 @@
     "stars": 20922,
     "updated_at": "2026-10-28T08:47:59Z",
     "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
-    "description": "Ready-to-use AI agents for AgentsKit \u2014 shadcn-style: copy the source into your project. registry.agentskit.io",
-    "id": "AgentsKit-io/agentskit-registry",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit-registry",
-    "stars": 6,
-    "updated_at": "2026-10-28T09:26:52Z",
-    "url": "https://github.com/AgentsKit-io/agentskit-registry"
   },
   {
     "description": "Agentic LLM shell aimed at low cost GPUs",
@@ -405,15 +441,6 @@
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
   },
   {
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and au",
-    "id": "iflytek/skillhub",
-    "language": "Java",
-    "name": "iflytek/skillhub",
-    "stars": 5316,
-    "updated_at": "2026-10-28T09:18:36Z",
-    "url": "https://github.com/iflytek/skillhub"
-  },
-  {
     "description": "The most Token-efficient open-source AI Agent",
     "id": "clacky-ai/openclacky",
     "language": "Ruby",
@@ -421,32 +448,5 @@
     "stars": 1209,
     "updated_at": "2026-10-28T08:12:59Z",
     "url": "https://github.com/clacky-ai/openclacky"
-  },
-  {
-    "description": "Einfach Agent (\"simple\" in German): a composable-core framework for Web, Tauri desktop & CLI, with DeepSeek/GLM support",
-    "id": "allroad88888888/einfach-agent",
-    "language": "TypeScript",
-    "name": "allroad88888888/einfach-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:59:02Z",
-    "url": "https://github.com/allroad88888888/einfach-agent"
-  },
-  {
-    "description": "Self-evolving AI agent runtime \u2014 RSI under tiered authority, reversible hash-chained ledger, capability security, and cr",
-    "id": "vicfei/growbuddy",
-    "language": "Python",
-    "name": "vicfei/growbuddy",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:07:43Z",
-    "url": "https://github.com/vicfei/growbuddy"
-  },
-  {
-    "description": "FastAPI server and CLI for Agentflow. Auto-generates a REST API from your agent graph, with JWT/custom auth, RBAC author",
-    "id": "10xGraph/10xgraph-api",
-    "language": "Python",
-    "name": "10xGraph/10xgraph-api",
-    "stars": 5,
-    "updated_at": "2026-10-28T08:07:19Z",
-    "url": "https://github.com/10xGraph/10xgraph-api"
   }
 ]
