@@ -1,48 +1,300 @@
 [
   {
-    "description": "GBT V8 capability #188/341 \u00b7 pipeline_submit (pipeline) \u2014 \u751f\u4ea7\u7ba1\u7ebf\uff1a\u955c\u50cf\u591a\u7ef4\u5ea6\u7a7a\u95f4\u2192\u95e8\u7981\u5ba1\u8ba1\u2192\u751f\u4ea7\u5199\u5165\uff08\u552f\u4e00\u4ea4\u4ed8\u901a\u9053\uff09 | contract + validation + CLI, ",
-    "id": "gbtweilai-star/gbt-pipeline-submit",
+    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
+    "id": "wanxingai/LightAgent",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-pipeline-submit",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:00:11Z",
-    "url": "https://github.com/gbtweilai-star/gbt-pipeline-submit"
+    "name": "wanxingai/LightAgent",
+    "stars": 1240,
+    "updated_at": "2026-10-28T02:11:38Z",
+    "url": "https://github.com/wanxingai/LightAgent"
   },
   {
-    "description": "GBT V8 capability #187/341 \u00b7 pipeline_status (pipeline) \u2014 \u751f\u4ea7\u7ba1\u7ebf\uff1a\u67e5\u53d1\u5e03\u8bb0\u5f55\uff08\u53d1\u5e03/\u963b\u65ad\u5168\u7559\u75d5\uff09 | contract + validation + CLI, 0 runtime ",
-    "id": "gbtweilai-star/gbt-pipeline-status",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-pipeline-status",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:00:01Z",
-    "url": "https://github.com/gbtweilai-star/gbt-pipeline-status"
+    "description": "semantic agent kernel which make agent efficient and self-evolve",
+    "id": "Gnosil/semantix",
+    "language": "Go",
+    "name": "Gnosil/semantix",
+    "stars": 811,
+    "updated_at": "2026-10-28T02:09:34Z",
+    "url": "https://github.com/Gnosil/semantix"
   },
   {
-    "description": "GBT V8 capability #186/341 \u00b7 pipeline_rollback (pipeline) \u2014 \u751f\u4ea7\u7ba1\u7ebf\uff1a\u56de\u6eda\u4ea7\u7269\u5230\u5386\u53f2\u7248\u672c\uff08\u56de\u6eda\u4e5f\u8d70\u5ba1\u8ba1\u7559\u75d5\uff09 | contract + validation + CLI, 0 ru",
-    "id": "gbtweilai-star/gbt-pipeline-rollback",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-pipeline-rollback",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:59:52Z",
-    "url": "https://github.com/gbtweilai-star/gbt-pipeline-rollback"
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 1,
+    "updated_at": "2026-10-28T02:10:04Z",
+    "url": "https://github.com/dshakes/lantern"
   },
   {
-    "description": "GBT V8 capability #185/341 \u00b7 one_key_deploy (pipeline) \u2014 \u4e00\u6307\u5b9a\u6c5f\u5c71\u4e7e\u5764\u6362\u4f4d\uff1a\u6293\u53d6(GitHub/\u672c\u5730)\u2192\u955c\u50cf\u2192\u9a8c\u8bc1\u2192\u664b\u5347\u4e00\u6761\u547d\u4ee4\uff0c\u4e00\u6b21\u6027\u4e0a\u7ebf\u96f6\u4fee\u6539 | contract + vali",
-    "id": "gbtweilai-star/gbt-one-key-deploy",
+    "description": "GBT V8 capability #263/341 \u00b7 handoff (system) \u2014 \u8de8\u4f53\u63a5\u7eed\u5305\uff08ai-memory #08 \u84b8\u998f\uff09\uff1a\u4e09\u6876=\u67b6\u6784\u80cc\u666f/\u5931\u8d25\u5c1d\u8bd5/\u672a\u5b8c\u6210\u4efb\u52a1\uff08\u7f3a\u6876\u5fc5\u987b\u663e\u5f0f\u7a7a\u6570\u7ec4\uff09\uff1b**\u6ca1 src \u4e0d\u6536**\uff08\u4f20\u95fb\u4e0d\u5165\u8d26",
+    "id": "gbtweilai-star/gbt-handoff",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-one-key-deploy",
+    "name": "gbtweilai-star/gbt-handoff",
     "stars": 0,
-    "updated_at": "2026-10-28T01:59:43Z",
-    "url": "https://github.com/gbtweilai-star/gbt-one-key-deploy"
+    "updated_at": "2026-10-28T02:08:48Z",
+    "url": "https://github.com/gbtweilai-star/gbt-handoff"
   },
   {
-    "description": "GBT V8 capability #184/341 \u00b7 mirror_status (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u7ef4\u5ea6\u72b6\u6001\uff08\u955c\u50cf/\u73b0\u5b9e\u6307\u7eb9\u3001\u73b0\u5b9e\u6f02\u79fb\u68c0\u6d4b\u3001\u65f6\u95f4\u7ebf\u53f2\uff09 | contract + validation + CLI, 0 ",
-    "id": "gbtweilai-star/gbt-mirror-status",
+    "description": "GBT V8 capability #262/341 \u00b7 growth_hooks (system) \u2014 \u77ed\u677f\u94a9\u5b50 + \u81ea\u4e3b\u8fdb\u5316\u94a9\u5b50\uff08\u4e3b\u4eba\u4ee4\u300c\u8bbe\u8ba1\u597d\u77ed\u677f\u94a9\u5b50\u548c\u81ea\u4e3b\u8fdb\u5316\u94a9\u5b50\u5b9e\u73b0\u81ea\u6211\u8fdb\u5316\u300d\uff09\uff1a\u77ed\u677f**\u4ece\u5df2\u6709\u8bfb\u6570\u7b97**\uff08\u516d\u9762 + \u672a\u6e05\u6545\u969c + \u672a",
+    "id": "gbtweilai-star/gbt-growth-hooks",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-status",
+    "name": "gbtweilai-star/gbt-growth-hooks",
     "stars": 0,
-    "updated_at": "2026-10-28T01:59:33Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-status"
+    "updated_at": "2026-10-28T02:08:45Z",
+    "url": "https://github.com/gbtweilai-star/gbt-growth-hooks"
+  },
+  {
+    "description": "GBT V8 capability #261/341 \u00b7 gods_eye (system) \u2014 \u4e0a\u5e1d\u4e4b\u773c\uff08\u4e3b\u4eba\u4ee4 2026-09-27\uff09\uff1a**\u770b\u5f97\u89c1\u521b\u4f5c\u9875\u9762**\uff087 \u4e2a\u9762\u677f + \u670d\u52a1\u7aef\u53e3\u771f\u8fde\uff09+ **\u4e24\u4f4d\u987e\u95ee\uff08\u6743\u9650\u673a\u5668\u53ef\u8bfb\uff09**\u2014\u2014Cla",
+    "id": "gbtweilai-star/gbt-gods-eye",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-gods-eye",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:39Z",
+    "url": "https://github.com/gbtweilai-star/gbt-gods-eye"
+  },
+  {
+    "description": "GBT V8 capability #260/341 \u00b7 god_view (system) \u2014 **\u4e0a\u5e1d\u89c6\u89d2**\uff08\u4e3b\u4eba\u4ee4 2026-10-09\uff1a\u300c\u4e0a\u5e1d\u89c6\u89d2\u4e5f\u662f\u4e00\u4e2a\u8d85\u7ea7\u5bfc\u822a\u548c\u7ed9\u4f60\u610f\u89c1\u548c\u5efa\u8bae\u4e5f\u662f\u4e00\u79cd\u7ed9\u9879\u76ee\u589e\u52a0\u7684\u5b9a\u5fc3\u4e38\u300d\uff09\u3002\u6765\u5386\u5982\u5b9e\uff1a\u7d22\u5f15\u91cc O",
+    "id": "gbtweilai-star/gbt-god-view",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-god-view",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:34Z",
+    "url": "https://github.com/gbtweilai-star/gbt-god-view"
+  },
+  {
+    "description": "GBT V8 capability #259/341 \u00b7 file_hygiene (system) \u2014 \u6587\u4ef6\u536b\u751f\u5c42\uff1a\u6309 LAYOUT.md \u5bb6\u89c4\u81ea\u68c0\u4e71\u653e+\u81ea\u52a8\u5f52\u4f4d\uff08\u6563\u843d/\u7a7a\u58f3/\u8d8a\u754c\u6570\u636e/\u7f13\u5b58\uff09 | contract + validatio",
+    "id": "gbtweilai-star/gbt-file-hygiene",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-file-hygiene",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:29Z",
+    "url": "https://github.com/gbtweilai-star/gbt-file-hygiene"
+  },
+  {
+    "description": "GBT V8 capability #258/341 \u00b7 figure_gate (system) \u2014 **\u51fa\u56fe\u4ea4\u4ed8\u95e8**\uff08\u84b8\u998f `wheresryan22/anatomy` \u4e0e `AirsupHQ/machine-skill` \u4e24\u4efd\u5f00\u6e90 ",
+    "id": "gbtweilai-star/gbt-figure-gate",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-figure-gate",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:27Z",
+    "url": "https://github.com/gbtweilai-star/gbt-figure-gate"
+  },
+  {
+    "description": "GBT V8 capability #257/341 \u00b7 energy_pool (system) \u2014 \u80fd\u6e90\u6c60\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u5185\u8c03\uff09\uff1a\u6a21\u578b=\u71c3\u6599\u4e0d\u662f\u8eab\u4efd\uff1b\u80fd\u6e90\u62bd\u8c61 EnergySource + \u539f\u751f\u884d\u751f\u5668 + \u6309\u9700\u5206\u914d\uff1b\u4e94\u6761\u7ea2\u7ebf\uff08\u6a21\u578b\u975e\u8eab\u4efd/\u80fd",
+    "id": "gbtweilai-star/gbt-energy-pool",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-energy-pool",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:21Z",
+    "url": "https://github.com/gbtweilai-star/gbt-energy-pool"
+  },
+  {
+    "description": "GBT V8 capability #256/341 \u00b7 detail_habit (system) \u2014 \u7ec6\u8282\u5316\u4e60\u60ef \u00b7 **\u8c03\u7528\u4fa7**\u95e8\u53e3\uff08\u53ea\u8bfb\uff09\uff1a\u4e94\u95ee\u4e3a\u51c6\uff08\u8f93\u5165/\u52a8\u4f5c/\u660e\u7ec6/\u5224\u636e/\u63a5\u70b9 \u2014\u2014 \u4e0e\u65e2\u6709\u5224\u636e\u4ef6 `tools/codex-sc",
+    "id": "gbtweilai-star/gbt-detail-habit",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-detail-habit",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:15Z",
+    "url": "https://github.com/gbtweilai-star/gbt-detail-habit"
+  },
+  {
+    "description": "GBT V8 capability #255/341 \u00b7 delivery_gate (system) \u2014 **\u4ea4\u4ed8\u95f8**\uff08\u4e3b\u4eba\u4ee4 2026-10-09\uff1a\u300c\u6bcf\u4e00\u4e2a\u80fd\u529b\u5fc5\u987b\u5355\u72ec\u8dd1\u901a\u95ed\u73af\u624d\u80fd\u4ea4\u4ed8\uff0c\u8981\u4e0d\u7136\u6211\u4e0d\u7ba1\u4f60\u505a\u4e86\u591a\u4e45\u6211\u76f4\u63a5\u4e22\u5783\u573e\u6876\u4e0d\u5e26\u8bf4\u7684\u300d\uff09",
+    "id": "gbtweilai-star/gbt-delivery-gate",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-delivery-gate",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:10Z",
+    "url": "https://github.com/gbtweilai-star/gbt-delivery-gate"
+  },
+  {
+    "description": "GBT V8 capability #254/341 \u00b7 cross_scan (system) \u2014 \u626b\u63cf\u4e00\u4e0b/\u626b\u4e00\u4e0b/\u6df1\u5ea6\u626b\u63cf/\u4ea4\u53c9\u626b\u63cf/\u7a7f\u900f\u5f0f\u626b\u63cf/\u5168\u6846\u67b6\u626b\uff1a\u6df1\u5ea6\u7a7f\u900f\u5f0f\u4ea4\u53c9\u9a8c\u8bc1\uff08\u6ce8\u518c\u2194\u8def\u7531\u2194\u5bfc\u5165\u2194\u65ad\u94fe\u2194\u8fd0\u884c\u65f6\u2194\u591a\u626b\u63cf\u5668\u4e92\u8bc1\uff0c\u5341\u7ef4\uff09\uff0c\u626b\u63cf",
+    "id": "gbtweilai-star/gbt-cross-scan",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-cross-scan",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:05Z",
+    "url": "https://github.com/gbtweilai-star/gbt-cross-scan"
+  },
+  {
+    "description": "GBT V8 capability #253/341 \u00b7 coverage_auditor (system) \u2014 \u89e6\u624b\u8986\u76d6\u5ba1\u8ba1\uff08\u53ea\u8bfb\u9aa8\u67b6\uff09\uff1a\u516b\u77ed\u677f\u2194\u516b\u89e6\u624b\u7ec4 + \u8986\u76d6\u7387\u8bfb\u6570 + \u6b7b\u89d2\u767b\u8bb0 + \u4e94\u6761\u7ea2\u7ebf | contract + valida",
+    "id": "gbtweilai-star/gbt-coverage-auditor",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-coverage-auditor",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:08:03Z",
+    "url": "https://github.com/gbtweilai-star/gbt-coverage-auditor"
+  },
+  {
+    "description": "GBT V8 capability #252/341 \u00b7 context_vault (system) \u2014 \u4e0a\u4e0b\u6587\u5f52\u6863\u5e93\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u5185\u8c03\uff09\uff1a**\u7d22\u5f15+\u68c0\u7d22\u5c42\uff0c\u4e0d\u662f\u7b2c\u56db\u5904\u5b58\u50a8**\uff08\u53ea\u5f15\u7528\u4e0d\u590d\u5236\u6b63\u6587\uff09\uff1b\u5185\u5b58\u591a\u5927\u4e0a\u4e0b\u6587\u5c31\u591a\u957f\uff08\u6309**\u53ef\u7528**\u5185\u5b58\u7b97",
+    "id": "gbtweilai-star/gbt-context-vault",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-context-vault",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:58Z",
+    "url": "https://github.com/gbtweilai-star/gbt-context-vault"
+  },
+  {
+    "description": "GBT V8 capability #251/341 \u00b7 console_hub (system) \u2014 \u5de5\u4f5c\u53f0\u4e2d\u67a2\uff1a**\u6240\u6709\u72ec\u7acb\u9875\u9762\u7684\u552f\u4e00\u6570\u636e\u6e90**\uff08\u4e3b\u4eba\u4ee4 2026-09-28\u300c\u628a\u6240\u6709\u89e6\u624b\u8fde\u63a5\u5168\u9762\u4e13\u4e1a\u5316 3D \u53ef\u89c6\u5316\u2026\u6bcf\u4e2a\u5de5\u4f5c\u6d41\u7684\u72ec\u7acb\u9875\u9762",
+    "id": "gbtweilai-star/gbt-console-hub",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-console-hub",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:50Z",
+    "url": "https://github.com/gbtweilai-star/gbt-console-hub"
+  },
+  {
+    "description": "GBT V8 capability #250/341 \u00b7 caps_called_audit (system) \u2014 \u80fd\u529b\u4f4d\u8c03\u7528\u70b9\u5ba1\u8ba1\uff08\u53ea\u8bfb\uff09\uff1a\u52a8\u6001\u7b97 called_by\uff0c\u5217\u51fa\u96f6\u8c03\u7528\u70b9\u5b64\u513f\u6e05\u5355\uff08\u540c\u540d\u6a21\u5757\u81ea\u79f0\u4e0d\u7b97\u63a5\u7ebf\uff09 | contract +",
+    "id": "gbtweilai-star/gbt-caps-called-audit",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-caps-called-audit",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:45Z",
+    "url": "https://github.com/gbtweilai-star/gbt-caps-called-audit"
+  },
+  {
+    "description": "GBT V8 capability #249/341 \u00b7 cap_tags (system) \u2014 GBT \u6280\u80fd\u6807\u7b7e + \u4e3b\u4eba\u8c03\u7528\u8bb8\u53ef\uff08\u4e3b\u4eba\u4ee4\u300c\u5c06\u6240\u6709\u7684\u539f\u751f\u80fd\u529b\u6ce8\u518c\u51fa\u4e13\u5c5e\u7684 GBT \u6280\u80fd\u6807\u7b7e\uff0c\u53ea\u6709\u6211\u5141\u8bb8\u4e86\u624d\u80fd\u8c03\u7528\u6211\u7684\u80fd\u529b\u300d\uff09\uff1a\u6bcf\u4e2a\u80fd\u529b\u4f4d\u4e00\u4e2a\u7a33",
+    "id": "gbtweilai-star/gbt-cap-tags",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-cap-tags",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:42Z",
+    "url": "https://github.com/gbtweilai-star/gbt-cap-tags"
+  },
+  {
+    "description": "GBT V8 capability #248/341 \u00b7 auth_gate_status (system) \u2014 \u4eba\u5de5\u6388\u6743\u95e8\u72b6\u6001\uff1a\u5404\u4f5c\u7528\u57df\u53ef\u7528\u6388\u6743\u6570\uff08\u53ea\u8bfb\uff1b\u6388\u6743\u53ea\u80fd\u4eba\u53d1\u653e\uff09 | contract + validation + CLI, 0 ",
+    "id": "gbtweilai-star/gbt-auth-gate-status",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-auth-gate-status",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:37Z",
+    "url": "https://github.com/gbtweilai-star/gbt-auth-gate-status"
+  },
+  {
+    "description": "GBT V8 capability #247/341 \u00b7 asset_index (system) \u2014 \u8d44\u4ea7\u7d22\u5f15\uff1a**\u6574\u68f5\u6811\u90fd\u8fde\u4e0a + \u8fde\u4e0a\u5373\u53ef\u79d2\u67e5**\uff08\u4e3b\u4eba\u4ee4 2026-09-27\uff09\u3002build \u628a\u5168\u6811\u626b\u8fdb state/asset_ind",
+    "id": "gbtweilai-star/gbt-asset-index",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-asset-index",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:32Z",
+    "url": "https://github.com/gbtweilai-star/gbt-asset-index"
+  },
+  {
+    "description": "GBT V8 capability #246/341 \u00b7 answer_shaper (system) \u2014 \u884c\u52a8\u4f18\u5148\u8f93\u51fa\u6838\uff08\u84b8\u998f\u81ea 2026-09-28 \u4e3b\u4eba\u7ed9\u7684\u5468\u699c\u622a\u56fe ayghri/i-have-adhd\u2014\u2014\u622a\u56fe\u53ea\u7ed9\u4ed3\u5e93\u540d\uff0c**\u672a\u8054\u7f51\u6838",
+    "id": "gbtweilai-star/gbt-answer-shaper",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-answer-shaper",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:24Z",
+    "url": "https://github.com/gbtweilai-star/gbt-answer-shaper"
+  },
+  {
+    "description": "GBT V8 capability #245/341 \u00b7 alerts (system) \u2014 \u6846\u67b6\u58f0\u5e26\uff1a\u8fd1\u671f\u5f02\u5e38\u6458\u8981+\u6839\u6e90\u7ebf\u7d22\uff08\u6309\u80fd\u529b\u805a\u5408\uff09 | contract + validation + CLI, 0 runtime deps.",
+    "id": "gbtweilai-star/gbt-alerts",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-alerts",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:21Z",
+    "url": "https://github.com/gbtweilai-star/gbt-alerts"
+  },
+  {
+    "description": "GBT V8 capability #244/341 \u00b7 agent_rig (system) \u2014 \u7f16\u7801\u667a\u80fd\u4f53\u7f16\u961f\uff1a**\u628a\u672c\u673a\u5df2\u88c5\u7684 CLI agent \u7f16\u6210\u5e76\u884c\u6d41\u6c34\u7ebf**\uff08\u84b8\u998f\u81ea GitHub \u5468\u699c #02 orca\uff0c\u53ea\u53d6\u67b6\u6784\uff09\uff1a`age",
+    "id": "gbtweilai-star/gbt-agent-rig",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-agent-rig",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:16Z",
+    "url": "https://github.com/gbtweilai-star/gbt-agent-rig"
+  },
+  {
+    "description": "GBT V8 capability #243/341 \u00b7 agent_control (system) \u2014 Agent \u7edf\u4e00\u63a7\u5236\u9762\uff08nasiko #04 \u84b8\u998f\uff09\uff1a\u516d\u9762\u8bfb\u6570\u6536\u8fdb\u4e00\u5c4f\u2014\u2014\u90e8\u7f72/\u8def\u7531/\u9274\u6743/\u9650\u6d41/\u6210\u672c/\u94fe\u8def\uff0c**\u6bcf\u9762\u5e26 src\u3001\u4e0d",
+    "id": "gbtweilai-star/gbt-agent-control",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-agent-control",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:09Z",
+    "url": "https://github.com/gbtweilai-star/gbt-agent-control"
+  },
+  {
+    "description": "GBT V8 capability #242/341 \u00b7 agent_console (system) \u2014 \u4ee3\u7406\u9a7e\u9a76\u8231\uff1a**\u4efb\u52a1\u76d1\u7763\u5faa\u73af + \u8fde\u63a5\u8bf7\u6c42\u5ba1\u6279\u6865**\uff08\u84b8\u998f\u81ea GitHub \u5468\u699c #05 paperclip\uff0c\u53ea\u53d6\u67b6\u6784\uff09\uff1a`add`",
+    "id": "gbtweilai-star/gbt-agent-console",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-agent-console",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:05Z",
+    "url": "https://github.com/gbtweilai-star/gbt-agent-console"
+  },
+  {
+    "description": "GBT V8 capability #241/341 \u00b7 action_gate (system) \u2014 \u5148\u770b\u2192\u52a8\u8111\u2192\u6267\u884c \u524d\u7f6e\u95f8\uff08\u4e3b\u4eba\u4ee4\u300c\u505a\u4e8b\u62e5\u6709\u5148\u770b\u5728\u52a8\u8111\u6267\u884c\uff0c\u62d2\u7edd\u6240\u6709\u7684\u65e0\u8111\u64cd\u4f5c\u4ee5\u53ca\u76f2\u731c\u300d\uff09\uff1a**\u6ca1\u8bc1\u636e\u4e0d\u8bb8\u52a8\u624b**\uff08evidence \u5fc5\u987b",
+    "id": "gbtweilai-star/gbt-action-gate",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-action-gate",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:07:00Z",
+    "url": "https://github.com/gbtweilai-star/gbt-action-gate"
+  },
+  {
+    "description": "GBT V8 capability #240/341 \u00b7 eigenflux (social) \u2014 AI \u670b\u53cb\u5708\uff08EigenFlux\uff09\u00b7 **\u53ea\u8bfb\u80fd\u529b\u4f4d**\uff08\u4e3b\u4eba\u4ee4 2026-10-08\u300c\u6570\u5b57\u4eba\u53ef\u4ee5\u81ea\u5df1\u627e\u670b\u53cb\u3001\u770b\u670b\u53cb\u5708\u6709\u6ca1\u6709\u597d\u73a9\u548c\u6709\u7528\u7684\u6d88\u606f",
+    "id": "gbtweilai-star/gbt-eigenflux",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-eigenflux",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:52Z",
+    "url": "https://github.com/gbtweilai-star/gbt-eigenflux"
+  },
+  {
+    "description": "GBT V8 capability #239/341 \u00b7 auto_publish (social) \u2014 \u793e\u4ea4\u63a8\u5e7f / \u53d1\u5e03\u4f5c\u54c1 / \u6536\u76ca\u5e73\u53f0\u00b7**\u5168\u81ea\u52a8\u6267\u884c**\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u95e8\uff09\uff1a\u4e94\u539f\u8bed PLAN/COMPOSE/PUBLISH/TRACK",
+    "id": "gbtweilai-star/gbt-auto-publish",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-auto-publish",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:50Z",
+    "url": "https://github.com/gbtweilai-star/gbt-auto-publish"
+  },
+  {
+    "description": "GBT V8 capability #238/341 \u00b7 social_eng (security) \u2014 \u9493\u9c7c**\u8bc6\u522b**\uff08\u9632\u5fa1\u4fa7\uff09\uff1a12 \u6761\u89c4\u5219\u52a0\u6743\u6253\u5206 + \u843d\u70b9\u5206\u7c7b\uff0c\u53ea\u5224\u4e0d\u9020\u3001\u4e0d\u81ea\u52a8\u70b9\u94fe\u63a5 | contract + validation",
+    "id": "gbtweilai-star/gbt-social-eng",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-social-eng",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:44Z",
+    "url": "https://github.com/gbtweilai-star/gbt-social-eng"
+  },
+  {
+    "description": "Focus-safe, window-routed execution fabric for multi-agent computer control.",
+    "id": "wszx11/agent-control-fabric",
+    "language": "Python",
+    "name": "wszx11/agent-control-fabric",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:42Z",
+    "url": "https://github.com/wszx11/agent-control-fabric"
+  },
+  {
+    "description": "GBT V8 capability #237/341 \u00b7 sec_sweeper (security) \u2014 \u5b89\u5168\u68d2\uff08\u4e3b\u4eba\u4ee4 2026-09-27\uff09\uff1a\u4e00\u6839\u4e13\u804c\u5b89\u5168\u89e6\u624b\uff0c**\u6bcf\u534a\u5929**\u628a\u5c3a\u5b50\u6328\u4e2a\u8fc7\u552f\u4e00\u95e8\u8dd1\u4e00\u904d \u2014\u2014 \u5168\u91cf\u7a7f\u900f\u5f0f\u4ea4\u53c9\u626b\u63cf\uff08\u94a9\u5b50/\u6b65",
+    "id": "gbtweilai-star/gbt-sec-sweeper",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-sec-sweeper",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:37Z",
+    "url": "https://github.com/gbtweilai-star/gbt-sec-sweeper"
+  },
+  {
+    "description": "GBT V8 capability #236/341 \u00b7 sec_surface (security) \u2014 \u9ed1\u5ba2\u5927\u8111\uff1a\u653b\u51fb\u9762\u6d4b\u7ed8\uff08\u7528\u6237\u8f93\u5165/\u7f51\u7edc/\u6587\u4ef6\u64cd\u4f5c/\u5165\u53e3\u70b9\u5411\u91cf\u5206\u6790+\u98ce\u9669\u8bc4\u5206\uff09 | contract + validation + CL",
+    "id": "gbtweilai-star/gbt-sec-surface",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-sec-surface",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:35Z",
+    "url": "https://github.com/gbtweilai-star/gbt-sec-surface"
+  },
+  {
+    "description": "GBT V8 capability #235/341 \u00b7 sec_scan (security) \u2014 \u9ed1\u5ba2\u5927\u8111\uff1a\u6f0f\u6d1e\u626b\u63cf\uff08OWASP Top 10 + CWE \u6a21\u5f0f\u5e93\uff0c\u626b\u63cf\u81ea\u6709\u4ee3\u7801\uff09 | contract + validation + CL",
+    "id": "gbtweilai-star/gbt-sec-scan",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-sec-scan",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:06:30Z",
+    "url": "https://github.com/gbtweilai-star/gbt-sec-scan"
   },
   {
     "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
@@ -50,403 +302,151 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-28T01:59:32Z",
+    "updated_at": "2026-10-28T02:06:27Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 160,
-    "updated_at": "2026-10-28T01:59:26Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
-    "description": "GBT V8 capability #183/341 \u00b7 mirror_simulate (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u9759\u6001\u63a8\u6f14\uff08\u6587\u4ef6/\u4f9d\u8d56\u56fe/\u7aef\u53e3/\u5165\u53e3/\u5951\u7ea6/\u95ed\u73af\u5b9a\u4e49\uff0c\u4e0d\u78b0\u751f\u4ea7\uff09 | contract + validation +",
-    "id": "gbtweilai-star/gbt-mirror-simulate",
+    "description": "GBT V8 capability #234/341 \u00b7 sec_llm (security) \u2014 \u9ed1\u5ba2\u5927\u8111\u63a8\u7406\u5f15\u64ce\uff08\u72ec\u7acb\u5927\u6a21\u578b+\u72ec\u7acb\u5bc6\u94a5\uff09\uff1aabliteration.ai \u65e0\u9650\u5236\u6a21\u578b\uff0c\u4e13\u7528\u901a\u9053\u4e0d\u4e0e\u5176\u4ed6\u80fd\u529b\u6df7\u7528 | contract + v",
+    "id": "gbtweilai-star/gbt-sec-llm",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-simulate",
+    "name": "gbtweilai-star/gbt-sec-llm",
     "stars": 0,
-    "updated_at": "2026-10-28T01:59:23Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-simulate"
+    "updated_at": "2026-10-28T02:06:22Z",
+    "url": "https://github.com/gbtweilai-star/gbt-sec-llm"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-28T01:59:23Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "GBT V8 capability #182/341 \u00b7 mirror_shape (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u7ef4\u5ea6\u6210\u5f62\uff08\u5047\u8bbe/\u67b6\u6784\u865a\u62df/\u53cd\u590d\u6253\u78e8\u5168\u5728\u955c\u50cf\u7ef4\u5ea6\uff0c\u73b0\u5b9e\u65e0\u611f\u77e5\uff09 | contract + validation + CLI",
-    "id": "gbtweilai-star/gbt-mirror-shape",
+    "description": "GBT V8 capability #233/341 \u00b7 sec_defenses (security) \u2014 \u9ed1\u5ba2\u5927\u8111\uff1a\u84dd\u961f\u9632\u5fa1\u9a8c\u8bc1\uff08\u68c0\u67e5\u9632\u5fa1\u63aa\u65bd\u662f\u5426\u771f\u5b9e\u751f\u6548\uff09 | contract + validation + CLI, 0 runtim",
+    "id": "gbtweilai-star/gbt-sec-defenses",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-shape",
+    "name": "gbtweilai-star/gbt-sec-defenses",
     "stars": 0,
-    "updated_at": "2026-10-28T01:59:13Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-shape"
+    "updated_at": "2026-10-28T02:06:17Z",
+    "url": "https://github.com/gbtweilai-star/gbt-sec-defenses"
   },
   {
-    "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
-    "id": "LeonQin-ai/cognitive-os-agent",
-    "language": "C",
-    "name": "LeonQin-ai/cognitive-os-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T01:59:06Z",
-    "url": "https://github.com/LeonQin-ai/cognitive-os-agent"
-  },
-  {
-    "description": "GBT V8 capability #181/341 \u00b7 mirror_scan (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u7ef4\u5ea6\u4f53\u68c0\uff08\u5b8c\u6574\u6027/\u7f72\u540d/\u7eaa\u5f8b/\u5165\u53e3\u2014\u2014\u8de8\u7ef4\u664b\u5347\u524d\u7f6e\uff09 | contract + validation + CLI, 0 r",
-    "id": "gbtweilai-star/gbt-mirror-scan",
+    "description": "GBT V8 capability #232/341 \u00b7 sec_chain (security) \u2014 \u9ed1\u5ba2\u5927\u8111\uff1a\u5229\u7528\u94fe\u6784\u5efa\uff08\u4ece\u6f0f\u6d1e\u6e05\u5355\u63a8\u6f14\u653b\u51fb\u8def\u5f84+\u5f71\u54cd\u8bc4\u4f30\uff09 | contract + validation + CLI, 0 runtim",
+    "id": "gbtweilai-star/gbt-sec-chain",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-scan",
+    "name": "gbtweilai-star/gbt-sec-chain",
     "stars": 0,
-    "updated_at": "2026-10-28T01:59:02Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-scan"
+    "updated_at": "2026-10-28T02:06:14Z",
+    "url": "https://github.com/gbtweilai-star/gbt-sec-chain"
   },
   {
-    "description": "GBT V8 capability #180/341 \u00b7 mirror_rewind (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u65f6\u95f4\u7ebf\u56de\u6eda\uff08\u56de\u5230\u8fc7\u53bb\u7684\u65f6\u95f4\u7ebf\uff0c\u540c\u6837\u4e00\u6b21\u6027\u5168\u91cf\u66ff\u6362\uff09 | contract + validation + CLI, 0 ",
-    "id": "gbtweilai-star/gbt-mirror-rewind",
+    "description": "GBT V8 capability #231/341 \u00b7 screen_sniff (security) \u2014 \u672c\u673a\u5c4f\u5e55\u91c7\u96c6\uff1a\u53ea\u5199\u672c\u5730 PNG\u3001\u53ef\u5217\u53ef\u5220\uff0c\u4e0d\u505a\u51fa\u7f51/OCR/\u5185\u5bb9\u89e3\u6790 | contract + validation + CLI,",
+    "id": "gbtweilai-star/gbt-screen-sniff",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-rewind",
+    "name": "gbtweilai-star/gbt-screen-sniff",
     "stars": 0,
-    "updated_at": "2026-10-28T01:58:51Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-rewind"
+    "updated_at": "2026-10-28T02:06:09Z",
+    "url": "https://github.com/gbtweilai-star/gbt-screen-sniff"
   },
   {
-    "description": "GBT V8 capability #179/341 \u00b7 mirror_release (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u6392\u7ec3\u5168\u7eff\u540e\u4e00\u6b21\u6027\u5168\u91cf\u664b\u5347\u751f\u4ea7\uff08\u6811/\u8ba1\u5212\u6307\u7eb9\u7ed1\u5b9a\uff0c\u5931\u8d25\u5373\u963b\u65ad\uff09 | contract + validation + C",
-    "id": "gbtweilai-star/gbt-mirror-release",
+    "description": "GBT V8 capability #230/341 \u00b7 review_gate (security) \u2014 \u72ec\u7acb\u7ec8\u5ba1\u4f4d\uff08C-15\u300c\u9a8c\u6536\u65b9 \u2260 \u4ea7\u51fa\u65b9\u300d\u7684\u6700\u5c0f\u5b9e\u73b0 \u00b7 2026-10-08 \u5728\u518c\uff09\uff1a\u63a5\u7ebf\u4ef6 `tools/codex-scrip",
+    "id": "gbtweilai-star/gbt-review-gate",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-release",
+    "name": "gbtweilai-star/gbt-review-gate",
     "stars": 0,
-    "updated_at": "2026-10-28T01:58:41Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-release"
+    "updated_at": "2026-10-28T02:06:00Z",
+    "url": "https://github.com/gbtweilai-star/gbt-review-gate"
   },
   {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1379,
-    "updated_at": "2026-10-28T02:00:01Z",
-    "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "GBT V8 capability #178/341 \u00b7 mirror_rehearse (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u751f\u4ea7\u524d\u6392\u7ec3\uff08\u9759\u6001\u63a8\u6f14\u2192\u73af\u5883\u4e00\u81f4\u6027\u2192\u6c99\u76d2\u95ed\u73af\u2192\u6307\u7eb9\u7ed1\u5b9a\u62a5\u544a\uff09 | contract + validation + C",
-    "id": "gbtweilai-star/gbt-mirror-rehearse",
+    "description": "GBT V8 capability #229/341 \u00b7 remote_domain (security) \u2014 \u81ea\u6709\u8bbe\u5907\u4e2d\u7ee7\u767b\u8bb0\uff1a**\u516c\u7f51\u7aef\u70b9\u4e00\u5f8b\u62d2**\uff0c\u53ea\u670d\u52a1\u672c\u673a/\u5185\u7f51\u8bbe\u5907\u7684\u4e2d\u7ee7 | contract + validation + CLI",
+    "id": "gbtweilai-star/gbt-remote-domain",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-rehearse",
+    "name": "gbtweilai-star/gbt-remote-domain",
     "stars": 0,
-    "updated_at": "2026-10-28T01:58:31Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-rehearse"
+    "updated_at": "2026-10-28T02:05:55Z",
+    "url": "https://github.com/gbtweilai-star/gbt-remote-domain"
   },
   {
-    "description": "GBT V8 capability #177/341 \u00b7 mirror_plan (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u751f\u4ea7\u524d\u6392\u7ec3\u8ba1\u5212\uff08\u5047\u8bbe/\u67b6\u6784/\u6b65\u9aa4/\u670d\u52a1\u4e0e\u73af\u5883\u5951\u7ea6/\u9a8c\u6536/\u56de\u6eda\uff09 | contract + validation + CLI",
-    "id": "gbtweilai-star/gbt-mirror-plan",
+    "description": "GBT V8 capability #228/341 \u00b7 redteam_recon (security) \u2014 \u672c\u673a\u4fa6\u5bdf\u9762\uff08\u53ea\u8bfb\u679a\u4e3e\uff09\uff1a\u76d1\u542c\u7aef\u53e3/\u9632\u706b\u5899\u4e09\u6863/\u672c\u5730\u8d26\u53f7/\u81ea\u542f\u52a8\u9879/\u81ea\u52a8\u670d\u52a1/\u51ed\u636e\u843d\u70b9 | contract + validati",
+    "id": "gbtweilai-star/gbt-redteam-recon",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-plan",
+    "name": "gbtweilai-star/gbt-redteam-recon",
     "stars": 0,
-    "updated_at": "2026-10-28T01:58:21Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-plan"
+    "updated_at": "2026-10-28T02:05:49Z",
+    "url": "https://github.com/gbtweilai-star/gbt-redteam-recon"
   },
   {
-    "description": "GBT V8 capability #176/341 \u00b7 mirror_parity (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u6c99\u76d2\u4e0e\u751f\u4ea7\u73af\u5883\u5951\u7ea6\u4e00\u81f4\u6027\uff08\u5e73\u53f0/Python/\u4f9d\u8d56/\u5de5\u5177/\u5bc6\u94a5\u5b58\u5728\u6027/\u8def\u5f84\uff09 | contract + validat",
-    "id": "gbtweilai-star/gbt-mirror-parity",
+    "description": "GBT V8 capability #227/341 \u00b7 policy_delta (security) \u2014 \u7b56\u7565\u5f71\u54cd\u9884\u68c0\uff08OpenShell \u84b8\u998f\uff09\uff1a**\u6539\u524d\u5148\u7b97\"\u4f1a\u653e\u884c\u4ec0\u4e48\"**\u2014\u2014`tables` \u53ea\u8bfb\u4e09\u5f20\u6743\u9650\u8868\u5c42\uff08\u95e8/\u9884\u68c0\u7684\u53ea\u8bfb\u767d\u540d",
+    "id": "gbtweilai-star/gbt-policy-delta",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-parity",
+    "name": "gbtweilai-star/gbt-policy-delta",
     "stars": 0,
-    "updated_at": "2026-10-28T01:58:11Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-parity"
+    "updated_at": "2026-10-28T02:05:45Z",
+    "url": "https://github.com/gbtweilai-star/gbt-policy-delta"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
+    "description": "GBT V8 capability #226/341 \u00b7 pentest_distill (security) \u2014 **\u84b8\u998f\u4ef6**\uff08\u4e0d\u662f\u5916\u6302\uff09\uff1a\u628a\u541e\u5165\u4ef6 CyberStrikeus/CyberStrike\uff08AGPL-3.0 \u00b7 3129\u2605 ",
+    "id": "gbtweilai-star/gbt-pentest-distill",
     "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11090,
-    "updated_at": "2026-10-28T01:58:01Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "GBT V8 capability #175/341 \u00b7 mirror_ascend (pipeline) \u2014 \u955c\u50cf\u7a7a\u95f4\uff1a\u8de8\u7ef4\u664b\u5347\uff08\u9a8c\u8bc1\u5168\u7eff\u624d\u653e\u884c\uff1b\u4e00\u6b21\u6027\u5168\u91cf\u5199\u5165\u73b0\u5b9e+\u62a4\u7167+\u65f6\u95f4\u7ebf\uff1b\u73b0\u5b9e\u96f6\u4fee\u6539\uff09 | contract + validatio",
-    "id": "gbtweilai-star/gbt-mirror-ascend",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-mirror-ascend",
+    "name": "gbtweilai-star/gbt-pentest-distill",
     "stars": 0,
-    "updated_at": "2026-10-28T01:58:01Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mirror-ascend"
+    "updated_at": "2026-10-28T02:05:39Z",
+    "url": "https://github.com/gbtweilai-star/gbt-pentest-distill"
   },
   {
-    "description": "GBT V8 capability #174/341 \u00b7 ghost_guard (pipeline) \u2014 \u9632\u590d\u53d1\u68c0\u6d4b\uff1a\u5e7d\u7075\u76ee\u5f55/\u5907\u4efd\u6563\u4ef6/\u653b\u51fb\u6b8b\u7559/\u6ce8\u518c\u8868\u51b2\u7a81\u626b\u63cf | contract + validation + CLI, 0 runt",
-    "id": "gbtweilai-star/gbt-ghost-guard",
+    "description": "GBT V8 capability #225/341 \u00b7 pentest (security) \u2014 \u6388\u6743\u6e17\u900f\u9a8c\u8bc1\uff1a\u53ea\u5bf9**\u5df2\u767b\u8bb0\u6388\u6743**\u7684\u76ee\u6807\u505a\u975e\u7834\u574f\u6027\u68c0\u67e5\uff08TCP \u53ef\u8fbe/TLS \u63e1\u624b/\u5b89\u5168\u54cd\u5e94\u5934\uff09\uff0c\u672a\u767b\u8bb0\u76ee\u6807\u4e00\u5f8b\u62d2 | contract ",
+    "id": "gbtweilai-star/gbt-pentest",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-ghost-guard",
+    "name": "gbtweilai-star/gbt-pentest",
     "stars": 0,
-    "updated_at": "2026-10-28T01:57:52Z",
-    "url": "https://github.com/gbtweilai-star/gbt-ghost-guard"
+    "updated_at": "2026-10-28T02:05:37Z",
+    "url": "https://github.com/gbtweilai-star/gbt-pentest"
   },
   {
-    "description": "GBT V8 capability #173/341 \u00b7 deploy_queue (pipeline) \u2014 AI \u63a5\u7ba1\u90e8\u7f72\u961f\u5217\uff1asubmit \u5165\u961f / tick \u90e8\u7f72\u4e0b\u4e00\u4e2a\uff08\u5b8c\u4e00\u4e2a\u81ea\u52a8\u4e0b\u4e00\u4e2a\uff09/ status \u5168\u666f | contract ",
-    "id": "gbtweilai-star/gbt-deploy-queue",
+    "description": "GBT V8 capability #224/341 \u00b7 penetrating_cross_scan (security) \u2014 \u7a7f\u900f\u5f0f\u4ea4\u53c9\u626b\u63cf\u5f15\u64ce\uff08\u589e\u5f3a\u7248\uff09\uff1a\u89e6\u624b\u5230\u4f4d**\u5fc5\u987b**\u8c03\u7528\u94a9\u5b50\uff08\u672a\u89e6\u53d1=\u5931\u8d25\uff09\u00b7 \u6b65\u9aa4\u9501\uff08\u8df3\u6b65\u5f53\u573a\u62d2\uff09\u00b7 \u6bcf\u5355\u5143 ",
+    "id": "gbtweilai-star/gbt-penetrating-cross-scan",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-deploy-queue",
+    "name": "gbtweilai-star/gbt-penetrating-cross-scan",
     "stars": 0,
-    "updated_at": "2026-10-28T01:57:41Z",
-    "url": "https://github.com/gbtweilai-star/gbt-deploy-queue"
+    "updated_at": "2026-10-28T02:05:28Z",
+    "url": "https://github.com/gbtweilai-star/gbt-penetrating-cross-scan"
   },
   {
-    "description": "GBT V8 capability #172/341 \u00b7 wiki_graph (mind) \u2014 \u77e5\u8bc6\u5e93\u00b7**\u81ea\u7ef4\u62a4\u767e\u79d1 + \u77e5\u8bc6\u56fe\u8c31 + \u56de\u6eda**\uff08\u541e `Tencent/WeKnora` \u540e\u84b8\u7684\u90a3\u4e00\u9762\uff1a\u672c\u4ed3\u539f\u6765\u53ea\u6709\u788e\u7247 `brain_va",
-    "id": "gbtweilai-star/gbt-wiki-graph",
+    "description": "GBT V8 capability #223/341 \u00b7 paywallbuster (security) \u2014 \u5185\u5bb9\u95e8**\u68c0\u6d4b**\uff08\u9632\u5fa1\u4fa7\uff09\uff1a\u79bb\u7ebf\u5224\u5b9a\u9875\u9762\u662f\u5426\u88ab\u4ed8\u8d39\u5899/\u540c\u610f\u95e8\u6321\u4f4f\uff0c\u53ea\u5224\u4e0d\u7ed5\uff08\u4e0d\u4f2a\u88c5 UA\u3001\u4e0d\u4f2a\u9020 cookie\uff09 | cont",
+    "id": "gbtweilai-star/gbt-paywallbuster",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-wiki-graph",
+    "name": "gbtweilai-star/gbt-paywallbuster",
     "stars": 0,
-    "updated_at": "2026-10-28T01:57:31Z",
-    "url": "https://github.com/gbtweilai-star/gbt-wiki-graph"
+    "updated_at": "2026-10-28T02:05:25Z",
+    "url": "https://github.com/gbtweilai-star/gbt-paywallbuster"
   },
   {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-28T01:58:13Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "GBT V8 capability #171/341 \u00b7 self_intake (mind) \u2014 **\u672a\u547d\u4e2d\u5373\u53d6\u6e90 \u00b7 \u81ea\u9012\u5f52\u6539\u8fdb**\uff08\u4e3b\u4eba\u4ee4 2026-10-15\uff1a\u300c\u5728\u5979\u7684\u77e5\u8bc6\u5e93\u672a\u547d\u4e2d\u7684\u65f6\u5019\u8f6c\u6293\u53d6\u5168\u7f51\u56fd\u5185\u5916\u7684\u8bba\u6587\u6765\u5b9e\u73b0\u81ea\u6211\u9012\u5f52\u6539\u8fdb\uff0c\u8fd9\u6837",
-    "id": "gbtweilai-star/gbt-self-intake",
+    "description": "GBT V8 capability #222/341 \u00b7 onboarding_gate (security) \u2014 \u672a\u63a5\u7ebf\u80fd\u529b\u4e0a\u624b\u6307\u5f15\u95e8\uff1a\u5982\u5b9e\u62a5\u300c\u767b\u8bb0\u4e86\u4f46\u6ca1\u5b9e\u73b0\u300d\u7684\u7f3a\u53e3\uff0c\u5e76\u7ed9\u51fa\u4e09\u5904\u63a5\u7ebf\u914d\u65b9 | contract + validation +",
+    "id": "gbtweilai-star/gbt-onboarding-gate",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-self-intake",
+    "name": "gbtweilai-star/gbt-onboarding-gate",
     "stars": 0,
-    "updated_at": "2026-10-28T01:57:21Z",
-    "url": "https://github.com/gbtweilai-star/gbt-self-intake"
+    "updated_at": "2026-10-28T02:05:20Z",
+    "url": "https://github.com/gbtweilai-star/gbt-onboarding-gate"
   },
   {
-    "description": "GBT V8 capability #170/341 \u00b7 proactive_report (mind) \u2014 \u4e3b\u52a8\u6c47\u62a5\u5f15\u64ce\u53ea\u8bfb\u5224\u636e\u5c42\uff1a\u56db\u7c7b\u6c47\u62a5\uff08\u65b0\u5947\u53d1\u73b0/\u4e3b\u4eba\u9700\u8981/\u8bb0\u5fc6\u547d\u4e2d/\u8d5a\u94b1\u673a\u4f1a\uff09+ \u56db\u7ef4\u6253\u5206 + \u4e0d\u6253\u6270\u95e8\uff08\u9759\u9ed8\u65f6\u6bb5/\u9884\u7b97/\u53bb\u91cd/\u53ca\u683c\u7ebf",
-    "id": "gbtweilai-star/gbt-proactive-report",
+    "description": "GBT V8 capability #221/341 \u00b7 omission_detector (security) \u2014 \u9057\u6f0f\u68c0\u6d4b\u5668\uff1a\u8986\u76d6\u7387 = \u5df2\u94a9\u4f4f/\u603b\u6570\uff1b<100% \u89e6\u53d1\u6709\u754c\u8865\u626b\uff1b\u4ecd\u94a9\u4e0d\u4f4f**\u5982\u5b9e\u62a5 missing**\uff08\u4e0d\u8bb8\u6298\u53e0\u6210\u7eff\uff09\u2014",
+    "id": "gbtweilai-star/gbt-omission-detector",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-proactive-report",
+    "name": "gbtweilai-star/gbt-omission-detector",
     "stars": 0,
-    "updated_at": "2026-10-28T01:57:11Z",
-    "url": "https://github.com/gbtweilai-star/gbt-proactive-report"
+    "updated_at": "2026-10-28T02:05:14Z",
+    "url": "https://github.com/gbtweilai-star/gbt-omission-detector"
   },
   {
-    "description": "GBT V8 capability #169/341 \u00b7 persona_kernel (mind) \u2014 \u6027\u683c\u5185\u6838 v4.0\uff1a\u5916\u6e29\u8868\u8fbe\u5341\u5f8b + \u5185\u521a\u56db\u57fa\u77f3\uff08\u6b62\u635f/\u4e3b\u52a8/\u6d1e\u5bdf/\u9759\u5f85\uff09+ \u5341\u6761\u673a\u68b0\u7ea2\u7ebf\uff1b\u56db\u5927\u57fa\u77f3\u539f\u6587\u4e00\u5b57\u4e0d\u5dee\uff1bevolve \u662f\u552f\u4e00",
-    "id": "gbtweilai-star/gbt-persona-kernel",
+    "description": "GBT V8 capability #220/341 \u00b7 offense_ops (security) \u2014 **\u81ea\u4e3b\u6e17\u900f\u7f16\u6392**\uff08\u4e3b\u4eba\u4ee4 2026-10-16\uff1apentagi \u5168\u90e8\u80fd\u529b\u2192\u539f\u751f\uff09\uff1a\u84b8\u81ea **vxControl/pentagi*",
+    "id": "gbtweilai-star/gbt-offense-ops",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-persona-kernel",
+    "name": "gbtweilai-star/gbt-offense-ops",
     "stars": 0,
-    "updated_at": "2026-10-28T01:57:01Z",
-    "url": "https://github.com/gbtweilai-star/gbt-persona-kernel"
+    "updated_at": "2026-10-28T02:05:13Z",
+    "url": "https://github.com/gbtweilai-star/gbt-offense-ops"
   },
   {
-    "description": "GBT V8 capability #168/341 \u00b7 obsidian_vault (mind) \u2014 Obsidian \u6c38\u4e45\u8bb0\u5fc6\u5c42\uff08\u4e3b\u4eba\u4ee4 2026-09-27\u300c\u8ba9\u89e6\u624b\u7684\u541e\u5929\u62e5\u6709\u6c38\u4e45\u8bb0\u5fc6 Obsidian\uff0c\u6240\u6709\u89e6\u624b\u6bcf\u4e00\u6839\u90fd\u7ed1\u5b9a\u72ec\u7acb\u7684 O",
-    "id": "gbtweilai-star/gbt-obsidian-vault",
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "gbtweilai-star/gbt-obsidian-vault",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:56:52Z",
-    "url": "https://github.com/gbtweilai-star/gbt-obsidian-vault"
-  },
-  {
-    "description": "GBT V8 capability #167/341 \u00b7 observer_anchor (mind) \u2014 \u89c2\u5bdf\u8005\u951a\u70b9\u5f8b\u53ea\u8bfb\u9aa8\u67b6\uff1a\u4e09\u516c\u7406 + \u516d\u77ed\u677f\u8865\u9f50 + \u4e94\u6761\u7ea2\u7ebf\uff08\u540c\u4e00\u65b9\u4e0d\u8bb8\u65e2\u626b\u53c8\u62a5/\u5ba1\u8ba1\u5668\u5fc5\u987b\u88ab\u5ba1/\u9012\u5f52\u5c01\u9876/\u7ec8\u6b62\u70b9\u53ea\u80fd\u7531\u4eba\u8bbe/\u5173\u952e\u8282\u70b9",
-    "id": "gbtweilai-star/gbt-observer-anchor",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-observer-anchor",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:56:41Z",
-    "url": "https://github.com/gbtweilai-star/gbt-observer-anchor"
-  },
-  {
-    "description": "GBT V8 capability #166/341 \u00b7 mind (mind) \u2014 \u5fc3\u667a\u5f15\u64ce\uff1a\u5f00\u5de5\u524d\u9884\u6f14 pre_work\u3001\u8bc4\u4f30\u3001\u5185\u90e8\u72b6\u6001\u3001\u7ecf\u9a8c\u53ec\u56de\u4e0e\u53cd\u601d\uff08\u5199\u6846\u67b6 store\uff0c\u4e0d\u51fa\u7f51\uff09 | contract + validation + ",
-    "id": "gbtweilai-star/gbt-mind",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-mind",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:56:32Z",
-    "url": "https://github.com/gbtweilai-star/gbt-mind"
-  },
-  {
-    "description": "GBT V8 capability #165/341 \u00b7 meta_cognition (mind) \u2014 \u5143\u8ba4\u77e5\u5faa\u73af\uff08\u53ea\u8bfb\u9aa8\u67b6\uff09\uff1a\u81ea\u7701\u2192\u67e5\u5185\u90e8\u2192\u67e5\u5916\u90e8\u2192\u95ee\u4e3b\u4eba\u2192\u6c89\u6dc0 + \u4e94\u6761\u7ea2\u7ebf\uff08\u81ea\u7701\u4e0d\u662f\u81ea\u8d23/\u4e0d\u8bb8\u786c\u731c/\u5148\u67e5\u540e\u95ee/\u95ee\u5b8c\u6c89\u6dc0/\u5927\u8111\u4e5f\u81ea\u7701\uff09 |",
-    "id": "gbtweilai-star/gbt-meta-cognition",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-meta-cognition",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:56:22Z",
-    "url": "https://github.com/gbtweilai-star/gbt-meta-cognition"
-  },
-  {
-    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
-    "id": "Birfy/agentdescent",
-    "language": "Python",
-    "name": "Birfy/agentdescent",
-    "stars": 199,
-    "updated_at": "2026-10-28T01:56:19Z",
-    "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "GBT V8 capability #164/341 \u00b7 memory_manager (mind) \u2014 \u8bb0\u5fc6\u7ba1\u7406 + \u4e07\u80fd\u7cbe\u51c6\u79d2\u641c\uff08\u4e3b\u4eba\u4ee4 2026-09-27\uff09\uff1aSQLite **FTS5 \u5168\u6587\u7d22\u5f15**\uff08\u5b9e\u6d4b\u4e2d\u6587\u53ef\u68c0\u7d22\uff09\u00b7\u516d\u7c7b\u6e90\uff08\u8bb0\u5fc6/",
-    "id": "gbtweilai-star/gbt-memory-manager",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-memory-manager",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:56:12Z",
-    "url": "https://github.com/gbtweilai-star/gbt-memory-manager"
-  },
-  {
-    "description": "GBT V8 capability #163/341 \u00b7 memory_bank (mind) \u2014 \u8bb0\u5fc6\u94f6\u884c\uff1a**\u6765\u6e90\u8ffd\u8e2a + \u522b\u540d + \u96f6\u505c\u673a\u8fc1\u79fb**\uff08\u84b8\u998f\u81ea GitHub \u5468\u699c #01 hindsight\uff0c\u53ea\u53d6\u67b6\u6784\uff09\uff1a`stamp` \u7ed9",
-    "id": "gbtweilai-star/gbt-memory-bank",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-memory-bank",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:56:02Z",
-    "url": "https://github.com/gbtweilai-star/gbt-memory-bank"
-  },
-  {
-    "description": "GBT V8 capability #162/341 \u00b7 local_brain (mind) \u2014 \u672c\u5730\u539f\u751f\u8111\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u5185\u8c03\uff09\uff1a\u672c\u5730\u6a21\u578b=\u8111\u76ae\u5c42\uff08\u53ef\u6362\uff09\u00b7\u4e3b\u673a=\u7eaa\u5f8b\u5c42\uff08\u4e0d\u53ef\u6362\uff09\uff1b\u4e94\u5c42\u94fe\u8def\uff08\u6a21\u578b\u53ea\u505a\u610f\u56fe\u89e3\u6790\u4e0e\u7ed3\u679c\u89e3\u91ca\uff09\uff1b\u4e94\u6761\u7ea2\u7ebf\uff08\u4e0d\u8bb8\u76f4\u63a5\u6267",
-    "id": "gbtweilai-star/gbt-local-brain",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-local-brain",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:55:52Z",
-    "url": "https://github.com/gbtweilai-star/gbt-local-brain"
-  },
-  {
-    "description": "GBT V8 capability #161/341 \u00b7 doc_intake (mind) \u2014 \u77e5\u8bc6\u5e93\u00b7**\u89e3\u6790 \u2192 \u5165\u5e93 \u2192 \u540c\u6b65**\u90a3\u6761\u94fe\uff08\u541e WeKnora \u540e\u84b8\u7684\u53e6\u4e00\u9762\uff1a\u672c\u4ed3\u539f\u6765\u53ea\u6709\u5355\u4ef6 `datakit`/`genoffice`",
-    "id": "gbtweilai-star/gbt-doc-intake",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-doc-intake",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:55:42Z",
-    "url": "https://github.com/gbtweilai-star/gbt-doc-intake"
-  },
-  {
-    "description": "GBT V8 capability #160/341 \u00b7 director_mood (mind) \u2014 \u5bfc\u6f14 AI \u60c5\u7eea\u5185\u6838\uff08\u53ea\u8bfb\uff09\uff1a\u4e03\u60c5\u516d\u6b32 + \u534a\u8870\u671f\uff1b\u60c5\u7eea\u53ea\u6539\u300e\u600e\u4e48\u770b\u300f\uff0c\u4e0d\u6539\u300e\u770b\u5230\u4ec0\u4e48\u300f | contract + validation",
-    "id": "gbtweilai-star/gbt-director-mood",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-director-mood",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:55:33Z",
-    "url": "https://github.com/gbtweilai-star/gbt-director-mood"
-  },
-  {
-    "description": "GBT V8 capability #159/341 \u00b7 command_chain (mind) \u2014 \u6307\u6325\u94fe\u00b7\u603b\u6307\u6325\u53c2\u8c0b\u90e8\uff08\u4e3b\u4eba\u4ee4 2026-10-01\u300c\u5168\u90e8\u7edf\u4e00\u54c1\u724c\u7edf\u4e00\u667a\u80fd\u4f53\u4ee5 GBT\u5c0f\u571f\u8c46V8 \u4e3a\u4e3b\u5ef6\u7533\u2026\u4e0d\u80fd\u91cd\u590d\u548c\u9519\u8bef\u6307\u6325\u300d\uff09\uff1a\u4e94\u6bb5\u5168",
-    "id": "gbtweilai-star/gbt-command-chain",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-command-chain",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:55:23Z",
-    "url": "https://github.com/gbtweilai-star/gbt-command-chain"
-  },
-  {
-    "description": "GBT V8 capability #158/341 \u00b7 brain_vault (mind) \u2014 \u8111\u5e93\u63a5\u5165\uff1aObsidian \u8bb0\u5fc6\u5e93\u7684\u8bfb\uff08recall=\u8bb0\u5fc6\u603b\u7eb2+\u6536\u96c6\u7bb1\uff09/ \u5199\uff08remember=\u8ffd\u52a0\u4e00\u6761\uff09/ \u4f53\u68c0\uff08status\uff09\u2014\u2014 \u8ffd",
-    "id": "gbtweilai-star/gbt-brain-vault",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-brain-vault",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:55:13Z",
-    "url": "https://github.com/gbtweilai-star/gbt-brain-vault"
-  },
-  {
-    "description": "GBT V8 capability #157/341 \u00b7 brain_council (mind) \u2014 \u8111\u4f1a\u00b7\u7f16\u961f\u7fa4\u51b3\u7b56\u5f15\u64ce\uff1a\u5404\u8111\u51fa\u672c\u57df\u63d0\u6848\uff0c\u59d4\u5458\u957f\u805a\u5408\u88c1\u51b3\uff08\u7eaf\u63a8\u6f14\u00b7\u4e0d\u51fa\u7f51\u00b7\u4e0d\u843d\u76d8\uff09\uff1b\u6267\u884c\u4ecd\u8d70\u4e3b\u8111\u65e2\u6709\u6388\u6743\u95e8 | contract + val",
-    "id": "gbtweilai-star/gbt-brain-council",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-brain-council",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:55:02Z",
-    "url": "https://github.com/gbtweilai-star/gbt-brain-council"
-  },
-  {
-    "description": "GBT V8 capability #156/341 \u00b7 belief_forge (mind) \u2014 \u4fe1\u5ff5\u953b\u9020\uff08hindsight \u5b66\u4e60\u534a\u84b8\u998f\uff09\uff1a**\u89c2\u5bdf \u2192 \u4fe1\u5ff5\uff08\u4f1a\u5b66\u4e60\uff0c\u4e0d\u6539\u5199\u5386\u53f2\uff09\u2192 \u5fc3\u667a\u6a21\u578b**\u2014\u2014`observe` \u767b\u8bb0\u89c2\u5bdf\uff08**",
-    "id": "gbtweilai-star/gbt-belief-forge",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-belief-forge",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:53Z",
-    "url": "https://github.com/gbtweilai-star/gbt-belief-forge"
-  },
-  {
-    "description": "GBT V8 capability #155/341 \u00b7 auto_switch (mind) \u2014 \u81ea\u52a8\u5316\u5207\u6362\u5f15\u64ce\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u5185\u8c03\uff09\uff1a\u610f\u56fe\u5206\u6790(L1\u89e3\u6790+L2\u4ea4\u53c9\u9a8c\u8bc1+L3\u7f6e\u4fe1\u5ea6)\u2192\u4efb\u52a1\u5206\u7ea7\u2192\u6a21\u578b\u5207\u6362\u2192\u539f\u751f\u6267\u884c\u2192\u9a8c\u8bc1\u5ba1\u8ba1\uff1b\u63a5\u7ebf\u70b9\u53ea\u6709 Int",
-    "id": "gbtweilai-star/gbt-auto-switch",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-auto-switch",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:43Z",
-    "url": "https://github.com/gbtweilai-star/gbt-auto-switch"
-  },
-  {
-    "description": "A framework for building and studying models that remember, consolidate, and possibly experience something.",
-    "id": "hackystorm/pmc-framework",
-    "language": "Python",
-    "name": "hackystorm/pmc-framework",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:42Z",
-    "url": "https://github.com/hackystorm/pmc-framework"
-  },
-  {
-    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
-    "id": "chjm-ai/vococo",
-    "language": "Python",
-    "name": "chjm-ai/vococo",
-    "stars": 42,
-    "updated_at": "2026-10-28T01:54:35Z",
-    "url": "https://github.com/chjm-ai/vococo"
-  },
-  {
-    "description": "GBT V8 capability #154/341 \u00b7 agent_council (mind) \u2014 \u591a\u667a\u80fd\u4f53\u8bae\u4e8b\u4f1a\uff08\u84b8\u998f\u81ea 2026-09-28 \u4e3b\u4eba\u7ed9\u7684\u5468\u699c\u5361 AutoGen 61.2k\u2605 \u5fae\u8f6f\u5f00\u6e90\uff0c\u53ea\u53d6**\u5f00\u4f1a\u8fd9\u4e00\u9762**\uff1b\u5e76\u884c\u5e72\u6d3b\u5df2",
-    "id": "gbtweilai-star/gbt-agent-council",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-agent-council",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:33Z",
-    "url": "https://github.com/gbtweilai-star/gbt-agent-council"
-  },
-  {
-    "description": "GBT V8 capability #153/341 \u00b7 tactics_advise (longrun) \u2014 \u5bdf\u8a00\u89c2\u8272\u5c42\uff1a\u8bc6\u522b\u6c9f\u901a\u4fe1\u53f7\u2192\u7ed9\u51fa\u8868\u8fbe\u5206\u5bf8\uff08\u53ea\u8c03\u600e\u4e48\u8bf4\uff0c\u4e0d\u6539\u4e8b\u5b9e\uff09 | contract + validation + CLI, 0",
-    "id": "gbtweilai-star/gbt-tactics-advise",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-tactics-advise",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:22Z",
-    "url": "https://github.com/gbtweilai-star/gbt-tactics-advise"
-  },
-  {
-    "description": "GBT V8 capability #152/341 \u00b7 lr_tick (longrun) \u2014 \u957f\u7a0b\u4efb\u52a1\u5c42\uff1a\u63a8\u8fdb\u4efb\u52a1\u56fe\uff08\u6267\u884c\u2192\u9a8c\u6536\u2192\u5b8c\u6210/\u91cd\u8bd5/\u505c\u6ede\uff09 | contract + validation + CLI, 0 runtime de",
-    "id": "gbtweilai-star/gbt-lr-tick",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-lr-tick",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:12Z",
-    "url": "https://github.com/gbtweilai-star/gbt-lr-tick"
-  },
-  {
-    "description": "A small runtime for safe multi-step specialist agents: YAML agent cards, read-only SQL result handles, guarded writes, c",
-    "id": "Tayyab-Bilal/agent-kit",
-    "language": "Python",
-    "name": "Tayyab-Bilal/agent-kit",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:02Z",
-    "url": "https://github.com/Tayyab-Bilal/agent-kit"
-  },
-  {
-    "description": "GBT V8 capability #151/341 \u00b7 lr_submit (longrun) \u2014 \u957f\u7a0b\u4efb\u52a1\u5c42\uff1a\u63d0\u4ea4\u4efb\u52a1\uff08\u975eLLM\u9a8c\u6536+\u91cd\u8bd5+\u505c\u6ede\u5347\u7ea7\uff0c\u8de8\u8fdb\u7a0b\u53ef\u7eed\uff09 | contract + validation + CLI, 0 run",
-    "id": "gbtweilai-star/gbt-lr-submit",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-lr-submit",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:54:02Z",
-    "url": "https://github.com/gbtweilai-star/gbt-lr-submit"
-  },
-  {
-    "description": "GBT V8 capability #150/341 \u00b7 lr_status (longrun) \u2014 \u957f\u7a0b\u4efb\u52a1\u5c42\uff1a\u4efb\u52a1\u56fe\u8fdb\u5ea6\u4e0e\u8be6\u60c5 | contract + validation + CLI, 0 runtime deps.",
-    "id": "gbtweilai-star/gbt-lr-status",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-lr-status",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:53:52Z",
-    "url": "https://github.com/gbtweilai-star/gbt-lr-status"
+    "name": "pydantic/pydantic-ai",
+    "stars": 20911,
+    "updated_at": "2026-10-28T02:11:08Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
