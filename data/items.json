@@ -1,21 +1,111 @@
 [
   {
+    "description": "A lightweight and elegant AI Agent framework",
+    "id": "cymoo/lovia",
+    "language": "Python",
+    "name": "cymoo/lovia",
+    "stars": 18,
+    "updated_at": "2026-10-28T03:30:02Z",
+    "url": "https://github.com/cymoo/lovia"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-28T03:29:49Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-28T03:29:38Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "An evaluation-driven self-evolution framework for agent harnesses.",
+    "id": "OLDyade/spark-harness-evolution",
+    "language": "TypeScript",
+    "name": "OLDyade/spark-harness-evolution",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:29:29Z",
+    "url": "https://github.com/OLDyade/spark-harness-evolution"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 363,
+    "updated_at": "2026-10-28T03:29:08Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-28T03:29:31Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
     "description": "A framework for building and studying models that remember, consolidate, and possibly experience something.",
     "id": "hackystorm/pmc-framework",
     "language": "Python",
     "name": "hackystorm/pmc-framework",
     "stars": 0,
-    "updated_at": "2026-10-28T03:14:07Z",
+    "updated_at": "2026-10-28T03:26:21Z",
     "url": "https://github.com/hackystorm/pmc-framework"
   },
   {
-    "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
-    "id": "Team-Commonly/commonly",
+    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
+    "id": "wanxingai/LightAgent",
+    "language": "Python",
+    "name": "wanxingai/LightAgent",
+    "stars": 1240,
+    "updated_at": "2026-10-28T03:25:05Z",
+    "url": "https://github.com/wanxingai/LightAgent"
+  },
+  {
+    "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
+    "id": "Azure/agent-landing-zone",
+    "language": "Python",
+    "name": "Azure/agent-landing-zone",
+    "stars": 1194,
+    "updated_at": "2026-10-28T03:24:41Z",
+    "url": "https://github.com/Azure/agent-landing-zone"
+  },
+  {
+    "description": "The durable runtime for AI agents: event-sourced sessions, approvals that persist across processes, exact resume after a",
+    "id": "vincemakes/kiso",
     "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1371,
-    "updated_at": "2026-10-28T03:14:01Z",
-    "url": "https://github.com/Team-Commonly/commonly"
+    "name": "vincemakes/kiso",
+    "stars": 80,
+    "updated_at": "2026-10-28T03:24:38Z",
+    "url": "https://github.com/vincemakes/kiso"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-28T03:27:18Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 333,
+    "updated_at": "2026-10-28T03:28:53Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -23,8 +113,53 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1379,
-    "updated_at": "2026-10-28T03:14:47Z",
+    "updated_at": "2026-10-28T03:29:30Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Agent orchestration service for the Agent Landing Zone, built on Microsoft Foundry Agent Service and Microsoft Agent Fra",
+    "id": "Azure/agent-app-orchestrator",
+    "language": "Python",
+    "name": "Azure/agent-app-orchestrator",
+    "stars": 106,
+    "updated_at": "2026-10-28T03:29:37Z",
+    "url": "https://github.com/Azure/agent-app-orchestrator"
+  },
+  {
+    "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1371,
+    "updated_at": "2026-10-28T03:20:21Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "GBT V8 capability #341/341 \u00b7 voice_studio (voice) \u2014 VoiceStudio\uff08debpalash \u00b7 AGPL-3.0 \u00b7 \u53ea\u84b8\u998f\u601d\u60f3\u4e0d\u642c\u4ee3\u7801\uff09**\u4e24\u5c42\u9762**\u3002\u2460 **\u6865\u63a5\u9762**\uff08\u8981\u4e0a\u6e38\u540e\u7aef",
+    "id": "gbtweilai-star/gbt-voice-studio",
+    "language": "Python",
+    "name": "gbtweilai-star/gbt-voice-studio",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:18:05Z",
+    "url": "https://github.com/gbtweilai-star/gbt-voice-studio"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11094,
+    "updated_at": "2026-10-28T03:27:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T03:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Open-source Python framework to build, orchestrate and deploy AI agents: multi-provider, tool calling, RAG memory and de",
@@ -50,7 +185,7 @@
     "language": "Rust",
     "name": "arcships/rutis",
     "stars": 160,
-    "updated_at": "2026-10-28T03:12:08Z",
+    "updated_at": "2026-10-28T03:24:45Z",
     "url": "https://github.com/arcships/rutis"
   },
   {
@@ -85,7 +220,7 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35985,
+    "stars": 35984,
     "updated_at": "2026-10-28T03:09:29Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
   },
@@ -95,17 +230,8 @@
     "language": "TypeScript",
     "name": "aequitas-labs/lobstah",
     "stars": 1,
-    "updated_at": "2026-10-28T03:09:23Z",
+    "updated_at": "2026-10-28T03:28:31Z",
     "url": "https://github.com/aequitas-labs/lobstah"
-  },
-  {
-    "description": "An evaluation-driven self-evolution framework for agent harnesses.",
-    "id": "OLDyade/spark-harness-evolution",
-    "language": "TypeScript",
-    "name": "OLDyade/spark-harness-evolution",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:09:14Z",
-    "url": "https://github.com/OLDyade/spark-harness-evolution"
   },
   {
     "description": "Einfach Agent (\"simple\" in German): a composable-core framework for Web, Tauri desktop & CLI, with DeepSeek/GLM support",
@@ -131,17 +257,8 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 56,
-    "updated_at": "2026-10-28T03:05:57Z",
+    "updated_at": "2026-10-28T03:28:38Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-28T03:14:34Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
@@ -162,24 +279,6 @@
     "url": "https://github.com/authzed/openagentprimitives"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T03:00:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 333,
-    "updated_at": "2026-10-28T03:03:38Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Kairos: the what-if broadcast. Nine AI agents on Microsoft Foundry run a fact-checked 3D football broadcast and replay w",
     "id": "rjlopez8-rgb/match-intelligence",
     "language": "Python",
@@ -196,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:55:05Z",
     "url": "https://github.com/DavidCompute/AG-UI_Multi-Party"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:12:27Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "HADES OS v3 - a standalone, self-improving agentic operating system: stdlib-only Python brain with measured docs, gated ",
@@ -225,21 +315,12 @@
     "url": "https://github.com/cmcoffee/gohort"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-28T03:06:34Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
     "id": "futuregene/future-os",
     "language": "Rust",
     "name": "futuregene/future-os",
     "stars": 112,
-    "updated_at": "2026-10-28T03:13:31Z",
+    "updated_at": "2026-10-28T03:23:55Z",
     "url": "https://github.com/futuregene/future-os"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:45:49Z",
     "url": "https://github.com/gbtweilai-star/gbt-media-license"
-  },
-  {
-    "description": "GBT V8 capability #327/341 \u00b7 look_grade (video) \u2014 \u5916\u89c2\u5e93\u89e6\u624b\uff08\u8bcd\u5373\u6307\u4ee4\uff09\uff1a\u4e00\u5904\u5b9a\u4e49\u591a\u6837\u7684\u5473\u9053\uff08\u7535\u5f71\u611f/\u505a\u65e7/\u6f6e\u6e7f\u9634\u51b7/\u70ed\u8840\u6a59\u9752/\u892a\u8272\u80f6\u7247/\u9ed1\u767d\u7eaa\u5b9e/\u8d5b\u535a\u9713\u8679/**\u539f\u6837**\u2026**\u6761\u6570\u73b0\u7b97\uff0c\u89c1 ",
-    "id": "gbtweilai-star/gbt-look-grade",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-look-grade",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:44Z",
-    "url": "https://github.com/gbtweilai-star/gbt-look-grade"
-  },
-  {
-    "description": "GBT V8 capability #326/341 \u00b7 libtv_workflow (video) \u2014 LibTV \u8282\u70b9\u5f0f\u5de5\u4f5c\u6d41\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u95e8\uff09\uff1a\u4e94\u52a8\u4f5c create_node/connect/set_params/run/batch_",
-    "id": "gbtweilai-star/gbt-libtv-workflow",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-libtv-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:37Z",
-    "url": "https://github.com/gbtweilai-star/gbt-libtv-workflow"
-  },
-  {
-    "description": "GBT V8 capability #325/341 \u00b7 libtv_skill (video) \u2014 LibTV \u6280\u80fd\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u95e8\uff09\uff1aAgent \u521b\u4f5c\u5e73\u53f0\u5165\u53e3\uff08\u4f1a\u8bdd\u8fdb\u5c55/\u589e\u91cf\u8f6e\u8be2 + \u5207\u9879\u76ee + \u6279\u91cf\u4e0b\u8f7d\uff09\uff1b\u5bc6\u94a5\u8d70 model_key_p",
-    "id": "gbtweilai-star/gbt-libtv-skill",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-libtv-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:35Z",
-    "url": "https://github.com/gbtweilai-star/gbt-libtv-skill"
-  },
-  {
-    "description": "GBT V8 capability #324/341 \u00b7 h3_video_gen (video) \u2014 H3mini \u89c6\u9891\u751f\u6210\uff08\u53ea\u8bfb\u9aa8\u67b6\u00b7\u95e8\uff09\uff1a\u56db\u539f\u8bed T2VA/I2VA/FL2VA/Ref2VA + \u4e09\u6761\u5e26\u7259\u7528\u4f8b\uff08\u5bc6\u94a5\u4e0d\u8d70\u660e\u6587 / \u7ed3\u679c\u5fc5",
-    "id": "gbtweilai-star/gbt-h3-video-gen",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-h3-video-gen",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:25Z",
-    "url": "https://github.com/gbtweilai-star/gbt-h3-video-gen"
-  },
-  {
-    "description": "GBT V8 capability #323/341 \u00b7 edit_pipeline (video) \u2014 \u526a\u8f91\u5f15\u64ce\uff08\u84b8\u998f\u526a\u6620\u65f6\u95f4\u7ebf\u8bed\u4e49\uff09\uff1a\u8f68\u9053\u2192\u7247\u6bb5\u2192\u76ee\u6807/\u6e90\u65f6\u95f4\u533a\u95f4\u2192\u53d8\u901f/\u97f3\u91cf/\u8f6c\u573a/\u6587\u672c\uff0c\u771f\u6e32\u67d3 1080x1920 \u6210\u7247\uff08ffmpeg ",
-    "id": "gbtweilai-star/gbt-edit-pipeline",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-edit-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:20Z",
-    "url": "https://github.com/gbtweilai-star/gbt-edit-pipeline"
-  },
-  {
-    "description": "GBT V8 capability #322/341 \u00b7 digital_human (video) \u2014 \u6570\u5b57\u4eba\u300c\u4ee5\u56fe\u751f\u89c6\u9891\u300d\uff08\u672c\u5730 SadTalker\uff0c\u96f6\u8d26\u53f7/\u96f6\u9a8c\u8bc1\uff09\uff1a**\u4e00\u5f20\u7167\u7247 + \u4e00\u6bb5\u914d\u97f3 \u21d2 \u5e26\u5934\u90e8\u52a8\u4f5c\u4e0e\u53e3\u578b\u540c\u6b65\u7684\u8bf4\u8bdd\u89c6\u9891**\u3002",
-    "id": "gbtweilai-star/gbt-digital-human",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-digital-human",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:14Z",
-    "url": "https://github.com/gbtweilai-star/gbt-digital-human"
-  },
-  {
-    "description": "GBT V8 capability #321/341 \u00b7 audio_mix (video) \u2014 \u6df7\u97f3\u4e0e\u6bcd\u5e26\uff08\u672c\u673a ffmpeg\uff0c**\u96f6\u51fa\u7f51**\uff09\uff1a`mix` \u591a\u8f68\u5408\u6210\uff08amix\uff0c\u9010\u8def\u97f3\u91cf\uff0c\u663e\u5f0f normalize=0\uff09\uff1b`master` ",
-    "id": "gbtweilai-star/gbt-audio-mix",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-audio-mix",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:09Z",
-    "url": "https://github.com/gbtweilai-star/gbt-audio-mix"
-  },
-  {
-    "description": "GBT V8 capability #320/341 \u00b7 audio_extract (video) \u2014 \u4ece\u89c6\u9891\u91cc\u53d6\u51fa\u58f0\u97f3\uff08\u672c\u673a ffmpeg\uff0c**\u96f6\u51fa\u7f51**\uff09\uff1aprobe/tracks \u8bfb\u6d41\u4e0e\u97f3\u8f68\uff08\u53ea\u8bfb\uff09\uff1bextract \u771f\u51fa\u97f3\u9891\u4ef6\uff08mp",
-    "id": "gbtweilai-star/gbt-audio-extract",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-audio-extract",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:45:03Z",
-    "url": "https://github.com/gbtweilai-star/gbt-audio-extract"
-  },
-  {
-    "description": "GBT V8 capability #319/341 \u00b7 actioncam (video) \u2014 \u52a8\u4f5c\u955c\u5934\u63a7\u5236\u7cfb\u7edf\uff08\u62cd\u5b50\u8868\u5236\uff09\uff1a10 \u79cd\u52a8\u4f5c\u8fd0\u955c\u8bed\u6cd5\uff08POV \u4e3b\u89c2/\u7529\u955c/\u6025\u63a8/\u624b\u6301\u6296/\u63a8\u62c9/\u73af\u7ed5/\u6253\u51fb\u5e27\u505c\u683c\uff09\u00d7 4 \u79cd\u673a\u4f4d\u89d2\u5ea6\uff08\u4ef0/\u4fef/\u5e73/",
-    "id": "gbtweilai-star/gbt-actioncam",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-actioncam",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:44:57Z",
-    "url": "https://github.com/gbtweilai-star/gbt-actioncam"
   }
 ]
