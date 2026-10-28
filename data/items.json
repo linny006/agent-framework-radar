@@ -1,12 +1,57 @@
 [
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 363,
+    "updated_at": "2026-10-28T02:30:22Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
+    "id": "jiangchuangege/xiaojiao-harnees",
+    "language": "Python",
+    "name": "jiangchuangege/xiaojiao-harnees",
+    "stars": 2,
+    "updated_at": "2026-10-28T02:27:17Z",
+    "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
+  },
+  {
+    "description": "Agent that crafts and verifies artefacts against a reference, recording rejected candidates rather than pretty numbers",
+    "id": "ZhangYangyi03/craftagent",
+    "language": "Python",
+    "name": "ZhangYangyi03/craftagent",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:27:05Z",
+    "url": "https://github.com/ZhangYangyi03/craftagent"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
     "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-28T02:15:06Z",
-    "url": "https://github.com/JKHeadley/instar"
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-28T02:27:03Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "\u652f\u6301cc\u548cgpt\u7b49\u8ba2\u9605\u7684\u4e2a\u4eba AI \u52a9\u7406 \u2014 \u8bed\u97f3\u5b9e\u65f6\u901a\u8bdd\u6d3e\u6d3b\u3001\u4efb\u52a1\u7ba1\u7406\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u4e09\u6863\u5b89\u5168\u95f8\u3001\u591a\u4f9b\u5e94\u5546\u70ed\u5207\u6362",
+    "id": "chjm-ai/vococo",
+    "language": "Python",
+    "name": "chjm-ai/vococo",
+    "stars": 42,
+    "updated_at": "2026-10-28T02:24:10Z",
+    "url": "https://github.com/chjm-ai/vococo"
+  },
+  {
+    "description": "Agent engine of Bismarck: a Go port of pi (earendil-works/pi) \u2014 unified LLM API, agent loop, coding tools, MCP, codemode",
+    "id": "aleksandrgradoboev-svg/bismarck-engine",
+    "language": "Go",
+    "name": "aleksandrgradoboev-svg/bismarck-engine",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:25:33Z",
+    "url": "https://github.com/aleksandrgradoboev-svg/bismarck-engine"
   },
   {
     "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
@@ -14,8 +59,71 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1379,
-    "updated_at": "2026-10-28T02:14:52Z",
+    "updated_at": "2026-10-28T02:27:40Z",
     "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-28T02:23:26Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "HADES OS v3 - a standalone, self-improving agentic operating system: stdlib-only Python brain with measured docs, gated ",
+    "id": "iAlirezaaa/second-brain",
+    "language": "Python",
+    "name": "iAlirezaaa/second-brain",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:22:29Z",
+    "url": "https://github.com/iAlirezaaa/second-brain"
+  },
+  {
+    "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
+    "id": "axisvela/praxo-core",
+    "language": "Go",
+    "name": "axisvela/praxo-core",
+    "stars": 12,
+    "updated_at": "2026-10-28T02:20:54Z",
+    "url": "https://github.com/axisvela/praxo-core"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 1,
+    "updated_at": "2026-10-28T02:17:18Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "High-performance Rust MCP server & autonomous orchestrator for AI coding agents. GraphRAG, token optimization, architect",
+    "id": "JunMystery/Agent-Guidance",
+    "language": "Python",
+    "name": "JunMystery/Agent-Guidance",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:17:01Z",
+    "url": "https://github.com/JunMystery/Agent-Guidance"
+  },
+  {
+    "description": "HY-AI4Science",
+    "id": "gzb2009/HY-Science",
+    "language": "TypeScript",
+    "name": "gzb2009/HY-Science",
+    "stars": 2,
+    "updated_at": "2026-10-28T02:15:31Z",
+    "url": "https://github.com/gzb2009/HY-Science"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T02:15:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
@@ -23,17 +131,8 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-28T02:13:00Z",
+    "updated_at": "2026-10-28T02:17:58Z",
     "url": "https://github.com/ourostack/ouroboros"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 363,
-    "updated_at": "2026-10-28T02:12:45Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
@@ -50,7 +149,7 @@
     "language": "Go",
     "name": "Gnosil/semantix",
     "stars": 811,
-    "updated_at": "2026-10-28T02:12:20Z",
+    "updated_at": "2026-10-28T02:17:07Z",
     "url": "https://github.com/Gnosil/semantix"
   },
   {
@@ -63,15 +162,6 @@
     "url": "https://github.com/Inupedia/spotlight"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T02:12:04Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
     "id": "wanxingai/LightAgent",
     "language": "Python",
@@ -79,15 +169,6 @@
     "stars": 1240,
     "updated_at": "2026-10-28T02:11:38Z",
     "url": "https://github.com/wanxingai/LightAgent"
-  },
-  {
-    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
-    "id": "dshakes/lantern",
-    "language": "TypeScript",
-    "name": "dshakes/lantern",
-    "stars": 1,
-    "updated_at": "2026-10-28T02:10:04Z",
-    "url": "https://github.com/dshakes/lantern"
   },
   {
     "description": "GBT V8 capability #263/341 \u00b7 handoff (system) \u2014 \u8de8\u4f53\u63a5\u7eed\u5305\uff08ai-memory #08 \u84b8\u998f\uff09\uff1a\u4e09\u6876=\u67b6\u6784\u80cc\u666f/\u5931\u8d25\u5c1d\u8bd5/\u672a\u5b8c\u6210\u4efb\u52a1\uff08\u7f3a\u6876\u5fc5\u987b\u663e\u5f0f\u7a7a\u6570\u7ec4\uff09\uff1b**\u6ca1 src \u4e0d\u6536**\uff08\u4f20\u95fb\u4e0d\u5165\u8d26",
@@ -367,86 +448,5 @@
     "stars": 16,
     "updated_at": "2026-10-28T02:06:27Z",
     "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "GBT V8 capability #234/341 \u00b7 sec_llm (security) \u2014 \u9ed1\u5ba2\u5927\u8111\u63a8\u7406\u5f15\u64ce\uff08\u72ec\u7acb\u5927\u6a21\u578b+\u72ec\u7acb\u5bc6\u94a5\uff09\uff1aabliteration.ai \u65e0\u9650\u5236\u6a21\u578b\uff0c\u4e13\u7528\u901a\u9053\u4e0d\u4e0e\u5176\u4ed6\u80fd\u529b\u6df7\u7528 | contract + v",
-    "id": "gbtweilai-star/gbt-sec-llm",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-sec-llm",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:06:22Z",
-    "url": "https://github.com/gbtweilai-star/gbt-sec-llm"
-  },
-  {
-    "description": "GBT V8 capability #233/341 \u00b7 sec_defenses (security) \u2014 \u9ed1\u5ba2\u5927\u8111\uff1a\u84dd\u961f\u9632\u5fa1\u9a8c\u8bc1\uff08\u68c0\u67e5\u9632\u5fa1\u63aa\u65bd\u662f\u5426\u771f\u5b9e\u751f\u6548\uff09 | contract + validation + CLI, 0 runtim",
-    "id": "gbtweilai-star/gbt-sec-defenses",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-sec-defenses",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:06:17Z",
-    "url": "https://github.com/gbtweilai-star/gbt-sec-defenses"
-  },
-  {
-    "description": "GBT V8 capability #232/341 \u00b7 sec_chain (security) \u2014 \u9ed1\u5ba2\u5927\u8111\uff1a\u5229\u7528\u94fe\u6784\u5efa\uff08\u4ece\u6f0f\u6d1e\u6e05\u5355\u63a8\u6f14\u653b\u51fb\u8def\u5f84+\u5f71\u54cd\u8bc4\u4f30\uff09 | contract + validation + CLI, 0 runtim",
-    "id": "gbtweilai-star/gbt-sec-chain",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-sec-chain",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:06:14Z",
-    "url": "https://github.com/gbtweilai-star/gbt-sec-chain"
-  },
-  {
-    "description": "GBT V8 capability #231/341 \u00b7 screen_sniff (security) \u2014 \u672c\u673a\u5c4f\u5e55\u91c7\u96c6\uff1a\u53ea\u5199\u672c\u5730 PNG\u3001\u53ef\u5217\u53ef\u5220\uff0c\u4e0d\u505a\u51fa\u7f51/OCR/\u5185\u5bb9\u89e3\u6790 | contract + validation + CLI,",
-    "id": "gbtweilai-star/gbt-screen-sniff",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-screen-sniff",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:06:09Z",
-    "url": "https://github.com/gbtweilai-star/gbt-screen-sniff"
-  },
-  {
-    "description": "GBT V8 capability #230/341 \u00b7 review_gate (security) \u2014 \u72ec\u7acb\u7ec8\u5ba1\u4f4d\uff08C-15\u300c\u9a8c\u6536\u65b9 \u2260 \u4ea7\u51fa\u65b9\u300d\u7684\u6700\u5c0f\u5b9e\u73b0 \u00b7 2026-10-08 \u5728\u518c\uff09\uff1a\u63a5\u7ebf\u4ef6 `tools/codex-scrip",
-    "id": "gbtweilai-star/gbt-review-gate",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-review-gate",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:06:00Z",
-    "url": "https://github.com/gbtweilai-star/gbt-review-gate"
-  },
-  {
-    "description": "GBT V8 capability #229/341 \u00b7 remote_domain (security) \u2014 \u81ea\u6709\u8bbe\u5907\u4e2d\u7ee7\u767b\u8bb0\uff1a**\u516c\u7f51\u7aef\u70b9\u4e00\u5f8b\u62d2**\uff0c\u53ea\u670d\u52a1\u672c\u673a/\u5185\u7f51\u8bbe\u5907\u7684\u4e2d\u7ee7 | contract + validation + CLI",
-    "id": "gbtweilai-star/gbt-remote-domain",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-remote-domain",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:55Z",
-    "url": "https://github.com/gbtweilai-star/gbt-remote-domain"
-  },
-  {
-    "description": "GBT V8 capability #228/341 \u00b7 redteam_recon (security) \u2014 \u672c\u673a\u4fa6\u5bdf\u9762\uff08\u53ea\u8bfb\u679a\u4e3e\uff09\uff1a\u76d1\u542c\u7aef\u53e3/\u9632\u706b\u5899\u4e09\u6863/\u672c\u5730\u8d26\u53f7/\u81ea\u542f\u52a8\u9879/\u81ea\u52a8\u670d\u52a1/\u51ed\u636e\u843d\u70b9 | contract + validati",
-    "id": "gbtweilai-star/gbt-redteam-recon",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-redteam-recon",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:49Z",
-    "url": "https://github.com/gbtweilai-star/gbt-redteam-recon"
-  },
-  {
-    "description": "GBT V8 capability #227/341 \u00b7 policy_delta (security) \u2014 \u7b56\u7565\u5f71\u54cd\u9884\u68c0\uff08OpenShell \u84b8\u998f\uff09\uff1a**\u6539\u524d\u5148\u7b97\"\u4f1a\u653e\u884c\u4ec0\u4e48\"**\u2014\u2014`tables` \u53ea\u8bfb\u4e09\u5f20\u6743\u9650\u8868\u5c42\uff08\u95e8/\u9884\u68c0\u7684\u53ea\u8bfb\u767d\u540d",
-    "id": "gbtweilai-star/gbt-policy-delta",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-policy-delta",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:45Z",
-    "url": "https://github.com/gbtweilai-star/gbt-policy-delta"
-  },
-  {
-    "description": "GBT V8 capability #226/341 \u00b7 pentest_distill (security) \u2014 **\u84b8\u998f\u4ef6**\uff08\u4e0d\u662f\u5916\u6302\uff09\uff1a\u628a\u541e\u5165\u4ef6 CyberStrikeus/CyberStrike\uff08AGPL-3.0 \u00b7 3129\u2605 ",
-    "id": "gbtweilai-star/gbt-pentest-distill",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-pentest-distill",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:39Z",
-    "url": "https://github.com/gbtweilai-star/gbt-pentest-distill"
   }
 ]
