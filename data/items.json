@@ -1,5 +1,104 @@
 [
   {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11096,
+    "updated_at": "2026-10-28T11:29:45Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "BACH v3.15.0: local-first text-based OS for LLM agents with SQLite memory, 113+ handlers, 550+ tools, MCP servers, sched",
+    "id": "ellmos-ai/bach",
+    "language": "Python",
+    "name": "ellmos-ai/bach",
+    "stars": 8,
+    "updated_at": "2026-10-28T11:27:14Z",
+    "url": "https://github.com/ellmos-ai/bach"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-28T11:26:21Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:24:16Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 268,
+    "updated_at": "2026-10-28T11:27:34Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Agent Joules: energy per agent step, measured on your GPU",
+    "id": "tomas-rampas/agent-joules",
+    "language": "C#",
+    "name": "tomas-rampas/agent-joules",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:21:07Z",
+    "url": "https://github.com/tomas-rampas/agent-joules"
+  },
+  {
+    "description": "Workflow builder for coding agents \ud83d\udc36",
+    "id": "orhun/voff",
+    "language": "Rust",
+    "name": "orhun/voff",
+    "stars": 10,
+    "updated_at": "2026-10-28T11:19:10Z",
+    "url": "https://github.com/orhun/voff"
+  },
+  {
+    "description": "The Ruby AI framework.",
+    "id": "crmne/ruby_llm",
+    "language": "Ruby",
+    "name": "crmne/ruby_llm",
+    "stars": 4488,
+    "updated_at": "2026-10-28T11:18:32Z",
+    "url": "https://github.com/crmne/ruby_llm"
+  },
+  {
+    "description": "A governance layer for AI coding work \u2014 not an orchestrator. Seven gated roles with typed submissions, independent audit",
+    "id": "Akagilnc/ak-pi-workflow-roles",
+    "language": "TypeScript",
+    "name": "Akagilnc/ak-pi-workflow-roles",
+    "stars": 7,
+    "updated_at": "2026-10-28T11:16:50Z",
+    "url": "https://github.com/Akagilnc/ak-pi-workflow-roles"
+  },
+  {
+    "description": "Focus-safe, window-routed execution fabric for multi-agent computer control.",
+    "id": "wszx11/agent-control-fabric",
+    "language": "Python",
+    "name": "wszx11/agent-control-fabric",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:16:37Z",
+    "url": "https://github.com/wszx11/agent-control-fabric"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T11:15:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "A self-hosted web interface for pi coding agent.",
     "id": "laurentftech/pi-outpost",
     "language": "TypeScript",
@@ -14,17 +113,8 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1380,
-    "updated_at": "2026-10-28T11:14:42Z",
+    "updated_at": "2026-10-28T11:29:42Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-28T11:08:56Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -85,18 +175,9 @@
     "id": "esengine/DeepSeek-Reasonix",
     "language": "Go",
     "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35983,
-    "updated_at": "2026-10-28T11:05:01Z",
+    "stars": 35984,
+    "updated_at": "2026-10-28T11:24:59Z",
     "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
-    "description": "The Ruby AI framework.",
-    "id": "crmne/ruby_llm",
-    "language": "Ruby",
-    "name": "crmne/ruby_llm",
-    "stars": 4488,
-    "updated_at": "2026-10-28T11:03:43Z",
-    "url": "https://github.com/crmne/ruby_llm"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -108,15 +189,6 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "Workflow builder for coding agents \ud83d\udc36",
-    "id": "orhun/voff",
-    "language": "Rust",
-    "name": "orhun/voff",
-    "stars": 10,
-    "updated_at": "2026-10-28T11:05:42Z",
-    "url": "https://github.com/orhun/voff"
-  },
-  {
     "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
     "id": "AegeanWorks/NeuroCore",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 8,
     "updated_at": "2026-10-28T11:02:30Z",
     "url": "https://github.com/AegeanWorks/NeuroCore"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T11:00:26Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / mac",
@@ -207,15 +270,6 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11096,
-    "updated_at": "2026-10-28T10:53:58Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugin",
     "id": "axisvela/praxo-core",
     "language": "Go",
@@ -270,15 +324,6 @@
     "url": "https://github.com/tinyhumansai/tinymcp"
   },
   {
-    "description": "Agent Joules: energy per agent step, measured on your GPU",
-    "id": "tomas-rampas/agent-joules",
-    "language": "C#",
-    "name": "tomas-rampas/agent-joules",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:38:29Z",
-    "url": "https://github.com/tomas-rampas/agent-joules"
-  },
-  {
     "description": "A fully-local AI agent that lives on your Mac \u2014 local inference (oMLX / LM Studio / Ollama), memory that compounds acros",
     "id": "V1sMu21/OpenZen",
     "language": "Rust",
@@ -324,21 +369,12 @@
     "url": "https://github.com/ZhangYangyi03/craftagent"
   },
   {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 268,
-    "updated_at": "2026-10-28T10:44:45Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
     "description": "agent-marketplace is a command-line tool that installs shared AI agent resources into the AI coding tools you use",
     "id": "Adyen/agent-marketplace",
     "language": "Go",
     "name": "Adyen/agent-marketplace",
     "stars": 80,
-    "updated_at": "2026-10-28T11:12:51Z",
+    "updated_at": "2026-10-28T11:25:53Z",
     "url": "https://github.com/Adyen/agent-marketplace"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T11:02:51Z",
+    "updated_at": "2026-10-28T11:21:19Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -355,7 +391,7 @@
     "id": "HKUDS/nanobot",
     "language": "Python",
     "name": "HKUDS/nanobot",
-    "stars": 49546,
+    "stars": 49545,
     "updated_at": "2026-10-28T10:20:37Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
@@ -412,41 +448,5 @@
     "stars": 43,
     "updated_at": "2026-10-28T10:09:35Z",
     "url": "https://github.com/ggui-ai/ggui"
-  },
-  {
-    "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
-    "id": "hara-cli/hara",
-    "language": "TypeScript",
-    "name": "hara-cli/hara",
-    "stars": 3,
-    "updated_at": "2026-10-28T09:58:23Z",
-    "url": "https://github.com/hara-cli/hara"
-  },
-  {
-    "description": "Ruby agent harness with fail-closed security gates (command gate, sandbox), a revertible-effect composable runtime, MCP ",
-    "id": "ozgurulukir/rubik",
-    "language": "Ruby",
-    "name": "ozgurulukir/rubik",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:07:46Z",
-    "url": "https://github.com/ozgurulukir/rubik"
-  },
-  {
-    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
-    "id": "futuregene/future-os",
-    "language": "Rust",
-    "name": "futuregene/future-os",
-    "stars": 112,
-    "updated_at": "2026-10-28T11:07:33Z",
-    "url": "https://github.com/futuregene/future-os"
-  },
-  {
-    "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
-    "id": "bide-ai/bide",
-    "language": "Go",
-    "name": "bide-ai/bide",
-    "stars": 7,
-    "updated_at": "2026-10-28T09:49:17Z",
-    "url": "https://github.com/bide-ai/bide"
   }
 ]
