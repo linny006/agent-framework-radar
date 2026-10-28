@@ -1,12 +1,48 @@
 [
   {
-    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
-    "id": "wanxingai/LightAgent",
-    "language": "Python",
-    "name": "wanxingai/LightAgent",
-    "stars": 1240,
-    "updated_at": "2026-10-28T02:11:38Z",
-    "url": "https://github.com/wanxingai/LightAgent"
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-28T02:15:06Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1379,
+    "updated_at": "2026-10-28T02:14:52Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "TypeScript harness for building personal AI agents with durable memory \u2014 agents that live across your channels (CLI, Tea",
+    "id": "ourostack/ouroboros",
+    "language": "TypeScript",
+    "name": "ourostack/ouroboros",
+    "stars": 3,
+    "updated_at": "2026-10-28T02:13:00Z",
+    "url": "https://github.com/ourostack/ouroboros"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 363,
+    "updated_at": "2026-10-28T02:12:45Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 160,
+    "updated_at": "2026-10-28T02:12:33Z",
+    "url": "https://github.com/arcships/rutis"
   },
   {
     "description": "semantic agent kernel which make agent efficient and self-evolve",
@@ -14,8 +50,35 @@
     "language": "Go",
     "name": "Gnosil/semantix",
     "stars": 811,
-    "updated_at": "2026-10-28T02:09:34Z",
+    "updated_at": "2026-10-28T02:12:20Z",
     "url": "https://github.com/Gnosil/semantix"
+  },
+  {
+    "description": "Agentic AI framework for existing frontend apps \u2014 turn natural language into real product actions with typed tools, skil",
+    "id": "Inupedia/spotlight",
+    "language": "TypeScript",
+    "name": "Inupedia/spotlight",
+    "stars": 2,
+    "updated_at": "2026-10-28T02:12:06Z",
+    "url": "https://github.com/Inupedia/spotlight"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T02:12:04Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "LightAgent: Lightweight Python framework for OpenAI-compatible agents with tools, memory, guardrails, tracing, lifecycle",
+    "id": "wanxingai/LightAgent",
+    "language": "Python",
+    "name": "wanxingai/LightAgent",
+    "stars": 1240,
+    "updated_at": "2026-10-28T02:11:38Z",
+    "url": "https://github.com/wanxingai/LightAgent"
   },
   {
     "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:05:39Z",
     "url": "https://github.com/gbtweilai-star/gbt-pentest-distill"
-  },
-  {
-    "description": "GBT V8 capability #225/341 \u00b7 pentest (security) \u2014 \u6388\u6743\u6e17\u900f\u9a8c\u8bc1\uff1a\u53ea\u5bf9**\u5df2\u767b\u8bb0\u6388\u6743**\u7684\u76ee\u6807\u505a\u975e\u7834\u574f\u6027\u68c0\u67e5\uff08TCP \u53ef\u8fbe/TLS \u63e1\u624b/\u5b89\u5168\u54cd\u5e94\u5934\uff09\uff0c\u672a\u767b\u8bb0\u76ee\u6807\u4e00\u5f8b\u62d2 | contract ",
-    "id": "gbtweilai-star/gbt-pentest",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-pentest",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:37Z",
-    "url": "https://github.com/gbtweilai-star/gbt-pentest"
-  },
-  {
-    "description": "GBT V8 capability #224/341 \u00b7 penetrating_cross_scan (security) \u2014 \u7a7f\u900f\u5f0f\u4ea4\u53c9\u626b\u63cf\u5f15\u64ce\uff08\u589e\u5f3a\u7248\uff09\uff1a\u89e6\u624b\u5230\u4f4d**\u5fc5\u987b**\u8c03\u7528\u94a9\u5b50\uff08\u672a\u89e6\u53d1=\u5931\u8d25\uff09\u00b7 \u6b65\u9aa4\u9501\uff08\u8df3\u6b65\u5f53\u573a\u62d2\uff09\u00b7 \u6bcf\u5355\u5143 ",
-    "id": "gbtweilai-star/gbt-penetrating-cross-scan",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-penetrating-cross-scan",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:28Z",
-    "url": "https://github.com/gbtweilai-star/gbt-penetrating-cross-scan"
-  },
-  {
-    "description": "GBT V8 capability #223/341 \u00b7 paywallbuster (security) \u2014 \u5185\u5bb9\u95e8**\u68c0\u6d4b**\uff08\u9632\u5fa1\u4fa7\uff09\uff1a\u79bb\u7ebf\u5224\u5b9a\u9875\u9762\u662f\u5426\u88ab\u4ed8\u8d39\u5899/\u540c\u610f\u95e8\u6321\u4f4f\uff0c\u53ea\u5224\u4e0d\u7ed5\uff08\u4e0d\u4f2a\u88c5 UA\u3001\u4e0d\u4f2a\u9020 cookie\uff09 | cont",
-    "id": "gbtweilai-star/gbt-paywallbuster",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-paywallbuster",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:25Z",
-    "url": "https://github.com/gbtweilai-star/gbt-paywallbuster"
-  },
-  {
-    "description": "GBT V8 capability #222/341 \u00b7 onboarding_gate (security) \u2014 \u672a\u63a5\u7ebf\u80fd\u529b\u4e0a\u624b\u6307\u5f15\u95e8\uff1a\u5982\u5b9e\u62a5\u300c\u767b\u8bb0\u4e86\u4f46\u6ca1\u5b9e\u73b0\u300d\u7684\u7f3a\u53e3\uff0c\u5e76\u7ed9\u51fa\u4e09\u5904\u63a5\u7ebf\u914d\u65b9 | contract + validation +",
-    "id": "gbtweilai-star/gbt-onboarding-gate",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-onboarding-gate",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:20Z",
-    "url": "https://github.com/gbtweilai-star/gbt-onboarding-gate"
-  },
-  {
-    "description": "GBT V8 capability #221/341 \u00b7 omission_detector (security) \u2014 \u9057\u6f0f\u68c0\u6d4b\u5668\uff1a\u8986\u76d6\u7387 = \u5df2\u94a9\u4f4f/\u603b\u6570\uff1b<100% \u89e6\u53d1\u6709\u754c\u8865\u626b\uff1b\u4ecd\u94a9\u4e0d\u4f4f**\u5982\u5b9e\u62a5 missing**\uff08\u4e0d\u8bb8\u6298\u53e0\u6210\u7eff\uff09\u2014",
-    "id": "gbtweilai-star/gbt-omission-detector",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-omission-detector",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:14Z",
-    "url": "https://github.com/gbtweilai-star/gbt-omission-detector"
-  },
-  {
-    "description": "GBT V8 capability #220/341 \u00b7 offense_ops (security) \u2014 **\u81ea\u4e3b\u6e17\u900f\u7f16\u6392**\uff08\u4e3b\u4eba\u4ee4 2026-10-16\uff1apentagi \u5168\u90e8\u80fd\u529b\u2192\u539f\u751f\uff09\uff1a\u84b8\u81ea **vxControl/pentagi*",
-    "id": "gbtweilai-star/gbt-offense-ops",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-offense-ops",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:05:13Z",
-    "url": "https://github.com/gbtweilai-star/gbt-offense-ops"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20911,
-    "updated_at": "2026-10-28T02:11:08Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   }
 ]
