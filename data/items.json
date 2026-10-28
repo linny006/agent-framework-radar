@@ -1,12 +1,30 @@
 [
   {
-    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
-    "id": "griffinwork40/agent-afk",
-    "language": "TypeScript",
-    "name": "griffinwork40/agent-afk",
-    "stars": 62,
-    "updated_at": "2026-10-28T01:29:50Z",
-    "url": "https://github.com/griffinwork40/agent-afk"
+    "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
+    "id": "iyulab/ironhive-host",
+    "language": "C#",
+    "name": "iyulab/ironhive-host",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:44:08Z",
+    "url": "https://github.com/iyulab/ironhive-host"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-28T01:43:59Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "  Every AI football caption gets a VAR check before it airs: agents on Microsoft Foundry write it, a code referee checks",
+    "id": "joelynli0110/captionvar",
+    "language": "JavaScript",
+    "name": "joelynli0110/captionvar",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:43:13Z",
+    "url": "https://github.com/joelynli0110/captionvar"
   },
   {
     "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
@@ -14,8 +32,98 @@
     "language": "Python",
     "name": "yanacuti1121/Yana-AI",
     "stars": 11,
-    "updated_at": "2026-10-28T01:30:02Z",
+    "updated_at": "2026-10-28T01:45:14Z",
     "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 84,
+    "updated_at": "2026-10-28T01:41:23Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugin",
+    "id": "fswolf/luna-local-agent",
+    "language": "Python",
+    "name": "fswolf/luna-local-agent",
+    "stars": 5,
+    "updated_at": "2026-10-28T01:39:55Z",
+    "url": "https://github.com/fswolf/luna-local-agent"
+  },
+  {
+    "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and se",
+    "id": "shibing624/agentica",
+    "language": "Python",
+    "name": "shibing624/agentica",
+    "stars": 358,
+    "updated_at": "2026-10-28T01:35:50Z",
+    "url": "https://github.com/shibing624/agentica"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-28T01:44:41Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1371,
+    "updated_at": "2026-10-28T01:43:39Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "Opita Code \u2014 vibe-studio runtime, arquitectura y cumplimiento",
+    "id": "Opita-Code/opita-code",
+    "language": "TypeScript",
+    "name": "Opita-Code/opita-code",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:31:49Z",
+    "url": "https://github.com/Opita-Code/opita-code"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1379,
+    "updated_at": "2026-10-28T01:45:06Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20910,
+    "updated_at": "2026-10-28T01:44:38Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T01:30:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 62,
+    "updated_at": "2026-10-28T01:44:42Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
     "description": "A small runtime for safe multi-step specialist agents: YAML agent cards, read-only SQL result handles, guarded writes, c",
@@ -54,15 +162,6 @@
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 84,
-    "updated_at": "2026-10-28T01:28:54Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
     "description": "DIY your own agent team harness for long-horizon agent work",
     "id": "yangheng95/opencorvus",
     "language": "TypeScript",
@@ -97,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T01:19:06Z",
     "url": "https://github.com/timothyzhbw-jpg/through-their-eyes"
-  },
-  {
-    "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and se",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 358,
-    "updated_at": "2026-10-28T01:18:56Z",
-    "url": "https://github.com/shibing624/agentica"
   },
   {
     "description": "GBT V8 capability #148/341 \u00b7 transformer (llm) \u2014 \u53d8\u538b\u5668\uff08**\u6838\u5fc3\u5df2\u6309\u6210\u719f\u6210\u54c1\u5403\u900f\u540e\u91cd\u505a** 2026-09-27\uff09\uff1aLLMLingua \u7684\u300c\u663e\u5f0f\u9884\u7b97 + \u6bb5\u843d\u4fdd\u62a4\u300d\uff08`compress=Fa",
@@ -196,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T01:18:28Z",
     "url": "https://github.com/gbtweilai-star/gbt-quant-plan"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-28T01:18:26Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "GBT V8 capability #140/341 \u00b7 prompt_bridge (llm) \u2014 \u63d0\u793a\u8bcd\u8f6c\u5316\u6302\u4ef6\uff08\u53ea\u8bfb/\u7eaf\u672c\u5730\uff09\uff1a\u5927\u767d\u8bdd -> \u56db\u6bb5\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\uff1bcompile / passthrough / status | cont",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T01:17:03Z",
     "url": "https://github.com/gbtweilai-star/gbt-codex-thread-new"
-  },
-  {
-    "description": "GBT V8 capability #122/341 \u00b7 codex_status (llm) \u2014 \u5b98\u65b9 Codex \u53ea\u8bfb\u72b6\u6001\uff1a\u8fdb\u7a0b/\u4f1a\u8bdd/\u5e76\u53d1\u4e0a\u9650(1)/\u7a7a\u95f2\u56de\u6536(600s) | contract + validation + CLI, ",
-    "id": "gbtweilai-star/gbt-codex-status",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-codex-status",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:17:01Z",
-    "url": "https://github.com/gbtweilai-star/gbt-codex-status"
-  },
-  {
-    "description": "GBT V8 capability #121/341 \u00b7 codex_models (llm) \u2014 \u5b98\u65b9 Codex \u53ea\u8bfb\uff1a\u53ef\u7528\u6a21\u578b\u6e05\u5355\uff08\u9700 external_llm \u6388\u6743\uff09 | contract + validation + CLI, 0",
-    "id": "gbtweilai-star/gbt-codex-models",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-codex-models",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:52Z",
-    "url": "https://github.com/gbtweilai-star/gbt-codex-models"
-  },
-  {
-    "description": "GBT V8 capability #120/341 \u00b7 codex_interrupt (llm) \u2014 \u5b98\u65b9 Codex \u5199\u64cd\u4f5c\uff1a\u4e2d\u65ad\u5f53\u524d\u56de\u5408\uff08\u9700 process_execute \u6388\u6743\uff09 | contract + validation +",
-    "id": "gbtweilai-star/gbt-codex-interrupt",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-codex-interrupt",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:49Z",
-    "url": "https://github.com/gbtweilai-star/gbt-codex-interrupt"
-  },
-  {
-    "description": "GBT V8 capability #119/341 \u00b7 codex_chat (llm) \u2014 \u5b98\u65b9 Codex \u540c\u6b65\u5bf9\u8bdd\uff1a\u8dd1\u5b8c\u4e00\u4e2a\u56de\u5408\u5e76\u8fd4\u56de\u6587\u672c\uff08\u9700 process_execute + external_llm \u6388\u6743\uff09 | contrac",
-    "id": "gbtweilai-star/gbt-codex-chat",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-codex-chat",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:48Z",
-    "url": "https://github.com/gbtweilai-star/gbt-codex-chat"
-  },
-  {
-    "description": "GBT V8 capability #118/341 \u00b7 codebuddy (llm) \u2014 CodeBuddy CLI: AI coding assistant | contract + validation + CLI, 0 runti",
-    "id": "gbtweilai-star/gbt-codebuddy",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-codebuddy",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:39Z",
-    "url": "https://github.com/gbtweilai-star/gbt-codebuddy"
-  },
-  {
-    "description": "GBT V8 capability #117/341 \u00b7 cloud_llm (llm) \u2014 \u8c03\u7528Agnes AI\u4e91\u7aef\u7b97\u529b | contract + validation + CLI, 0 runtime deps.",
-    "id": "gbtweilai-star/gbt-cloud-llm",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-cloud-llm",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:36Z",
-    "url": "https://github.com/gbtweilai-star/gbt-cloud-llm"
-  },
-  {
-    "description": "GBT V8 capability #116/341 \u00b7 claude_code (llm) \u2014 Claude Code CLI: official Anthropic coding agent | contract + validatio",
-    "id": "gbtweilai-star/gbt-claude-code",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-claude-code",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:35Z",
-    "url": "https://github.com/gbtweilai-star/gbt-claude-code"
-  },
-  {
-    "description": "GBT V8 capability #115/341 \u00b7 brain_verify (llm) \u2014 \u5927\u8111\u6267\u884c\u5c42\u00b7\u9a8c\u8bc1\u7ef4\uff1a\u89e6\u624b\u8089\u773c\u9a8c\u8bc1\u73b0\u5b9e\uff08\u89c6\u89c9\u6307\u7eb9+UIA\u7a7f\u900f\u8bfb\u56de\uff09 | contract + validation + CLI, 0 runt",
-    "id": "gbtweilai-star/gbt-brain-verify",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-brain-verify",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:25Z",
-    "url": "https://github.com/gbtweilai-star/gbt-brain-verify"
-  },
-  {
-    "description": "GBT V8 capability #114/341 \u00b7 brain_unify (llm) \u2014 \u5927\u8111\u6267\u884c\u5c42\u00b7\u4e94\u7ef4\u5408\u4e00\uff1a\u4e00\u6b21\u8dd1\u5b8c route \u2192 execute \u2192 verify \u2192 health\uff08**\u662f\u987a\u5e8f\u4e32\u94fe\uff0c\u6570\u636e\u987a\u7740\u8d70**\uff1aroute",
-    "id": "gbtweilai-star/gbt-brain-unify",
-    "language": "Python",
-    "name": "gbtweilai-star/gbt-brain-unify",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:16:22Z",
-    "url": "https://github.com/gbtweilai-star/gbt-brain-unify"
   }
 ]
