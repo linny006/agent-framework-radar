@@ -1,5 +1,77 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20929,
+    "updated_at": "2026-10-28T22:44:52Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
+    "id": "lza6/clawd-code",
+    "language": "Python",
+    "name": "lza6/clawd-code",
+    "stars": 4,
+    "updated_at": "2026-10-28T22:43:19Z",
+    "url": "https://github.com/lza6/clawd-code"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 173,
+    "updated_at": "2026-10-28T22:37:26Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-28T22:36:59Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11098,
+    "updated_at": "2026-10-28T22:44:11Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 160,
+    "updated_at": "2026-10-28T22:32:49Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-28T22:42:16Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T22:30:28Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
     "id": "rogueki/rogue-friday",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2403,
-    "updated_at": "2026-10-28T22:28:29Z",
+    "updated_at": "2026-10-28T22:42:39Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -63,60 +135,6 @@
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11098,
-    "updated_at": "2026-10-28T22:20:20Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-28T22:17:08Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
-    "id": "lza6/clawd-code",
-    "language": "Python",
-    "name": "lza6/clawd-code",
-    "stars": 4,
-    "updated_at": "2026-10-28T22:15:39Z",
-    "url": "https://github.com/lza6/clawd-code"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T22:15:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-28T22:18:58Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 160,
-    "updated_at": "2026-10-28T22:14:55Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
     "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
     "id": "LovaHuguel/Khala-Orchestrator-Core",
     "language": "HTML",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-28T22:10:10Z",
+    "updated_at": "2026-10-28T22:42:18Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "laurentftech/pi-outpost",
     "stars": 25,
-    "updated_at": "2026-10-28T22:20:22Z",
+    "updated_at": "2026-10-28T22:42:39Z",
     "url": "https://github.com/laurentftech/pi-outpost"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T22:16:02Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20929,
-    "updated_at": "2026-10-28T22:29:24Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "The control plane for AI coding agents.",
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "seelowen-maito/loft",
     "stars": 4,
-    "updated_at": "2026-10-28T22:17:31Z",
+    "updated_at": "2026-10-28T22:39:33Z",
     "url": "https://github.com/seelowen-maito/loft"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T22:28:40Z",
+    "updated_at": "2026-10-28T22:37:37Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "aomi-labs/aomi",
     "stars": 14,
-    "updated_at": "2026-10-28T21:44:28Z",
+    "updated_at": "2026-10-28T22:31:31Z",
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 46,
     "updated_at": "2026-10-28T20:34:29Z",
     "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Proactive agent runtime in Python: background goals that survive restarts, MQTT sensor agents with salience filtering, e",
-    "id": "salvatorebottiglieri/botti-agent",
-    "language": "Python",
-    "name": "salvatorebottiglieri/botti-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T20:33:39Z",
-    "url": "https://github.com/salvatorebottiglieri/botti-agent"
   }
 ]
