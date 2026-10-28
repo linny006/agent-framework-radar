@@ -1,5 +1,95 @@
 [
   {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 160,
+    "updated_at": "2026-10-28T20:45:15Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "One AI agent, everywhere you work \u2014 terminal, desktop, mobile, and your chat apps. Rust core.",
+    "id": "futuregene/future-os",
+    "language": "Rust",
+    "name": "futuregene/future-os",
+    "stars": 112,
+    "updated_at": "2026-10-28T20:45:13Z",
+    "url": "https://github.com/futuregene/future-os"
+  },
+  {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1386,
+    "updated_at": "2026-10-28T20:44:34Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 14,
+    "updated_at": "2026-10-28T20:40:47Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 11098,
+    "updated_at": "2026-10-28T20:44:40Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
+    "id": "swombat/souls-house",
+    "language": "Ruby",
+    "name": "swombat/souls-house",
+    "stars": 46,
+    "updated_at": "2026-10-28T20:34:29Z",
+    "url": "https://github.com/swombat/souls-house"
+  },
+  {
+    "description": "Proactive agent runtime in Python: background goals that survive restarts, MQTT sensor agents with salience filtering, e",
+    "id": "salvatorebottiglieri/botti-agent",
+    "language": "Python",
+    "name": "salvatorebottiglieri/botti-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:33:39Z",
+    "url": "https://github.com/salvatorebottiglieri/botti-agent"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-28T20:31:57Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T20:30:27Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+    "id": "ag2ai/ag2",
+    "language": "Python",
+    "name": "ag2ai/ag2",
+    "stars": 5026,
+    "updated_at": "2026-10-28T20:30:23Z",
+    "url": "https://github.com/ag2ai/ag2"
+  },
+  {
     "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok",
     "id": "aeonfun/aeon",
     "language": "JavaScript",
@@ -18,15 +108,6 @@
     "url": "https://github.com/oracle/locus"
   },
   {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 5026,
-    "updated_at": "2026-10-28T20:30:23Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
     "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
     "id": "lza6/clawd-code",
     "language": "Python",
@@ -36,15 +117,6 @@
     "url": "https://github.com/lza6/clawd-code"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T20:25:11Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Role playbooks and coordination framework for multi-agent engineering teams",
     "id": "mythicalOS/mythical-playbooks",
     "language": "Shell",
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T20:24:56Z",
     "url": "https://github.com/mythicalOS/mythical-playbooks"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1386,
-    "updated_at": "2026-10-28T20:24:33Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
@@ -90,30 +153,12 @@
     "url": "https://github.com/dshakes/lantern"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-28T20:22:33Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 11098,
-    "updated_at": "2026-10-28T20:23:36Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
     "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
     "id": "framerslab/agentos",
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 683,
-    "updated_at": "2026-10-28T20:30:01Z",
+    "updated_at": "2026-10-28T20:39:33Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -135,7 +180,7 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "Build, run, and use hundreds of AI microagents through search",
+    "description": "Transform your enterprise AI with Search2o agent server",
     "id": "Search2o/agent-server",
     "language": "Python",
     "name": "Search2o/agent-server",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20929,
-    "updated_at": "2026-10-28T20:29:37Z",
+    "updated_at": "2026-10-28T20:44:10Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -238,8 +283,8 @@
     "id": "microsoft/agent-framework",
     "language": "Python",
     "name": "microsoft/agent-framework",
-    "stars": 14365,
-    "updated_at": "2026-10-28T19:46:30Z",
+    "stars": 14366,
+    "updated_at": "2026-10-28T20:42:50Z",
     "url": "https://github.com/microsoft/agent-framework"
   },
   {
@@ -279,21 +324,12 @@
     "url": "https://github.com/aequitas-labs/lobstah"
   },
   {
-    "description": "Proactive agent runtime in Python: background goals that survive restarts, MQTT sensor agents with salience filtering, e",
-    "id": "salvatorebottiglieri/botti-agent",
-    "language": "Python",
-    "name": "salvatorebottiglieri/botti-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:33:37Z",
-    "url": "https://github.com/salvatorebottiglieri/botti-agent"
-  },
-  {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
     "id": "cortexkit/aft",
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T20:08:59Z",
+    "updated_at": "2026-10-28T20:36:32Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/iyulab/ironhive-host"
   },
   {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 160,
-    "updated_at": "2026-10-28T19:42:43Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
     "description": "The living DeepSeek Harness plugin directory \u2014 refreshed hourly, compat-tested daily, with an in-app plugin store and sc",
     "id": "whyihaveyou/dsh-suite",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 51,
     "updated_at": "2026-10-28T18:52:55Z",
     "url": "https://github.com/paseo-cafe/paseo-cafe"
-  },
-  {
-    "description": "High-performance SDK for AI agents with a unified API across AI providers. Optimized for high cache hit rates, observabi",
-    "id": "sashvat-bharat/agent-accelerator",
-    "language": "TypeScript",
-    "name": "sashvat-bharat/agent-accelerator",
-    "stars": 4,
-    "updated_at": "2026-10-28T18:45:53Z",
-    "url": "https://github.com/sashvat-bharat/agent-accelerator"
-  },
-  {
-    "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
-    "id": "AegeanWorks/NeuroCore",
-    "language": "Python",
-    "name": "AegeanWorks/NeuroCore",
-    "stars": 8,
-    "updated_at": "2026-10-28T18:39:13Z",
-    "url": "https://github.com/AegeanWorks/NeuroCore"
-  },
-  {
-    "description": "AI agent with zero dependencies, bring your own bun",
-    "id": "devoidfury/hotdog",
-    "language": "TypeScript",
-    "name": "devoidfury/hotdog",
-    "stars": 22,
-    "updated_at": "2026-10-28T18:36:15Z",
-    "url": "https://github.com/devoidfury/hotdog"
   }
 ]
