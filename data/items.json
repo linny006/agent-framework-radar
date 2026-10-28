@@ -1,5 +1,149 @@
 [
   {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20909,
+    "updated_at": "2026-10-28T00:30:17Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Gradient descent, but the parameters are agents \u2014 a parallel, asynchronous framework for self-evolving agents (skills, p",
+    "id": "Birfy/agentdescent",
+    "language": "Python",
+    "name": "Birfy/agentdescent",
+    "stars": 199,
+    "updated_at": "2026-10-28T00:30:12Z",
+    "url": "https://github.com/Birfy/agentdescent"
+  },
+  {
+    "description": "Sovereign Studio ato",
+    "id": "OuroborosCollective/Sovereign-Studio-ato",
+    "language": "Python",
+    "name": "OuroborosCollective/Sovereign-Studio-ato",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:30:14Z",
+    "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato"
+  },
+  {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 160,
+    "updated_at": "2026-10-28T00:28:44Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
+    "id": "Team-Commonly/commonly",
+    "language": "TypeScript",
+    "name": "Team-Commonly/commonly",
+    "stars": 1371,
+    "updated_at": "2026-10-28T00:28:20Z",
+    "url": "https://github.com/Team-Commonly/commonly"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-28T00:30:10Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
+    "id": "Azure/agent-landing-zone",
+    "language": "Python",
+    "name": "Azure/agent-landing-zone",
+    "stars": 1194,
+    "updated_at": "2026-10-28T00:29:26Z",
+    "url": "https://github.com/Azure/agent-landing-zone"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-28T00:23:27Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Self-evolving agent framework on DeepSeek Harness (dsh): 40 Cordis plugins, 4 presets, memory \u00b7 reflection \u00b7 gates \u00b7 met",
+    "id": "Anmulzhao/DSH-AGINT",
+    "language": "JavaScript",
+    "name": "Anmulzhao/DSH-AGINT",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:22:42Z",
+    "url": "https://github.com/Anmulzhao/DSH-AGINT"
+  },
+  {
+    "description": "The coding agent you don\u2019t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and",
+    "id": "griffinwork40/agent-afk",
+    "language": "TypeScript",
+    "name": "griffinwork40/agent-afk",
+    "stars": 62,
+    "updated_at": "2026-10-28T00:29:40Z",
+    "url": "https://github.com/griffinwork40/agent-afk"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35984,
+    "updated_at": "2026-10-28T00:19:35Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
+    "id": "kindgi/kindgi-sdk",
+    "language": "TypeScript",
+    "name": "kindgi/kindgi-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:19:38Z",
+    "url": "https://github.com/kindgi/kindgi-sdk"
+  },
+  {
+    "description": "Focus-safe, window-routed execution fabric for multi-agent computer control.",
+    "id": "wszx11/agent-control-fabric",
+    "language": "Python",
+    "name": "wszx11/agent-control-fabric",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:18:02Z",
+    "url": "https://github.com/wszx11/agent-control-fabric"
+  },
+  {
+    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
+    "id": "Rakshit64w43/agent-gateway-hub",
+    "language": "HTML",
+    "name": "Rakshit64w43/agent-gateway-hub",
+    "stars": 4,
+    "updated_at": "2026-10-28T00:16:02Z",
+    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-28T00:15:33Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over ",
+    "id": "autoyou-ai/AutoYou-Server",
+    "language": "Python",
+    "name": "autoyou-ai/AutoYou-Server",
+    "stars": 2,
+    "updated_at": "2026-10-28T00:15:26Z",
+    "url": "https://github.com/autoyou-ai/AutoYou-Server"
+  },
+  {
     "description": "  Every AI football caption gets a VAR check before it airs: agents on Microsoft Foundry write it, a code referee checks",
     "id": "joelynli0110/captionvar",
     "language": "JavaScript",
@@ -32,17 +176,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-28T00:14:18Z",
+    "updated_at": "2026-10-28T00:25:48Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20908,
-    "updated_at": "2026-10-28T00:14:14Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "Universal AI agent host for .NET \u2014 CLI, HTTP/SSE server, and embeddable SDK surfaces over one agent core.",
@@ -63,24 +198,6 @@
     "url": "https://github.com/JKHeadley/instar"
   },
   {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-28T00:14:14Z",
-    "url": "https://github.com/manishiitg/agentworks"
-  },
-  {
-    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
-    "id": "arcships/rutis",
-    "language": "Rust",
-    "name": "arcships/rutis",
-    "stars": 160,
-    "updated_at": "2026-10-28T00:08:38Z",
-    "url": "https://github.com/arcships/rutis"
-  },
-  {
     "description": "Live football match intelligence: finds each team's fault line in the passing network, rates players against the coach's",
     "id": "harshul27/faultlines",
     "language": "Python",
@@ -95,7 +212,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-28T00:08:19Z",
+    "updated_at": "2026-10-28T00:25:20Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -117,15 +234,6 @@
     "url": "https://github.com/sytone/botnexus"
   },
   {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T00:00:25Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -142,6 +250,15 @@
     "stars": 1,
     "updated_at": "2026-10-28T00:00:30Z",
     "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Kairos: the what-if broadcast. Nine AI agents on Microsoft Foundry run a fact-checked 3D football broadcast and replay w",
+    "id": "rjlopez8-rgb/match-intelligence",
+    "language": "Python",
+    "name": "rjlopez8-rgb/match-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:51:18Z",
+    "url": "https://github.com/rjlopez8-rgb/match-intelligence"
   },
   {
     "description": "Build durable, auditable AI agents in Go: at-most-once side effects, offline-verifiable cryptographic audit (RFC 6962), ",
@@ -162,15 +279,6 @@
     "url": "https://github.com/agents-universe/agents-universe"
   },
   {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-27T23:47:21Z",
-    "url": "https://github.com/yangheng95/opencorvus"
-  },
-  {
     "description": "A foundation for building AI agents on top of the Claude Agent SDK",
     "id": "falkenslab/agent-kit",
     "language": "TypeScript",
@@ -187,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-10-27T23:45:51Z",
     "url": "https://github.com/swsgbl/hmharness"
-  },
-  {
-    "description": "One pod for your team and the agents each of you runs: your own Claude Code, or a hosted agent in one click. Open source",
-    "id": "Team-Commonly/commonly",
-    "language": "TypeScript",
-    "name": "Team-Commonly/commonly",
-    "stars": 1371,
-    "updated_at": "2026-10-28T00:11:27Z",
-    "url": "https://github.com/Team-Commonly/commonly"
   },
   {
     "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
@@ -257,7 +356,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11089,
-    "updated_at": "2026-10-27T23:28:29Z",
+    "updated_at": "2026-10-28T00:28:11Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -268,15 +367,6 @@
     "stars": 8,
     "updated_at": "2026-10-27T23:28:10Z",
     "url": "https://github.com/ellmos-ai/bach"
-  },
-  {
-    "description": "Kindgi SDK \u2014 public Apache-2.0 packages for building on Kindgi (preview)",
-    "id": "kindgi/kindgi-sdk",
-    "language": "TypeScript",
-    "name": "kindgi/kindgi-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:05:28Z",
-    "url": "https://github.com/kindgi/kindgi-sdk"
   },
   {
     "description": "Mozaik is a TypeScript framework for multi-agent collaboration.",
@@ -347,7 +437,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-27T23:16:57Z",
+    "updated_at": "2026-10-28T00:19:29Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T22:47:33Z",
     "url": "https://github.com/diego-sicignano/soundpitch"
-  },
-  {
-    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
-    "id": "eigent-ai/eigent",
-    "language": "TypeScript",
-    "name": "eigent-ai/eigent",
-    "stars": 15673,
-    "updated_at": "2026-10-27T23:53:05Z",
-    "url": "https://github.com/eigent-ai/eigent"
-  },
-  {
-    "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
-    "id": "motojinc25/chatwalaau",
-    "language": "Python",
-    "name": "motojinc25/chatwalaau",
-    "stars": 6,
-    "updated_at": "2026-10-27T22:47:25Z",
-    "url": "https://github.com/motojinc25/chatwalaau"
-  },
-  {
-    "description": "\ud83d\ude80 GenAI Agents Production Blueprint 2026: Code-First Enterprise Deployment",
-    "id": "exha1078/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "exha1078/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-27T22:43:09Z",
-    "url": "https://github.com/exha1078/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-27T22:42:44Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
-    "stars": 8,
-    "updated_at": "2026-10-27T22:58:56Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-27T22:40:44Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.",
-    "id": "swombat/souls-house",
-    "language": "Ruby",
-    "name": "swombat/souls-house",
-    "stars": 46,
-    "updated_at": "2026-10-27T22:38:38Z",
-    "url": "https://github.com/swombat/souls-house"
-  },
-  {
-    "description": "Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or bo",
-    "id": "Azure/agent-landing-zone",
-    "language": "Python",
-    "name": "Azure/agent-landing-zone",
-    "stars": 1194,
-    "updated_at": "2026-10-27T22:29:45Z",
-    "url": "https://github.com/Azure/agent-landing-zone"
-  },
-  {
-    "description": "Where your coding agents hang out.",
-    "id": "seelowen-maito/loft",
-    "language": "Swift",
-    "name": "seelowen-maito/loft",
-    "stars": 4,
-    "updated_at": "2026-10-27T23:41:13Z",
-    "url": "https://github.com/seelowen-maito/loft"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 83,
-    "updated_at": "2026-10-27T22:20:20Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
