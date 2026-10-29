@@ -1,11 +1,119 @@
 [
   {
+    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
+    "id": "autonomous-ai/openharness",
+    "language": "TypeScript",
+    "name": "autonomous-ai/openharness",
+    "stars": 1392,
+    "updated_at": "2026-10-29T19:00:20Z",
+    "url": "https://github.com/autonomous-ai/openharness"
+  },
+  {
+    "description": "Free, fully local, easy to use Ai agent/character platform with built in neuroscience inspired persistent memory, moods ",
+    "id": "Kronic90/Mimirs-Memory-Hub",
+    "language": "Python",
+    "name": "Kronic90/Mimirs-Memory-Hub",
+    "stars": 33,
+    "updated_at": "2026-10-29T18:59:49Z",
+    "url": "https://github.com/Kronic90/Mimirs-Memory-Hub"
+  },
+  {
+    "description": "A reliable coding agent for complex software engineering tasks.",
+    "id": "esengine/DeepSeek-Reasonix",
+    "language": "Go",
+    "name": "esengine/DeepSeek-Reasonix",
+    "stars": 35994,
+    "updated_at": "2026-10-29T18:58:14Z",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix"
+  },
+  {
+    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
+    "id": "jiangchuangege/xiaojiao-harnees",
+    "language": "Python",
+    "name": "jiangchuangege/xiaojiao-harnees",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:57:27Z",
+    "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
+  },
+  {
+    "description": "Core of the AgiMate agent platform: per-agent access to connectors and tools, credentials that never reach the model, ev",
+    "id": "AgiMateIo/agimate-backend",
+    "language": "Java",
+    "name": "AgiMateIo/agimate-backend",
+    "stars": 9,
+    "updated_at": "2026-10-29T18:56:53Z",
+    "url": "https://github.com/AgiMateIo/agimate-backend"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
+    "language": "Python",
+    "name": "pydantic/pydantic-ai",
+    "stars": 20946,
+    "updated_at": "2026-10-29T18:58:55Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8996,
+    "updated_at": "2026-10-29T18:54:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
+    "id": "AegeanWorks/NeuroCore",
+    "language": "Python",
+    "name": "AegeanWorks/NeuroCore",
+    "stars": 8,
+    "updated_at": "2026-10-29T18:54:23Z",
+    "url": "https://github.com/AegeanWorks/NeuroCore"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:55:33Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+    "id": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "language": "HTML",
+    "name": "IkhsanMAlbar/govchain-llm-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:50:29Z",
+    "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator"
+  },
+  {
+    "description": "Production runtime for AI agents \u2014 run the whole stack locally with one command, ship to your own cloud. Real WhatsApp/S",
+    "id": "dshakes/lantern",
+    "language": "TypeScript",
+    "name": "dshakes/lantern",
+    "stars": 1,
+    "updated_at": "2026-10-29T19:00:13Z",
+    "url": "https://github.com/dshakes/lantern"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-29T18:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11115,
-    "updated_at": "2026-10-29T18:44:41Z",
+    "updated_at": "2026-10-29T18:59:47Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -16,24 +124,6 @@
     "stars": 8,
     "updated_at": "2026-10-29T18:44:05Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
-    "id": "AegeanWorks/NeuroCore",
-    "language": "Python",
-    "name": "AegeanWorks/NeuroCore",
-    "stars": 8,
-    "updated_at": "2026-10-29T18:43:55Z",
-    "url": "https://github.com/AegeanWorks/NeuroCore"
-  },
-  {
-    "description": "The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with co",
-    "id": "autonomous-ai/openharness",
-    "language": "TypeScript",
-    "name": "autonomous-ai/openharness",
-    "stars": 1392,
-    "updated_at": "2026-10-29T18:44:27Z",
-    "url": "https://github.com/autonomous-ai/openharness"
   },
   {
     "description": "\ud83e\udd9e\u2728 Harness-agnostic, token-efficient supervision framework for coding agents. Nobody stares at the water \u2014 your agents j",
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "rogueki/rogue-friday",
     "stars": 0,
-    "updated_at": "2026-10-29T18:37:58Z",
+    "updated_at": "2026-10-29T18:49:22Z",
     "url": "https://github.com/rogueki/rogue-friday"
   },
   {
@@ -95,7 +185,7 @@
     "language": "JavaScript",
     "name": "kh0pper/crow",
     "stars": 26,
-    "updated_at": "2026-10-29T18:43:43Z",
+    "updated_at": "2026-10-29T18:49:20Z",
     "url": "https://github.com/kh0pper/crow"
   },
   {
@@ -104,7 +194,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-29T18:39:56Z",
+    "updated_at": "2026-10-29T18:59:51Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49631,
-    "updated_at": "2026-10-29T18:33:13Z",
+    "updated_at": "2026-10-29T18:55:51Z",
     "url": "https://github.com/HKUDS/nanobot"
   },
   {
@@ -140,17 +230,8 @@
     "language": "Python",
     "name": "HarnessRouter/harnessrouter",
     "stars": 3772,
-    "updated_at": "2026-10-29T18:44:00Z",
+    "updated_at": "2026-10-29T18:51:26Z",
     "url": "https://github.com/HarnessRouter/harnessrouter"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-29T18:30:27Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Department Architecture for AI agents \u2014 every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop ",
@@ -162,31 +243,13 @@
     "url": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
   {
-    "description": "\u628a\u667a\u529b\u4ece\u6a21\u578b\u642c\u8fdb\u8f7d\u4f53\u7684\u672c\u5730 AI \u52a9\u624b\uff1a\u6362\u6a21\u578b\uff0c\u52a9\u624b\u4e0d\u53d8\uff08\u8bb0\u5fc6/\u4eba\u683c/\u5de5\u5177/\u5b89\u5168\u8fb9\u754c\u90fd\u4e0d\u4e22\uff09\u3002\u7528\u672c\u5730 4B \u8dd1\u51fa\u8fdc\u8d85\u53c2\u6570\u91cf\u7684\u6548\u679c \u2014\u2014 \u72b6\u6001\u5728\u4ee3\u7801\u5c42\u771f\u7684\u6539\u53d8\u884c\u4e3a\uff08\u5de5\u5177\u8868 6\u21920\uff09\uff0c\u4e0d\u662f\u5199\u8fdb\u63d0\u793a\u8bcd\u529d\u5b83\u3002100% \u672c\u5730\u8fd0\u884c\u3002",
-    "id": "jiangchuangege/xiaojiao-harnees",
-    "language": "Python",
-    "name": "jiangchuangege/xiaojiao-harnees",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:29:55Z",
-    "url": "https://github.com/jiangchuangege/xiaojiao-harnees"
-  },
-  {
     "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
     "id": "NirDiamant/agents-towards-production",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/agents-towards-production",
-    "stars": 21793,
+    "stars": 21794,
     "updated_at": "2026-10-29T18:28:38Z",
     "url": "https://github.com/NirDiamant/agents-towards-production"
-  },
-  {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20946,
-    "updated_at": "2026-10-29T18:42:39Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
     "description": "DIY your own agent team harness for long-horizon agent work",
@@ -216,15 +279,6 @@
     "url": "https://github.com/aomi-labs/aomi"
   },
   {
-    "description": "A reliable coding agent for complex software engineering tasks.",
-    "id": "esengine/DeepSeek-Reasonix",
-    "language": "Go",
-    "name": "esengine/DeepSeek-Reasonix",
-    "stars": 35994,
-    "updated_at": "2026-10-29T18:30:37Z",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix"
-  },
-  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -234,21 +288,12 @@
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:36:31Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Open-source AI office assistant for your desktop: describe the result or file you want in one sentence, and Abu plans an",
     "id": "PM-Shawn/Abu-Cowork",
     "language": "TypeScript",
     "name": "PM-Shawn/Abu-Cowork",
     "stars": 412,
-    "updated_at": "2026-10-29T18:33:28Z",
+    "updated_at": "2026-10-29T18:50:01Z",
     "url": "https://github.com/PM-Shawn/Abu-Cowork"
   },
   {
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "vite-hub/vitehub",
     "stars": 28,
-    "updated_at": "2026-10-29T18:43:58Z",
+    "updated_at": "2026-10-29T18:54:13Z",
     "url": "https://github.com/vite-hub/vitehub"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-29T18:17:57Z",
+    "updated_at": "2026-10-29T18:53:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 7028,
     "updated_at": "2026-10-29T17:50:03Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
-  },
-  {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvge",
-    "language": "Python",
-    "name": "IAmNo1Special/mvge",
-    "stars": 2,
-    "updated_at": "2026-10-29T17:48:40Z",
-    "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
-    "description": "Give every page a soul.",
-    "id": "plingjs/pling",
-    "language": "TypeScript",
-    "name": "plingjs/pling",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:46:06Z",
-    "url": "https://github.com/plingjs/pling"
-  },
-  {
-    "description": "Official Mvge catalog of Runes (extensions) and Mvges (agents).",
-    "id": "IAmNo1Special/mvge-marketplace",
-    "language": "Python",
-    "name": "IAmNo1Special/mvge-marketplace",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:45:05Z",
-    "url": "https://github.com/IAmNo1Special/mvge-marketplace"
-  },
-  {
-    "description": "Caelumora is a multi-agent system framework written in Rust",
-    "id": "dimajix/caelumora",
-    "language": "Rust",
-    "name": "dimajix/caelumora",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:44:23Z",
-    "url": "https://github.com/dimajix/caelumora"
-  },
-  {
-    "description": "Agent Capability Standard is an open specification for composable AI agent capabilities. It defines 36 atomic capabiliti",
-    "id": "synaptiai/agent-capability-standard",
-    "language": "Python",
-    "name": "synaptiai/agent-capability-standard",
-    "stars": 6,
-    "updated_at": "2026-10-29T17:43:00Z",
-    "url": "https://github.com/synaptiai/agent-capability-standard"
   }
 ]
