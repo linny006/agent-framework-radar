@@ -1,11 +1,56 @@
 [
   {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 308,
+    "updated_at": "2026-10-29T00:06:27Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
+    "id": "lza6/clawd-code",
+    "language": "Python",
+    "name": "lza6/clawd-code",
+    "stars": 4,
+    "updated_at": "2026-10-29T00:05:43Z",
+    "url": "https://github.com/lza6/clawd-code"
+  },
+  {
+    "description": "The best blockchain harness for agentic AI - on-chain execution with runtime, skills, and component library.",
+    "id": "aomi-labs/aomi",
+    "language": "TypeScript",
+    "name": "aomi-labs/aomi",
+    "stars": 14,
+    "updated_at": "2026-10-29T00:03:37Z",
+    "url": "https://github.com/aomi-labs/aomi"
+  },
+  {
+    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
+    "id": "DJG3DK/persei",
+    "language": "Python",
+    "name": "DJG3DK/persei",
+    "stars": 3,
+    "updated_at": "2026-10-29T00:02:11Z",
+    "url": "https://github.com/DJG3DK/persei"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-29T00:00:24Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
     "id": "pydantic/pydantic-ai",
     "language": "Python",
     "name": "pydantic/pydantic-ai",
     "stars": 20931,
-    "updated_at": "2026-10-28T23:59:20Z",
+    "updated_at": "2026-10-29T00:06:38Z",
     "url": "https://github.com/pydantic/pydantic-ai"
   },
   {
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "ourostack/ouroboros",
     "stars": 3,
-    "updated_at": "2026-10-28T23:58:48Z",
+    "updated_at": "2026-10-29T00:02:57Z",
     "url": "https://github.com/ourostack/ouroboros"
   },
   {
@@ -23,7 +68,7 @@
     "language": "JavaScript",
     "name": "logmem/logmem",
     "stars": 1,
-    "updated_at": "2026-10-28T23:58:50Z",
+    "updated_at": "2026-10-29T00:04:51Z",
     "url": "https://github.com/logmem/logmem"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11098,
-    "updated_at": "2026-10-29T00:00:10Z",
+    "updated_at": "2026-10-29T00:05:38Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "footprintjs/agentfootprint",
     "stars": 21,
-    "updated_at": "2026-10-28T23:55:30Z",
+    "updated_at": "2026-10-29T00:02:06Z",
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
@@ -113,35 +158,8 @@
     "language": "TypeScript",
     "name": "Eliyce/paqad-ai",
     "stars": 8,
-    "updated_at": "2026-10-28T23:45:39Z",
+    "updated_at": "2026-10-29T00:03:17Z",
     "url": "https://github.com/Eliyce/paqad-ai"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-28T23:45:22Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
-  },
-  {
-    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
-    "id": "lza6/clawd-code",
-    "language": "Python",
-    "name": "lza6/clawd-code",
-    "stars": 4,
-    "updated_at": "2026-10-28T23:43:23Z",
-    "url": "https://github.com/lza6/clawd-code"
-  },
-  {
-    "description": "Autonomous coding agent built on LangGraph + deepagents. It natively plans, builds, verifies, and ships real production ",
-    "id": "DJG3DK/persei",
-    "language": "Python",
-    "name": "DJG3DK/persei",
-    "stars": 3,
-    "updated_at": "2026-10-28T23:43:16Z",
-    "url": "https://github.com/DJG3DK/persei"
   },
   {
     "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in ",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "xuiltul/animaworks",
     "stars": 268,
-    "updated_at": "2026-10-28T23:39:03Z",
+    "updated_at": "2026-10-29T00:05:29Z",
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
@@ -239,17 +257,8 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1388,
-    "updated_at": "2026-10-28T23:59:24Z",
+    "updated_at": "2026-10-29T00:05:17Z",
     "url": "https://github.com/autonomous-ai/openharness"
-  },
-  {
-    "description": "DIY your own agent team harness for long-horizon agent work",
-    "id": "yangheng95/opencorvus",
-    "language": "TypeScript",
-    "name": "yangheng95/opencorvus",
-    "stars": 308,
-    "updated_at": "2026-10-28T23:17:45Z",
-    "url": "https://github.com/yangheng95/opencorvus"
   },
   {
     "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 333,
-    "updated_at": "2026-10-29T00:00:11Z",
+    "updated_at": "2026-10-29T00:05:37Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "cortexkit/magic-context",
     "stars": 2404,
-    "updated_at": "2026-10-28T23:54:07Z",
+    "updated_at": "2026-10-29T00:02:27Z",
     "url": "https://github.com/cortexkit/magic-context"
   },
   {
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "griffinwork40/agent-afk",
     "stars": 62,
-    "updated_at": "2026-10-28T23:59:52Z",
+    "updated_at": "2026-10-29T00:00:38Z",
     "url": "https://github.com/griffinwork40/agent-afk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 605,
     "updated_at": "2026-10-28T22:05:12Z",
     "url": "https://github.com/miuuyy/Octopus-SI-OS"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-28T22:16:02Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
