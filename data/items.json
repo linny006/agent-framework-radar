@@ -1,5 +1,23 @@
 [
   {
+    "description": "A plugin runtime for software that iterates on itself \u2014 the substrate where agents write, swap and hot-reload their own ",
+    "id": "arcships/rutis",
+    "language": "Rust",
+    "name": "arcships/rutis",
+    "stars": 160,
+    "updated_at": "2026-10-29T11:45:56Z",
+    "url": "https://github.com/arcships/rutis"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-29T11:45:26Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "manishiitg/agentworks",
     "stars": 16,
-    "updated_at": "2026-10-29T11:42:27Z",
+    "updated_at": "2026-10-29T11:45:47Z",
     "url": "https://github.com/manishiitg/agentworks"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 333,
     "updated_at": "2026-10-29T11:43:50Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-29T11:30:24Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "Local Windows/WSL AI assistant with Hermes Agent, voice control, Command Center dashboard and Friday Skills (public beta",
@@ -439,14 +448,5 @@
     "stars": 203,
     "updated_at": "2026-10-29T10:42:08Z",
     "url": "https://github.com/Birfy/agentdescent"
-  },
-  {
-    "description": "Composable Python agent SDK with reversible plugins, tool approvals, and durable session logs.",
-    "id": "mathisarends/harnessed",
-    "language": "Python",
-    "name": "mathisarends/harnessed",
-    "stars": 0,
-    "updated_at": "2026-10-29T10:41:22Z",
-    "url": "https://github.com/mathisarends/harnessed"
   }
 ]
