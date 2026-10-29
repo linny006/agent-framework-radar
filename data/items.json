@@ -1,12 +1,57 @@
 [
   {
-    "description": "Official Mvge catalog of Runes (extensions) and Mvges (agents).",
-    "id": "IAmNo1Special/mvge-marketplace",
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-29T17:51:58Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
+    "id": "pydantic/pydantic-ai",
     "language": "Python",
-    "name": "IAmNo1Special/mvge-marketplace",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:45:05Z",
-    "url": "https://github.com/IAmNo1Special/mvge-marketplace"
+    "name": "pydantic/pydantic-ai",
+    "stars": 20946,
+    "updated_at": "2026-10-29T17:51:49Z",
+    "url": "https://github.com/pydantic/pydantic-ai"
+  },
+  {
+    "description": "Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every co",
+    "id": "oracle/locus",
+    "language": "Python",
+    "name": "oracle/locus",
+    "stars": 5,
+    "updated_at": "2026-10-29T17:51:44Z",
+    "url": "https://github.com/oracle/locus"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-29T17:51:31Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
+    "id": "AegeanWorks/NeuroCore",
+    "language": "Python",
+    "name": "AegeanWorks/NeuroCore",
+    "stars": 8,
+    "updated_at": "2026-10-29T17:51:26Z",
+    "url": "https://github.com/AegeanWorks/NeuroCore"
+  },
+  {
+    "description": "Clawd Code \u2014 Python \u667a\u80fd\u4f53\u7f16\u7a0b\u6846\u67b6\uff1a\u591a\u667a\u80fd\u4f53\u534f\u4f5c / 5 \u9636\u6bb5\u5de5\u4f5c\u6d41\u5f15\u64ce / MCP \u6865\u63a5\u4e0e\u68c0\u75ab\u5ba1\u6279 / \u9006\u5411\u5de5\u5177\u94fe / Electron \u684c\u9762\u7aef / \u8bc4\u6d4b harness\uff08replay \u786e\u5b9a\u6027\u56de\u5f52\uff09",
+    "id": "lza6/clawd-code",
+    "language": "Python",
+    "name": "lza6/clawd-code",
+    "stars": 4,
+    "updated_at": "2026-10-29T17:49:49Z",
+    "url": "https://github.com/lza6/clawd-code"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -14,8 +59,62 @@
     "language": "Python",
     "name": "IAmNo1Special/mvge",
     "stars": 2,
-    "updated_at": "2026-10-29T17:45:04Z",
+    "updated_at": "2026-10-29T17:48:40Z",
     "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
+    "id": "manishiitg/agentworks",
+    "language": "Go",
+    "name": "manishiitg/agentworks",
+    "stars": 16,
+    "updated_at": "2026-10-29T17:51:57Z",
+    "url": "https://github.com/manishiitg/agentworks"
+  },
+  {
+    "description": "DIY your own agent team harness for long-horizon agent work",
+    "id": "yangheng95/opencorvus",
+    "language": "TypeScript",
+    "name": "yangheng95/opencorvus",
+    "stars": 309,
+    "updated_at": "2026-10-29T17:46:32Z",
+    "url": "https://github.com/yangheng95/opencorvus"
+  },
+  {
+    "description": "Give every page a soul.",
+    "id": "plingjs/pling",
+    "language": "TypeScript",
+    "name": "plingjs/pling",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:46:06Z",
+    "url": "https://github.com/plingjs/pling"
+  },
+  {
+    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
+    "id": "kh0pper/crow",
+    "language": "JavaScript",
+    "name": "kh0pper/crow",
+    "stars": 26,
+    "updated_at": "2026-10-29T17:49:13Z",
+    "url": "https://github.com/kh0pper/crow"
+  },
+  {
+    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+    "id": "linny006/agent-framework-radar",
+    "language": "Python",
+    "name": "linny006/agent-framework-radar",
+    "stars": 9,
+    "updated_at": "2026-10-29T17:45:25Z",
+    "url": "https://github.com/linny006/agent-framework-radar"
+  },
+  {
+    "description": "Official Mvge catalog of Runes (extensions) and Mvges (agents).",
+    "id": "IAmNo1Special/mvge-marketplace",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge-marketplace",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:45:05Z",
+    "url": "https://github.com/IAmNo1Special/mvge-marketplace"
   },
   {
     "description": "A coding agent CLI that runs like an engineering org \u2014 role routing, plan DAGs, approvals, memory, and a 10-platform cha",
@@ -27,15 +126,6 @@
     "url": "https://github.com/hara-cli/hara"
   },
   {
-    "description": "A self-hosted, modular AI agent framework for persistent, tool-using autonomous systems: workflows, long-term memory, RA",
-    "id": "AegeanWorks/NeuroCore",
-    "language": "Python",
-    "name": "AegeanWorks/NeuroCore",
-    "stars": 8,
-    "updated_at": "2026-10-29T17:44:31Z",
-    "url": "https://github.com/AegeanWorks/NeuroCore"
-  },
-  {
     "description": "Caelumora is a multi-agent system framework written in Rust",
     "id": "dimajix/caelumora",
     "language": "Rust",
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T17:44:23Z",
     "url": "https://github.com/dimajix/caelumora"
-  },
-  {
-    "description": "Oracle Generative AI Agentic Harness. Multi-agent reasoning orchestrator SDK with an admission gate in front of every co",
-    "id": "oracle/locus",
-    "language": "Python",
-    "name": "oracle/locus",
-    "stars": 5,
-    "updated_at": "2026-10-29T17:43:43Z",
-    "url": "https://github.com/oracle/locus"
-  },
-  {
-    "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cur",
-    "id": "manishiitg/agentworks",
-    "language": "Go",
-    "name": "manishiitg/agentworks",
-    "stars": 16,
-    "updated_at": "2026-10-29T17:44:02Z",
-    "url": "https://github.com/manishiitg/agentworks"
   },
   {
     "description": "Agent Capability Standard is an open specification for composable AI agent capabilities. It defines 36 atomic capabiliti",
@@ -77,7 +149,7 @@
     "language": "TypeScript",
     "name": "open-multi-agent/open-multi-agent",
     "stars": 7029,
-    "updated_at": "2026-10-29T17:42:30Z",
+    "updated_at": "2026-10-29T17:50:03Z",
     "url": "https://github.com/open-multi-agent/open-multi-agent"
   },
   {
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "autonomous-ai/openharness",
     "stars": 1392,
-    "updated_at": "2026-10-29T17:45:18Z",
+    "updated_at": "2026-10-29T17:51:48Z",
     "url": "https://github.com/autonomous-ai/openharness"
   },
   {
@@ -95,7 +167,7 @@
     "language": "Ruby",
     "name": "ozgurulukir/rubik",
     "stars": 0,
-    "updated_at": "2026-10-29T17:41:50Z",
+    "updated_at": "2026-10-29T17:51:47Z",
     "url": "https://github.com/ozgurulukir/rubik"
   },
   {
@@ -126,21 +198,12 @@
     "url": "https://github.com/hackystorm/pmc-framework"
   },
   {
-    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end",
-    "id": "pydantic/pydantic-ai",
-    "language": "Python",
-    "name": "pydantic/pydantic-ai",
-    "stars": 20946,
-    "updated_at": "2026-10-29T17:42:14Z",
-    "url": "https://github.com/pydantic/pydantic-ai"
-  },
-  {
     "description": "Agents for any host, composed with server primitives through one Vite plugin.",
     "id": "vite-hub/vitehub",
     "language": "TypeScript",
     "name": "vite-hub/vitehub",
     "stars": 28,
-    "updated_at": "2026-10-29T17:41:16Z",
+    "updated_at": "2026-10-29T17:46:30Z",
     "url": "https://github.com/vite-hub/vitehub"
   },
   {
@@ -149,17 +212,8 @@
     "language": "TypeScript",
     "name": "kindgi/kindgi-sdk",
     "stars": 3,
-    "updated_at": "2026-10-29T17:41:01Z",
+    "updated_at": "2026-10-29T17:49:03Z",
     "url": "https://github.com/kindgi/kindgi-sdk"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-29T17:34:31Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-",
@@ -167,17 +221,8 @@
     "language": "Python",
     "name": "HKUDS/nanobot",
     "stars": 49629,
-    "updated_at": "2026-10-29T17:44:09Z",
+    "updated_at": "2026-10-29T17:49:33Z",
     "url": "https://github.com/HKUDS/nanobot"
-  },
-  {
-    "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
-    "id": "linny006/agent-framework-radar",
-    "language": "Python",
-    "name": "linny006/agent-framework-radar",
-    "stars": 9,
-    "updated_at": "2026-10-29T17:30:28Z",
-    "url": "https://github.com/linny006/agent-framework-radar"
   },
   {
     "description": "LogMem server: shared memory for agent teams (implements ACMI).",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "omnigent-ai/omnigent",
     "stars": 11115,
-    "updated_at": "2026-10-29T17:44:25Z",
+    "updated_at": "2026-10-29T17:52:04Z",
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/jin-bo/agentao"
   },
   {
-    "description": "Modular, agentic framework and MCP platform you self-host. Build and run your own AI agents, connect Claude Code, Claude",
-    "id": "kh0pper/crow",
-    "language": "JavaScript",
-    "name": "kh0pper/crow",
-    "stars": 26,
-    "updated_at": "2026-10-29T17:42:53Z",
-    "url": "https://github.com/kh0pper/crow"
-  },
-  {
     "description": "Focus-safe, window-routed execution fabric for multi-agent computer control.",
     "id": "wszx11/agent-control-fabric",
     "language": "Python",
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "andreibesleaga/kaiban-distributed",
     "stars": 6,
-    "updated_at": "2026-10-29T17:11:41Z",
+    "updated_at": "2026-10-29T17:48:49Z",
     "url": "https://github.com/andreibesleaga/kaiban-distributed"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-29T17:00:10Z",
     "url": "https://github.com/aixtin/nyral"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, dynamic personalities, emergent behaviors and self-building designs",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 683,
-    "updated_at": "2026-10-29T17:44:45Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
-    "id": "ag2ai/ag2",
-    "language": "Python",
-    "name": "ag2ai/ag2",
-    "stars": 5030,
-    "updated_at": "2026-10-29T16:53:32Z",
-    "url": "https://github.com/ag2ai/ag2"
-  },
-  {
-    "description": "Autonomous Agentic Coordination Framework (WIP)",
-    "id": "svayatta/inai",
-    "language": "Rust",
-    "name": "svayatta/inai",
-    "stars": 26,
-    "updated_at": "2026-10-29T16:50:31Z",
-    "url": "https://github.com/svayatta/inai"
-  },
-  {
-    "description": "A tiny async tool-calling agent framework",
-    "id": "lunarstack-co/agentling",
-    "language": "Python",
-    "name": "lunarstack-co/agentling",
-    "stars": 23,
-    "updated_at": "2026-10-29T16:50:28Z",
-    "url": "https://github.com/lunarstack-co/agentling"
   }
 ]
